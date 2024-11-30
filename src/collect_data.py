@@ -9,14 +9,14 @@ API_URL_DETAILS = "https://api.travelpayouts.com/aviasales/v3/prices_for_dates"
 API_TOKEN = "514e72fb5a73dac81132e6e4fb2b92bf"
 
 # Директория для сохранения файлов
-OUTPUT_DIR = "data/routes"
+OUTPUT_DIR = "data/routes_archive/routes"
 
 # Лимит запросов в минуту
 API_REQUEST_LIMIT = 200
 
 # Пути к файлам
-AIRPORTS_FILE = "data/russian_airports.json"
-PROGRESS_FILE = "data/progress.log"
+AIRPORTS_FILE = "data/raw/russian_airports.json"
+PROGRESS_FILE = "data\logs\progress.log"
 
 def load_airports_data():
     """Загружает данные об аэропортах из файла и преобразует их в словарь."""

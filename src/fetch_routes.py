@@ -2,9 +2,9 @@ import os
 import json
 
 # Укажите папку с JSON-файлами
-input_folder = "D:\DataScience\data/routes"
-output_file = "all_routes_combined_2.json"
-log_file = "progress.log"
+input_folder = "data/raw/russian_airports.json"
+output_file = "data\processed/all_routes_combined.json"
+log_file = "data\logs\progress_fetch.log"
 
 # Проверка существования лог-файла
 if os.path.exists(log_file):

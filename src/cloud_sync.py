@@ -2,8 +2,8 @@ import os
 import requests
 
 # URL файла в облаке
-FILE_URL = "hhttps://drive.google.com/file/d/1OLuYjbuA3MEqNwyggz6HuuC6bdDjcTt7/view?usp=sharing"
-LOCAL_PATH = "data/all_routes_combined.json"
+FILE_URL = "https://drive.google.com/file/d/1OLuYjbuA3MEqNwyggz6HuuC6bdDjcTt7/view?usp=sharing"
+LOCAL_PATH = "D:\DataScience\data\processed/all_routes_combined.json"
 
 def download_file(url, local_path):
     if not os.path.exists(local_path):
