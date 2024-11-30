@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T13:00:00+03:00",
+        "origin": "LED",
+        "destination": "KSZ",
+        "gate": "Rusline",
+        "return_date": "",
+        "found_at": "2024-11-25T17:45:55Z",
+        "trip_class": 0,
+        "value": 5640,
+        "number_of_changes": 0,
+        "duration": 100,
+        "distance": 908,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "287",
+        "link": "/search/LED2811KSZ1?t=7R17327988001732804800000100LEDKSZ_83a9284c80721b304af2d75a514bad3c_5640&search_date=25112024&expected_price_uuid=bf525c5e-f152-48b9-9aa7-ea3744a9d802&expected_price_source=share&expected_price_currency=rub&expected_price=5640",
+        "origin_airport": "LED",
+        "destination_airport": "KSZ",
+        "departure_at": "2024-11-28T13:00:00+03:00",
+        "airline": "7R",
+        "price": 5640,
+        "return_transfers": 0,
+        "duration_to": 100,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Pulkovo Airport",
+        "origin_city_code": "LED",
+        "origin_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kotlas Airport",
+        "destination_city_code": "KSZ",
+        "destination_coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

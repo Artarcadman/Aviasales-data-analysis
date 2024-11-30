@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-13T16:10:00+07:00",
+        "origin": "VEO",
+        "destination": "OMS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T23:57:58Z",
+        "trip_class": 0,
+        "value": 15079,
+        "number_of_changes": 1,
+        "duration": 560,
+        "distance": 1310,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "162",
+        "link": "/search/VEO1312OMS1?t=SU17341062001734136200000560VEOKJAOMS_6896e5102e48b42c7387f5a17102e5e6_15079&search_date=25112024&expected_price_uuid=980be91d-8aa6-429a-9db2-e0b3dcef5900&expected_price_source=share&expected_price_currency=rub&expected_price=15079",
+        "origin_airport": "VEO",
+        "destination_airport": "OMS",
+        "departure_at": "2024-12-13T16:10:00+07:00",
+        "airline": "KV",
+        "price": 15079,
+        "return_transfers": 0,
+        "duration_to": 225,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Omsk Airport",
+        "destination_city_code": "OMS",
+        "destination_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "destination_time_zone": "Asia/Omsk"
+    },
+    {
+        "depart_date": "2024-12-20T16:10:00+07:00",
+        "origin": "VEO",
+        "destination": "OMS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T13:22:26Z",
+        "trip_class": 0,
+        "value": 16149,
+        "number_of_changes": 1,
+        "duration": 560,
+        "distance": 1310,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "162",
+        "link": "/search/VEO2012OMS1?t=SU17347110001734741000000560VEOKJAOMS_85c6987f7cbed16e95900b1220038923_16243&search_date=24112024&expected_price_uuid=aa0fa435-b1a1-47f8-abca-44bb61727e00&expected_price_source=share&expected_price_currency=rub&expected_price=16149",
+        "origin_airport": "VEO",
+        "destination_airport": "OMS",
+        "departure_at": "2024-12-20T16:10:00+07:00",
+        "airline": "KV",
+        "price": 16149,
+        "return_transfers": 0,
+        "duration_to": 225,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Omsk Airport",
+        "destination_city_code": "OMS",
+        "destination_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "destination_time_zone": "Asia/Omsk"
+    }
+]

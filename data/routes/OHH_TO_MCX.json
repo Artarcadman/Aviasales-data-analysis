@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-15T13:20:00+11:00",
+        "origin": "OHH",
+        "destination": "MCX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T05:12:43Z",
+        "trip_class": 0,
+        "value": 28815,
+        "number_of_changes": 2,
+        "duration": 2730,
+        "distance": 6621,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4606",
+        "link": "/search/OHH1512MCX1?t=SU17342688001734403800002730OHHKHVSVOVKOMCX_e96f2cd8ecaa8dcda0973fb1788b93ac_28672&search_date=20112024&expected_price_uuid=6c574d74-ba42-4c7b-95ec-45a6d32c4401&expected_price_source=share&expected_price_currency=rub&expected_price=28815",
+        "origin_airport": "OHH",
+        "destination_airport": "MCX",
+        "departure_at": "2024-12-15T13:20:00+11:00",
+        "airline": "HZ",
+        "price": 28815,
+        "return_transfers": 0,
+        "duration_to": 795,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Novostroyka Airport",
+        "origin_city_code": "OHH",
+        "origin_coordinates": {
+            "lat": 53.516666,
+            "lon": 142.88333
+        },
+        "origin_time_zone": "Asia/Srednekolymsk",
+        "destination_airport_name": "Makhachkala Airport",
+        "destination_city_code": "MCX",
+        "destination_coordinates": {
+            "lat": 42.82095,
+            "lon": 47.65611
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-24T13:20:00+11:00",
+        "origin": "OHH",
+        "destination": "MCX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T05:10:41Z",
+        "trip_class": 0,
+        "value": 73667,
+        "number_of_changes": 3,
+        "duration": 2040,
+        "distance": 6621,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4606",
+        "link": "/search/OHH2412MCX1?t=DP17350464001735140000002040OHHKHVIKTSVOMCX_cccaec106ffc5f5cc490ed30f638becf_73301&search_date=20112024&expected_price_uuid=87dfbe4a-6bfc-46a6-8abf-67a5ccb0a503&expected_price_source=share&expected_price_currency=rub&expected_price=73667",
+        "origin_airport": "OHH",
+        "destination_airport": "MCX",
+        "departure_at": "2024-12-24T13:20:00+11:00",
+        "airline": "HZ",
+        "price": 73667,
+        "return_transfers": 0,
+        "duration_to": 900,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Novostroyka Airport",
+        "origin_city_code": "OHH",
+        "origin_coordinates": {
+            "lat": 53.516666,
+            "lon": 142.88333
+        },
+        "origin_time_zone": "Asia/Srednekolymsk",
+        "destination_airport_name": "Makhachkala Airport",
+        "destination_city_code": "MCX",
+        "destination_coordinates": {
+            "lat": 42.82095,
+            "lon": 47.65611
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

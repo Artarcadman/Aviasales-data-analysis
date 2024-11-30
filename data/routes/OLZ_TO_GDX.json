@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T18:00:00+09:00",
+        "origin": "OLZ",
+        "destination": "GDX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T00:25:51Z",
+        "trip_class": 0,
+        "value": 44846,
+        "number_of_changes": 2,
+        "duration": 2705,
+        "distance": 1659,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/OLZ0212GDX1?t=SU17331624001733331900002705OLZIKTKJAGDX_d0b21ef734425736eb0739284815fed6_44846&search_date=23112024&expected_price_uuid=5380cc7c-87cd-4510-acff-c37b91b8a902&expected_price_source=share&expected_price_currency=rub&expected_price=44846",
+        "origin_airport": "OLZ",
+        "destination_airport": "GDX",
+        "departure_at": "2024-12-02T18:00:00+09:00",
+        "airline": "IO",
+        "price": 44846,
+        "return_transfers": 0,
+        "duration_to": 595,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    }
+]

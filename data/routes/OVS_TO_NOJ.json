@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-28T15:30:00+05:00",
+        "origin": "OVS",
+        "destination": "NOJ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T09:23:26Z",
+        "trip_class": 0,
+        "value": 11185,
+        "number_of_changes": 1,
+        "duration": 1370,
+        "distance": 637,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "336",
+        "link": "/search/OVS2811NOJ1?t=UT17328078001732890000001370OVSSVXNOJ_e7e9d132be2b780d1dae197b25345c62_11250&search_date=24112024&expected_price_uuid=78fc9dc0-b22a-4b1f-83b7-0d278fdd101a&expected_price_source=share&expected_price_currency=rub&expected_price=11185",
+        "origin_airport": "OVS",
+        "destination_airport": "NOJ",
+        "departure_at": "2024-11-28T15:30:00+05:00",
+        "airline": "UT",
+        "price": 11185,
+        "return_transfers": 0,
+        "duration_to": 205,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nojabrxsk Airport",
+        "destination_city_code": "NOJ",
+        "destination_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-21T15:30:00+05:00",
+        "origin": "OVS",
+        "destination": "NOJ",
+        "gate": "Agent.ru",
+        "return_date": "",
+        "found_at": "2024-11-19T14:28:54Z",
+        "trip_class": 0,
+        "value": 12302,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 637,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 12302,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nojabrxsk Airport",
+        "destination_city_code": "NOJ",
+        "destination_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

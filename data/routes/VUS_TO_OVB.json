@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-04T17:40:00+03:00",
+        "origin": "VUS",
+        "destination": "OVB",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T17:21:44Z",
+        "trip_class": 0,
+        "value": 19515,
+        "number_of_changes": 2,
+        "duration": 2075,
+        "distance": 2209,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "116",
+        "link": "/search/VUS0412OVB1?t=5N17333340001733472900002075VUSCEESVOOVB_c82af3ed5cff5efe8b0b554f225cf8e5_19269&search_date=22112024&expected_price_uuid=63fbb012-7cc1-4fc5-a67e-4659cb27d400&expected_price_source=share&expected_price_currency=rub&expected_price=19515",
+        "origin_airport": "VUS",
+        "destination_airport": "OVB",
+        "departure_at": "2024-12-04T17:40:00+03:00",
+        "airline": "D2",
+        "price": 19515,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Velikij Ustyug Airport",
+        "origin_city_code": "VUS",
+        "origin_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Novosibirsk Tolmachevo Airport",
+        "destination_city_code": "OVB",
+        "destination_coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "destination_time_zone": "Asia/Novosibirsk"
+    }
+]

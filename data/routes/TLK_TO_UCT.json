@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-23T16:05:00+09:00",
+        "origin": "TLK",
+        "destination": "UCT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T06:43:20Z",
+        "trip_class": 0,
+        "value": 25843,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 2940,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 25843,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Talakan",
+        "origin_city_code": "TLK",
+        "origin_coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Ukhta Airport",
+        "destination_city_code": "UCT",
+        "destination_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-26T11:30:00+09:00",
+        "origin": "TLK",
+        "destination": "UCT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T06:43:08Z",
+        "trip_class": 0,
+        "value": 26301,
+        "number_of_changes": 2,
+        "duration": 2190,
+        "distance": 2940,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "411",
+        "link": "/search/TLK2611UCT1?t=DP17326206001732730400002190TLKIKTSVOVKOUCT_5b0082ce4c44ad05b2a5969a2b0b9487_26079&search_date=20112024&expected_price_uuid=136b904b-ccbe-4fac-80a7-d6d985c70302&expected_price_source=share&expected_price_currency=rub&expected_price=26301",
+        "origin_airport": "TLK",
+        "destination_airport": "UCT",
+        "departure_at": "2024-11-26T11:30:00+09:00",
+        "airline": "IO",
+        "price": 26301,
+        "return_transfers": 0,
+        "duration_to": 625,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Talakan",
+        "origin_city_code": "TLK",
+        "origin_coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Ukhta Airport",
+        "destination_city_code": "UCT",
+        "destination_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

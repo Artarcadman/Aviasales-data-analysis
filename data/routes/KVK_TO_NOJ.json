@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T13:55:00+03:00",
+        "origin": "KVK",
+        "destination": "NOJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T10:04:31Z",
+        "trip_class": 0,
+        "value": 17614,
+        "number_of_changes": 2,
+        "duration": 1420,
+        "distance": 1952,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6446",
+        "link": "/search/KVK2711NOJ1?t=UT17327157001732808100001420KVKLEDVKONOJ_60af9c31eb47d5f789de4e6b0dc4e6f8_17604&search_date=19112024&expected_price_uuid=dacff1b4-b177-4530-a304-a1640549eb01&expected_price_source=share&expected_price_currency=rub&expected_price=17614",
+        "origin_airport": "KVK",
+        "destination_airport": "NOJ",
+        "departure_at": "2024-11-27T13:55:00+03:00",
+        "airline": "FV",
+        "price": 17614,
+        "return_transfers": 0,
+        "duration_to": 415,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kirovsk Airport",
+        "origin_city_code": "KVK",
+        "origin_coordinates": {
+            "lat": 67.583336,
+            "lon": 33.583332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nojabrxsk Airport",
+        "destination_city_code": "NOJ",
+        "destination_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

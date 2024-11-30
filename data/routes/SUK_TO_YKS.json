@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T19:00:00+09:00",
+        "origin": "SUK",
+        "destination": "YKS",
+        "gate": "SuperKassa",
+        "return_date": "",
+        "found_at": "2024-11-24T23:37:57Z",
+        "trip_class": 0,
+        "value": 29176,
+        "number_of_changes": 0,
+        "duration": 105,
+        "distance": 635,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "216",
+        "link": "/search/SUK2511YKS1?t=ЯП17325612001732567500000105SUKYKS_9eb201008b3814f92144e8648659f816_29176&search_date=24112024&expected_price_uuid=801047d2-fe56-4f4b-9490-de777fdf8901&expected_price_source=share&expected_price_currency=rub&expected_price=29176",
+        "origin_airport": "SUK",
+        "destination_airport": "YKS",
+        "departure_at": "2024-11-25T19:00:00+09:00",
+        "airline": "ЯП",
+        "price": 29176,
+        "return_transfers": 0,
+        "duration_to": 105,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Sakkyryr Airport",
+        "origin_city_code": "SUK",
+        "origin_coordinates": {
+            "lat": 67.79257,
+            "lon": 130.39194
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Yakutsk Airport",
+        "destination_city_code": "YKS",
+        "destination_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

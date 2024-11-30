@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-05T14:50:00+12:00",
+        "origin": "PWE",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T04:41:21Z",
+        "trip_class": 0,
+        "value": 53285,
+        "number_of_changes": 2,
+        "duration": 4270,
+        "distance": 3718,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9736",
+        "link": "/search/PWE0512UUD1?t=R317334102001733652000004270PWEYKSIKTUUD_fad94f509b4e6a4fc7d2c7d73dde3517_52867&search_date=21112024&expected_price_uuid=d7620400-1496-43c7-a98f-f4de74d0c400&expected_price_source=share&expected_price_currency=rub&expected_price=53285",
+        "origin_airport": "PWE",
+        "destination_airport": "UUD",
+        "departure_at": "2024-12-05T14:50:00+12:00",
+        "airline": "R3",
+        "price": 53285,
+        "return_transfers": 0,
+        "duration_to": 420,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pevek Airport",
+        "origin_city_code": "PWE",
+        "origin_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

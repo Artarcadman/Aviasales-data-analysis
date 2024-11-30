@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-25T19:30:00+07:00",
+        "origin": "IAA",
+        "destination": "NJC",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T06:12:53Z",
+        "trip_class": 0,
+        "value": 40136,
+        "number_of_changes": 2,
+        "duration": 2235,
+        "distance": 870,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "178",
+        "link": "/search/IAA2512NJC1?t=KV17351550001735281900002235IAAKJAOVBNJC_c1053dd2c40689feaeaff515a4c52e03_38978&search_date=22112024&expected_price_uuid=5e353a42-3de8-468b-a3f2-93f560115e01&expected_price_source=share&expected_price_currency=rub&expected_price=40136",
+        "origin_airport": "IAA",
+        "destination_airport": "NJC",
+        "departure_at": "2024-12-25T19:30:00+07:00",
+        "airline": "KV",
+        "price": 40136,
+        "return_transfers": 0,
+        "duration_to": 335,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Igarka Airport",
+        "origin_city_code": "IAA",
+        "origin_coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Nizhnevartovsk Airport",
+        "destination_city_code": "NJC",
+        "destination_coordinates": {
+            "lat": 60.9476,
+            "lon": 76.49145
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

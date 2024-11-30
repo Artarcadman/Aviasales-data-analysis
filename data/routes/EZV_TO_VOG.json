@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-25T11:20:00+05:00",
+        "origin": "EZV",
+        "destination": "VOG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T17:48:04Z",
+        "trip_class": 0,
+        "value": 16763,
+        "number_of_changes": 2,
+        "duration": 1980,
+        "distance": 2090,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "143",
+        "link": "/search/EZV2512VOG1?t=Y717351256001735237200001980EZVNYASVXVOG_e62cff8b699ed9b6b413066d70d6ea3a_16763&search_date=20112024&expected_price_uuid=3749b2f3-70c4-48bf-9594-2be86107d503&expected_price_source=share&expected_price_currency=rub&expected_price=16763",
+        "origin_airport": "EZV",
+        "destination_airport": "VOG",
+        "departure_at": "2024-12-25T11:20:00+05:00",
+        "airline": "UT",
+        "price": 16763,
+        "return_transfers": 0,
+        "duration_to": 315,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Berezovo",
+        "origin_city_code": "EZV",
+        "origin_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Volgograd International Airport",
+        "destination_city_code": "VOG",
+        "destination_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-22T17:00:00+05:00",
+        "origin": "EZV",
+        "destination": "VOG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T17:44:43Z",
+        "trip_class": 0,
+        "value": 22651,
+        "number_of_changes": 3,
+        "duration": 2625,
+        "distance": 2090,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "238",
+        "link": "/search/EZV2212VOG1?t=WZ17348868001735037100002625EZVHMANYAZIASVOVOG_010a5fb31b932256cfe82894f75beb24_22651&search_date=20112024&expected_price_uuid=96255e79-d03d-4869-9adb-84c4a16d1900&expected_price_source=share&expected_price_currency=rub&expected_price=22651",
+        "origin_airport": "EZV",
+        "destination_airport": "VOG",
+        "departure_at": "2024-12-22T17:00:00+05:00",
+        "airline": "ЮЭ",
+        "price": 22651,
+        "return_transfers": 0,
+        "duration_to": 430,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Berezovo",
+        "origin_city_code": "EZV",
+        "origin_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Volgograd International Airport",
+        "destination_city_code": "VOG",
+        "destination_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-06T09:35:00+03:00",
+        "origin": "TBW",
+        "destination": "NAL",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T09:58:30Z",
+        "trip_class": 0,
+        "value": 14201,
+        "number_of_changes": 1,
+        "duration": 520,
+        "distance": 1034,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "292",
+        "link": "/search/TBW0612NAL1?t=SU17334777001733508900000520TBWLEDNAL_3229d7dcfebe4606ec71369c67a20410_14100&search_date=22112024&expected_price_uuid=788037c5-2068-45e6-ab8f-7293f37a38cc&expected_price_source=share&expected_price_currency=rub&expected_price=14201",
+        "origin_airport": "TBW",
+        "destination_airport": "NAL",
+        "departure_at": "2024-12-06T09:35:00+03:00",
+        "airline": "7R",
+        "price": 14201,
+        "return_transfers": 0,
+        "duration_to": 355,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tambov Donskoye Airport",
+        "origin_city_code": "TBW",
+        "origin_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nalchik Airport",
+        "destination_city_code": "NAL",
+        "destination_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

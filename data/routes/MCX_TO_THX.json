@@ -1,0 +1,35 @@
+[
+    {
+        "depart_date": "2024-11-23T16:40:00+03:00",
+        "origin": "MCX",
+        "destination": "THX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T23:46:01Z",
+        "trip_class": 0,
+        "value": 43640,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 3542,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 43640,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Makhachkala Airport",
+        "origin_city_code": "MCX",
+        "origin_coordinates": {
+            "lat": 42.82095,
+            "lon": 47.65611
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Turukhansk Airport",
+        "destination_city_code": "THX",
+        "destination_coordinates": {
+            "lat": 65.79722,
+            "lon": 87.93528
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

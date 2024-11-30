@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-04T13:50:00+05:00",
+        "origin": "NYA",
+        "destination": "IAR",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T06:22:08Z",
+        "trip_class": 0,
+        "value": 12673,
+        "number_of_changes": 2,
+        "duration": 1800,
+        "distance": 1508,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "136",
+        "link": "/search/NYA0412IAR1?t=A417333202001733421000001800NYANJCKUFIAR_21b79a49bdc57f26e10a43ef984d287c_12563&search_date=20112024&expected_price_uuid=8c10ba7e-e897-41e7-b553-c9e3e69f4902&expected_price_source=share&expected_price_currency=rub&expected_price=12673",
+        "origin_airport": "NYA",
+        "destination_airport": "IAR",
+        "departure_at": "2024-12-04T13:50:00+05:00",
+        "airline": "UT",
+        "price": 12673,
+        "return_transfers": 0,
+        "duration_to": 375,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Nyagan Airport",
+        "origin_city_code": "NYA",
+        "origin_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Tunoshna Airport",
+        "destination_city_code": "IAR",
+        "destination_coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-30T07:40:00+09:00",
+        "origin": "YKS",
+        "destination": "USK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T21:10:02Z",
+        "trip_class": 0,
+        "value": 51668,
+        "number_of_changes": 1,
+        "duration": 700,
+        "distance": 3351,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "475",
+        "link": "/search/YKS3012USK1?t=R317355444001735564800000700YKSVKOUSK_24cd8270f7f567d174e857d15b9d0da9_51744&search_date=24112024&expected_price_uuid=f7b338cb-a57a-46b7-a9fc-3cf46d266d09&expected_price_source=share&expected_price_currency=rub&expected_price=51668",
+        "origin_airport": "YKS",
+        "destination_airport": "USK",
+        "departure_at": "2024-12-30T07:40:00+09:00",
+        "airline": "R3",
+        "price": 51668,
+        "return_transfers": 0,
+        "duration_to": 570,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-27T05:00:00+09:00",
+        "origin": "YKS",
+        "destination": "USK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T13:38:18Z",
+        "trip_class": 0,
+        "value": 53345,
+        "number_of_changes": 1,
+        "duration": 860,
+        "distance": 3351,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "475",
+        "link": "/search/YKS2712USK1?t=R317352756001735305600000860YKSVKOUSK_20f3e4a134fc3c173e4ef9abed364374_53656&search_date=24112024&expected_price_uuid=872c8bb4-78ea-4c67-8bd8-5777e34ae859&expected_price_source=share&expected_price_currency=rub&expected_price=53345",
+        "origin_airport": "YKS",
+        "destination_airport": "USK",
+        "departure_at": "2024-12-27T05:00:00+09:00",
+        "airline": "R3",
+        "price": 53345,
+        "return_transfers": 0,
+        "duration_to": 570,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

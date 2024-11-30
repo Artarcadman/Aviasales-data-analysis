@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-16T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "GOJ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T20:46:23Z",
+        "trip_class": 0,
+        "value": 27382,
+        "number_of_changes": 1,
+        "duration": 1595,
+        "distance": 6011,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR1612GOJ1?t=SU17343630001734426300001595DYRSVOGOJ_31294ab968334d1d5d8612115b597ca0_27394&search_date=22112024&expected_price_uuid=3ea8e395-d0f8-49f5-b03f-cc57c86df3d4&expected_price_source=share&expected_price_currency=rub&expected_price=27382",
+        "origin_airport": "DYR",
+        "destination_airport": "GOJ",
+        "departure_at": "2024-12-16T15:30:00+12:00",
+        "airline": "SU",
+        "price": 27382,
+        "return_transfers": 0,
+        "duration_to": 580,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Nizhny Novgorod International Airport",
+        "destination_city_code": "GOJ",
+        "destination_coordinates": {
+            "lat": 56.218613,
+            "lon": 43.789764
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-20T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "GOJ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T00:07:07Z",
+        "trip_class": 0,
+        "value": 29304,
+        "number_of_changes": 1,
+        "duration": 1595,
+        "distance": 6011,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR2012GOJ1?t=SU17347086001734771900001595DYRSVOGOJ_4917b03edaeacf29e0bec2cdc6c3df0a_29304&search_date=23112024&expected_price_uuid=17f21a7e-1cb9-4216-b07f-fafdbb17d45f&expected_price_source=share&expected_price_currency=rub&expected_price=29304",
+        "origin_airport": "DYR",
+        "destination_airport": "GOJ",
+        "departure_at": "2024-12-20T15:30:00+12:00",
+        "airline": "SU",
+        "price": 29304,
+        "return_transfers": 0,
+        "duration_to": 580,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Nizhny Novgorod International Airport",
+        "destination_city_code": "GOJ",
+        "destination_coordinates": {
+            "lat": 56.218613,
+            "lon": 43.789764
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

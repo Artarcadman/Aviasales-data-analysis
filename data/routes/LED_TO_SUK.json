@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T14:50:00+03:00",
+        "origin": "LED",
+        "destination": "SUK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T17:50:15Z",
+        "trip_class": 0,
+        "value": 48205,
+        "number_of_changes": 1,
+        "duration": 2310,
+        "distance": 4438,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "488",
+        "link": "/search/LED2611SUK1?t=R317326326001732792800002310LEDYKSSUK_ca245d999d83e559a5fd29a40981d05e_48205&search_date=25112024&expected_price_uuid=0c76a46b-088e-4179-8958-748e7bfc748d&expected_price_source=share&expected_price_currency=rub&expected_price=48205",
+        "origin_airport": "LED",
+        "destination_airport": "SUK",
+        "departure_at": "2024-11-26T14:50:00+03:00",
+        "airline": "R3",
+        "price": 48205,
+        "return_transfers": 0,
+        "duration_to": 515,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Pulkovo Airport",
+        "origin_city_code": "LED",
+        "origin_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Sakkyryr Airport",
+        "destination_city_code": "SUK",
+        "destination_coordinates": {
+            "lat": 67.79257,
+            "lon": 130.39194
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

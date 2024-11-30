@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-17T17:20:00+04:00",
+        "origin": "RTW",
+        "destination": "NZG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T06:08:45Z",
+        "trip_class": 0,
+        "value": 20882,
+        "number_of_changes": 2,
+        "duration": 970,
+        "distance": 4046,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1048",
+        "link": "/search/RTW1712NZG1?t=U617344560001734528600000970GSVSVXKJANZG_44d92db0442bc1fed53a34d8215901ac_20882&search_date=23112024&expected_price_uuid=f25ebc1c-54b0-4833-8347-d067130f6b01&expected_price_source=share&expected_price_currency=rub&expected_price=20882",
+        "origin_airport": "GSV",
+        "destination_airport": "NZG",
+        "departure_at": "2024-12-17T17:20:00+04:00",
+        "airline": "WZ",
+        "price": 20882,
+        "return_transfers": 0,
+        "duration_to": 470,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Saratov Tsentralny Airport",
+        "origin_city_code": "RTW",
+        "origin_coordinates": {
+            "lat": 51.566666,
+            "lon": 46.066666
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

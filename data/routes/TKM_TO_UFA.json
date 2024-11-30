@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-22T14:30:00+08:00",
+        "origin": "TKM",
+        "destination": "UFA",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-24T04:36:42Z",
+        "trip_class": 0,
+        "value": 34691,
+        "number_of_changes": 2,
+        "duration": 2455,
+        "distance": 3611,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "214",
+        "link": "/search/TKM2212UFA1?t=UT17348778001735014300002455TKMKCYKJAVKOUFA_8c07f7678541d4844246f5f8967e555f_34893&search_date=24112024&expected_price_uuid=f6ee19bd-4373-486e-ac90-4a3be5ec3800&expected_price_source=share&expected_price_currency=rub&expected_price=34691",
+        "origin_airport": "TKM",
+        "destination_airport": "UFA",
+        "departure_at": "2024-12-22T14:30:00+08:00",
+        "airline": "KV",
+        "price": 34691,
+        "return_transfers": 0,
+        "duration_to": 685,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Taksimo",
+        "origin_city_code": "TKM",
+        "origin_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Ufa International Airport",
+        "destination_city_code": "UFA",
+        "destination_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

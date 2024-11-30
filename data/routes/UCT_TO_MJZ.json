@@ -1,0 +1,35 @@
+[
+    {
+        "depart_date": "2025-01-19T09:50:00+03:00",
+        "origin": "UCT",
+        "destination": "MJZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T08:56:18Z",
+        "trip_class": 0,
+        "value": 31710,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 2924,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 31710,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Mirnyj Airport",
+        "destination_city_code": "MJZ",
+        "destination_coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

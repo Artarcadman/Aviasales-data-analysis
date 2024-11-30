@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T15:45:00+05:00",
+        "origin": "KRO",
+        "destination": "KGP",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T07:24:26Z",
+        "trip_class": 0,
+        "value": 17855,
+        "number_of_changes": 1,
+        "duration": 2365,
+        "distance": 918,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1094",
+        "link": "/search/KRO2511KGP1?t=UT17325495001732691400002365KRODMEVKOKGP_fc71a562a5e1adc87bcf44871a11d17d_17806&search_date=25112024&expected_price_uuid=2e542654-0c34-4d89-ab6b-65c1fee49700&expected_price_source=share&expected_price_currency=rub&expected_price=17855",
+        "origin_airport": "KRO",
+        "destination_airport": "KGP",
+        "departure_at": "2024-11-25T15:45:00+05:00",
+        "airline": "Y7",
+        "price": 17855,
+        "return_transfers": 0,
+        "duration_to": 370,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kogalym International Airport",
+        "destination_city_code": "KGP",
+        "destination_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

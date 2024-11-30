@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-04T14:20:00+03:00",
+        "origin": "NAL",
+        "destination": "KGP",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:59:45Z",
+        "trip_class": 0,
+        "value": 12454,
+        "number_of_changes": 1,
+        "duration": 2330,
+        "distance": 2878,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6902",
+        "link": "/search/NAL0412KGP1?t=UT17333220001733469000002330NALSVOVKOKGP_2477d28ab28bfac580e29325715bf7ef_12366&search_date=22112024&expected_price_uuid=407dd59e-c22c-4e81-985c-3acdce3ffc02&expected_price_source=share&expected_price_currency=rub&expected_price=12454",
+        "origin_airport": "NAL",
+        "destination_airport": "KGP",
+        "departure_at": "2024-12-04T14:20:00+03:00",
+        "airline": "DP",
+        "price": 12454,
+        "return_transfers": 0,
+        "duration_to": 390,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nalchik Airport",
+        "origin_city_code": "NAL",
+        "origin_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kogalym International Airport",
+        "destination_city_code": "KGP",
+        "destination_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-18T14:20:00+03:00",
+        "origin": "NAL",
+        "destination": "KGP",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T22:37:15Z",
+        "trip_class": 0,
+        "value": 15419,
+        "number_of_changes": 1,
+        "duration": 2330,
+        "distance": 2878,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6902",
+        "link": "/search/NAL1812KGP1?t=UT17345316001734678600002330NALSVOVKOKGP_d2f549bd4669f355263f538868b60a85_15419&search_date=23112024&expected_price_uuid=5c863f8c-0380-488c-a72f-24bf489a2401&expected_price_source=share&expected_price_currency=rub&expected_price=15419",
+        "origin_airport": "NAL",
+        "destination_airport": "KGP",
+        "departure_at": "2024-12-18T14:20:00+03:00",
+        "airline": "DP",
+        "price": 15419,
+        "return_transfers": 0,
+        "duration_to": 390,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nalchik Airport",
+        "origin_city_code": "NAL",
+        "origin_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kogalym International Airport",
+        "destination_city_code": "KGP",
+        "destination_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

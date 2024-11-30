@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-22T13:40:00+09:00",
+        "origin": "PYJ",
+        "destination": "KJA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T17:28:51Z",
+        "trip_class": 0,
+        "value": 51292,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 1530,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 51292,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Polyarnyj Airport",
+        "origin_city_code": "PYJ",
+        "origin_coordinates": {
+            "lat": 66.416664,
+            "lon": 112.05
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-11-29T13:40:00+09:00",
+        "origin": "PYJ",
+        "destination": "KJA",
+        "gate": "SuperKassa",
+        "return_date": "",
+        "found_at": "2024-11-25T11:24:27Z",
+        "trip_class": 0,
+        "value": 64007,
+        "number_of_changes": 2,
+        "duration": 1900,
+        "distance": 1530,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "302",
+        "link": "/search/PYJ2911KCY1?t=KV17328876001732994400001900PYJIKTULKKCY_39fba711c16e85771ded156ce8739c59_64072&search_date=25112024&expected_price_uuid=1d4cc799-f756-417a-8c45-33cce5871101&expected_price_source=share&expected_price_currency=rub&expected_price=64007",
+        "origin_airport": "PYJ",
+        "destination_airport": "KCY",
+        "departure_at": "2024-11-29T13:40:00+09:00",
+        "airline": "IO",
+        "price": 64007,
+        "return_transfers": 0,
+        "duration_to": 610,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Polyarnyj Airport",
+        "origin_city_code": "PYJ",
+        "origin_coordinates": {
+            "lat": 66.416664,
+            "lon": 112.05
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

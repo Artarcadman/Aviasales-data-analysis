@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T21:45:00+03:00",
+        "origin": "MOW",
+        "destination": "BVJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:59:09Z",
+        "trip_class": 0,
+        "value": 51248,
+        "number_of_changes": 2,
+        "duration": 3515,
+        "distance": 2195,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "421",
+        "link": "/search/ZIA0212BVJ1?t=WZ17331759001733394000003515ZIASVXNYMBVJ_f6eb90f773f7a34c9d279eeae38efe0e_51229&search_date=25112024&expected_price_uuid=307a2bc1-2e9d-4bca-8a82-245b5cc00603&expected_price_source=share&expected_price_currency=rub&expected_price=51248",
+        "origin_airport": "ZIA",
+        "destination_airport": "BVJ",
+        "departure_at": "2024-12-02T21:45:00+03:00",
+        "airline": "WZ",
+        "price": 51248,
+        "return_transfers": 0,
+        "duration_to": 325,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Zhukovsky International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bovanenkovo",
+        "destination_city_code": "BVJ",
+        "destination_coordinates": {
+            "lat": 70.31528,
+            "lon": 68.33361
+        },
+        "destination_time_zone": "Asia/Dushanbe"
+    }
+]

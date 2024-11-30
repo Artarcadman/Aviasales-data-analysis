@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-27T13:30:00+08:00",
+        "origin": "TKM",
+        "destination": "KHV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T17:36:21Z",
+        "trip_class": 0,
+        "value": 39204,
+        "number_of_changes": 2,
+        "duration": 690,
+        "distance": 1615,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "74",
+        "link": "/search/TKM2712KHV1?t=HZ17353062001735354800000690TKMIKTHTAKHV_78acc5eb43b0585a4aefdcba144e92e5_39204&search_date=23112024&expected_price_uuid=846d8fe8-cb7f-4738-b87a-1c6e65100900&expected_price_source=share&expected_price_currency=rub&expected_price=39204",
+        "origin_airport": "TKM",
+        "destination_airport": "KHV",
+        "departure_at": "2024-12-27T13:30:00+08:00",
+        "airline": "2G",
+        "price": 39204,
+        "return_transfers": 0,
+        "duration_to": 345,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Taksimo",
+        "origin_city_code": "TKM",
+        "origin_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Khabarovsk Airport",
+        "destination_city_code": "KHV",
+        "destination_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    },
+    {
+        "depart_date": "2024-12-01T11:20:00+08:00",
+        "origin": "TKM",
+        "destination": "KHV",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T11:33:00Z",
+        "trip_class": 0,
+        "value": 48267,
+        "number_of_changes": 1,
+        "duration": 1005,
+        "distance": 1615,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "146",
+        "link": "/search/TKM0112KHV1?t=SU17330520001733119500001005TKMIKTKHV_d87886b2b320c17a1d6b21992b03ce35_48267&search_date=23112024&expected_price_uuid=80aa8064-a4d8-43fd-b2c4-2c302fb14224&expected_price_source=share&expected_price_currency=rub&expected_price=48267",
+        "origin_airport": "TKM",
+        "destination_airport": "KHV",
+        "departure_at": "2024-12-01T11:20:00+08:00",
+        "airline": "IO",
+        "price": 48267,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Taksimo",
+        "origin_city_code": "TKM",
+        "origin_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Khabarovsk Airport",
+        "destination_city_code": "KHV",
+        "destination_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

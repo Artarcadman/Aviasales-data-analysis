@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-13T12:50:00+09:00",
+        "origin": "OLZ",
+        "destination": "TOF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T08:01:02Z",
+        "trip_class": 0,
+        "value": 30848,
+        "number_of_changes": 2,
+        "duration": 2645,
+        "distance": 2083,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "185",
+        "link": "/search/OLZ1312TOF1?t=HZ17340942001734245700002645OLZYKSKJATOF_13ada5cdf890ece3959b8114fb6e9e58_30602&search_date=19112024&expected_price_uuid=68c67704-e7b0-4bdd-b85b-2f998b179b01&expected_price_source=share&expected_price_currency=rub&expected_price=30848",
+        "origin_airport": "OLZ",
+        "destination_airport": "TOF",
+        "departure_at": "2024-12-13T12:50:00+09:00",
+        "airline": "IO",
+        "price": 30848,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tomsk Airport",
+        "destination_city_code": "TOF",
+        "destination_coordinates": {
+            "lat": 56.5,
+            "lon": 84.96667
+        },
+        "destination_time_zone": "Asia/Tomsk"
+    },
+    {
+        "depart_date": "2024-11-29T18:00:00+09:00",
+        "origin": "OLZ",
+        "destination": "TOF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T10:54:34Z",
+        "trip_class": 0,
+        "value": 40236,
+        "number_of_changes": 2,
+        "duration": 2705,
+        "distance": 2083,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/OLZ2911TOF1?t=IO17329032001733058300002705OLZIKTUUDTOF_81dffdd46d37aee7af425cb7298ced82_40195&search_date=19112024&expected_price_uuid=0d0f6648-56d2-43ab-8a95-019755a36a02&expected_price_source=share&expected_price_currency=rub&expected_price=40236",
+        "origin_airport": "OLZ",
+        "destination_airport": "TOF",
+        "departure_at": "2024-11-29T18:00:00+09:00",
+        "airline": "IO",
+        "price": 40236,
+        "return_transfers": 0,
+        "duration_to": 420,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tomsk Airport",
+        "destination_city_code": "TOF",
+        "destination_coordinates": {
+            "lat": 56.5,
+            "lon": 84.96667
+        },
+        "destination_time_zone": "Asia/Tomsk"
+    }
+]

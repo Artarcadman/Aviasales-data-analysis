@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-12T16:45:00+10:00",
+        "origin": "NLI",
+        "destination": "URJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T15:57:54Z",
+        "trip_class": 0,
+        "value": 39804,
+        "number_of_changes": 3,
+        "duration": 2905,
+        "distance": 4437,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4598",
+        "link": "/search/NLI1212URJ1?t=SU17340219001734178200002905NLIKHVKJATJMURJ_f2d5d591ccba6bbf34b589d78eec1215_39810&search_date=19112024&expected_price_uuid=d2534dfa-7244-472d-a5c4-459d81765600&expected_price_source=share&expected_price_currency=rub&expected_price=39804",
+        "origin_airport": "NLI",
+        "destination_airport": "URJ",
+        "departure_at": "2024-12-12T16:45:00+10:00",
+        "airline": "HZ",
+        "price": 39804,
+        "return_transfers": 0,
+        "duration_to": 620,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Nikolaevsk-na-Amure",
+        "origin_city_code": "NLI",
+        "origin_coordinates": {
+            "lat": 53.15278,
+            "lon": 140.65028
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Uraj Airport",
+        "destination_city_code": "URJ",
+        "destination_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

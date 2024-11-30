@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "PES",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T05:03:59Z",
+        "trip_class": 0,
+        "value": 17189,
+        "number_of_changes": 1,
+        "duration": 1430,
+        "distance": 2159,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6904",
+        "link": "/search/IGT2711PES1?t=DP17327052001732791000001430IGTSVODMEPES_1c6261c2b49a57375862b5e3a515bb7e_16693&search_date=22112024&expected_price_uuid=85856e38-4001-4be6-8556-fee8d62fa302&expected_price_source=share&expected_price_currency=rub&expected_price=17189",
+        "origin_airport": "IGT",
+        "destination_airport": "PES",
+        "departure_at": "2024-11-27T11:00:00+03:00",
+        "airline": "DP",
+        "price": 17189,
+        "return_transfers": 0,
+        "duration_to": 275,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Petrozavodsk Airport",
+        "destination_city_code": "PES",
+        "destination_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-26T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "PES",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-25T09:24:03Z",
+        "trip_class": 0,
+        "value": 25931,
+        "number_of_changes": 1,
+        "duration": 1430,
+        "distance": 2159,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6904",
+        "link": "/search/IGT2611PES1?t=DP17326188001732704600001430IGTSVODMEPES_2ad2613923b7f044023e4231cae4a19c_25813&search_date=25112024&expected_price_uuid=8089696e-1fe5-4ffe-897a-9446b38dcf00&expected_price_source=share&expected_price_currency=rub&expected_price=25931",
+        "origin_airport": "IGT",
+        "destination_airport": "PES",
+        "departure_at": "2024-11-26T11:00:00+03:00",
+        "airline": "DP",
+        "price": 25931,
+        "return_transfers": 0,
+        "duration_to": 275,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Petrozavodsk Airport",
+        "destination_city_code": "PES",
+        "destination_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

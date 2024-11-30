@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "TJM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T04:48:27Z",
+        "trip_class": 0,
+        "value": 18860,
+        "number_of_changes": 1,
+        "duration": 2080,
+        "distance": 763,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT2611TJM1?t=UT17326170001732734600002080SWTTOFTJM_043bd84b6b359bb3985639b4bf85f433_18809&search_date=25112024&expected_price_uuid=22b4586e-0bfd-477a-8558-e05ab6a00cf4&expected_price_source=share&expected_price_currency=rub&expected_price=18860",
+        "origin_airport": "SWT",
+        "destination_airport": "TJM",
+        "departure_at": "2024-11-26T10:30:00+07:00",
+        "airline": "KV",
+        "price": 18860,
+        "return_transfers": 0,
+        "duration_to": 325,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-30T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "TJM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T08:08:24Z",
+        "trip_class": 0,
+        "value": 19481,
+        "number_of_changes": 1,
+        "duration": 2080,
+        "distance": 763,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT3011TJM1?t=UT17329626001733080200002080SWTTOFTJM_68e6de4907571500e76934c7356c06fc_19595&search_date=24112024&expected_price_uuid=6285426c-908d-4d16-92cd-8f2c73669b9d&expected_price_source=share&expected_price_currency=rub&expected_price=19481",
+        "origin_airport": "SWT",
+        "destination_airport": "TJM",
+        "departure_at": "2024-11-30T10:30:00+07:00",
+        "airline": "KV",
+        "price": 19481,
+        "return_transfers": 0,
+        "duration_to": 325,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

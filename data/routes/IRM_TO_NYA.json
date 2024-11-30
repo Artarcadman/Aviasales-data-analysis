@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T16:40:00+05:00",
+        "origin": "IRM",
+        "destination": "NYA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T11:44:50Z",
+        "trip_class": 0,
+        "value": 6244,
+        "number_of_changes": 1,
+        "duration": 1100,
+        "distance": 136,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "114",
+        "link": "/search/IRM2811NYA1?t=UT17328120001732878000001100IRMHMANYA_858734693de7d7a030d8a1440ce2c712_6280&search_date=24112024&expected_price_uuid=dd2aedb6-51d3-4a49-9a75-c802b21541d2&expected_price_source=share&expected_price_currency=rub&expected_price=6244",
+        "origin_airport": "IRM",
+        "destination_airport": "NYA",
+        "departure_at": "2024-11-28T16:40:00+05:00",
+        "airline": "UT",
+        "price": 6244,
+        "return_transfers": 0,
+        "duration_to": 130,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Igrim",
+        "origin_city_code": "IRM",
+        "origin_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nyagan Airport",
+        "destination_city_code": "NYA",
+        "destination_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-26T16:40:00+05:00",
+        "origin": "IRM",
+        "destination": "NYA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T13:28:41Z",
+        "trip_class": 0,
+        "value": 6280,
+        "number_of_changes": 1,
+        "duration": 1100,
+        "distance": 136,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "114",
+        "link": "/search/IRM2612NYA1?t=UT17352312001735297200001100IRMHMANYA_db7dd671063cfef8d26e1ee556315ed7_6280&search_date=25112024&expected_price_uuid=83b4010b-66d1-4f3b-99a1-6f53ec912e4b&expected_price_source=share&expected_price_currency=rub&expected_price=6280",
+        "origin_airport": "IRM",
+        "destination_airport": "NYA",
+        "departure_at": "2024-12-26T16:40:00+05:00",
+        "airline": "UT",
+        "price": 6280,
+        "return_transfers": 0,
+        "duration_to": 130,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Igrim",
+        "origin_city_code": "IRM",
+        "origin_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nyagan Airport",
+        "destination_city_code": "NYA",
+        "destination_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

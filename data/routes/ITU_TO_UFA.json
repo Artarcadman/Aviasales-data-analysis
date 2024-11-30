@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-07T19:00:00+11:00",
+        "origin": "ITU",
+        "destination": "UFA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T15:52:18Z",
+        "trip_class": 0,
+        "value": 29345,
+        "number_of_changes": 2,
+        "duration": 3770,
+        "distance": 6189,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4618",
+        "link": "/search/ITU0712UFA1?t=SU17335980001733802600003770ITUUUSSVOVKOUFA_3cd6177a3ba652125505ff5a08e046eb_29390&search_date=25112024&expected_price_uuid=01d716af-8551-4ad6-a6c6-4c7f0c625703&expected_price_source=share&expected_price_currency=rub&expected_price=29345",
+        "origin_airport": "ITU",
+        "destination_airport": "UFA",
+        "departure_at": "2024-12-07T19:00:00+11:00",
+        "airline": "HZ",
+        "price": 29345,
+        "return_transfers": 0,
+        "duration_to": 740,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Iturup",
+        "origin_city_code": "ITU",
+        "origin_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "origin_time_zone": "Asia/Srednekolymsk",
+        "destination_airport_name": "Ufa International Airport",
+        "destination_city_code": "UFA",
+        "destination_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

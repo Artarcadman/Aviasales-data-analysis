@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-30T12:40:00+05:00",
+        "origin": "RMZ",
+        "destination": "OSW",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T06:19:15Z",
+        "trip_class": 0,
+        "value": 20406,
+        "number_of_changes": 1,
+        "duration": 970,
+        "distance": 985,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "283",
+        "link": "/search/RMZ3011OSW1?t=RT17329704001733028600000970RMZLEDOSW_576c98928a3587dd0ba53df7d772fe7e_20353&search_date=25112024&expected_price_uuid=4b4d8201-d9c1-4a33-8393-3f015e028e04&expected_price_source=share&expected_price_currency=rub&expected_price=20406",
+        "origin_airport": "RMZ",
+        "destination_airport": "OSW",
+        "departure_at": "2024-11-30T12:40:00+05:00",
+        "airline": "RT",
+        "price": 20406,
+        "return_transfers": 0,
+        "duration_to": 390,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Orsk Airport",
+        "destination_city_code": "OSW",
+        "destination_coordinates": {
+            "lat": 51.2,
+            "lon": 58.566666
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-22T15:20:00+05:00",
+        "origin": "RMZ",
+        "destination": "OSW",
+        "gate": "SuperKassa",
+        "return_date": "",
+        "found_at": "2024-11-19T03:29:41Z",
+        "trip_class": 0,
+        "value": 27373,
+        "number_of_changes": 2,
+        "duration": 1440,
+        "distance": 985,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "276",
+        "link": "/search/RMZ2212OSW1?t=SU17348808001734967200001440RMZKUFVKOSVOOSW_95f7cb1faa456012c982a08d908b0e9b_27153&search_date=19112024&expected_price_uuid=65893bc9-b43e-455f-a5dd-5a59ce8d0c00&expected_price_source=share&expected_price_currency=rub&expected_price=27373",
+        "origin_airport": "RMZ",
+        "destination_airport": "OSW",
+        "departure_at": "2024-12-22T15:20:00+05:00",
+        "airline": "RT",
+        "price": 27373,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Orsk Airport",
+        "destination_city_code": "OSW",
+        "destination_coordinates": {
+            "lat": 51.2,
+            "lon": 58.566666
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

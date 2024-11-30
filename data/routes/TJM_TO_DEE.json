@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T06:25:00+05:00",
+        "origin": "TJM",
+        "destination": "DEE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T10:14:52Z",
+        "trip_class": 0,
+        "value": 28450,
+        "number_of_changes": 2,
+        "duration": 1495,
+        "distance": 5508,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "450",
+        "link": "/search/TJM0212DEE1?t=SU17331207001733232000001495TJMVKOSVOUUSDEE_e7007280a9b07cd239f82f22f898a12f_28616&search_date=24112024&expected_price_uuid=e3f95023-8418-4a0c-b37c-f15d8e81e003&expected_price_source=share&expected_price_currency=rub&expected_price=28450",
+        "origin_airport": "TJM",
+        "destination_airport": "DEE",
+        "departure_at": "2024-12-02T06:25:00+05:00",
+        "airline": "DP",
+        "price": 28450,
+        "return_transfers": 0,
+        "duration_to": 750,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Roshchino International Airport",
+        "origin_city_code": "TJM",
+        "origin_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Mendeleyevo Airport",
+        "destination_city_code": "DEE",
+        "destination_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

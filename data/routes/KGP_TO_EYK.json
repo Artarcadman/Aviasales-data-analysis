@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T08:05:00+05:00",
+        "origin": "KGP",
+        "destination": "EYK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T10:10:57Z",
+        "trip_class": 0,
+        "value": 18768,
+        "number_of_changes": 2,
+        "duration": 1545,
+        "distance": 429,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "446",
+        "link": "/search/KGP2911EYK1?t=UT17328675001732960200001545KGPVKOSGCEYK_6ea85650e8fa867808c038115dfef450_18721&search_date=20112024&expected_price_uuid=c9b0fe22-8ec2-4ee7-a0b3-3b7fd6b14d01&expected_price_source=share&expected_price_currency=rub&expected_price=18768",
+        "origin_airport": "KGP",
+        "destination_airport": "EYK",
+        "departure_at": "2024-11-29T08:05:00+05:00",
+        "airline": "UT",
+        "price": 18768,
+        "return_transfers": 0,
+        "duration_to": 515,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kogalym International Airport",
+        "origin_city_code": "KGP",
+        "origin_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Beloyarsky Airport",
+        "destination_city_code": "EYK",
+        "destination_coordinates": {
+            "lat": 63.696682,
+            "lon": 66.70121
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

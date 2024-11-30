@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-17T14:00:00+03:00",
+        "origin": "USK",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T09:18:10Z",
+        "trip_class": 0,
+        "value": 37722,
+        "number_of_changes": 2,
+        "duration": 2480,
+        "distance": 3159,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "454",
+        "link": "/search/USK1712UUD1?t=A417344440001734610800002480USKUFAKJAUUD_967fb1fd20dc1a448fbfb3ccbbbc662e_37942&search_date=24112024&expected_price_uuid=60a560c7-0509-4efa-9b3d-e36f5ee70d02&expected_price_source=share&expected_price_currency=rub&expected_price=37722",
+        "origin_airport": "USK",
+        "destination_airport": "UUD",
+        "departure_at": "2024-12-17T14:00:00+03:00",
+        "airline": "IO",
+        "price": 37722,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Usinsk Airport",
+        "origin_city_code": "USK",
+        "origin_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

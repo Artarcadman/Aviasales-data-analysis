@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-02T21:15:00+03:00",
+        "origin": "MMK",
+        "destination": "ITU",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T19:37:32Z",
+        "trip_class": 0,
+        "value": 31332,
+        "number_of_changes": 2,
+        "duration": 2160,
+        "distance": 6268,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6856",
+        "link": "/search/MMK0212ITU1?t=SU17331741001733332500002160MMKSVOUUSITU_d977e0a609fc01a91acbff52ab15d832_31378&search_date=24112024&expected_price_uuid=f6832db9-5772-4e6c-ad32-f12a09572202&expected_price_source=share&expected_price_currency=rub&expected_price=31332",
+        "origin_airport": "MMK",
+        "destination_airport": "ITU",
+        "departure_at": "2024-12-02T21:15:00+03:00",
+        "airline": "DP",
+        "price": 31332,
+        "return_transfers": 0,
+        "duration_to": 725,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Murmansk Airport",
+        "origin_city_code": "MMK",
+        "origin_coordinates": {
+            "lat": 68.785095,
+            "lon": 32.759155
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-12-15T02:55:00+03:00",
+        "origin": "MMK",
+        "destination": "ITU",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T18:17:43Z",
+        "trip_class": 0,
+        "value": 38089,
+        "number_of_changes": 2,
+        "duration": 1890,
+        "distance": 6268,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1327",
+        "link": "/search/MMK1512ITU1?t=SU17342313001734373500001890MMKSVOUUSITU_1791dd5d5ddd0e5d9265cda64046ab83_38089&search_date=23112024&expected_price_uuid=e0dd4c91-2254-4a12-b811-e38c5c7e2f03&expected_price_source=share&expected_price_currency=rub&expected_price=38089",
+        "origin_airport": "MMK",
+        "destination_airport": "ITU",
+        "departure_at": "2024-12-15T02:55:00+03:00",
+        "airline": "SU",
+        "price": 38089,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Murmansk Airport",
+        "origin_city_code": "MMK",
+        "origin_coordinates": {
+            "lat": 68.785095,
+            "lon": 32.759155
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

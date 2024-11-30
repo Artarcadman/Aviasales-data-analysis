@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-21T14:40:00+03:00",
+        "origin": "KLF",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T07:12:55Z",
+        "trip_class": 0,
+        "value": 15087,
+        "number_of_changes": 2,
+        "duration": 4075,
+        "distance": 1396,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6003",
+        "link": "/search/KLF2112IGT1?t=DP17347920001735036500004075KLFLEDSVOIGT_ae903645465fdc8e82c9417ed4fe2f2d_15087&search_date=23112024&expected_price_uuid=ee24b65b-8262-4798-b4cd-bcce2f652503&expected_price_source=share&expected_price_currency=rub&expected_price=15087",
+        "origin_airport": "KLF",
+        "destination_airport": "IGT",
+        "departure_at": "2024-12-21T14:40:00+03:00",
+        "airline": "A4",
+        "price": 15087,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Grabtsevo Airport",
+        "origin_city_code": "KLF",
+        "origin_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

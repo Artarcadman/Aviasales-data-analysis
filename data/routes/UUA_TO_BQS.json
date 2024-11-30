@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-17T18:20:00+03:00",
+        "origin": "UUA",
+        "destination": "BQS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T23:15:47Z",
+        "trip_class": 0,
+        "value": 33881,
+        "number_of_changes": 1,
+        "duration": 1800,
+        "distance": 4826,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA1712BQS1?t=U617344596001734589200001800UUAVKODMEBQS_2f6989616c35f55a5bc0d017fbdbf7c9_33882&search_date=24112024&expected_price_uuid=41c73a82-96e2-4d0d-8c95-9f6baadbf92c&expected_price_source=share&expected_price_currency=rub&expected_price=33881",
+        "origin_airport": "UUA",
+        "destination_airport": "BQS",
+        "departure_at": "2024-12-17T18:20:00+03:00",
+        "airline": "RT",
+        "price": 33881,
+        "return_transfers": 0,
+        "duration_to": 755,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Blagoveschensk Airport",
+        "destination_city_code": "BQS",
+        "destination_coordinates": {
+            "lat": 50.416668,
+            "lon": 127.4
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

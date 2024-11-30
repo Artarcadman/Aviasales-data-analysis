@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T05:00:00+03:00",
+        "origin": "SCW",
+        "destination": "KSZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T16:15:46Z",
+        "trip_class": 0,
+        "value": 20070,
+        "number_of_changes": 1,
+        "duration": 3460,
+        "distance": 221,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6588",
+        "link": "/search/SCW2611KSZ1?t=SU17325972001732804800003460SCWLEDKSZ_8f5acc6837af8243744522118dcb00d0_20034&search_date=21112024&expected_price_uuid=d3506998-dfd8-43ca-9c84-41289be8fe03&expected_price_source=share&expected_price_currency=rub&expected_price=20070",
+        "origin_airport": "SCW",
+        "destination_airport": "KSZ",
+        "departure_at": "2024-11-26T05:00:00+03:00",
+        "airline": "FV",
+        "price": 20070,
+        "return_transfers": 0,
+        "duration_to": 215,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Syktyvkar Airport",
+        "origin_city_code": "SCW",
+        "origin_coordinates": {
+            "lat": 61.666668,
+            "lon": 50.766666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kotlas Airport",
+        "destination_city_code": "KSZ",
+        "destination_coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

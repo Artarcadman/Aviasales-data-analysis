@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T18:00:00+09:00",
+        "origin": "OLZ",
+        "destination": "NER",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T12:22:25Z",
+        "trip_class": 0,
+        "value": 33918,
+        "number_of_changes": 1,
+        "duration": 3640,
+        "distance": 480,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/OLZ0212NER1?t=IO17331624001733380800003640OLZIKTNER_0583c65a5f1d7a5c82b56f86e5b8c02a_33943&search_date=25112024&expected_price_uuid=62e11421-f325-440b-8fc6-5907556a0901&expected_price_source=share&expected_price_currency=rub&expected_price=33918",
+        "origin_airport": "OLZ",
+        "destination_airport": "NER",
+        "departure_at": "2024-12-02T18:00:00+09:00",
+        "airline": "IO",
+        "price": 33918,
+        "return_transfers": 0,
+        "duration_to": 360,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Neryungri Airport",
+        "destination_city_code": "NER",
+        "destination_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

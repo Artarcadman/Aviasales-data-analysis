@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-18T14:30:00+08:00",
+        "origin": "NZG",
+        "destination": "ODO",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T17:36:02Z",
+        "trip_class": 0,
+        "value": 34795,
+        "number_of_changes": 2,
+        "duration": 2760,
+        "distance": 364,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "210",
+        "link": "/search/NZG1812ODO1?t=KV17345322001734697800002760NZGKJAIKTODO_c7b8b3534653cd8df6f631737645bcea_34797&search_date=21112024&expected_price_uuid=3597c604-aaa9-4778-86da-c2b90aede302&expected_price_source=share&expected_price_currency=rub&expected_price=34795",
+        "origin_airport": "NZG",
+        "destination_airport": "ODO",
+        "departure_at": "2024-12-18T14:30:00+08:00",
+        "airline": "KV",
+        "price": 34795,
+        "return_transfers": 0,
+        "duration_to": 430,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Nizhneangarsk",
+        "origin_city_code": "NZG",
+        "origin_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Bodaybo Airport",
+        "destination_city_code": "ODO",
+        "destination_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

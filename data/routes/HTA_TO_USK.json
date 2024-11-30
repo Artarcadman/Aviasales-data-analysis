@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T08:00:00+09:00",
+        "origin": "HTA",
+        "destination": "USK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T04:16:25Z",
+        "trip_class": 0,
+        "value": 32811,
+        "number_of_changes": 2,
+        "duration": 2120,
+        "distance": 3405,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "623",
+        "link": "/search/HTA2811USK1?t=U617327808001732886400002120HTASVXDMEVKOUSK_5c5569a0cc59735002e38dbc1b24eee0_31865&search_date=22112024&expected_price_uuid=95849d83-13e2-477c-89f7-b6feaafc4501&expected_price_source=share&expected_price_currency=rub&expected_price=32811",
+        "origin_airport": "HTA",
+        "destination_airport": "USK",
+        "departure_at": "2024-11-28T08:00:00+09:00",
+        "airline": "U6",
+        "price": 32811,
+        "return_transfers": 0,
+        "duration_to": 615,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-20T17:15:00+09:00",
+        "origin": "HTA",
+        "destination": "USK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T10:38:08Z",
+        "trip_class": 0,
+        "value": 35873,
+        "number_of_changes": 2,
+        "duration": 1565,
+        "distance": 3405,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6820",
+        "link": "/search/HTA2012USK1?t=UT17347149001734787200001565HTAKJAVKOUSK_b90540795762e7d1d7769b3ec584e4cd_36082&search_date=24112024&expected_price_uuid=30b0f120-b13f-43ee-9ee4-e6bc57c5d800&expected_price_source=share&expected_price_currency=rub&expected_price=35873",
+        "origin_airport": "HTA",
+        "destination_airport": "USK",
+        "departure_at": "2024-12-20T17:15:00+09:00",
+        "airline": "FV",
+        "price": 35873,
+        "return_transfers": 0,
+        "duration_to": 600,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

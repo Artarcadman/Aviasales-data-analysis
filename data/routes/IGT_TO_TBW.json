@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "TBW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T13:38:45Z",
+        "trip_class": 0,
+        "value": 11009,
+        "number_of_changes": 1,
+        "duration": 1300,
+        "distance": 1077,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6904",
+        "link": "/search/IGT2711TBW1?t=DP17327052001732783200001300IGTSVOVKOTBW_f37c3e0d00c43f0999d089b74bc83794_10985&search_date=25112024&expected_price_uuid=18715c8a-d7f4-4234-8be5-6d17be4a4a02&expected_price_source=share&expected_price_currency=rub&expected_price=11009",
+        "origin_airport": "IGT",
+        "destination_airport": "TBW",
+        "departure_at": "2024-11-27T11:00:00+03:00",
+        "airline": "DP",
+        "price": 11009,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-28T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "TBW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T13:38:23Z",
+        "trip_class": 0,
+        "value": 11009,
+        "number_of_changes": 1,
+        "duration": 1655,
+        "distance": 1077,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6904",
+        "link": "/search/IGT2811TBW1?t=DP17327916001732890900001655IGTSVOVKOTBW_7724c2e5869ff068fd4b51bc9cf6d66a_10985&search_date=25112024&expected_price_uuid=dacc261c-e3ad-4341-99e1-42fd1247eb02&expected_price_source=share&expected_price_currency=rub&expected_price=11009",
+        "origin_airport": "IGT",
+        "destination_airport": "TBW",
+        "departure_at": "2024-11-28T11:00:00+03:00",
+        "airline": "DP",
+        "price": 11009,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

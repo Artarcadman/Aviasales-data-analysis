@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-12T17:50:00+03:00",
+        "origin": "GRV",
+        "destination": "IWA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T12:28:20Z",
+        "trip_class": 0,
+        "value": 16757,
+        "number_of_changes": 2,
+        "duration": 2955,
+        "distance": 1550,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "562",
+        "link": "/search/GRV1212IWA1?t=UT17340258001734203100002955GRVVKODMELEDIWA_10a275f7b3f0426fd1924ce49cbec2d1_16757&search_date=23112024&expected_price_uuid=06ed8150-4efd-49ed-9226-006890e71503&expected_price_source=share&expected_price_currency=rub&expected_price=16757",
+        "origin_airport": "GRV",
+        "destination_airport": "IWA",
+        "departure_at": "2024-12-12T17:50:00+03:00",
+        "airline": "UT",
+        "price": 16757,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Groznyy Airport",
+        "origin_city_code": "GRV",
+        "origin_coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ivanovo Yuzhny Airport",
+        "destination_city_code": "IWA",
+        "destination_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2025-01-12T13:10:00+03:00",
+        "origin": "GRV",
+        "destination": "IWA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T10:15:26Z",
+        "trip_class": 0,
+        "value": 25380,
+        "number_of_changes": 1,
+        "duration": 1265,
+        "distance": 1550,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6134",
+        "link": "/search/GRV1201IWA1?t=SU17366874001736763300001265GRVLEDIWA_7f83634129a0100c80c4de1f7c1111b2_25370&search_date=25112024&expected_price_uuid=4fc77f67-788e-4f4b-aebc-72c2307555dc&expected_price_source=share&expected_price_currency=rub&expected_price=25380",
+        "origin_airport": "GRV",
+        "destination_airport": "IWA",
+        "departure_at": "2025-01-12T13:10:00+03:00",
+        "airline": "SU",
+        "price": 25380,
+        "return_transfers": 0,
+        "duration_to": 320,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Groznyy Airport",
+        "origin_city_code": "GRV",
+        "origin_coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ivanovo Yuzhny Airport",
+        "destination_city_code": "IWA",
+        "destination_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

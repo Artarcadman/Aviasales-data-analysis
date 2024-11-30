@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-10T12:50:00+03:00",
+        "origin": "MOW",
+        "destination": "CSH",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-25T14:30:48Z",
+        "trip_class": 0,
+        "value": 15223,
+        "number_of_changes": 1,
+        "duration": 1505,
+        "distance": 1011,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "215",
+        "link": "/search/SVO1012CSH1?t=5N17338350001733925300001505SVOARHVKVCSH_a5d02d343b5645ce9a542647d8dface3_15235&search_date=25112024&expected_price_uuid=d6bd9a5e-5aae-43f1-9e3a-710165a6cd01&expected_price_source=share&expected_price_currency=rub&expected_price=15223",
+        "origin_airport": "SVO",
+        "destination_airport": "CSH",
+        "departure_at": "2024-12-10T12:50:00+03:00",
+        "airline": "5N",
+        "price": 15223,
+        "return_transfers": 0,
+        "duration_to": 165,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sheremetyevo International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Solovky",
+        "destination_city_code": "CSH",
+        "destination_coordinates": {
+            "lat": 65.02944,
+            "lon": 35.733334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

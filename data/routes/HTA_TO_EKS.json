@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T13:25:00+09:00",
+        "origin": "HTA",
+        "destination": "EKS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T11:52:13Z",
+        "trip_class": 0,
+        "value": 11992,
+        "number_of_changes": 1,
+        "duration": 1250,
+        "distance": 2041,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4535",
+        "link": "/search/HTA0912EKS1?t=SU17337507001733832900001250HTAKHVEKS_f2a1d2ab3c63e2afeb2d289aeb104ee7_12000&search_date=25112024&expected_price_uuid=38264e3b-2bea-4abd-8487-bd1b7d38d48a&expected_price_source=share&expected_price_currency=rub&expected_price=11992",
+        "origin_airport": "HTA",
+        "destination_airport": "EKS",
+        "departure_at": "2024-12-09T13:25:00+09:00",
+        "airline": "HZ",
+        "price": 11992,
+        "return_transfers": 0,
+        "duration_to": 230,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Shakhtyorsk Airport",
+        "destination_city_code": "EKS",
+        "destination_coordinates": {
+            "lat": 49.190735,
+            "lon": 142.0777
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

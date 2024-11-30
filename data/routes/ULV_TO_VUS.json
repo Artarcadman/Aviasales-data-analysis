@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-31T22:45:00+04:00",
+        "origin": "ULY",
+        "destination": "VUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T15:46:08Z",
+        "trip_class": 0,
+        "value": 16500,
+        "number_of_changes": 2,
+        "duration": 4025,
+        "distance": 731,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "486",
+        "link": "/search/ULV3112VUS1?t=DP17356851001735923000004025ULVVKOSVOCEEVUS_0949ae8d2e19ad7818bfc700a8c3b3eb_16500&search_date=23112024&expected_price_uuid=4712e6aa-9527-4e07-a7df-6f4d793b1c01&expected_price_source=share&expected_price_currency=rub&expected_price=16500",
+        "origin_airport": "ULV",
+        "destination_airport": "VUS",
+        "departure_at": "2024-12-31T22:45:00+04:00",
+        "airline": "DP",
+        "price": 16500,
+        "return_transfers": 0,
+        "duration_to": 210,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Baratayevka",
+        "origin_city_code": "ULY",
+        "origin_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Velikij Ustyug Airport",
+        "destination_city_code": "VUS",
+        "destination_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-21T11:10:00+04:00",
+        "origin": "ULY",
+        "destination": "VUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T10:11:01Z",
+        "trip_class": 0,
+        "value": 17226,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 731,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 17226,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Baratayevka",
+        "origin_city_code": "ULY",
+        "origin_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Velikij Ustyug Airport",
+        "destination_city_code": "VUS",
+        "destination_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

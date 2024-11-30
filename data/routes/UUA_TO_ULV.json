@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T04:30:00+03:00",
+        "origin": "UUA",
+        "destination": "ULY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T10:29:35Z",
+        "trip_class": 0,
+        "value": 12726,
+        "number_of_changes": 1,
+        "duration": 310,
+        "distance": 299,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA2811ULV1?t=DP17327682001732790400000310UUAVKOULV_d14302410b20f36f8f6e5b43a9c88b58_12800&search_date=24112024&expected_price_uuid=a29329b3-b2f9-4c8a-8df2-b20d3d066f03&expected_price_source=share&expected_price_currency=rub&expected_price=12726",
+        "origin_airport": "UUA",
+        "destination_airport": "ULV",
+        "departure_at": "2024-11-28T04:30:00+03:00",
+        "airline": "RT",
+        "price": 12726,
+        "return_transfers": 0,
+        "duration_to": 185,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Baratayevka",
+        "destination_city_code": "ULY",
+        "destination_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "destination_time_zone": "Europe/Samara"
+    }
+]

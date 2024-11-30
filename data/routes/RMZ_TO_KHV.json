@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T12:40:00+05:00",
+        "origin": "RMZ",
+        "destination": "KHV",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T08:37:37Z",
+        "trip_class": 0,
+        "value": 53402,
+        "number_of_changes": 1,
+        "duration": 2200,
+        "distance": 4372,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "283",
+        "link": "/search/RMZ3011KHV1?t=U617329704001733120400002200RMZLEDKHV_9a6f4e28eb72427e3fa772efb149ad74_53199&search_date=25112024&expected_price_uuid=1beb39ab-94fa-467e-839e-1d05c151cedc&expected_price_source=share&expected_price_currency=rub&expected_price=53402",
+        "origin_airport": "RMZ",
+        "destination_airport": "KHV",
+        "departure_at": "2024-11-30T12:40:00+05:00",
+        "airline": "RT",
+        "price": 53402,
+        "return_transfers": 0,
+        "duration_to": 880,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Khabarovsk Airport",
+        "destination_city_code": "KHV",
+        "destination_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

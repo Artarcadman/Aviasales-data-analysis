@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "NBC",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T12:11:00Z",
+        "trip_class": 0,
+        "value": 24659,
+        "number_of_changes": 1,
+        "duration": 2010,
+        "distance": 5866,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR2911NBC1?t=SU17328942001732982400002010DYRSVONBC_282d99154c987785bb93c096f2fedcc6_24299&search_date=22112024&expected_price_uuid=d06727b2-efff-4f5d-8181-0a83d7695f57&expected_price_source=share&expected_price_currency=rub&expected_price=24659",
+        "origin_airport": "DYR",
+        "destination_airport": "NBC",
+        "departure_at": "2024-11-29T15:30:00+12:00",
+        "airline": "SU",
+        "price": 24659,
+        "return_transfers": 0,
+        "duration_to": 600,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Begishevo Airport",
+        "destination_city_code": "NBC",
+        "destination_coordinates": {
+            "lat": 55.564125,
+            "lon": 52.10341
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

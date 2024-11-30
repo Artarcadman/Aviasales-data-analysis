@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-28T21:25:00+07:00",
+        "origin": "OVB",
+        "destination": "EZV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T05:08:50Z",
+        "trip_class": 0,
+        "value": 22786,
+        "number_of_changes": 2,
+        "duration": 4125,
+        "distance": 1395,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1077",
+        "link": "/search/OVB2811EZV1?t=SU17328291001733069400004125OVBSVOTJMEZV_c842f54067ccf3b07d4936779cff6eda_22603&search_date=19112024&expected_price_uuid=1f3d2920-109a-436f-ae28-1793c3c0f802&expected_price_source=share&expected_price_currency=rub&expected_price=22786",
+        "origin_airport": "OVB",
+        "destination_airport": "EZV",
+        "departure_at": "2024-11-28T21:25:00+07:00",
+        "airline": "SU",
+        "price": 22786,
+        "return_transfers": 0,
+        "duration_to": 560,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Novosibirsk Tolmachevo Airport",
+        "origin_city_code": "OVB",
+        "origin_coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Berezovo",
+        "destination_city_code": "EZV",
+        "destination_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-23T20:05:00+07:00",
+        "origin": "OVB",
+        "destination": "EZV",
+        "gate": "SuperKassa.ru",
+        "return_date": "",
+        "found_at": "2024-11-21T07:02:20Z",
+        "trip_class": 0,
+        "value": 31454,
+        "number_of_changes": 3,
+        "duration": null,
+        "distance": 1395,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 31454,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Novosibirsk Tolmachevo Airport",
+        "origin_city_code": "OVB",
+        "origin_coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Berezovo",
+        "destination_city_code": "EZV",
+        "destination_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

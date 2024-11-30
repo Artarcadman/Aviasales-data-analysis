@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-03T18:50:00+11:00",
+        "origin": "NGK",
+        "destination": "IKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T23:26:52Z",
+        "trip_class": 0,
+        "value": 18314,
+        "number_of_changes": 2,
+        "duration": 3860,
+        "distance": 2623,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4600",
+        "link": "/search/NGK0312IKT1?t=HZ17332518001733472600003860NGKKHVUUDIKT_045714c698b898305a702259f392ee78_18314&search_date=23112024&expected_price_uuid=91b54c92-de61-4ed6-a1a9-f5b9b7c8e303&expected_price_source=share&expected_price_currency=rub&expected_price=18314",
+        "origin_airport": "NGK",
+        "destination_airport": "IKT",
+        "departure_at": "2024-12-03T18:50:00+11:00",
+        "airline": "HZ",
+        "price": 18314,
+        "return_transfers": 0,
+        "duration_to": 365,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Nogliki Airport",
+        "origin_city_code": "NGK",
+        "origin_coordinates": {
+            "lat": 51.8,
+            "lon": 143.16667
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Irkutsk International Airport",
+        "destination_city_code": "IKT",
+        "destination_coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-07T12:30:00+11:00",
+        "origin": "NGK",
+        "destination": "IKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T02:07:53Z",
+        "trip_class": 0,
+        "value": 19685,
+        "number_of_changes": 2,
+        "duration": 3455,
+        "distance": 2623,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4600",
+        "link": "/search/NGK0712IKT1?t=HZ17335746001733771100003455NGKKHVHTAIKT_c94f821558d1c08c6a1c335c44892ff4_19621&search_date=25112024&expected_price_uuid=355d1392-4e02-4208-9786-520f78957402&expected_price_source=share&expected_price_currency=rub&expected_price=19685",
+        "origin_airport": "NGK",
+        "destination_airport": "IKT",
+        "departure_at": "2024-12-07T12:30:00+11:00",
+        "airline": "HZ",
+        "price": 19685,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Nogliki Airport",
+        "origin_city_code": "NGK",
+        "origin_coordinates": {
+            "lat": 51.8,
+            "lon": 143.16667
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Irkutsk International Airport",
+        "destination_city_code": "IKT",
+        "destination_coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

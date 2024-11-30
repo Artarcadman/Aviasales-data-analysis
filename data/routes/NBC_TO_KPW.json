@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-23T16:25:00+03:00",
+        "origin": "NBC",
+        "destination": "KPW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T11:14:35Z",
+        "trip_class": 0,
+        "value": 63658,
+        "number_of_changes": 2,
+        "duration": 3665,
+        "distance": 5269,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6846",
+        "link": "/search/NBC2312KPW1?t=SU17349711001735223400003665NBCSVOGDXKPW_2a80fe0fb12cc22a178553cb90adfe5e_63421&search_date=20112024&expected_price_uuid=82b15dcf-37be-4956-8b86-ce27597fdb00&expected_price_source=share&expected_price_currency=rub&expected_price=63658",
+        "origin_airport": "NBC",
+        "destination_airport": "KPW",
+        "departure_at": "2024-12-23T16:25:00+03:00",
+        "airline": "DP",
+        "price": 63658,
+        "return_transfers": 0,
+        "duration_to": 760,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Begishevo Airport",
+        "origin_city_code": "NBC",
+        "origin_coordinates": {
+            "lat": 55.564125,
+            "lon": 52.10341
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Keperveyem Airport",
+        "destination_city_code": "KPW",
+        "destination_coordinates": {
+            "lat": 67.84611,
+            "lon": 166.13722
+        },
+        "destination_time_zone": "Asia/Kamchatka"
+    },
+    {
+        "depart_date": "2024-12-09T06:10:00+03:00",
+        "origin": "NBC",
+        "destination": "KPW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T11:14:02Z",
+        "trip_class": 0,
+        "value": 63840,
+        "number_of_changes": 3,
+        "duration": 4280,
+        "distance": 5269,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1251",
+        "link": "/search/NBC0912KPW1?t=SU17337246001734013800004280NBCSVOKJAGDXKPW_97e40c03596d7436de3e96045d10a053_63602&search_date=20112024&expected_price_uuid=41e20bfc-6d72-41c5-831d-911ac427cb03&expected_price_source=share&expected_price_currency=rub&expected_price=63840",
+        "origin_airport": "NBC",
+        "destination_airport": "KPW",
+        "departure_at": "2024-12-09T06:10:00+03:00",
+        "airline": "SU",
+        "price": 63840,
+        "return_transfers": 0,
+        "duration_to": 870,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Begishevo Airport",
+        "origin_city_code": "NBC",
+        "origin_coordinates": {
+            "lat": 55.564125,
+            "lon": 52.10341
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Keperveyem Airport",
+        "destination_city_code": "KPW",
+        "destination_coordinates": {
+            "lat": 67.84611,
+            "lon": 166.13722
+        },
+        "destination_time_zone": "Asia/Kamchatka"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T12:40:00+05:00",
+        "origin": "TQL",
+        "destination": "KJA",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-20T15:11:13Z",
+        "trip_class": 0,
+        "value": 21189,
+        "number_of_changes": 1,
+        "duration": 1440,
+        "distance": 1254,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "436",
+        "link": "/search/TQL3011KJA1?t=ЮЭ17329704001733064000001440TQLTJMKJA_85cb8bd8ed0ab3761740301adc2644db_21210&search_date=20112024&expected_price_uuid=a3e43399-a211-4d2b-9b1a-bfbd07b99001&expected_price_source=share&expected_price_currency=rub&expected_price=21189",
+        "origin_airport": "TQL",
+        "destination_airport": "KJA",
+        "departure_at": "2024-11-30T12:40:00+05:00",
+        "airline": "ЮЭ",
+        "price": 21189,
+        "return_transfers": 0,
+        "duration_to": 340,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tarko-Sale",
+        "origin_city_code": "TQL",
+        "origin_coordinates": {
+            "lat": 64.92134,
+            "lon": 77.797356
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Krasnoyarsk International Airport",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T06:30:00+09:00",
+        "origin": "YKS",
+        "destination": "URJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T11:52:35Z",
+        "trip_class": 0,
+        "value": 69516,
+        "number_of_changes": 3,
+        "duration": 1955,
+        "distance": 3348,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5262",
+        "link": "/search/YKS2511URJ1?t=S717325162001732619100001955YKSOVBSGCHMAURJ_abd75ecb36af2d6f72ab05d5d5da29aa_69922&search_date=24112024&expected_price_uuid=19369694-dd2b-46f3-a944-2248818e0402&expected_price_source=share&expected_price_currency=rub&expected_price=69516",
+        "origin_airport": "YKS",
+        "destination_airport": "URJ",
+        "departure_at": "2024-11-25T06:30:00+09:00",
+        "airline": "S7",
+        "price": 69516,
+        "return_transfers": 0,
+        "duration_to": 520,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Uraj Airport",
+        "destination_city_code": "URJ",
+        "destination_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

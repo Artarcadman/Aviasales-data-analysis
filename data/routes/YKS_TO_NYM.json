@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T08:55:00+09:00",
+        "origin": "YKS",
+        "destination": "NYM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T17:37:44Z",
+        "trip_class": 0,
+        "value": 66068,
+        "number_of_changes": 1,
+        "duration": 1685,
+        "distance": 2728,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1751",
+        "link": "/search/YKS0212NYM1?t=SU17331297001733216400001685YKSSVODMENYM_f9ecd15425fbdaaae4915cc59c846eb7_66453&search_date=24112024&expected_price_uuid=276b9671-bb09-4cd1-bd00-ca9bed3da81f&expected_price_source=share&expected_price_currency=rub&expected_price=66068",
+        "origin_airport": "YKS",
+        "destination_airport": "NYM",
+        "departure_at": "2024-12-02T08:55:00+09:00",
+        "airline": "SU",
+        "price": 66068,
+        "return_transfers": 0,
+        "duration_to": 620,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

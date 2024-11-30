@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-27T08:05:00+08:00",
+        "origin": "UUD",
+        "destination": "VUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T13:44:56Z",
+        "trip_class": 0,
+        "value": 26705,
+        "number_of_changes": 2,
+        "duration": 825,
+        "distance": 3751,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "562",
+        "link": "/search/UUD2712VUS1?t=5N17352867001735318200000825UUDSVOCEEVUS_889ae8a88935d414012602473e367cfc_26677&search_date=19112024&expected_price_uuid=8352ae47-e0d0-4ad2-9e0e-1e12950f9302&expected_price_source=share&expected_price_currency=rub&expected_price=26705",
+        "origin_airport": "UUD",
+        "destination_airport": "VUS",
+        "departure_at": "2024-12-27T08:05:00+08:00",
+        "airline": "5N",
+        "price": 26705,
+        "return_transfers": 0,
+        "duration_to": 515,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ulan-Ude Airport",
+        "origin_city_code": "UUD",
+        "origin_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Velikij Ustyug Airport",
+        "destination_city_code": "VUS",
+        "destination_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T19:30:00+07:00",
+        "origin": "IAA",
+        "destination": "OMS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T15:42:15Z",
+        "trip_class": 0,
+        "value": 23587,
+        "number_of_changes": 1,
+        "duration": 3240,
+        "distance": 1552,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "178",
+        "link": "/search/IAA0912OMS1?t=KV17337726001733963400003240IAAKJAOMS_62b23f138672def36aa1358c3530e12c_23587&search_date=23112024&expected_price_uuid=2e4a55fb-224c-4f85-9e76-97e2d87b3f01&expected_price_source=share&expected_price_currency=rub&expected_price=23587",
+        "origin_airport": "IAA",
+        "destination_airport": "OMS",
+        "departure_at": "2024-12-09T19:30:00+07:00",
+        "airline": "KV",
+        "price": 23587,
+        "return_transfers": 0,
+        "duration_to": 285,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Igarka Airport",
+        "origin_city_code": "IAA",
+        "origin_coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Omsk Airport",
+        "destination_city_code": "OMS",
+        "destination_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "destination_time_zone": "Asia/Omsk"
+    }
+]

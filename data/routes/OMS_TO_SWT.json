@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T10:55:00+06:00",
+        "origin": "OMS",
+        "destination": "SWT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T08:28:35Z",
+        "trip_class": 0,
+        "value": 25422,
+        "number_of_changes": 2,
+        "duration": 4185,
+        "distance": 653,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5344",
+        "link": "/search/OMS2611SWT1?t=KV17326185001732873200004185OMSOVBTOFSWT_7ba485827e3fa4b3e985046cb594aa08_24689&search_date=22112024&expected_price_uuid=82a15b8f-4d38-415a-954d-1d4ce02c4f01&expected_price_source=share&expected_price_currency=rub&expected_price=25422",
+        "origin_airport": "OMS",
+        "destination_airport": "SWT",
+        "departure_at": "2024-11-26T10:55:00+06:00",
+        "airline": "S7",
+        "price": 25422,
+        "return_transfers": 0,
+        "duration_to": 240,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Omsk Airport",
+        "origin_city_code": "OMS",
+        "origin_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "origin_time_zone": "Asia/Omsk",
+        "destination_airport_name": "Strezhevoy Airport",
+        "destination_city_code": "SWT",
+        "destination_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "destination_time_zone": "Asia/Novosibirsk"
+    },
+    {
+        "depart_date": "2024-11-24T22:30:00+06:00",
+        "origin": "OMS",
+        "destination": "SWT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T08:29:37Z",
+        "trip_class": 0,
+        "value": 31234,
+        "number_of_changes": 2,
+        "duration": 2050,
+        "distance": 653,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "140",
+        "link": "/search/OMS2411SWT1?t=UT17324874001732614000002050OMSSGCTOFSWT_2916d51856a292207541f4efe0959053_30333&search_date=22112024&expected_price_uuid=2f5e7ae5-1592-4f54-9d12-9104dc163703&expected_price_source=share&expected_price_currency=rub&expected_price=31234",
+        "origin_airport": "OMS",
+        "destination_airport": "SWT",
+        "departure_at": "2024-11-24T22:30:00+06:00",
+        "airline": "UT",
+        "price": 31234,
+        "return_transfers": 0,
+        "duration_to": 365,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Omsk Airport",
+        "origin_city_code": "OMS",
+        "origin_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "origin_time_zone": "Asia/Omsk",
+        "destination_airport_name": "Strezhevoy Airport",
+        "destination_city_code": "SWT",
+        "destination_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "destination_time_zone": "Asia/Novosibirsk"
+    }
+]

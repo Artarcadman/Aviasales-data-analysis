@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T20:00:00+05:00",
+        "origin": "TJM",
+        "destination": "UIK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T09:57:23Z",
+        "trip_class": 0,
+        "value": 28370,
+        "number_of_changes": 2,
+        "duration": 3560,
+        "distance": 2187,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1507",
+        "link": "/search/TJM3011UIK1?t=SU17329968001733221200003560TJMSVOIKTUIK_74cebf38753627d2b03853f6fbffbd86_28370&search_date=23112024&expected_price_uuid=083e5477-12a8-4533-b160-5a02cff9ae01&expected_price_source=share&expected_price_currency=rub&expected_price=28370",
+        "origin_airport": "TJM",
+        "destination_airport": "UIK",
+        "departure_at": "2024-11-30T20:00:00+05:00",
+        "airline": "SU",
+        "price": 28370,
+        "return_transfers": 0,
+        "duration_to": 670,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Roshchino International Airport",
+        "origin_city_code": "TJM",
+        "origin_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ust-Ilimsk",
+        "destination_city_code": "UIK",
+        "destination_coordinates": {
+            "lat": 58.13333,
+            "lon": 102.55
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

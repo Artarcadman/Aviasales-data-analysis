@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-03T15:30:00+12:00",
+        "origin": "PWE",
+        "destination": "UFA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T09:02:56Z",
+        "trip_class": 0,
+        "value": 57911,
+        "number_of_changes": 2,
+        "duration": 1160,
+        "distance": 5236,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9736",
+        "link": "/search/PWE0312UFA1?t=R317332398001733284200001160PWEYKSVKOUFA_87fceb62841f3642cd1fc972cedae1de_57591&search_date=19112024&expected_price_uuid=cf39b775-a724-41bb-9fc2-b14d97aef700&expected_price_source=share&expected_price_currency=rub&expected_price=57911",
+        "origin_airport": "PWE",
+        "destination_airport": "UFA",
+        "departure_at": "2024-12-03T15:30:00+12:00",
+        "airline": "R3",
+        "price": 57911,
+        "return_transfers": 0,
+        "duration_to": 750,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pevek Airport",
+        "origin_city_code": "PWE",
+        "origin_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Ufa International Airport",
+        "destination_city_code": "UFA",
+        "destination_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-25T16:05:00+12:00",
+        "origin": "PWE",
+        "destination": "UFA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T07:39:39Z",
+        "trip_class": 0,
+        "value": 69932,
+        "number_of_changes": 2,
+        "duration": 2600,
+        "distance": 5236,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5284",
+        "link": "/search/PWE2511UFA1?t=S717325507001732681500002600PWEOVBSVOVKOUFA_e8c1fe672b607dc007d03e480bc67091_69374&search_date=19112024&expected_price_uuid=70cae208-fd07-4059-8ec5-490523146200&expected_price_source=share&expected_price_currency=rub&expected_price=69932",
+        "origin_airport": "PWE",
+        "destination_airport": "UFA",
+        "departure_at": "2024-11-25T16:05:00+12:00",
+        "airline": "S7",
+        "price": 69932,
+        "return_transfers": 0,
+        "duration_to": 790,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pevek Airport",
+        "origin_city_code": "PWE",
+        "origin_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Ufa International Airport",
+        "destination_city_code": "UFA",
+        "destination_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

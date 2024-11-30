@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-28T11:15:00+09:00",
+        "origin": "CZR",
+        "destination": "VOG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T05:12:32Z",
+        "trip_class": 0,
+        "value": 68876,
+        "number_of_changes": 2,
+        "duration": 3105,
+        "distance": 4794,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "184",
+        "link": "/search/CZR2812VOG1?t=U617353845001735549200003105CZRIKTDMEVKOVOG_a6cdf0256cf64cc4f2c37aab54745b43_68323&search_date=19112024&expected_price_uuid=b28e4276-8fb7-4822-8984-7d9491407a01&expected_price_source=share&expected_price_currency=rub&expected_price=68876",
+        "origin_airport": "CZR",
+        "destination_airport": "VOG",
+        "departure_at": "2024-12-28T11:15:00+09:00",
+        "airline": "IO",
+        "price": 68876,
+        "return_transfers": 0,
+        "duration_to": 695,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chara",
+        "origin_city_code": "CZR",
+        "origin_coordinates": {
+            "lat": 56.914722,
+            "lon": 118.270836
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Volgograd International Airport",
+        "destination_city_code": "VOG",
+        "destination_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

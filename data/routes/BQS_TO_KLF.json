@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-01T16:00:00+09:00",
+        "origin": "BQS",
+        "destination": "KLF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:16:45Z",
+        "trip_class": 0,
+        "value": 30751,
+        "number_of_changes": 3,
+        "duration": 2050,
+        "distance": 5737,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "178",
+        "link": "/search/BQS0112KLF1?t=DP17330688001733170200002050BQSIKTSVOLEDKLF_7b3f2dccda87ae59180a35ccfd3a33c3_29864&search_date=22112024&expected_price_uuid=f3a5dc88-c23a-4600-a461-8d22d38a0702&expected_price_source=share&expected_price_currency=rub&expected_price=30751",
+        "origin_airport": "BQS",
+        "destination_airport": "KLF",
+        "departure_at": "2024-12-01T16:00:00+09:00",
+        "airline": "IO",
+        "price": 30751,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Blagoveschensk Airport",
+        "origin_city_code": "BQS",
+        "origin_coordinates": {
+            "lat": 50.416668,
+            "lon": 127.4
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Grabtsevo Airport",
+        "destination_city_code": "KLF",
+        "destination_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

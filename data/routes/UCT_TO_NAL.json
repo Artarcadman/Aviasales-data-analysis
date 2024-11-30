@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-22T19:00:00+03:00",
+        "origin": "UCT",
+        "destination": "NAL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T13:16:02Z",
+        "trip_class": 0,
+        "value": 15753,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 2318,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 15753,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nalchik Airport",
+        "destination_city_code": "NAL",
+        "destination_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-28T15:30:00+03:00",
+        "origin": "UCT",
+        "destination": "NAL",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T20:15:45Z",
+        "trip_class": 0,
+        "value": 17498,
+        "number_of_changes": 1,
+        "duration": 1605,
+        "distance": 2318,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "324",
+        "link": "/search/UCT2811NAL1?t=SU17328078001732904100001605UCTLEDNAL_b5aa55af046b3180913d7f49fc8f6eee_17500&search_date=25112024&expected_price_uuid=57c2c685-bda0-4a92-bc71-48e1dabeb5d2&expected_price_source=share&expected_price_currency=rub&expected_price=17498",
+        "origin_airport": "UCT",
+        "destination_airport": "NAL",
+        "departure_at": "2024-11-28T15:30:00+03:00",
+        "airline": "D2",
+        "price": 17498,
+        "return_transfers": 0,
+        "duration_to": 360,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nalchik Airport",
+        "destination_city_code": "NAL",
+        "destination_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

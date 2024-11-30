@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-19T23:55:00+05:00",
+        "origin": "CEK",
+        "destination": "GOY",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T18:48:38Z",
+        "trip_class": 0,
+        "value": 21838,
+        "number_of_changes": 1,
+        "duration": 1010,
+        "distance": 2347,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6844",
+        "link": "/search/CEK1912GOY1?t=SU17346525001734720300001010CEKKJAGOY_c4a87ee0d5ecca25b1bc63591bc632ef_21965&search_date=24112024&expected_price_uuid=a96718ce-12c6-45b2-acf1-5210deefef70&expected_price_source=share&expected_price_currency=rub&expected_price=21838",
+        "origin_airport": "CEK",
+        "destination_airport": "GOY",
+        "departure_at": "2024-12-19T23:55:00+05:00",
+        "airline": "SU",
+        "price": 21838,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Chelyabinsk International Airport",
+        "origin_city_code": "CEK",
+        "origin_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Gornyj",
+        "destination_city_code": "GOY",
+        "destination_coordinates": {
+            "lat": 64.333336,
+            "lon": 100.433334
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

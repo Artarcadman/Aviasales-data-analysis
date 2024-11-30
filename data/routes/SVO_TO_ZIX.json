@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T18:45:00+03:00",
+        "origin": "MOW",
+        "destination": "ZIX",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-22T19:04:45Z",
+        "trip_class": 0,
+        "value": 52764,
+        "number_of_changes": 1,
+        "duration": 960,
+        "distance": 4335,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1750",
+        "link": "/search/SVO2711ZIX1?t=SU17327331001732812300000960SVOYKSZIX_218298b2d6d3ebc8827ef7ea6f62f0f6_52279&search_date=22112024&expected_price_uuid=3c72a3bc-b73f-4d8d-a67b-b53d60c45c03&expected_price_source=share&expected_price_currency=rub&expected_price=52764",
+        "origin_airport": "SVO",
+        "destination_airport": "ZIX",
+        "departure_at": "2024-11-27T18:45:00+03:00",
+        "airline": "SU",
+        "price": 52764,
+        "return_transfers": 0,
+        "duration_to": 520,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sheremetyevo International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Zhigansk Airport",
+        "destination_city_code": "ZIX",
+        "destination_coordinates": {
+            "lat": 66.79667,
+            "lon": 123.36139
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-12-17T23:30:00+03:00",
+        "origin": "MOW",
+        "destination": "ZIX",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-20T12:54:51Z",
+        "trip_class": 0,
+        "value": 62596,
+        "number_of_changes": 2,
+        "duration": 2115,
+        "distance": 4335,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1484",
+        "link": "/search/SVO1712ZIX1?t=SU17344782001734626700002115SVOKJAYKSZIX_42ce50ea67a3c9e6ff3a04ee47fbbefb_62439&search_date=20112024&expected_price_uuid=e93e7d7f-b77a-41c6-b902-357c34ac6c01&expected_price_source=share&expected_price_currency=rub&expected_price=62596",
+        "origin_airport": "SVO",
+        "destination_airport": "ZIX",
+        "departure_at": "2024-12-17T23:30:00+03:00",
+        "airline": "SU",
+        "price": 62596,
+        "return_transfers": 0,
+        "duration_to": 590,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sheremetyevo International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Zhigansk Airport",
+        "destination_city_code": "ZIX",
+        "destination_coordinates": {
+            "lat": 66.79667,
+            "lon": 123.36139
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

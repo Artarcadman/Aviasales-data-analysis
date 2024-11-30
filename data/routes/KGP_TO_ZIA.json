@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-11T16:00:00+05:00",
+        "origin": "KGP",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T17:55:34Z",
+        "trip_class": 0,
+        "value": 25880,
+        "number_of_changes": 2,
+        "duration": 1020,
+        "distance": 2182,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9862",
+        "link": "/search/KGP1112ZIA1?t=WZ17339328001733986800001020KGPUFASVXZIA_4d66a29a1ac4dd361d11a7522973fdaa_25880&search_date=25112024&expected_price_uuid=e9915f39-4daa-4d98-9d9b-aeb7fa28a501&expected_price_source=share&expected_price_currency=rub&expected_price=25880",
+        "origin_airport": "KGP",
+        "destination_airport": "ZIA",
+        "departure_at": "2024-12-11T16:00:00+05:00",
+        "airline": "UT",
+        "price": 25880,
+        "return_transfers": 0,
+        "duration_to": 365,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kogalym International Airport",
+        "origin_city_code": "KGP",
+        "origin_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Zhukovsky International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-27T11:00:00+05:00",
+        "origin": "KGP",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T17:16:20Z",
+        "trip_class": 0,
+        "value": 38119,
+        "number_of_changes": 2,
+        "duration": 1320,
+        "distance": 2182,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9520",
+        "link": "/search/KGP2711ZIA1?t=KV17327052001732777200001320KGPUFASVXZIA_78f8061ac1cd5caf42449a0fcae7e73d_38116&search_date=25112024&expected_price_uuid=de678eb5-3328-45ae-8b87-d2b9829c8e01&expected_price_source=share&expected_price_currency=rub&expected_price=38119",
+        "origin_airport": "KGP",
+        "destination_airport": "ZIA",
+        "departure_at": "2024-11-27T11:00:00+05:00",
+        "airline": "KV",
+        "price": 38119,
+        "return_transfers": 0,
+        "duration_to": 400,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kogalym International Airport",
+        "origin_city_code": "KGP",
+        "origin_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Zhukovsky International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

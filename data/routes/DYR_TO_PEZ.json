@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-09T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "PEZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T06:40:08Z",
+        "trip_class": 0,
+        "value": 29281,
+        "number_of_changes": 1,
+        "duration": 1715,
+        "distance": 6300,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR0912PEZ1?t=SU17337582001733828700001715DYRSVOPEZ_0a547a98129678e5d63e855d2638a672_29202&search_date=25112024&expected_price_uuid=05cd85fa-6d27-42b0-97c0-a7f7ef8dba70&expected_price_source=share&expected_price_currency=rub&expected_price=29281",
+        "origin_airport": "DYR",
+        "destination_airport": "PEZ",
+        "departure_at": "2024-12-09T15:30:00+12:00",
+        "airline": "SU",
+        "price": 29281,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Penza Airport",
+        "destination_city_code": "PEZ",
+        "destination_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-16T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "PEZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T03:48:05Z",
+        "trip_class": 0,
+        "value": 29798,
+        "number_of_changes": 1,
+        "duration": 1715,
+        "distance": 6300,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR1612PEZ1?t=SU17343630001734433500001715DYRSVOPEZ_5ca60e1e2d78d49c58fbc19814d31df0_29972&search_date=24112024&expected_price_uuid=c1ecdda8-fc6d-40a9-88ca-6b6ca1f0264f&expected_price_source=share&expected_price_currency=rub&expected_price=29798",
+        "origin_airport": "DYR",
+        "destination_airport": "PEZ",
+        "departure_at": "2024-12-16T15:30:00+12:00",
+        "airline": "SU",
+        "price": 29798,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Penza Airport",
+        "destination_city_code": "PEZ",
+        "destination_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

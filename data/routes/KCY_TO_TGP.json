@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-26T17:00:00+07:00",
+        "origin": "KJA",
+        "destination": "TGP",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-23T10:38:25Z",
+        "trip_class": 0,
+        "value": 11039,
+        "number_of_changes": 0,
+        "duration": 120,
+        "distance": 619,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "171",
+        "link": "/search/KCY2612TGP1?t=KV17352324001735239600000120KCYTGP_1d9dc17d17a1abf785ce2551545a5d4e_11039&search_date=23112024&expected_price_uuid=afc024f8-237a-4619-90d6-a71f2eb64301&expected_price_source=share&expected_price_currency=rub&expected_price=11039",
+        "origin_airport": "KCY",
+        "destination_airport": "TGP",
+        "departure_at": "2024-12-26T17:00:00+07:00",
+        "airline": "KV",
+        "price": 11039,
+        "return_transfers": 0,
+        "duration_to": 120,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Cheremshanka",
+        "origin_city_code": "KJA",
+        "origin_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Podkamennaya Tunguska Airport",
+        "destination_city_code": "TGP",
+        "destination_coordinates": {
+            "lat": 61.59,
+            "lon": 89.97945
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

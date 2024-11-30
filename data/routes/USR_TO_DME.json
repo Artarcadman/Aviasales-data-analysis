@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T11:50:00+10:00",
+        "origin": "USR",
+        "destination": "MOW",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-19T06:02:49Z",
+        "trip_class": 0,
+        "value": 96161,
+        "number_of_changes": 2,
+        "duration": 3750,
+        "distance": 5248,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "418",
+        "link": "/search/USR2611DME1?t=R317326218001732821600003750USRYKSMRVDME_b587337b72c49a3d111bc141a25e6c74_95378&search_date=19112024&expected_price_uuid=a51e089f-116a-4920-910b-674da5adb600&expected_price_source=share&expected_price_currency=rub&expected_price=96161",
+        "origin_airport": "USR",
+        "destination_airport": "DME",
+        "departure_at": "2024-11-26T11:50:00+10:00",
+        "airline": "R3",
+        "price": 96161,
+        "return_transfers": 0,
+        "duration_to": 1025,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ust-Nera Airport",
+        "origin_city_code": "USR",
+        "origin_coordinates": {
+            "lat": 64.549446,
+            "lon": 143.11084
+        },
+        "origin_time_zone": "Asia/Ust-Nera",
+        "destination_airport_name": "Moscow Domodedovo Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.414566,
+            "lon": 37.899494
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-19T10:05:00+03:00",
+        "origin": "TBW",
+        "destination": "KHV",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T14:33:02Z",
+        "trip_class": 0,
+        "value": 22435,
+        "number_of_changes": 1,
+        "duration": 890,
+        "distance": 6143,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "194",
+        "link": "/search/TBW1912KHV1?t=SU17346027001734681300000890TBWVKOSVOKHV_80f94f26f9a289f51d008d2023e7bf8d_22435&search_date=23112024&expected_price_uuid=2044c428-3501-4ac2-b1e7-2c8050c3d25b&expected_price_source=share&expected_price_currency=rub&expected_price=22435",
+        "origin_airport": "TBW",
+        "destination_airport": "KHV",
+        "departure_at": "2024-12-19T10:05:00+03:00",
+        "airline": "7R",
+        "price": 22435,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tambov Donskoye Airport",
+        "origin_city_code": "TBW",
+        "origin_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Khabarovsk Airport",
+        "destination_city_code": "KHV",
+        "destination_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

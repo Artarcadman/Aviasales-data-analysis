@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T16:05:00+12:00",
+        "origin": "PWE",
+        "destination": "GDX",
+        "gate": "MEGO.travel",
+        "return_date": "",
+        "found_at": "2024-11-24T02:36:05Z",
+        "trip_class": 0,
+        "value": 54064,
+        "number_of_changes": 1,
+        "duration": 1060,
+        "distance": 1430,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5284",
+        "link": "/search/PWE2511GDX1?t=S717325507001732610700001060PWEOVBGDX_fe633ccec93682c3c8158a1b76e1a843_54379&search_date=24112024&expected_price_uuid=024763e0-20d3-49e5-824f-c3a89773f003&expected_price_source=share&expected_price_currency=rub&expected_price=54064",
+        "origin_airport": "PWE",
+        "destination_airport": "GDX",
+        "departure_at": "2024-11-25T16:05:00+12:00",
+        "airline": "S7",
+        "price": 54064,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Pevek Airport",
+        "origin_city_code": "PWE",
+        "origin_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    }
+]

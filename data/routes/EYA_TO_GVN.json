@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-12T13:25:00+09:00",
+        "origin": "ЗЕЯ",
+        "destination": "GVN",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T07:48:00Z",
+        "trip_class": 0,
+        "value": 12776,
+        "number_of_changes": 1,
+        "duration": 1195,
+        "distance": 1040,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4703",
+        "link": "/search/EYA1212GVN1?t=HZ17340099001734085200001195EYAKHVGVN_8a0324ed1b0bf8e127d787e26740135d_12754&search_date=25112024&expected_price_uuid=aae9ca66-0c4f-4863-8e61-0a61f4b7c53c&expected_price_source=share&expected_price_currency=rub&expected_price=12776",
+        "origin_airport": "EYA",
+        "destination_airport": "GVN",
+        "departure_at": "2024-12-12T13:25:00+09:00",
+        "airline": "HZ",
+        "price": 12776,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Zeya",
+        "origin_city_code": "ЗЕЯ",
+        "origin_coordinates": {
+            "lat": 53.689724,
+            "lon": 127.09222
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "May-Gatka",
+        "destination_city_code": "GVN",
+        "destination_coordinates": {
+            "lat": 48.928535,
+            "lon": 140.01697
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    },
+    {
+        "depart_date": "2024-12-19T13:25:00+09:00",
+        "origin": "ЗЕЯ",
+        "destination": "GVN",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T08:43:19Z",
+        "trip_class": 0,
+        "value": 12784,
+        "number_of_changes": 1,
+        "duration": 1195,
+        "distance": 1040,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4703",
+        "link": "/search/EYA1912GVN1?t=HZ17346147001734690000001195EYAKHVGVN_3e32ed5665f73b10b4d2110d630beeba_12754&search_date=25112024&expected_price_uuid=36d16ee1-2644-44b3-a51f-cd8c1398105d&expected_price_source=share&expected_price_currency=rub&expected_price=12784",
+        "origin_airport": "EYA",
+        "destination_airport": "GVN",
+        "departure_at": "2024-12-19T13:25:00+09:00",
+        "airline": "HZ",
+        "price": 12784,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Zeya",
+        "origin_city_code": "ЗЕЯ",
+        "origin_coordinates": {
+            "lat": 53.689724,
+            "lon": 127.09222
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "May-Gatka",
+        "destination_city_code": "GVN",
+        "destination_coordinates": {
+            "lat": 48.928535,
+            "lon": 140.01697
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

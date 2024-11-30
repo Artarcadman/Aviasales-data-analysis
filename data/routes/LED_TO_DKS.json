@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-26T07:30:00+03:00",
+        "origin": "LED",
+        "destination": "DKS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T18:37:02Z",
+        "trip_class": 0,
+        "value": 44465,
+        "number_of_changes": 2,
+        "duration": 1430,
+        "distance": 2558,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6127",
+        "link": "/search/LED2612DKS1?t=Y717351982001735298400001430LEDSVODMENSKDKS_c27bd72eebee0e79bfb5d6310c838e8d_44724&search_date=24112024&expected_price_uuid=b330eabc-d290-4b5d-9e59-9e0e9a405c00&expected_price_source=share&expected_price_currency=rub&expected_price=44465",
+        "origin_airport": "LED",
+        "destination_airport": "DKS",
+        "departure_at": "2024-12-26T07:30:00+03:00",
+        "airline": "FV",
+        "price": 44465,
+        "return_transfers": 0,
+        "duration_to": 460,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pulkovo Airport",
+        "origin_city_code": "LED",
+        "origin_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Dikson",
+        "destination_city_code": "DKS",
+        "destination_coordinates": {
+            "lat": 73.51667,
+            "lon": 80.36667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

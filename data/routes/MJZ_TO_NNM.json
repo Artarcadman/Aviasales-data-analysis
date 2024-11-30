@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2025-03-22T09:30:00+09:00",
+        "origin": "MJZ",
+        "destination": "NNM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T10:51:40Z",
+        "trip_class": 0,
+        "value": 21966,
+        "number_of_changes": 1,
+        "duration": 1880,
+        "distance": 2785,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4597",
+        "link": "/search/MJZ2203NNM1?t=UT17426358001742727000001880MJZVKONNM_c4c633391dd130d0e430a4cfbbd49399_21710&search_date=22112024&expected_price_uuid=65a5197f-d93e-4a27-896e-88de7e24b1f2&expected_price_source=share&expected_price_currency=rub&expected_price=21966",
+        "origin_airport": "MJZ",
+        "destination_airport": "NNM",
+        "departure_at": "2025-03-22T09:30:00+09:00",
+        "airline": "6R",
+        "price": 21966,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Mirnyj Airport",
+        "origin_city_code": "MJZ",
+        "origin_coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Naryan-Mar Airport",
+        "destination_city_code": "NNM",
+        "destination_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

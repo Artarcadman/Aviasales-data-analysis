@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-05T14:00:00+07:00",
+        "origin": "NSK",
+        "destination": "NNM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T13:48:56Z",
+        "trip_class": 0,
+        "value": 23910,
+        "number_of_changes": 2,
+        "duration": 1840,
+        "distance": 1389,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "917",
+        "link": "/search/NSK0512NNM1?t=Y717334072001733503200001840NSKSVXUFANNM_5ec03afcf12863d20acbe77d3d759793_23885&search_date=19112024&expected_price_uuid=e755596c-31da-45bc-b92a-c4939af7c202&expected_price_source=share&expected_price_currency=rub&expected_price=23910",
+        "origin_airport": "NSK",
+        "destination_airport": "NNM",
+        "departure_at": "2024-12-05T14:00:00+07:00",
+        "airline": "Y7",
+        "price": 23910,
+        "return_transfers": 0,
+        "duration_to": 415,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Noril'sk Airport",
+        "origin_city_code": "NSK",
+        "origin_coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Naryan-Mar Airport",
+        "destination_city_code": "NNM",
+        "destination_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-26T13:45:00+07:00",
+        "origin": "NSK",
+        "destination": "NNM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T13:04:29Z",
+        "trip_class": 0,
+        "value": 26711,
+        "number_of_changes": 1,
+        "duration": 1530,
+        "distance": 1389,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "406",
+        "link": "/search/NSK2611NNM1?t=Y717326287001732706100001530NSKLEDNNM_1e5b652b78bea95b400054bc237b8598_26691&search_date=25112024&expected_price_uuid=5f0f0dae-c1f9-4292-92f3-45c7ae8bd216&expected_price_source=share&expected_price_currency=rub&expected_price=26711",
+        "origin_airport": "NSK",
+        "destination_airport": "NNM",
+        "departure_at": "2024-11-26T13:45:00+07:00",
+        "airline": "Y7",
+        "price": 26711,
+        "return_transfers": 0,
+        "duration_to": 415,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Noril'sk Airport",
+        "origin_city_code": "NSK",
+        "origin_coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Naryan-Mar Airport",
+        "destination_city_code": "NNM",
+        "destination_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

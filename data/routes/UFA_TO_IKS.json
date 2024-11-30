@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-21T08:00:00+05:00",
+        "origin": "UFA",
+        "destination": "IKS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:30:01Z",
+        "trip_class": 0,
+        "value": 63041,
+        "number_of_changes": 2,
+        "duration": 2675,
+        "distance": 3806,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "364",
+        "link": "/search/UFA2112IKS1?t=R317347680001734942900002675UFAVKOYKSIKS_e315d0e698b4102a79824cde6dde8989_61223&search_date=22112024&expected_price_uuid=17b36f31-7ec3-4b64-9b61-be8781ff4d01&expected_price_source=share&expected_price_currency=rub&expected_price=63041",
+        "origin_airport": "UFA",
+        "destination_airport": "IKS",
+        "departure_at": "2024-12-21T08:00:00+05:00",
+        "airline": "UT",
+        "price": 63041,
+        "return_transfers": 0,
+        "duration_to": 685,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ufa International Airport",
+        "origin_city_code": "UFA",
+        "origin_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Tiksi Airport",
+        "destination_city_code": "IKS",
+        "destination_coordinates": {
+            "lat": 71.7,
+            "lon": 128.9
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

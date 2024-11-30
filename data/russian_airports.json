@@ -1,0 +1,3858 @@
+[
+    {
+        "name_translations": {
+            "en": "Saratov Tsentralny Airport"
+        },
+        "city_code": "RTW",
+        "country_code": "RU",
+        "time_zone": "Europe/Samara",
+        "code": "RTW",
+        "iata_type": "airport",
+        "name": "Saratov Tsentralny Airport",
+        "coordinates": {
+            "lat": 51.566666,
+            "lon": 46.066666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Markovo"
+        },
+        "city_code": "KVM",
+        "country_code": "RU",
+        "time_zone": "Asia/Anadyr",
+        "code": "KVM",
+        "iata_type": "airport",
+        "name": "Markovo",
+        "coordinates": {
+            "lat": 64.66472,
+            "lon": 170.4136
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Terney"
+        },
+        "city_code": "NEI",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "NEI",
+        "iata_type": "airport",
+        "name": "Terney",
+        "coordinates": {
+            "lat": 45.073334,
+            "lon": 136.5925
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Preobrazheniye"
+        },
+        "city_code": "RZH",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "RZH",
+        "iata_type": "airport",
+        "name": "Preobrazheniye",
+        "coordinates": {
+            "lat": 42.921112,
+            "lon": 133.90334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ossora"
+        },
+        "city_code": "\u041e\u0421\u041e",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u041e\u0421\u041e",
+        "iata_type": "airport",
+        "name": "Ossora",
+        "coordinates": {
+            "lat": 59.22361,
+            "lon": 163.06639
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Keperveyem"
+        },
+        "city_code": "KPW",
+        "country_code": "RU",
+        "time_zone": "Asia/Anadyr",
+        "code": "\u041a\u041f\u041c",
+        "iata_type": "airport",
+        "name": "Keperveyem",
+        "coordinates": {
+            "lat": 67.84611,
+            "lon": 166.13722
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Palana"
+        },
+        "city_code": "\u041f\u0410\u041d",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u041f\u0410\u041d",
+        "iata_type": "airport",
+        "name": "Palana",
+        "coordinates": {
+            "lat": 59.081665,
+            "lon": 159.88861
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ozernaya"
+        },
+        "city_code": "\u041e\u0417\u0420",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u041e\u0417\u0420",
+        "iata_type": "airport",
+        "name": "Ozernaya",
+        "coordinates": {
+            "lat": 51.5,
+            "lon": 156.58333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Omolon"
+        },
+        "city_code": "\u041e\u041e\u041b",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u041e\u041e\u041b",
+        "iata_type": "airport",
+        "name": "Omolon",
+        "coordinates": {
+            "lat": 65.238335,
+            "lon": 160.54195
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Omsukchan"
+        },
+        "city_code": "\u041e\u0421\u0423",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u041e\u0421\u0423",
+        "iata_type": "airport",
+        "name": "Omsukchan",
+        "coordinates": {
+            "lat": 62.458332,
+            "lon": 155.74556
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Cheremshanka"
+        },
+        "city_code": "KJA",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "KCY",
+        "iata_type": "airport",
+        "name": "Cheremshanka",
+        "coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tolka"
+        },
+        "city_code": "\u0422\u042c\u041a",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "\u0422\u042c\u041a",
+        "iata_type": "airport",
+        "name": "Tolka",
+        "coordinates": {
+            "lat": 63.986946,
+            "lon": 82.05139
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Yartsevo"
+        },
+        "city_code": "YAE",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "YAE",
+        "iata_type": "airport",
+        "name": "Yartsevo",
+        "coordinates": {
+            "lat": 60.254444,
+            "lon": 90.19583
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Belokurikha"
+        },
+        "city_code": "\u0411\u0418\u0425",
+        "country_code": "RU",
+        "time_zone": "Asia/Barnaul",
+        "code": "\u0411\u0418\u0425",
+        "iata_type": "airport",
+        "name": "Belokurikha",
+        "coordinates": {
+            "lat": 52.06333,
+            "lon": 85.01833
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Omchug"
+        },
+        "city_code": "\u0423\u041e\u041c",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u0423\u041e\u041c",
+        "iata_type": "airport",
+        "name": "Ust-Omchug",
+        "coordinates": {
+            "lat": 61.116093,
+            "lon": 149.63869
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Smirnykh"
+        },
+        "city_code": "\u0421\u041c\u0425",
+        "country_code": "RU",
+        "time_zone": "Asia/Sakhalin",
+        "code": "\u0421\u041c\u0425",
+        "iata_type": "airport",
+        "name": "Smirnykh",
+        "coordinates": {
+            "lat": 49.75,
+            "lon": 142.83333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Bajkit"
+        },
+        "city_code": "BKA",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "BKA",
+        "iata_type": "airport",
+        "name": "Bajkit",
+        "coordinates": {
+            "lat": 61.676666,
+            "lon": 96.35333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vagay"
+        },
+        "city_code": "\u0412\u0410\u0413",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "\u0412\u0410\u0413",
+        "iata_type": "airport",
+        "name": "Vagay",
+        "coordinates": {
+            "lat": 57.927223,
+            "lon": 69.00667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Kamchatsk"
+        },
+        "city_code": "\u0423\u041a\u0427",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u0423\u041a\u0427",
+        "iata_type": "airport",
+        "name": "Ust-Kamchatsk",
+        "coordinates": {
+            "lat": 56.237778,
+            "lon": 162.68556
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Zeya"
+        },
+        "city_code": "\u0417\u0415\u042f",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "EYA",
+        "iata_type": "airport",
+        "name": "Zeya",
+        "coordinates": {
+            "lat": 53.689724,
+            "lon": 127.09222
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Magan"
+        },
+        "city_code": "GYG",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "GYG",
+        "iata_type": "airport",
+        "name": "Magan",
+        "coordinates": {
+            "lat": 62.10327,
+            "lon": 129.55006
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Svetlaya"
+        },
+        "city_code": "ETL",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "ETL",
+        "iata_type": "airport",
+        "name": "Svetlaya",
+        "coordinates": {
+            "lat": 46.54111,
+            "lon": 138.31833
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Saratov Gagarin Airport"
+        },
+        "city_code": "RTW",
+        "country_code": "RU",
+        "time_zone": "Europe/Saratov",
+        "code": "GSV",
+        "iata_type": "airport",
+        "name": "Saratov Gagarin Airport",
+        "coordinates": {
+            "lat": 51.716667,
+            "lon": 46.166668
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tura"
+        },
+        "city_code": "GOY",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "\u0422\u0420\u041b",
+        "iata_type": "airport",
+        "name": "Tura",
+        "coordinates": {
+            "lat": 64.27583,
+            "lon": 100.21639
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sovetsky Airport"
+        },
+        "city_code": "OVS",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "OVS",
+        "iata_type": "airport",
+        "name": "Sovetsky Airport",
+        "coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Irkutsk International Airport"
+        },
+        "city_code": "IKT",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "IKT",
+        "iata_type": "airport",
+        "name": "Irkutsk International Airport",
+        "coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vanavara"
+        },
+        "city_code": "VAQ",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "VAQ",
+        "iata_type": "airport",
+        "name": "Vanavara",
+        "coordinates": {
+            "lat": 60.356667,
+            "lon": 102.31
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kavalerovo"
+        },
+        "city_code": "KVR",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "KVR",
+        "iata_type": "airport",
+        "name": "Kavalerovo",
+        "coordinates": {
+            "lat": 44.266865,
+            "lon": 135.0357
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Bratsk Airport"
+        },
+        "city_code": "BTK",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "BTK",
+        "iata_type": "airport",
+        "name": "Bratsk Airport",
+        "coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Novy Urengoy Airport"
+        },
+        "city_code": "NUX",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "NUX",
+        "iata_type": "airport",
+        "name": "Novy Urengoy Airport",
+        "coordinates": {
+            "lat": 66.07335,
+            "lon": 76.522835
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Abakan Airport"
+        },
+        "city_code": "ABA",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "ABA",
+        "iata_type": "airport",
+        "name": "Abakan Airport",
+        "coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Zyryanka Airport"
+        },
+        "city_code": "ZKP",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "ZKP",
+        "iata_type": "airport",
+        "name": "Zyryanka Airport",
+        "coordinates": {
+            "lat": 65.738335,
+            "lon": 150.70778
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Salekhard Airport"
+        },
+        "city_code": "SLY",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "SLY",
+        "iata_type": "airport",
+        "name": "Salekhard Airport",
+        "coordinates": {
+            "lat": 66.583336,
+            "lon": 66.6
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tambov Donskoye Airport"
+        },
+        "city_code": "TBW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "TBW",
+        "iata_type": "airport",
+        "name": "Tambov Donskoye Airport",
+        "coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Khurba Airport"
+        },
+        "city_code": "KXK",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "KXK",
+        "iata_type": "airport",
+        "name": "Khurba Airport",
+        "coordinates": {
+            "lat": 50.4,
+            "lon": 136.95
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Novostroyka Airport"
+        },
+        "city_code": "OHH",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "OHH",
+        "iata_type": "airport",
+        "name": "Novostroyka Airport",
+        "coordinates": {
+            "lat": 53.516666,
+            "lon": 142.88333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Magas Airport"
+        },
+        "city_code": "IGT",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "IGT",
+        "iata_type": "airport",
+        "name": "Magas Airport",
+        "coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Beloyarsky Airport"
+        },
+        "city_code": "EYK",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "EYK",
+        "iata_type": "airport",
+        "name": "Beloyarsky Airport",
+        "coordinates": {
+            "lat": 63.696682,
+            "lon": 66.70121
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Taganrog"
+        },
+        "city_code": "TGK",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "TGK",
+        "iata_type": "airport",
+        "name": "Taganrog",
+        "coordinates": {
+            "lat": 47.243378,
+            "lon": 38.864017
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Erbogachen Airport"
+        },
+        "city_code": "ERG",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "ERG",
+        "iata_type": "airport",
+        "name": "Erbogachen Airport",
+        "coordinates": {
+            "lat": 61.275,
+            "lon": 108.03
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Nera Airport"
+        },
+        "city_code": "USR",
+        "country_code": "RU",
+        "time_zone": "Asia/Ust-Nera",
+        "code": "USR",
+        "iata_type": "airport",
+        "name": "Ust-Nera Airport",
+        "coordinates": {
+            "lat": 64.549446,
+            "lon": 143.11084
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kyzyl Airport"
+        },
+        "city_code": "KYZ",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "KYZ",
+        "iata_type": "airport",
+        "name": "Kyzyl Airport",
+        "coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Roshchino International Airport"
+        },
+        "city_code": "TJM",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "TJM",
+        "iata_type": "airport",
+        "name": "Roshchino International Airport",
+        "coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vilyuisk"
+        },
+        "city_code": "VYI",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "VYI",
+        "iata_type": "airport",
+        "name": "Vilyuisk",
+        "coordinates": {
+            "lat": 63.75639,
+            "lon": 121.69306
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Chelyabinsk International Airport"
+        },
+        "city_code": "CEK",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "CEK",
+        "iata_type": "airport",
+        "name": "Chelyabinsk International Airport",
+        "coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Omsk Airport"
+        },
+        "city_code": "OMS",
+        "country_code": "RU",
+        "time_zone": "Asia/Omsk",
+        "code": "OMS",
+        "iata_type": "airport",
+        "name": "Omsk Airport",
+        "coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Stavropol Airport"
+        },
+        "city_code": "STW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "STW",
+        "iata_type": "airport",
+        "name": "Stavropol Airport",
+        "coordinates": {
+            "lat": 45.333332,
+            "lon": 42.00833
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Petropavlovsk-Kamchatsky Airport"
+        },
+        "city_code": "PKC",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "PKC",
+        "iata_type": "airport",
+        "name": "Petropavlovsk-Kamchatsky Airport",
+        "coordinates": {
+            "lat": 53.016666,
+            "lon": 158.65
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Khabarovsk Airport"
+        },
+        "city_code": "KHV",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "KHV",
+        "iata_type": "airport",
+        "name": "Khabarovsk Airport",
+        "coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Begishevo Airport"
+        },
+        "city_code": "NBC",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "NBC",
+        "iata_type": "airport",
+        "name": "Begishevo Airport",
+        "coordinates": {
+            "lat": 55.564125,
+            "lon": 52.10341
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Pskov Airport"
+        },
+        "city_code": "PKV",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "PKV",
+        "iata_type": "airport",
+        "name": "Pskov Airport",
+        "coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Grabtsevo Airport"
+        },
+        "city_code": "KLF",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "KLF",
+        "iata_type": "airport",
+        "name": "Grabtsevo Airport",
+        "coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nizhnevartovsk Airport"
+        },
+        "city_code": "NJC",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "NJC",
+        "iata_type": "airport",
+        "name": "Nizhnevartovsk Airport",
+        "coordinates": {
+            "lat": 60.9476,
+            "lon": 76.49145
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Noril'sk Airport"
+        },
+        "city_code": "NSK",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "NSK",
+        "iata_type": "airport",
+        "name": "Noril'sk Airport",
+        "coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Baratayevka"
+        },
+        "city_code": "ULY",
+        "country_code": "RU",
+        "time_zone": "Europe/Samara",
+        "code": "ULV",
+        "iata_type": "airport",
+        "name": "Baratayevka",
+        "coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Tsilma"
+        },
+        "city_code": "UTS",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "UTS",
+        "iata_type": "airport",
+        "name": "Ust-Tsilma",
+        "coordinates": {
+            "lat": 65.433334,
+            "lon": 52.2
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Suntar"
+        },
+        "city_code": "SUY",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "SUY",
+        "iata_type": "airport",
+        "name": "Suntar",
+        "coordinates": {
+            "lat": 62.184723,
+            "lon": 117.63611
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tynda Airport"
+        },
+        "city_code": "TYD",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "TYD",
+        "iata_type": "airport",
+        "name": "Tynda Airport",
+        "coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Okhotsk"
+        },
+        "city_code": "OHO",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "OHO",
+        "iata_type": "airport",
+        "name": "Okhotsk",
+        "coordinates": {
+            "lat": 59.416668,
+            "lon": 143.05
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Murmansk Airport"
+        },
+        "city_code": "MMK",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "MMK",
+        "iata_type": "airport",
+        "name": "Murmansk Airport",
+        "coordinates": {
+            "lat": 68.785095,
+            "lon": 32.759155
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Kuiga"
+        },
+        "city_code": "UKG",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "UKG",
+        "iata_type": "airport",
+        "name": "Ust-Kuiga",
+        "coordinates": {
+            "lat": 70.00139,
+            "lon": 135.54971
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Svetlogorsk"
+        },
+        "city_code": "SES",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "SES",
+        "iata_type": "airport",
+        "name": "Svetlogorsk",
+        "coordinates": {
+            "lat": 66.83833,
+            "lon": 88.40667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Moma"
+        },
+        "city_code": "MQJ",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "MQJ",
+        "iata_type": "airport",
+        "name": "Moma",
+        "coordinates": {
+            "lat": 66.45583,
+            "lon": 143.25305
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Saskylakh Airport"
+        },
+        "city_code": "SYS",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "SYS",
+        "iata_type": "airport",
+        "name": "Saskylakh Airport",
+        "coordinates": {
+            "lat": 71.92606,
+            "lon": 114.08317
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kurumoch International Airport"
+        },
+        "city_code": "KUF",
+        "country_code": "RU",
+        "time_zone": "Europe/Samara",
+        "code": "KUF",
+        "iata_type": "airport",
+        "name": "Kurumoch International Airport",
+        "coordinates": {
+            "lat": 53.50782,
+            "lon": 50.14742
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sokerkino"
+        },
+        "city_code": "KMW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "KMW",
+        "iata_type": "airport",
+        "name": "Sokerkino",
+        "coordinates": {
+            "lat": 57.75,
+            "lon": 40.933334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Berezovo"
+        },
+        "city_code": "EZV",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "EZV",
+        "iata_type": "airport",
+        "name": "Berezovo",
+        "coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Solovky"
+        },
+        "city_code": "CSH",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "CSH",
+        "iata_type": "airport",
+        "name": "Solovky",
+        "coordinates": {
+            "lat": 65.02944,
+            "lon": 35.733334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Shakhtyorsk Airport"
+        },
+        "city_code": "EKS",
+        "country_code": "RU",
+        "time_zone": "Asia/Sakhalin",
+        "code": "EKS",
+        "iata_type": "airport",
+        "name": "Shakhtyorsk Airport",
+        "coordinates": {
+            "lat": 49.190735,
+            "lon": 142.0777
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sakkyryr Airport"
+        },
+        "city_code": "SUK",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "SUK",
+        "iata_type": "airport",
+        "name": "Sakkyryr Airport",
+        "coordinates": {
+            "lat": 67.79257,
+            "lon": 130.39194
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Ilimsk"
+        },
+        "city_code": "UIK",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "UIK",
+        "iata_type": "airport",
+        "name": "Ust-Ilimsk",
+        "coordinates": {
+            "lat": 58.13333,
+            "lon": 102.55
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Cherskiy Airport"
+        },
+        "city_code": "CYX",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "CYX",
+        "iata_type": "airport",
+        "name": "Cherskiy Airport",
+        "coordinates": {
+            "lat": 68.75,
+            "lon": 161.35
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Bogorodskoye"
+        },
+        "city_code": "BQG",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "BQG",
+        "iata_type": "airport",
+        "name": "Bogorodskoye",
+        "coordinates": {
+            "lat": 52.378334,
+            "lon": 140.44833
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Verhnevilyuisk"
+        },
+        "city_code": "VHV",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "VHV",
+        "iata_type": "airport",
+        "name": "Verhnevilyuisk",
+        "coordinates": {
+            "lat": 63.45667,
+            "lon": 120.26444
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Batagay"
+        },
+        "city_code": "BQJ",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "BQJ",
+        "iata_type": "airport",
+        "name": "Batagay",
+        "coordinates": {
+            "lat": 67.655,
+            "lon": 134.64166
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Magadan Airport"
+        },
+        "city_code": "GDX",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "GDX",
+        "iata_type": "airport",
+        "name": "Magadan Airport",
+        "coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Plastun Airport"
+        },
+        "city_code": "TLY",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "TLY",
+        "iata_type": "airport",
+        "name": "Plastun Airport",
+        "coordinates": {
+            "lat": 44.81465,
+            "lon": 136.28928
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vnukovo Airport"
+        },
+        "city_code": "MOW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "VKO",
+        "iata_type": "airport",
+        "name": "Vnukovo Airport",
+        "coordinates": {
+            "lat": 55.60315,
+            "lon": 37.2921
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nikolaevsk-na-Amure"
+        },
+        "city_code": "NLI",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "NLI",
+        "iata_type": "airport",
+        "name": "Nikolaevsk-na-Amure",
+        "coordinates": {
+            "lat": 53.15278,
+            "lon": 140.65028
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Khrabrovo Airport"
+        },
+        "city_code": "KGD",
+        "country_code": "RU",
+        "time_zone": "Europe/Kaliningrad",
+        "code": "KGD",
+        "iata_type": "airport",
+        "name": "Khrabrovo Airport",
+        "coordinates": {
+            "lat": 54.882656,
+            "lon": 20.586645
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Surgut Airport"
+        },
+        "city_code": "SGC",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "SGC",
+        "iata_type": "airport",
+        "name": "Surgut Airport",
+        "coordinates": {
+            "lat": 61.339916,
+            "lon": 73.40953
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Penza Airport"
+        },
+        "city_code": "PEZ",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "PEZ",
+        "iata_type": "airport",
+        "name": "Penza Airport",
+        "coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Maya"
+        },
+        "city_code": "UMS",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "UMS",
+        "iata_type": "airport",
+        "name": "Ust-Maya",
+        "coordinates": {
+            "lat": 60.35806,
+            "lon": 134.43777
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Chumikan"
+        },
+        "city_code": "\u0427\u041c\u0418",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "\u0427\u041c\u0418",
+        "iata_type": "airport",
+        "name": "Chumikan",
+        "coordinates": {
+            "lat": 54.695,
+            "lon": 135.28334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sochi International Airport"
+        },
+        "city_code": "AER",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "AER",
+        "iata_type": "airport",
+        "name": "Sochi International Airport",
+        "coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Inta Airport"
+        },
+        "city_code": "INA",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "INA",
+        "iata_type": "airport",
+        "name": "Inta Airport",
+        "coordinates": {
+            "lat": 66.066666,
+            "lon": 60.1
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Blagoveschensk Airport"
+        },
+        "city_code": "BQS",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "BQS",
+        "iata_type": "airport",
+        "name": "Blagoveschensk Airport",
+        "coordinates": {
+            "lat": 50.416668,
+            "lon": 127.4
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vladivostok International Airport"
+        },
+        "city_code": "VVO",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "VVO",
+        "iata_type": "airport",
+        "name": "Vladivostok International Airport",
+        "coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Yuzhno-Sakhalinsk Airport"
+        },
+        "city_code": "UUS",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "UUS",
+        "iata_type": "airport",
+        "name": "Yuzhno-Sakhalinsk Airport",
+        "coordinates": {
+            "lat": 46.966667,
+            "lon": 142.75
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Dikson"
+        },
+        "city_code": "DKS",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "DKS",
+        "iata_type": "airport",
+        "name": "Dikson",
+        "coordinates": {
+            "lat": 73.51667,
+            "lon": 80.36667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Hatanga Airport"
+        },
+        "city_code": "HTG",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "HTG",
+        "iata_type": "airport",
+        "name": "Hatanga Airport",
+        "coordinates": {
+            "lat": 71.96667,
+            "lon": 102.5
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Iturup"
+        },
+        "city_code": "ITU",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "ITU",
+        "iata_type": "airport",
+        "name": "Iturup",
+        "coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kirensk Airport"
+        },
+        "city_code": "KCK",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "KCK",
+        "iata_type": "airport",
+        "name": "Kirensk Airport",
+        "coordinates": {
+            "lat": 57.772778,
+            "lon": 108.06084
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Gorno-Altaysk Airport"
+        },
+        "city_code": "RGK",
+        "country_code": "RU",
+        "time_zone": "Asia/Novokuznetsk",
+        "code": "RGK",
+        "iata_type": "airport",
+        "name": "Gorno-Altaysk Airport",
+        "coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "May-Gatka"
+        },
+        "city_code": "GVN",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "GVN",
+        "iata_type": "airport",
+        "name": "May-Gatka",
+        "coordinates": {
+            "lat": 48.928535,
+            "lon": 140.01697
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Deputatsky"
+        },
+        "city_code": "DPT",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "DPT",
+        "iata_type": "airport",
+        "name": "Deputatsky",
+        "coordinates": {
+            "lat": 69.39167,
+            "lon": 139.89917
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Moscow Domodedovo Airport"
+        },
+        "city_code": "MOW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "DME",
+        "iata_type": "airport",
+        "name": "Moscow Domodedovo Airport",
+        "coordinates": {
+            "lat": 55.414566,
+            "lon": 37.899494
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Koltsovo International Airport"
+        },
+        "city_code": "SVX",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "SVX",
+        "iata_type": "airport",
+        "name": "Koltsovo International Airport",
+        "coordinates": {
+            "lat": 56.750336,
+            "lon": 60.804314
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Anadyr Airport"
+        },
+        "city_code": "DYR",
+        "country_code": "RU",
+        "time_zone": "Asia/Anadyr",
+        "code": "DYR",
+        "iata_type": "airport",
+        "name": "Anadyr Airport",
+        "coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Zhukovsky International Airport"
+        },
+        "city_code": "MOW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "ZIA",
+        "iata_type": "airport",
+        "name": "Zhukovsky International Airport",
+        "coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Talakan"
+        },
+        "city_code": "TLK",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "TLK",
+        "iata_type": "airport",
+        "name": "Talakan",
+        "coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Keperveyem Airport"
+        },
+        "city_code": "KPW",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "KPW",
+        "iata_type": "airport",
+        "name": "Keperveyem Airport",
+        "coordinates": {
+            "lat": 67.84611,
+            "lon": 166.13722
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kazan International Airport"
+        },
+        "city_code": "KZN",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "KZN",
+        "iata_type": "airport",
+        "name": "Kazan International Airport",
+        "coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Cheboksary Airport"
+        },
+        "city_code": "CSY",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "CSY",
+        "iata_type": "airport",
+        "name": "Cheboksary Airport",
+        "coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sheremetyevo International Airport"
+        },
+        "city_code": "MOW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "SVO",
+        "iata_type": "airport",
+        "name": "Sheremetyevo International Airport",
+        "coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Igrim"
+        },
+        "city_code": "IRM",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "IRM",
+        "iata_type": "airport",
+        "name": "Igrim",
+        "coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Khanty-Mansiysk Airport"
+        },
+        "city_code": "HMA",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "HMA",
+        "iata_type": "airport",
+        "name": "Khanty-Mansiysk Airport",
+        "coordinates": {
+            "lat": 61.02613,
+            "lon": 69.09714
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Srednekolymsk Airport"
+        },
+        "city_code": "SEK",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "SEK",
+        "iata_type": "airport",
+        "name": "Srednekolymsk Airport",
+        "coordinates": {
+            "lat": 67.47972,
+            "lon": 153.735
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kirov Airport"
+        },
+        "city_code": "KVX",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "KVX",
+        "iata_type": "airport",
+        "name": "Kirov Airport",
+        "coordinates": {
+            "lat": 58.5,
+            "lon": 49.35
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Pakhachi"
+        },
+        "city_code": "\u041f\u0410\u0427",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u041f\u0410\u0427",
+        "iata_type": "airport",
+        "name": "Pakhachi",
+        "coordinates": {
+            "lat": 60.55611,
+            "lon": 169.10472
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Talagi Airport"
+        },
+        "city_code": "ARH",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "ARH",
+        "iata_type": "airport",
+        "name": "Talagi Airport",
+        "coordinates": {
+            "lat": 64.594795,
+            "lon": 40.711903
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Zhigansk Airport"
+        },
+        "city_code": "ZIX",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "ZIX",
+        "iata_type": "airport",
+        "name": "Zhigansk Airport",
+        "coordinates": {
+            "lat": 66.79667,
+            "lon": 123.36139
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Pulkovo Airport"
+        },
+        "city_code": "LED",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "LED",
+        "iata_type": "airport",
+        "name": "Pulkovo Airport",
+        "coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Makhachkala Airport"
+        },
+        "city_code": "MCX",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "MCX",
+        "iata_type": "airport",
+        "name": "Makhachkala Airport",
+        "coordinates": {
+            "lat": 42.82095,
+            "lon": 47.65611
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Pechora Airport"
+        },
+        "city_code": "PEX",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "PEX",
+        "iata_type": "airport",
+        "name": "Pechora Airport",
+        "coordinates": {
+            "lat": 65.11667,
+            "lon": 57.13333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tobolsk (Remezov)"
+        },
+        "city_code": "RMZ",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "RMZ",
+        "iata_type": "airport",
+        "name": "Tobolsk (Remezov)",
+        "coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Zheleznogorsk"
+        },
+        "city_code": "\u0416\u0415\u0417",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "\u0416\u0415\u0417",
+        "iata_type": "airport",
+        "name": "Zheleznogorsk",
+        "coordinates": {
+            "lat": 57.617626,
+            "lon": 79.46004
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Yamburg"
+        },
+        "city_code": "\u042f\u041c\u0411",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "\u042f\u041c\u0411",
+        "iata_type": "airport",
+        "name": "Yamburg",
+        "coordinates": {
+            "lat": 67.988335,
+            "lon": 75.09695
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Khuzhir"
+        },
+        "city_code": "\u0425\u0416\u0420",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "\u0425\u0416\u0420",
+        "iata_type": "airport",
+        "name": "Khuzhir",
+        "coordinates": {
+            "lat": 53.216667,
+            "lon": 107.395
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Shushenskoe"
+        },
+        "city_code": "\u0428\u0423\u0428",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "\u0428\u0423\u0428",
+        "iata_type": "airport",
+        "name": "Shushenskoe",
+        "coordinates": {
+            "lat": 53.385555,
+            "lon": 92.04472
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kogalym International Airport"
+        },
+        "city_code": "KGP",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "KGP",
+        "iata_type": "airport",
+        "name": "Kogalym International Airport",
+        "coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Khayryuzovo"
+        },
+        "city_code": "\u0423\u0425\u0419",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u0423\u0425\u0419",
+        "iata_type": "airport",
+        "name": "Ust-Khayryuzovo",
+        "coordinates": {
+            "lat": 57.099167,
+            "lon": 156.73584
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Mirnyj Airport"
+        },
+        "city_code": "MJZ",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "MJZ",
+        "iata_type": "airport",
+        "name": "Mirnyj Airport",
+        "coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nizhneangarsk"
+        },
+        "city_code": "NZG",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "NZG",
+        "iata_type": "airport",
+        "name": "Nizhneangarsk",
+        "coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Gornyj"
+        },
+        "city_code": "GOY",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "GOY",
+        "iata_type": "airport",
+        "name": "Gornyj",
+        "coordinates": {
+            "lat": 64.333336,
+            "lon": 100.433334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Beringovskiy"
+        },
+        "city_code": "\u0411\u041d\u0413",
+        "country_code": "RU",
+        "time_zone": "Asia/Anadyr",
+        "code": "\u0411\u041d\u0413",
+        "iata_type": "airport",
+        "name": "Beringovskiy",
+        "coordinates": {
+            "lat": 63.020832,
+            "lon": 179.29056
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vaskovo"
+        },
+        "city_code": "ARH",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "VKV",
+        "iata_type": "airport",
+        "name": "Vaskovo",
+        "coordinates": {
+            "lat": 64.441666,
+            "lon": 40.422222
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Seymchan"
+        },
+        "city_code": "\u0421\u041c\u0427",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u0421\u041c\u0427",
+        "iata_type": "airport",
+        "name": "Seymchan",
+        "coordinates": {
+            "lat": 62.916668,
+            "lon": 152.41667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Susuman"
+        },
+        "city_code": "\u0421\u0421\u041c",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u0421\u0421\u041c",
+        "iata_type": "airport",
+        "name": "Susuman",
+        "coordinates": {
+            "lat": 62.76722,
+            "lon": 148.1461
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kemerovo Airport"
+        },
+        "city_code": "KEJ",
+        "country_code": "RU",
+        "time_zone": "Asia/Novokuznetsk",
+        "code": "KEJ",
+        "iata_type": "airport",
+        "name": "Kemerovo Airport",
+        "coordinates": {
+            "lat": 55.280567,
+            "lon": 86.11623
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Lavrentija"
+        },
+        "city_code": "\u0417\u041b\u0410",
+        "country_code": "RU",
+        "time_zone": "Asia/Anadyr",
+        "code": "\u0417\u041b\u0410",
+        "iata_type": "airport",
+        "name": "Lavrentija",
+        "coordinates": {
+            "lat": 65.583336,
+            "lon": -171.01334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Taksimo"
+        },
+        "city_code": "TKM",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "TKM",
+        "iata_type": "airport",
+        "name": "Taksimo",
+        "coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Astrakhan Airport"
+        },
+        "city_code": "ASF",
+        "country_code": "RU",
+        "time_zone": "Europe/Samara",
+        "code": "ASF",
+        "iata_type": "airport",
+        "name": "Astrakhan Airport",
+        "coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Severo-Kurilsk"
+        },
+        "city_code": "\u0421\u041a\u0420",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u0421\u041a\u0420",
+        "iata_type": "airport",
+        "name": "Severo-Kurilsk",
+        "coordinates": {
+            "lat": 50.68333,
+            "lon": 156.11667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Orsk Airport"
+        },
+        "city_code": "OSW",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "OSW",
+        "iata_type": "airport",
+        "name": "Orsk Airport",
+        "coordinates": {
+            "lat": 51.2,
+            "lon": 58.566666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Anapa Airport"
+        },
+        "city_code": "AAQ",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "AAQ",
+        "iata_type": "airport",
+        "name": "Anapa Airport",
+        "coordinates": {
+            "lat": 44.9,
+            "lon": 37.316666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Gelendzik Airport"
+        },
+        "city_code": "GDZ",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "GDZ",
+        "iata_type": "airport",
+        "name": "Gelendzik Airport",
+        "coordinates": {
+            "lat": 44.566666,
+            "lon": 38.016666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Dalnerechensk"
+        },
+        "city_code": "DLR",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "DLR",
+        "iata_type": "airport",
+        "name": "Dalnerechensk",
+        "coordinates": {
+            "lat": 45.876667,
+            "lon": 133.735
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Belgorod Airport"
+        },
+        "city_code": "EGO",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "EGO",
+        "iata_type": "airport",
+        "name": "Belgorod Airport",
+        "coordinates": {
+            "lat": 50.63333,
+            "lon": 36.65
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Bryansk International Airport"
+        },
+        "city_code": "BZK",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "BZK",
+        "iata_type": "airport",
+        "name": "Bryansk International Airport",
+        "coordinates": {
+            "lat": 53.266666,
+            "lon": 34.333332
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Naryan-Mar Airport"
+        },
+        "city_code": "NNM",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "NNM",
+        "iata_type": "airport",
+        "name": "Naryan-Mar Airport",
+        "coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Barnaul Airport"
+        },
+        "city_code": "BAX",
+        "country_code": "RU",
+        "time_zone": "Asia/Novokuznetsk",
+        "code": "BAX",
+        "iata_type": "airport",
+        "name": "Barnaul Airport",
+        "coordinates": {
+            "lat": 53.361088,
+            "lon": 83.547646
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kursk Vostochny Airport"
+        },
+        "city_code": "URS",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "URS",
+        "iata_type": "airport",
+        "name": "Kursk Vostochny Airport",
+        "coordinates": {
+            "lat": 51.75,
+            "lon": 36.266666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Voronezh Airport"
+        },
+        "city_code": "VOZ",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "VOZ",
+        "iata_type": "airport",
+        "name": "Voronezh Airport",
+        "coordinates": {
+            "lat": 51.812355,
+            "lon": 39.226997
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nizhny Novgorod International Airport"
+        },
+        "city_code": "GOJ",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "GOJ",
+        "iata_type": "airport",
+        "name": "Nizhny Novgorod International Airport",
+        "coordinates": {
+            "lat": 56.218613,
+            "lon": 43.789764
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Belaya Gora Airport"
+        },
+        "city_code": "BGN",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "BGN",
+        "iata_type": "airport",
+        "name": "Belaya Gora Airport",
+        "coordinates": {
+            "lat": 68.538055,
+            "lon": 146.18584
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Poronaisk"
+        },
+        "city_code": "\u041f\u0410\u0419",
+        "country_code": "RU",
+        "time_zone": "Asia/Sakhalin",
+        "code": "\u041f\u0410\u0419",
+        "iata_type": "airport",
+        "name": "Poronaisk",
+        "coordinates": {
+            "lat": 49.21667,
+            "lon": 143.1
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kirovsk Airport"
+        },
+        "city_code": "KVK",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "KVK",
+        "iata_type": "airport",
+        "name": "Kirovsk Airport",
+        "coordinates": {
+            "lat": 67.583336,
+            "lon": 33.583332
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nogliki Airport"
+        },
+        "city_code": "NGK",
+        "country_code": "RU",
+        "time_zone": "Asia/Sakhalin",
+        "code": "NGK",
+        "iata_type": "airport",
+        "name": "Nogliki Airport",
+        "coordinates": {
+            "lat": 51.8,
+            "lon": 143.16667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Leshukonskoye"
+        },
+        "city_code": "LDG",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "LDG",
+        "iata_type": "airport",
+        "name": "Leshukonskoye",
+        "coordinates": {
+            "lat": 64.9,
+            "lon": 45.75
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Krabozavodskoye"
+        },
+        "city_code": "\u041a\u0411\u0417",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u041a\u0411\u0417",
+        "iata_type": "airport",
+        "name": "Krabozavodskoye",
+        "coordinates": {
+            "lat": 43.83028,
+            "lon": 146.75166
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kazachinskoye"
+        },
+        "city_code": "\u041a\u0417\u0427",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "\u041a\u0417\u0427",
+        "iata_type": "airport",
+        "name": "Kazachinskoye",
+        "coordinates": {
+            "lat": 56.268333,
+            "lon": 107.57333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Bugulma Airport"
+        },
+        "city_code": "UUA",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "UUA",
+        "iata_type": "airport",
+        "name": "Bugulma Airport",
+        "coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Severo-Evensk Airport"
+        },
+        "city_code": "SWV",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "SWV",
+        "iata_type": "airport",
+        "name": "Severo-Evensk Airport",
+        "coordinates": {
+            "lat": 61.924442,
+            "lon": 159.23111
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Yagodnoe"
+        },
+        "city_code": "\u042f\u0413\u041e",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u042f\u0413\u041e",
+        "iata_type": "airport",
+        "name": "Yagodnoe",
+        "coordinates": {
+            "lat": 62.545113,
+            "lon": 149.52533
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Perm International Airport"
+        },
+        "city_code": "PEE",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "PEE",
+        "iata_type": "airport",
+        "name": "Perm International Airport",
+        "coordinates": {
+            "lat": 57.920025,
+            "lon": 56.01918
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sinegorye"
+        },
+        "city_code": "\u0421\u041d\u0413",
+        "country_code": "RU",
+        "time_zone": "Asia/Magadan",
+        "code": "\u0421\u041d\u0413",
+        "iata_type": "airport",
+        "name": "Sinegorye",
+        "coordinates": {
+            "lat": 62.260635,
+            "lon": 150.75082
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Cherepovets Airport"
+        },
+        "city_code": "CEE",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "CEE",
+        "iata_type": "airport",
+        "name": "Cherepovets Airport",
+        "coordinates": {
+            "lat": 59.283333,
+            "lon": 38.066666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tunoshna Airport"
+        },
+        "city_code": "IAR",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "IAR",
+        "iata_type": "airport",
+        "name": "Tunoshna Airport",
+        "coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Manily"
+        },
+        "city_code": "\u041c\u0418\u041b",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u041c\u0418\u041b",
+        "iata_type": "airport",
+        "name": "Manily",
+        "coordinates": {
+            "lat": 62.485832,
+            "lon": 165.3364
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Chokurdah Airport"
+        },
+        "city_code": "CKH",
+        "country_code": "RU",
+        "time_zone": "Asia/Srednekolymsk",
+        "code": "CKH",
+        "iata_type": "airport",
+        "name": "Chokurdah Airport",
+        "coordinates": {
+            "lat": 70.63333,
+            "lon": 147.88333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Velikij Ustyug Airport"
+        },
+        "city_code": "VUS",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "VUS",
+        "iata_type": "airport",
+        "name": "Velikij Ustyug Airport",
+        "coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Strezhevoy Airport"
+        },
+        "city_code": "SWT",
+        "country_code": "RU",
+        "time_zone": "Asia/Novosibirsk",
+        "code": "SWT",
+        "iata_type": "airport",
+        "name": "Strezhevoy Airport",
+        "coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Chita Airport"
+        },
+        "city_code": "HTA",
+        "country_code": "RU",
+        "time_zone": "Asia/Chita",
+        "code": "HTA",
+        "iata_type": "airport",
+        "name": "Chita Airport",
+        "coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vorkuta Airport"
+        },
+        "city_code": "VKT",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "VKT",
+        "iata_type": "airport",
+        "name": "Vorkuta Airport",
+        "coordinates": {
+            "lat": 67.48333,
+            "lon": 63.983334
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust-Kut Airport"
+        },
+        "city_code": "UKX",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "UKX",
+        "iata_type": "airport",
+        "name": "Ust-Kut Airport",
+        "coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Izhevsk Airport"
+        },
+        "city_code": "IJK",
+        "country_code": "RU",
+        "time_zone": "Europe/Samara",
+        "code": "IJK",
+        "iata_type": "airport",
+        "name": "Izhevsk Airport",
+        "coordinates": {
+            "lat": 56.833332,
+            "lon": 53.466667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Usinsk Airport"
+        },
+        "city_code": "USK",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "USK",
+        "iata_type": "airport",
+        "name": "Usinsk Airport",
+        "coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Krasnodar International Airport"
+        },
+        "city_code": "KRR",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "KRR",
+        "iata_type": "airport",
+        "name": "Krasnodar International Airport",
+        "coordinates": {
+            "lat": 45.034138,
+            "lon": 39.139004
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Lipetsk Airport"
+        },
+        "city_code": "LPK",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "LPK",
+        "iata_type": "airport",
+        "name": "Lipetsk Airport",
+        "coordinates": {
+            "lat": 52.61667,
+            "lon": 39.6
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Olokminsk Airport"
+        },
+        "city_code": "OLZ",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "OLZ",
+        "iata_type": "airport",
+        "name": "Olokminsk Airport",
+        "coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Groznyy Airport"
+        },
+        "city_code": "GRV",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "GRV",
+        "iata_type": "airport",
+        "name": "Groznyy Airport",
+        "coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nalchik Airport"
+        },
+        "city_code": "NAL",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "NAL",
+        "iata_type": "airport",
+        "name": "Nalchik Airport",
+        "coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Dalnegorsk"
+        },
+        "city_code": "DHG",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "DHG",
+        "iata_type": "airport",
+        "name": "Dalnegorsk",
+        "coordinates": {
+            "lat": 44.55892,
+            "lon": 135.49123
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Zonalnoye"
+        },
+        "city_code": "ZZO",
+        "country_code": "RU",
+        "time_zone": "Asia/Sakhalin",
+        "code": "ZZO",
+        "iata_type": "airport",
+        "name": "Zonalnoye",
+        "coordinates": {
+            "lat": 50.666668,
+            "lon": 142.75
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Platov International Airport"
+        },
+        "city_code": "ROV",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "ROV",
+        "iata_type": "airport",
+        "name": "Platov International Airport",
+        "coordinates": {
+            "lat": 47.49417,
+            "lon": 39.92472
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Zaliv Kresta"
+        },
+        "city_code": "\u042d\u0413\u0422",
+        "country_code": "RU",
+        "time_zone": "Asia/Anadyr",
+        "code": "\u042d\u0413\u0422",
+        "iata_type": "airport",
+        "name": "Zaliv Kresta",
+        "coordinates": {
+            "lat": 66.35833,
+            "lon": 179.11
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nojabrxsk Airport"
+        },
+        "city_code": "NOJ",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "NOJ",
+        "iata_type": "airport",
+        "name": "Nojabrxsk Airport",
+        "coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Mama"
+        },
+        "city_code": "\u041c\u0410\u041c",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "\u041c\u0410\u041c",
+        "iata_type": "airport",
+        "name": "Mama",
+        "coordinates": {
+            "lat": 58.3,
+            "lon": 112.88333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ust'-Koksa"
+        },
+        "city_code": "\u0423\u041a\u041e",
+        "country_code": "RU",
+        "time_zone": "Asia/Novosibirsk",
+        "code": "\u0423\u041a\u041e",
+        "iata_type": "airport",
+        "name": "Ust'-Koksa",
+        "coordinates": {
+            "lat": 50.263557,
+            "lon": 85.710144
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kherpuchi"
+        },
+        "city_code": "\u0425\u0420\u041f",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "\u0425\u0420\u041f",
+        "iata_type": "airport",
+        "name": "Kherpuchi",
+        "coordinates": {
+            "lat": 52.975,
+            "lon": 138.81667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sangar"
+        },
+        "city_code": "\u0421\u0410\u0413",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "\u0421\u0410\u0413",
+        "iata_type": "airport",
+        "name": "Sangar",
+        "coordinates": {
+            "lat": 63.95889,
+            "lon": 127.42111
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nelkan"
+        },
+        "city_code": "\u041d\u041b\u041d",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "\u041d\u041b\u041d",
+        "iata_type": "airport",
+        "name": "Nelkan",
+        "coordinates": {
+            "lat": 57.641666,
+            "lon": 136.16167
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vladikavkaz Airport"
+        },
+        "city_code": "OGZ",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "OGZ",
+        "iata_type": "airport",
+        "name": "Vladikavkaz Airport",
+        "coordinates": {
+            "lat": 43.2,
+            "lon": 44.6
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sobolevo"
+        },
+        "city_code": "\u0421\u0411\u041e",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u0421\u0411\u041e",
+        "iata_type": "airport",
+        "name": "Sobolevo",
+        "coordinates": {
+            "lat": 54.306946,
+            "lon": 155.97417
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Motygino"
+        },
+        "city_code": "MJY",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "MJY",
+        "iata_type": "airport",
+        "name": "Motygino",
+        "coordinates": {
+            "lat": 58.180832,
+            "lon": 94.74472
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Stary Oskol"
+        },
+        "city_code": "\u0421\u041e\u041b",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "\u0421\u041e\u041b",
+        "iata_type": "airport",
+        "name": "Stary Oskol",
+        "coordinates": {
+            "lat": 51.328335,
+            "lon": 37.766666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Igarka Airport"
+        },
+        "city_code": "IAA",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "IAA",
+        "iata_type": "airport",
+        "name": "Igarka Airport",
+        "coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Sabetta"
+        },
+        "city_code": "SBT",
+        "country_code": "RU",
+        "time_zone": "Asia/Dushanbe",
+        "code": "SBT",
+        "iata_type": "airport",
+        "name": "Sabetta",
+        "coordinates": {
+            "lat": 72.1028,
+            "lon": 71.25
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Boguchany"
+        },
+        "city_code": "BGS",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "BGS",
+        "iata_type": "airport",
+        "name": "Boguchany",
+        "coordinates": {
+            "lat": 58.380554,
+            "lon": 97.47278
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ajan"
+        },
+        "city_code": "\u0410\u042f\u041d",
+        "country_code": "RU",
+        "time_zone": "Asia/Vladivostok",
+        "code": "\u0410\u042f\u041d",
+        "iata_type": "airport",
+        "name": "Ajan",
+        "coordinates": {
+            "lat": 56.43028,
+            "lon": 138.04973
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Krasny Chikoy"
+        },
+        "city_code": "\u041a\u0421\u0427",
+        "country_code": "RU",
+        "time_zone": "Asia/Chita",
+        "code": "\u041a\u0421\u0427",
+        "iata_type": "airport",
+        "name": "Krasny Chikoy",
+        "coordinates": {
+            "lat": 50.370834,
+            "lon": 108.76444
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Laitamak"
+        },
+        "city_code": "\u041b\u0410\u0419",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "\u041b\u0410\u0419",
+        "iata_type": "airport",
+        "name": "Laitamak",
+        "coordinates": {
+            "lat": 58.411945,
+            "lon": 67.458336
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Mendeleyevo Airport"
+        },
+        "city_code": "DEE",
+        "country_code": "RU",
+        "time_zone": "Asia/Sakhalin",
+        "code": "DEE",
+        "iata_type": "airport",
+        "name": "Mendeleyevo Airport",
+        "coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tilichiki"
+        },
+        "city_code": "\u0422\u0418\u041b",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u0422\u0418\u041b",
+        "iata_type": "airport",
+        "name": "Tilichiki",
+        "coordinates": {
+            "lat": 60.385277,
+            "lon": 166.02556
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nikolskoe"
+        },
+        "city_code": "\u041d\u0418\u041a",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u041d\u0418\u041a",
+        "iata_type": "airport",
+        "name": "Nikolskoe",
+        "coordinates": {
+            "lat": 55.1775,
+            "lon": 166.045
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Mezen"
+        },
+        "city_code": "\u041c\u0417\u041d",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "\u041c\u0417\u041d",
+        "iata_type": "airport",
+        "name": "Mezen",
+        "coordinates": {
+            "lat": 65.878334,
+            "lon": 44.216946
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vladimir"
+        },
+        "city_code": "\u0412\u041b\u041c",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "\u0412\u041b\u041c",
+        "iata_type": "airport",
+        "name": "Vladimir",
+        "coordinates": {
+            "lat": 56.126667,
+            "lon": 40.316666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kuskurgul"
+        },
+        "city_code": "\u041a\u0413\u042c",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "\u041a\u0413\u042c",
+        "iata_type": "airport",
+        "name": "Kuskurgul",
+        "coordinates": {
+            "lat": 58.091667,
+            "lon": 66.605
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kodinsk"
+        },
+        "city_code": "KNY",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "KNY",
+        "iata_type": "airport",
+        "name": "Kodinsk",
+        "coordinates": {
+            "lat": 58.48,
+            "lon": 99.095
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Krasnokamensk"
+        },
+        "city_code": "\u041a\u041d\u041a",
+        "country_code": "RU",
+        "time_zone": "Asia/Chita",
+        "code": "\u041a\u041d\u041a",
+        "iata_type": "airport",
+        "name": "Krasnokamensk",
+        "coordinates": {
+            "lat": 50.05,
+            "lon": 118.11667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nyurba Airport"
+        },
+        "city_code": "NYR",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "NYR",
+        "iata_type": "airport",
+        "name": "Nyurba Airport",
+        "coordinates": {
+            "lat": 63.297222,
+            "lon": 118.34695
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Severo-Eniseyskij"
+        },
+        "city_code": "VEO",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "VEO",
+        "iata_type": "airport",
+        "name": "Severo-Eniseyskij",
+        "coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Polyarnyj Airport"
+        },
+        "city_code": "PYJ",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "PYJ",
+        "iata_type": "airport",
+        "name": "Polyarnyj Airport",
+        "coordinates": {
+            "lat": 66.416664,
+            "lon": 112.05
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Olenyok Airport"
+        },
+        "city_code": "ONK",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "ONK",
+        "iata_type": "airport",
+        "name": "Olenyok Airport",
+        "coordinates": {
+            "lat": 68.51556,
+            "lon": 112.479164
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Bodaybo Airport"
+        },
+        "city_code": "ODO",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "ODO",
+        "iata_type": "airport",
+        "name": "Bodaybo Airport",
+        "coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Yakutsk Airport"
+        },
+        "city_code": "YKS",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "YKS",
+        "iata_type": "airport",
+        "name": "Yakutsk Airport",
+        "coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kotlas Airport"
+        },
+        "city_code": "KSZ",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "KSZ",
+        "iata_type": "airport",
+        "name": "Kotlas Airport",
+        "coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Elista Airport"
+        },
+        "city_code": "ESL",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "ESL",
+        "iata_type": "airport",
+        "name": "Elista Airport",
+        "coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Novosibirsk Tolmachevo Airport"
+        },
+        "city_code": "OVB",
+        "country_code": "RU",
+        "time_zone": "Asia/Novosibirsk",
+        "code": "OVB",
+        "iata_type": "airport",
+        "name": "Novosibirsk Tolmachevo Airport",
+        "coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Orenburg Airport"
+        },
+        "city_code": "REN",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "REN",
+        "iata_type": "airport",
+        "name": "Orenburg Airport",
+        "coordinates": {
+            "lat": 51.79105,
+            "lon": 55.4567
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tomsk Airport"
+        },
+        "city_code": "TOF",
+        "country_code": "RU",
+        "time_zone": "Asia/Tomsk",
+        "code": "TOF",
+        "iata_type": "airport",
+        "name": "Tomsk Airport",
+        "coordinates": {
+            "lat": 56.5,
+            "lon": 84.96667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Krasnoselkup"
+        },
+        "city_code": "KKQ",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "KKQ",
+        "iata_type": "airport",
+        "name": "Krasnoselkup",
+        "coordinates": {
+            "lat": 65.70796,
+            "lon": 82.456055
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Neryungri Airport"
+        },
+        "city_code": "NER",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "NER",
+        "iata_type": "airport",
+        "name": "Neryungri Airport",
+        "coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Chara"
+        },
+        "city_code": "CZR",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "CZR",
+        "iata_type": "airport",
+        "name": "Chara",
+        "coordinates": {
+            "lat": 56.914722,
+            "lon": 118.270836
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Volgograd International Airport"
+        },
+        "city_code": "VOG",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "VOG",
+        "iata_type": "airport",
+        "name": "Volgograd International Airport",
+        "coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Turukhansk Airport"
+        },
+        "city_code": "THX",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "THX",
+        "iata_type": "airport",
+        "name": "Turukhansk Airport",
+        "coordinates": {
+            "lat": 65.79722,
+            "lon": 87.93528
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Lensk Airport"
+        },
+        "city_code": "ULK",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "ULK",
+        "iata_type": "airport",
+        "name": "Lensk Airport",
+        "coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Bovanenkovo"
+        },
+        "city_code": "BVJ",
+        "country_code": "RU",
+        "time_zone": "Asia/Dushanbe",
+        "code": "BVJ",
+        "iata_type": "airport",
+        "name": "Bovanenkovo",
+        "coordinates": {
+            "lat": 70.31528,
+            "lon": 68.33361
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tarko-Sale"
+        },
+        "city_code": "TQL",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "TQL",
+        "iata_type": "airport",
+        "name": "Tarko-Sale",
+        "coordinates": {
+            "lat": 64.92134,
+            "lon": 77.797356
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tigil"
+        },
+        "city_code": "\u0422\u0418\u0413",
+        "country_code": "RU",
+        "time_zone": "Asia/Kamchatka",
+        "code": "\u0422\u0418\u0413",
+        "iata_type": "airport",
+        "name": "Tigil",
+        "coordinates": {
+            "lat": 57.783333,
+            "lon": 158.72667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Magnitogorsk Airport"
+        },
+        "city_code": "MQF",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "MQF",
+        "iata_type": "airport",
+        "name": "Magnitogorsk Airport",
+        "coordinates": {
+            "lat": 53.45,
+            "lon": 59.066666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Vologda Airport"
+        },
+        "city_code": "VGD",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "VGD",
+        "iata_type": "airport",
+        "name": "Vologda Airport",
+        "coordinates": {
+            "lat": 59.283333,
+            "lon": 39.95
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Tiksi Airport"
+        },
+        "city_code": "IKS",
+        "country_code": "RU",
+        "time_zone": "Asia/Yakutsk",
+        "code": "IKS",
+        "iata_type": "airport",
+        "name": "Tiksi Airport",
+        "coordinates": {
+            "lat": 71.7,
+            "lon": 128.9
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Kurgan Airport"
+        },
+        "city_code": "KRO",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "KRO",
+        "iata_type": "airport",
+        "name": "Kurgan Airport",
+        "coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Petrozavodsk Airport"
+        },
+        "city_code": "PES",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "PES",
+        "iata_type": "airport",
+        "name": "Petrozavodsk Airport",
+        "coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Saransk Airport"
+        },
+        "city_code": "SKX",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "SKX",
+        "iata_type": "airport",
+        "name": "Saransk Airport",
+        "coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Pevek Airport"
+        },
+        "city_code": "PWE",
+        "country_code": "RU",
+        "time_zone": "Asia/Anadyr",
+        "code": "PWE",
+        "iata_type": "airport",
+        "name": "Pevek Airport",
+        "coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ulan-Ude Airport"
+        },
+        "city_code": "UUD",
+        "country_code": "RU",
+        "time_zone": "Asia/Irkutsk",
+        "code": "UUD",
+        "iata_type": "airport",
+        "name": "Ulan-Ude Airport",
+        "coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Yoshkar-Ola Airport"
+        },
+        "city_code": "JOK",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "JOK",
+        "iata_type": "airport",
+        "name": "Yoshkar-Ola Airport",
+        "coordinates": {
+            "lat": 56.716667,
+            "lon": 47.9
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Podkamennaya Tunguska Airport"
+        },
+        "city_code": "TGP",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "TGP",
+        "iata_type": "airport",
+        "name": "Podkamennaya Tunguska Airport",
+        "coordinates": {
+            "lat": 61.59,
+            "lon": 89.97945
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Krasnoyarsk International Airport"
+        },
+        "city_code": "KJA",
+        "country_code": "RU",
+        "time_zone": "Asia/Krasnoyarsk",
+        "code": "KJA",
+        "iata_type": "airport",
+        "name": "Krasnoyarsk International Airport",
+        "coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ukhta Airport"
+        },
+        "city_code": "UCT",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "UCT",
+        "iata_type": "airport",
+        "name": "Ukhta Airport",
+        "coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ivanovo Yuzhny Airport"
+        },
+        "city_code": "IWA",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "IWA",
+        "iata_type": "airport",
+        "name": "Ivanovo Yuzhny Airport",
+        "coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nadym Airport"
+        },
+        "city_code": "NYM",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "NYM",
+        "iata_type": "airport",
+        "name": "Nadym Airport",
+        "coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Nyagan Airport"
+        },
+        "city_code": "NYA",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "NYA",
+        "iata_type": "airport",
+        "name": "Nyagan Airport",
+        "coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Novokuznetsk Airport"
+        },
+        "city_code": "NOZ",
+        "country_code": "RU",
+        "time_zone": "Asia/Novokuznetsk",
+        "code": "NOZ",
+        "iata_type": "airport",
+        "name": "Novokuznetsk Airport",
+        "coordinates": {
+            "lat": 53.75,
+            "lon": 87.166664
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Uraj Airport"
+        },
+        "city_code": "URJ",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "URJ",
+        "iata_type": "airport",
+        "name": "Uraj Airport",
+        "coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Syktyvkar Airport"
+        },
+        "city_code": "SCW",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "SCW",
+        "iata_type": "airport",
+        "name": "Syktyvkar Airport",
+        "coordinates": {
+            "lat": 61.666668,
+            "lon": 50.766666
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Ufa International Airport"
+        },
+        "city_code": "UFA",
+        "country_code": "RU",
+        "time_zone": "Asia/Yekaterinburg",
+        "code": "UFA",
+        "iata_type": "airport",
+        "name": "Ufa International Airport",
+        "coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "flightable": true
+    },
+    {
+        "name_translations": {
+            "en": "Mineralnye Vody Airport"
+        },
+        "city_code": "MRV",
+        "country_code": "RU",
+        "time_zone": "Europe/Moscow",
+        "code": "MRV",
+        "iata_type": "airport",
+        "name": "Mineralnye Vody Airport",
+        "coordinates": {
+            "lat": 44.218105,
+            "lon": 43.085815
+        },
+        "flightable": true
+    }
+]

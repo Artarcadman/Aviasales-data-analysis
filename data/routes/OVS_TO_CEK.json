@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-24T15:30:00+05:00",
+        "origin": "OVS",
+        "destination": "CEK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:36:02Z",
+        "trip_class": 0,
+        "value": 17263,
+        "number_of_changes": 2,
+        "duration": 2220,
+        "distance": 681,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "336",
+        "link": "/search/OVS2411CEK1?t=U617324622001732595400002220OVSSVXLEDCEK_fa21a9b90861c6092b7adea0d46c75b5_17140&search_date=22112024&expected_price_uuid=35ed460b-52e5-428b-973d-1588e4707402&expected_price_source=share&expected_price_currency=rub&expected_price=17263",
+        "origin_airport": "OVS",
+        "destination_airport": "CEK",
+        "departure_at": "2024-11-24T15:30:00+05:00",
+        "airline": "UT",
+        "price": 17263,
+        "return_transfers": 0,
+        "duration_to": 480,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Chelyabinsk International Airport",
+        "destination_city_code": "CEK",
+        "destination_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-26T15:30:00+05:00",
+        "origin": "OVS",
+        "destination": "CEK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T14:24:36Z",
+        "trip_class": 0,
+        "value": 21382,
+        "number_of_changes": 2,
+        "duration": 1995,
+        "distance": 681,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "336",
+        "link": "/search/OVS2612CEK1?t=UT17352270001735346700001995OVSSVXKZNCEK_13f580ecb9e9d361ca0eba2c202185d8_21507&search_date=24112024&expected_price_uuid=a1c17902-bad8-4260-afc4-6559bca81802&expected_price_source=share&expected_price_currency=rub&expected_price=21382",
+        "origin_airport": "OVS",
+        "destination_airport": "CEK",
+        "departure_at": "2024-12-26T15:30:00+05:00",
+        "airline": "UT",
+        "price": 21382,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Chelyabinsk International Airport",
+        "destination_city_code": "CEK",
+        "destination_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

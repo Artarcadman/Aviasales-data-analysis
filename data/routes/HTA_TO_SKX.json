@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T08:00:00+09:00",
+        "origin": "HTA",
+        "destination": "SKX",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T09:41:40Z",
+        "trip_class": 0,
+        "value": 36649,
+        "number_of_changes": 1,
+        "duration": 1185,
+        "distance": 4375,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "623",
+        "link": "/search/HTA2711SKX1?t=U617326944001732743900001185HTALEDSKX_2c5efdba20e550c15d888953e8c5f2ee_36863&search_date=24112024&expected_price_uuid=5aa21fc1-31ca-483d-abf6-ee811dbb8198&expected_price_source=share&expected_price_currency=rub&expected_price=36649",
+        "origin_airport": "HTA",
+        "destination_airport": "SKX",
+        "departure_at": "2024-11-27T08:00:00+09:00",
+        "airline": "U6",
+        "price": 36649,
+        "return_transfers": 0,
+        "duration_to": 865,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-27T09:20:00+09:00",
+        "origin": "HTA",
+        "destination": "SKX",
+        "gate": "Мой Агент",
+        "return_date": "",
+        "found_at": "2024-11-21T08:47:33Z",
+        "trip_class": 0,
+        "value": 37491,
+        "number_of_changes": 1,
+        "duration": 1075,
+        "distance": 4375,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "94",
+        "link": "/search/HTA2712SKX1?t=U617352912001735334100001075HTADMESVOSKX_f79b398db12fa0be155ce20211a13082_37289&search_date=21112024&expected_price_uuid=e074e340-025b-4703-9361-7649aa78ee00&expected_price_source=share&expected_price_currency=rub&expected_price=37491",
+        "origin_airport": "HTA",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-27T09:20:00+09:00",
+        "airline": "U6",
+        "price": 37491,
+        "return_transfers": 0,
+        "duration_to": 520,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

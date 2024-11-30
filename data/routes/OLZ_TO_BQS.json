@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-29T18:00:00+09:00",
+        "origin": "OLZ",
+        "destination": "BQS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T07:14:25Z",
+        "trip_class": 0,
+        "value": 35354,
+        "number_of_changes": 1,
+        "duration": 2330,
+        "distance": 1191,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/OLZ2911BQS1?t=IO17329032001733043000002330OLZIKTBQS_790622d91cb62adf2c7079cac669e90f_34335&search_date=22112024&expected_price_uuid=d1ebee08-3c11-4be3-b6cf-b12b701904d8&expected_price_source=share&expected_price_currency=rub&expected_price=35354",
+        "origin_airport": "OLZ",
+        "destination_airport": "BQS",
+        "departure_at": "2024-11-29T18:00:00+09:00",
+        "airline": "IO",
+        "price": 35354,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Blagoveschensk Airport",
+        "destination_city_code": "BQS",
+        "destination_coordinates": {
+            "lat": 50.416668,
+            "lon": 127.4
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-27T18:00:00+09:00",
+        "origin": "OLZ",
+        "destination": "BQS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T07:14:19Z",
+        "trip_class": 0,
+        "value": 50542,
+        "number_of_changes": 1,
+        "duration": 2335,
+        "distance": 1191,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/OLZ2711BQS1?t=IO17327304001732870500002335OLZIKTBQS_6ea47c9379be124fd994e8189a1f03e0_49085&search_date=22112024&expected_price_uuid=593013d2-d869-4a85-89bd-a8acf905b96c&expected_price_source=share&expected_price_currency=rub&expected_price=50542",
+        "origin_airport": "OLZ",
+        "destination_airport": "BQS",
+        "departure_at": "2024-11-27T18:00:00+09:00",
+        "airline": "IO",
+        "price": 50542,
+        "return_transfers": 0,
+        "duration_to": 460,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Blagoveschensk Airport",
+        "destination_city_code": "BQS",
+        "destination_coordinates": {
+            "lat": 50.416668,
+            "lon": 127.4
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

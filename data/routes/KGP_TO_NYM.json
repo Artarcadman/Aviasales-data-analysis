@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-23T08:05:00+05:00",
+        "origin": "KGP",
+        "destination": "NYM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T19:28:26Z",
+        "trip_class": 0,
+        "value": 28209,
+        "number_of_changes": 2,
+        "duration": 1515,
+        "distance": 376,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "446",
+        "link": "/search/KGP2312NYM1?t=UT17349411001735032000001515KGPVKOTJMNYM_a5dfc74cd01f6fbf6c2a8f9d5ac73e5a_28374&search_date=24112024&expected_price_uuid=5cf3761f-9373-4bce-bfc9-c8b0f0148a01&expected_price_source=share&expected_price_currency=rub&expected_price=28209",
+        "origin_airport": "KGP",
+        "destination_airport": "NYM",
+        "departure_at": "2024-12-23T08:05:00+05:00",
+        "airline": "UT",
+        "price": 28209,
+        "return_transfers": 0,
+        "duration_to": 480,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kogalym International Airport",
+        "origin_city_code": "KGP",
+        "origin_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

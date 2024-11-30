@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T17:00:00+05:00",
+        "origin": "EZV",
+        "destination": "KJA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T11:28:17Z",
+        "trip_class": 0,
+        "value": 11878,
+        "number_of_changes": 2,
+        "duration": 2025,
+        "distance": 1729,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "238",
+        "link": "/search/EZV2911KJA1?t=KV17328996001733028300002025EZVHMANJCKJA_fea11f459770634de22f778257d2bc1c_11947&search_date=24112024&expected_price_uuid=139975aa-63eb-4011-98c8-4ce10980de01&expected_price_source=share&expected_price_currency=rub&expected_price=11878",
+        "origin_airport": "EZV",
+        "destination_airport": "KJA",
+        "departure_at": "2024-11-29T17:00:00+05:00",
+        "airline": "ЮЭ",
+        "price": 11878,
+        "return_transfers": 0,
+        "duration_to": 305,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Berezovo",
+        "origin_city_code": "EZV",
+        "origin_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Krasnoyarsk International Airport",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

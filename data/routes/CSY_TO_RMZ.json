@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-16T21:20:00+03:00",
+        "origin": "CSY",
+        "destination": "RMZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T11:35:23Z",
+        "trip_class": 0,
+        "value": 10988,
+        "number_of_changes": 2,
+        "duration": 4135,
+        "distance": 1284,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6816",
+        "link": "/search/CSY1612RMZ1?t=DP17343840001734639300004135CSYSVOSVXRMZ_6f2b0a43adaeef44ddcff79c732c52fe_10916&search_date=19112024&expected_price_uuid=66fd588f-4cdf-4186-aafe-9cf4d7c79600&expected_price_source=share&expected_price_currency=rub&expected_price=10988",
+        "origin_airport": "CSY",
+        "destination_airport": "RMZ",
+        "departure_at": "2024-12-16T21:20:00+03:00",
+        "airline": "DP",
+        "price": 10988,
+        "return_transfers": 0,
+        "duration_to": 315,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tobolsk (Remezov)",
+        "destination_city_code": "RMZ",
+        "destination_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

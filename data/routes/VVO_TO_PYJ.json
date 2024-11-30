@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-29T08:55:00+10:00",
+        "origin": "VVO",
+        "destination": "PYJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T01:23:08Z",
+        "trip_class": 0,
+        "value": 55389,
+        "number_of_changes": 1,
+        "duration": 2895,
+        "distance": 2835,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5204",
+        "link": "/search/VVO2912PYJ1?t=S717354625001735632600002895VVOOVBPYJ_f285827014365b442da737e6d5dcc6cf_55712&search_date=24112024&expected_price_uuid=1d94bd37-f076-48bb-a58d-2ac9bf286500&expected_price_source=share&expected_price_currency=rub&expected_price=55389",
+        "origin_airport": "VVO",
+        "destination_airport": "PYJ",
+        "departure_at": "2024-12-29T08:55:00+10:00",
+        "airline": "S7",
+        "price": 55389,
+        "return_transfers": 0,
+        "duration_to": 540,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Vladivostok International Airport",
+        "origin_city_code": "VVO",
+        "origin_coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Polyarnyj Airport",
+        "destination_city_code": "PYJ",
+        "destination_coordinates": {
+            "lat": 66.416664,
+            "lon": 112.05
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-07T09:30:00+12:00",
+        "origin": "PKC",
+        "destination": "NER",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-18T22:17:29Z",
+        "trip_class": 0,
+        "value": 18951,
+        "number_of_changes": 1,
+        "duration": 825,
+        "distance": 2193,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5617",
+        "link": "/search/PKC0712NER1?t=SU17335638001733602500000825PKCVVONER_a4bb3b85dcf521c199b82fccdf7a275c_18950&search_date=18112024&expected_price_uuid=ff91219b-129f-48b4-b407-507aad463302&expected_price_source=share&expected_price_currency=rub&expected_price=18951",
+        "origin_airport": "PKC",
+        "destination_airport": "NER",
+        "departure_at": "2024-12-07T09:30:00+12:00",
+        "airline": "HZ",
+        "price": 18951,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Petropavlovsk-Kamchatsky Airport",
+        "origin_city_code": "PKC",
+        "origin_coordinates": {
+            "lat": 53.016666,
+            "lon": 158.65
+        },
+        "origin_time_zone": "Asia/Kamchatka",
+        "destination_airport_name": "Neryungri Airport",
+        "destination_city_code": "NER",
+        "destination_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-12-20T15:40:00+12:00",
+        "origin": "PKC",
+        "destination": "NER",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-21T23:56:35Z",
+        "trip_class": 0,
+        "value": 19685,
+        "number_of_changes": 1,
+        "duration": 1895,
+        "distance": 2193,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6216",
+        "link": "/search/PKC2012NER1?t=S717347092001734812100001895PKCVVONER_05b6888e21a89bf7dcd7b81ecd1c7883_19685&search_date=21112024&expected_price_uuid=d6397d8b-9149-4bce-a6ff-e126a3958003&expected_price_source=share&expected_price_currency=rub&expected_price=19685",
+        "origin_airport": "PKC",
+        "destination_airport": "NER",
+        "departure_at": "2024-12-20T15:40:00+12:00",
+        "airline": "S7",
+        "price": 19685,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Petropavlovsk-Kamchatsky Airport",
+        "origin_city_code": "PKC",
+        "origin_coordinates": {
+            "lat": 53.016666,
+            "lon": 158.65
+        },
+        "origin_time_zone": "Asia/Kamchatka",
+        "destination_airport_name": "Neryungri Airport",
+        "destination_city_code": "NER",
+        "destination_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T14:20:00+05:00",
+        "origin": "OVS",
+        "destination": "NSK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T07:01:58Z",
+        "trip_class": 0,
+        "value": 32593,
+        "number_of_changes": 3,
+        "duration": 4090,
+        "distance": 1399,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "255",
+        "link": "/search/OVS2611NSK1?t=Y717326308001732883400004090OVSEYKTJMKJANSK_da23860d3b896435ae5c35a38567f812_32593&search_date=23112024&expected_price_uuid=5bec9850-ad20-459a-b5f7-57494b65d602&expected_price_source=share&expected_price_currency=rub&expected_price=32593",
+        "origin_airport": "OVS",
+        "destination_airport": "NSK",
+        "departure_at": "2024-11-26T14:20:00+05:00",
+        "airline": "UT",
+        "price": 32593,
+        "return_transfers": 0,
+        "duration_to": 520,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Noril'sk Airport",
+        "destination_city_code": "NSK",
+        "destination_coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-04T16:50:00+05:00",
+        "origin": "BVJ",
+        "destination": "OVB",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T14:27:58Z",
+        "trip_class": 0,
+        "value": 57635,
+        "number_of_changes": 2,
+        "duration": 3330,
+        "distance": 1841,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9664",
+        "link": "/search/BVJ0412OVB1?t=S717333310001733538000003330BVJNYMTJMOVB_2b5f0d6839833e37f03064cd92cf1011_57635&search_date=23112024&expected_price_uuid=a617ebb9-0538-4d1d-adb5-da0ae1b6ff00&expected_price_source=share&expected_price_currency=rub&expected_price=57635",
+        "origin_airport": "BVJ",
+        "destination_airport": "OVB",
+        "departure_at": "2024-12-04T16:50:00+05:00",
+        "airline": "4G",
+        "price": 57635,
+        "return_transfers": 0,
+        "duration_to": 275,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bovanenkovo",
+        "origin_city_code": "BVJ",
+        "origin_coordinates": {
+            "lat": 70.31528,
+            "lon": 68.33361
+        },
+        "origin_time_zone": "Asia/Dushanbe",
+        "destination_airport_name": "Novosibirsk Tolmachevo Airport",
+        "destination_city_code": "OVB",
+        "destination_coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "destination_time_zone": "Asia/Novosibirsk"
+    }
+]

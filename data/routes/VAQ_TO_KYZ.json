@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-23T16:55:00+07:00",
+        "origin": "VAQ",
+        "destination": "KYZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T21:34:05Z",
+        "trip_class": 0,
+        "value": 19167,
+        "number_of_changes": 1,
+        "duration": 970,
+        "distance": 1077,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "158",
+        "link": "/search/VAQ2312KYZ1?t=KV17349729001735031100000970VAQKJAKYZ_8b32c522729bbdf1b2222e172fc1dcd4_19175&search_date=22112024&expected_price_uuid=7d5014d8-f42d-4e0e-8d8c-07689681fc05&expected_price_source=share&expected_price_currency=rub&expected_price=19167",
+        "origin_airport": "VAQ",
+        "destination_airport": "KYZ",
+        "departure_at": "2024-12-23T16:55:00+07:00",
+        "airline": "KV",
+        "price": 19167,
+        "return_transfers": 0,
+        "duration_to": 225,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Vanavara",
+        "origin_city_code": "VAQ",
+        "origin_coordinates": {
+            "lat": 60.356667,
+            "lon": 102.31
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Kyzyl Airport",
+        "destination_city_code": "KYZ",
+        "destination_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

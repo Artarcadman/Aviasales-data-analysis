@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-21T15:10:00+10:00",
+        "origin": "TLY",
+        "destination": "NEI",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T20:27:05Z",
+        "trip_class": 0,
+        "value": 6342,
+        "number_of_changes": 1,
+        "duration": 1205,
+        "distance": 37,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "526",
+        "link": "/search/TLY2112NEI1?t=HZ17347938001734866100001205TLYVVONEI_b0175170434282edd8ec59344b6301aa_6345&search_date=22112024&expected_price_uuid=1c51bffc-4c70-4126-9d8d-7ede5e5fce97&expected_price_source=share&expected_price_currency=rub&expected_price=6342",
+        "origin_airport": "TLY",
+        "destination_airport": "NEI",
+        "departure_at": "2024-12-21T15:10:00+10:00",
+        "airline": "HZ",
+        "price": 6342,
+        "return_transfers": 0,
+        "duration_to": 205,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Plastun Airport",
+        "origin_city_code": "TLY",
+        "origin_coordinates": {
+            "lat": 44.81465,
+            "lon": 136.28928
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Terney",
+        "destination_city_code": "NEI",
+        "destination_coordinates": {
+            "lat": 45.073334,
+            "lon": 136.5925
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    },
+    {
+        "depart_date": "2024-12-19T15:10:00+10:00",
+        "origin": "TLY",
+        "destination": "NEI",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T23:26:18Z",
+        "trip_class": 0,
+        "value": 6343,
+        "number_of_changes": 1,
+        "duration": 4085,
+        "distance": 37,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "526",
+        "link": "/search/TLY1912NEI1?t=HZ17346210001734866100004085TLYVVONEI_2cf5f51c4e754938076e94ffe6753e43_6345&search_date=22112024&expected_price_uuid=68230494-7b6a-4ee4-912d-0b95afe5def3&expected_price_source=share&expected_price_currency=rub&expected_price=6343",
+        "origin_airport": "TLY",
+        "destination_airport": "NEI",
+        "departure_at": "2024-12-19T15:10:00+10:00",
+        "airline": "HZ",
+        "price": 6343,
+        "return_transfers": 0,
+        "duration_to": 205,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Plastun Airport",
+        "origin_city_code": "TLY",
+        "origin_coordinates": {
+            "lat": 44.81465,
+            "lon": 136.28928
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Terney",
+        "destination_city_code": "NEI",
+        "destination_coordinates": {
+            "lat": 45.073334,
+            "lon": 136.5925
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

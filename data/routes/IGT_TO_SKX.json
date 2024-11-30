@@ -1,0 +1,141 @@
+[
+    {
+        "depart_date": "2024-11-22T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T17:30:03Z",
+        "trip_class": 0,
+        "value": 13637,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 1206,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 13637,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-29T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T17:43:12Z",
+        "trip_class": 0,
+        "value": 17894,
+        "number_of_changes": 1,
+        "duration": 615,
+        "distance": 1206,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6904",
+        "link": "/search/IGT2912SKX1?t=DP17354700001735506900000615IGTSVOSKX_d962b2f467512f8f8992615fa23ed9d8_17897&search_date=19112024&expected_price_uuid=ad8215a0-55c9-4267-b3c6-90895d403c00&expected_price_source=share&expected_price_currency=rub&expected_price=17894",
+        "origin_airport": "IGT",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-29T11:00:00+03:00",
+        "airline": "DP",
+        "price": 17894,
+        "return_transfers": 0,
+        "duration_to": 290,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-20T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "SKX",
+        "gate": "Aviakassa",
+        "return_date": "",
+        "found_at": "2024-11-19T17:29:33Z",
+        "trip_class": 0,
+        "value": 22577,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 1206,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 22577,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-21T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T17:29:14Z",
+        "trip_class": 0,
+        "value": 23860,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 1206,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 23860,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

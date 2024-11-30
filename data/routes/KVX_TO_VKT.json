@@ -1,0 +1,108 @@
+[
+    {
+        "depart_date": "2024-11-30T09:30:00+03:00",
+        "origin": "KVX",
+        "destination": "VKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T18:36:23Z",
+        "trip_class": 0,
+        "value": 19097,
+        "number_of_changes": 2,
+        "duration": 3300,
+        "distance": 1235,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6810",
+        "link": "/search/KVX3011VKT1?t=ИГ17329590001733157000003300KVXSVOVKOSCWVKT_f927c90357f90a11f65d7d3c3e42bcfb_19097&search_date=20112024&expected_price_uuid=a5e32696-0f94-4527-8ca8-1c8978489100&expected_price_source=share&expected_price_currency=rub&expected_price=19097",
+        "origin_airport": "KVX",
+        "destination_airport": "VKT",
+        "departure_at": "2024-11-30T09:30:00+03:00",
+        "airline": "DP",
+        "price": 19097,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kirov Airport",
+        "origin_city_code": "KVX",
+        "origin_coordinates": {
+            "lat": 58.5,
+            "lon": 49.35
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Vorkuta Airport",
+        "destination_city_code": "VKT",
+        "destination_coordinates": {
+            "lat": 67.48333,
+            "lon": 63.983334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-20T22:00:00+03:00",
+        "origin": "KVX",
+        "destination": "VKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T13:59:23Z",
+        "trip_class": 0,
+        "value": 19187,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 1235,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 19187,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Kirov Airport",
+        "origin_city_code": "KVX",
+        "origin_coordinates": {
+            "lat": 58.5,
+            "lon": 49.35
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Vorkuta Airport",
+        "destination_city_code": "VKT",
+        "destination_coordinates": {
+            "lat": 67.48333,
+            "lon": 63.983334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-23T22:00:00+03:00",
+        "origin": "KVX",
+        "destination": "VKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T15:38:41Z",
+        "trip_class": 0,
+        "value": 21305,
+        "number_of_changes": 3,
+        "duration": null,
+        "distance": 1235,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 21305,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Kirov Airport",
+        "origin_city_code": "KVX",
+        "origin_coordinates": {
+            "lat": 58.5,
+            "lon": 49.35
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Vorkuta Airport",
+        "destination_city_code": "VKT",
+        "destination_coordinates": {
+            "lat": 67.48333,
+            "lon": 63.983334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

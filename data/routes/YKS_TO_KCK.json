@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-03T03:25:00+09:00",
+        "origin": "YKS",
+        "destination": "KCK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T06:28:04Z",
+        "trip_class": 0,
+        "value": 22276,
+        "number_of_changes": 1,
+        "duration": 3315,
+        "distance": 1292,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "493",
+        "link": "/search/YKS0312KCK1?t=R317331963001733391600003315YKSIKTKCK_0c7caf561aacafbec651ff607fb18879_21633&search_date=22112024&expected_price_uuid=ef72a73d-479a-4bc6-a350-a224376fd003&expected_price_source=share&expected_price_currency=rub&expected_price=22276",
+        "origin_airport": "YKS",
+        "destination_airport": "KCK",
+        "departure_at": "2024-12-03T03:25:00+09:00",
+        "airline": "R3",
+        "price": 22276,
+        "return_transfers": 0,
+        "duration_to": 280,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Kirensk Airport",
+        "destination_city_code": "KCK",
+        "destination_coordinates": {
+            "lat": 57.772778,
+            "lon": 108.06084
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-11T15:20:00+09:00",
+        "origin": "YKS",
+        "destination": "KCK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T15:21:44Z",
+        "trip_class": 0,
+        "value": 27777,
+        "number_of_changes": 1,
+        "duration": 1160,
+        "distance": 1292,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/YKS1112KCK1?t=IO17339304001733996400001160YKSIKTKCK_00fdf0a5550cd63213f3129f552ed0f5_27800&search_date=25112024&expected_price_uuid=d72e1b01-a2ed-4839-bf30-0134dbd96136&expected_price_source=share&expected_price_currency=rub&expected_price=27777",
+        "origin_airport": "YKS",
+        "destination_airport": "KCK",
+        "departure_at": "2024-12-11T15:20:00+09:00",
+        "airline": "IO",
+        "price": 27777,
+        "return_transfers": 0,
+        "duration_to": 470,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Kirensk Airport",
+        "destination_city_code": "KCK",
+        "destination_coordinates": {
+            "lat": 57.772778,
+            "lon": 108.06084
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

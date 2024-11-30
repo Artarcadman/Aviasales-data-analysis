@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-07T11:10:00+05:00",
+        "origin": "IRM",
+        "destination": "GOJ",
+        "gate": "Agent.ru",
+        "return_date": "",
+        "found_at": "2024-11-19T15:41:33Z",
+        "trip_class": 0,
+        "value": 9927,
+        "number_of_changes": 1,
+        "duration": 410,
+        "distance": 1384,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "132",
+        "link": "/search/IRM0712GOJ1?t=WZ17335698001733587200000410IRMTJMGOJ_d2ee2cc868181a9b0fd6674b3b25085d_9928&search_date=19112024&expected_price_uuid=d97e5e35-5905-46f4-92a0-fdeea679d800&expected_price_source=share&expected_price_currency=rub&expected_price=9927",
+        "origin_airport": "IRM",
+        "destination_airport": "GOJ",
+        "departure_at": "2024-12-07T11:10:00+05:00",
+        "airline": "ЮЭ",
+        "price": 9927,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Igrim",
+        "origin_city_code": "IRM",
+        "origin_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nizhny Novgorod International Airport",
+        "destination_city_code": "GOJ",
+        "destination_coordinates": {
+            "lat": 56.218613,
+            "lon": 43.789764
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-05T17:00:00+05:00",
+        "origin": "IRM",
+        "destination": "GOJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T15:45:20Z",
+        "trip_class": 0,
+        "value": 15107,
+        "number_of_changes": 2,
+        "duration": 2540,
+        "distance": 1384,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "114",
+        "link": "/search/IRM0512GOJ1?t=UT17334180001733563200002540IRMHMASVXGOJ_2ce69ecc74c883b9ff25a9129e924fc1_15109&search_date=19112024&expected_price_uuid=4ace50d3-4584-4356-9131-ad7eebc24601&expected_price_source=share&expected_price_currency=rub&expected_price=15107",
+        "origin_airport": "IRM",
+        "destination_airport": "GOJ",
+        "departure_at": "2024-12-05T17:00:00+05:00",
+        "airline": "UT",
+        "price": 15107,
+        "return_transfers": 0,
+        "duration_to": 355,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Igrim",
+        "origin_city_code": "IRM",
+        "origin_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nizhny Novgorod International Airport",
+        "destination_city_code": "GOJ",
+        "destination_coordinates": {
+            "lat": 56.218613,
+            "lon": 43.789764
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

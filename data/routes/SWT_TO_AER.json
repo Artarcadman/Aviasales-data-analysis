@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-08T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "AER",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T14:24:48Z",
+        "trip_class": 0,
+        "value": 23581,
+        "number_of_changes": 1,
+        "duration": 1745,
+        "distance": 3101,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT0812AER1?t=N417336538001733744100001745SWTTOFAER_3e11743e93cd832c2b0464fa317a7284_23719&search_date=24112024&expected_price_uuid=35ed4d73-9a9a-4196-9cd6-0e05d3bfe6a0&expected_price_source=share&expected_price_currency=rub&expected_price=23581",
+        "origin_airport": "SWT",
+        "destination_airport": "AER",
+        "departure_at": "2024-12-08T10:30:00+07:00",
+        "airline": "KV",
+        "price": 23581,
+        "return_transfers": 0,
+        "duration_to": 445,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Sochi International Airport",
+        "destination_city_code": "AER",
+        "destination_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-22T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "AER",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T15:26:44Z",
+        "trip_class": 0,
+        "value": 27094,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 3101,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 27094,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Sochi International Airport",
+        "destination_city_code": "AER",
+        "destination_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

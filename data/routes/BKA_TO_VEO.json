@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-02T19:55:00+07:00",
+        "origin": "BKA",
+        "destination": "VEO",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T21:32:03Z",
+        "trip_class": 0,
+        "value": 19702,
+        "number_of_changes": 1,
+        "duration": 1085,
+        "distance": 230,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "154",
+        "link": "/search/BKA0212VEO1?t=KV17331693001733234400001085BKAKJAVEO_0ff9c1a94c4ad848816b96d0a89e7e01_19710&search_date=22112024&expected_price_uuid=cc86dd81-ee84-430d-8d48-343968e28592&expected_price_source=share&expected_price_currency=rub&expected_price=19702",
+        "origin_airport": "BKA",
+        "destination_airport": "VEO",
+        "departure_at": "2024-12-02T19:55:00+07:00",
+        "airline": "KV",
+        "price": 19702,
+        "return_transfers": 0,
+        "duration_to": 215,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bajkit",
+        "origin_city_code": "BKA",
+        "origin_coordinates": {
+            "lat": 61.676666,
+            "lon": 96.35333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Severo-Eniseyskij",
+        "destination_city_code": "VEO",
+        "destination_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-23T19:55:00+07:00",
+        "origin": "BKA",
+        "destination": "VEO",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T21:32:10Z",
+        "trip_class": 0,
+        "value": 19702,
+        "number_of_changes": 1,
+        "duration": 1155,
+        "distance": 230,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "154",
+        "link": "/search/BKA2312VEO1?t=KV17349837001735053000001155BKAKJAKCYVEO_f23423911d08060d0c3c3d59d50e37af_19710&search_date=22112024&expected_price_uuid=b4689b3b-2f80-4820-a854-6f37daf38c06&expected_price_source=share&expected_price_currency=rub&expected_price=19702",
+        "origin_airport": "BKA",
+        "destination_airport": "VEO",
+        "departure_at": "2024-12-23T19:55:00+07:00",
+        "airline": "KV",
+        "price": 19702,
+        "return_transfers": 0,
+        "duration_to": 230,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bajkit",
+        "origin_city_code": "BKA",
+        "origin_coordinates": {
+            "lat": 61.676666,
+            "lon": 96.35333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Severo-Eniseyskij",
+        "destination_city_code": "VEO",
+        "destination_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

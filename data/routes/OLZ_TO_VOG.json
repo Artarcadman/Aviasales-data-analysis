@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-16T18:00:00+09:00",
+        "origin": "OLZ",
+        "destination": "VOG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T03:59:35Z",
+        "trip_class": 0,
+        "value": 44548,
+        "number_of_changes": 2,
+        "duration": 1615,
+        "distance": 4772,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/OLZ1612VOG1?t=N417343720001734447300001615OLZIKTKZNVOG_030c6f694b98770cc7a5dc15ab21230f_44808&search_date=24112024&expected_price_uuid=c83e78b2-91d3-4dd7-a007-04da88ff6f00&expected_price_source=share&expected_price_currency=rub&expected_price=44548",
+        "origin_airport": "OLZ",
+        "destination_airport": "VOG",
+        "departure_at": "2024-12-16T18:00:00+09:00",
+        "airline": "IO",
+        "price": 44548,
+        "return_transfers": 0,
+        "duration_to": 640,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Volgograd International Airport",
+        "destination_city_code": "VOG",
+        "destination_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

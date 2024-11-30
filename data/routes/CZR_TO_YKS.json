@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-25T11:20:00+09:00",
+        "origin": "CZR",
+        "destination": "YKS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T07:22:57Z",
+        "trip_class": 0,
+        "value": 34859,
+        "number_of_changes": 2,
+        "duration": 3985,
+        "distance": 863,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "190",
+        "link": "/search/CZR2511YKS1?t=S717325336001732772700003985CZRHTAIKTYKS_0eecb365704262e0761085bffbbc3a0d_35062&search_date=24112024&expected_price_uuid=a726c71c-d1a1-4cda-bd86-fa8c22d70a01&expected_price_source=share&expected_price_currency=rub&expected_price=34859",
+        "origin_airport": "CZR",
+        "destination_airport": "YKS",
+        "departure_at": "2024-11-25T11:20:00+09:00",
+        "airline": "ИК",
+        "price": 34859,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chara",
+        "origin_city_code": "CZR",
+        "origin_coordinates": {
+            "lat": 56.914722,
+            "lon": 118.270836
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Yakutsk Airport",
+        "destination_city_code": "YKS",
+        "destination_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-12-12T11:15:00+09:00",
+        "origin": "CZR",
+        "destination": "YKS",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-20T00:44:52Z",
+        "trip_class": 0,
+        "value": 48375,
+        "number_of_changes": 1,
+        "duration": 1625,
+        "distance": 863,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "184",
+        "link": "/search/CZR1212YKS1?t=IO17340021001734099600001625CZRIKTYKS_972abdc5a4694826fc0d3f80ecf151c6_48364&search_date=20112024&expected_price_uuid=f2ca18f2-e1bf-448c-859c-af7e947b4f02&expected_price_source=share&expected_price_currency=rub&expected_price=48375",
+        "origin_airport": "CZR",
+        "destination_airport": "YKS",
+        "departure_at": "2024-12-12T11:15:00+09:00",
+        "airline": "IO",
+        "price": 48375,
+        "return_transfers": 0,
+        "duration_to": 555,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Chara",
+        "origin_city_code": "CZR",
+        "origin_coordinates": {
+            "lat": 56.914722,
+            "lon": 118.270836
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Yakutsk Airport",
+        "destination_city_code": "YKS",
+        "destination_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

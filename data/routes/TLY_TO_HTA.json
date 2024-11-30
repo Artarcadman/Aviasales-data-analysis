@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-19T15:10:00+10:00",
+        "origin": "TLY",
+        "destination": "HTA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T20:26:43Z",
+        "trip_class": 0,
+        "value": 12746,
+        "number_of_changes": 1,
+        "duration": 580,
+        "distance": 1865,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "526",
+        "link": "/search/TLY1912HTA1?t=HZ17346210001734652200000580TLYVVOHTA_c5d17c74b8deee9d77a26cc94467671b_12751&search_date=22112024&expected_price_uuid=de3c1f48-e018-4998-8047-1ead21480777&expected_price_source=share&expected_price_currency=rub&expected_price=12746",
+        "origin_airport": "TLY",
+        "destination_airport": "HTA",
+        "departure_at": "2024-12-19T15:10:00+10:00",
+        "airline": "HZ",
+        "price": 12746,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Plastun Airport",
+        "origin_city_code": "TLY",
+        "origin_coordinates": {
+            "lat": 44.81465,
+            "lon": 136.28928
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Chita Airport",
+        "destination_city_code": "HTA",
+        "destination_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "destination_time_zone": "Asia/Chita"
+    },
+    {
+        "depart_date": "2024-12-26T15:10:00+10:00",
+        "origin": "TLY",
+        "destination": "HTA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T12:01:40Z",
+        "trip_class": 0,
+        "value": 12751,
+        "number_of_changes": 1,
+        "duration": 580,
+        "distance": 1865,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "526",
+        "link": "/search/TLY2612HTA1?t=HZ17352258001735257000000580TLYVVOHTA_0c72fb05e0e3a4b4062a4ed59fc10e13_12751&search_date=24112024&expected_price_uuid=ddf11a6c-3fa9-43e4-9dd6-3ab110413e1b&expected_price_source=share&expected_price_currency=rub&expected_price=12677",
+        "origin_airport": "TLY",
+        "destination_airport": "HTA",
+        "departure_at": "2024-12-26T15:10:00+10:00",
+        "airline": "HZ",
+        "price": 12751,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Plastun Airport",
+        "origin_city_code": "TLY",
+        "origin_coordinates": {
+            "lat": 44.81465,
+            "lon": 136.28928
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Chita Airport",
+        "destination_city_code": "HTA",
+        "destination_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "destination_time_zone": "Asia/Chita"
+    }
+]

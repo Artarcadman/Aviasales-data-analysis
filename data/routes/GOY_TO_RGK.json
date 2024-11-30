@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2025-01-03T19:10:00+07:00",
+        "origin": "GOY",
+        "destination": "RGK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T21:27:44Z",
+        "trip_class": 0,
+        "value": 23955,
+        "number_of_changes": 1,
+        "duration": 2380,
+        "distance": 1611,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "156",
+        "link": "/search/GOY0301RGK1?t=KV17359314001736074200002380GOYKJARGK_570bf4dfd305e03192092de3e04d15a2_23965&search_date=22112024&expected_price_uuid=01d63bee-e6be-47d3-a45e-723a5e09890e&expected_price_source=share&expected_price_currency=rub&expected_price=23955",
+        "origin_airport": "GOY",
+        "destination_airport": "RGK",
+        "departure_at": "2025-01-03T19:10:00+07:00",
+        "airline": "KV",
+        "price": 23955,
+        "return_transfers": 0,
+        "duration_to": 265,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Gornyj",
+        "origin_city_code": "GOY",
+        "origin_coordinates": {
+            "lat": 64.333336,
+            "lon": 100.433334
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Gorno-Altaysk Airport",
+        "destination_city_code": "RGK",
+        "destination_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "destination_time_zone": "Asia/Novokuznetsk"
+    }
+]

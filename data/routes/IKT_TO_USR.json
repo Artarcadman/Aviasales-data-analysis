@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-03T12:30:00+08:00",
+        "origin": "IKT",
+        "destination": "USR",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T13:46:54Z",
+        "trip_class": 0,
+        "value": 45812,
+        "number_of_changes": 2,
+        "duration": 4100,
+        "distance": 2577,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6882",
+        "link": "/search/IKT0312USR1?t=HZ17332290001733482200004100IKTKJAYKSUSR_6909a095d2721eb9e0937b6378771338_45722&search_date=20112024&expected_price_uuid=0cf04770-8515-42f2-baa1-8f4489210a03&expected_price_source=share&expected_price_currency=rub&expected_price=45812",
+        "origin_airport": "IKT",
+        "destination_airport": "USR",
+        "departure_at": "2024-12-03T12:30:00+08:00",
+        "airline": "FV",
+        "price": 45812,
+        "return_transfers": 0,
+        "duration_to": 415,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Irkutsk International Airport",
+        "origin_city_code": "IKT",
+        "origin_coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Ust-Nera Airport",
+        "destination_city_code": "USR",
+        "destination_coordinates": {
+            "lat": 64.549446,
+            "lon": 143.11084
+        },
+        "destination_time_zone": "Asia/Ust-Nera"
+    },
+    {
+        "depart_date": "2024-12-23T07:20:00+08:00",
+        "origin": "IKT",
+        "destination": "USR",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T01:15:58Z",
+        "trip_class": 0,
+        "value": 46794,
+        "number_of_changes": 1,
+        "duration": 1530,
+        "distance": 2577,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "185",
+        "link": "/search/IKT2312USR1?t=IO17349384001735037400001530IKTYKSUSR_a1d73385cf33968896f61ed82ff19eea_46794&search_date=23112024&expected_price_uuid=936defce-21f7-4021-b730-24661e5e4f21&expected_price_source=share&expected_price_currency=rub&expected_price=46794",
+        "origin_airport": "IKT",
+        "destination_airport": "USR",
+        "departure_at": "2024-12-23T07:20:00+08:00",
+        "airline": "IO",
+        "price": 46794,
+        "return_transfers": 0,
+        "duration_to": 470,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Irkutsk International Airport",
+        "origin_city_code": "IKT",
+        "origin_coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Ust-Nera Airport",
+        "destination_city_code": "USR",
+        "destination_coordinates": {
+            "lat": 64.549446,
+            "lon": 143.11084
+        },
+        "destination_time_zone": "Asia/Ust-Nera"
+    }
+]

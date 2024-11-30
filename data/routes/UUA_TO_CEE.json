@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T04:30:00+03:00",
+        "origin": "UUA",
+        "destination": "CEE",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T22:36:21Z",
+        "trip_class": 0,
+        "value": 16638,
+        "number_of_changes": 1,
+        "duration": 625,
+        "distance": 1030,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA2811CEE1?t=RT17327682001732805700000625UUAVKODMECEE_80db24a383fbdd1bb94794eb48b1af3e_16638&search_date=24112024&expected_price_uuid=4a6e8835-6535-43af-8363-5007b98748cd&expected_price_source=share&expected_price_currency=rub&expected_price=16638",
+        "origin_airport": "UUA",
+        "destination_airport": "CEE",
+        "departure_at": "2024-11-28T04:30:00+03:00",
+        "airline": "RT",
+        "price": 16638,
+        "return_transfers": 0,
+        "duration_to": 145,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Cherepovets Airport",
+        "destination_city_code": "CEE",
+        "destination_coordinates": {
+            "lat": 59.283333,
+            "lon": 38.066666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-30T04:00:00+03:00",
+        "origin": "UUA",
+        "destination": "CEE",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T22:37:45Z",
+        "trip_class": 0,
+        "value": 18137,
+        "number_of_changes": 1,
+        "duration": 655,
+        "distance": 1030,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA3011CEE1?t=RT17329392001732978500000655UUAVKODMECEE_77187381a1cddd20b0c7d82a09bb2e84_18138&search_date=24112024&expected_price_uuid=9ab4df9e-9f14-4a49-a1b0-aefa33922ff1&expected_price_source=share&expected_price_currency=rub&expected_price=18137",
+        "origin_airport": "UUA",
+        "destination_airport": "CEE",
+        "departure_at": "2024-11-30T04:00:00+03:00",
+        "airline": "RT",
+        "price": 18137,
+        "return_transfers": 0,
+        "duration_to": 170,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Cherepovets Airport",
+        "destination_city_code": "CEE",
+        "destination_coordinates": {
+            "lat": 59.283333,
+            "lon": 38.066666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

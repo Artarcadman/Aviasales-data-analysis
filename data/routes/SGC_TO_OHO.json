@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T15:45:00+05:00",
+        "origin": "SGC",
+        "destination": "OHO",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T12:14:59Z",
+        "trip_class": 0,
+        "value": 44688,
+        "number_of_changes": 3,
+        "duration": 3905,
+        "distance": 3650,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "213",
+        "link": "/search/SGC3011OHO1?t=S717329815001733233800003905SGCBAXOVBKHVOHO_d1635ffaab129a8f71508841ef61eae4_44721&search_date=25112024&expected_price_uuid=dc22b323-f822-4ac6-b360-58f74c379100&expected_price_source=share&expected_price_currency=rub&expected_price=44687",
+        "origin_airport": "SGC",
+        "destination_airport": "OHO",
+        "departure_at": "2024-11-30T15:45:00+05:00",
+        "airline": "UT",
+        "price": 44688,
+        "return_transfers": 0,
+        "duration_to": 760,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Surgut Airport",
+        "origin_city_code": "SGC",
+        "origin_coordinates": {
+            "lat": 61.339916,
+            "lon": 73.40953
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Okhotsk",
+        "destination_city_code": "OHO",
+        "destination_coordinates": {
+            "lat": 59.416668,
+            "lon": 143.05
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

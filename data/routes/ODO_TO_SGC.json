@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-08T15:00:00+08:00",
+        "origin": "ODO",
+        "destination": "SGC",
+        "gate": "BiletDV",
+        "return_date": "",
+        "found_at": "2024-11-21T08:37:45Z",
+        "trip_class": 0,
+        "value": 29547,
+        "number_of_changes": 1,
+        "duration": 2010,
+        "distance": 2290,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "98",
+        "link": "/search/ODO0812SGC1?t=UT17336700001733779800002010ODOIKTSGC_1d6cf8e1b3ed045c2092656168f50916_29388&search_date=21112024&expected_price_uuid=e3d3fa03-d65b-4d73-92cc-cb2c5c749800&expected_price_source=share&expected_price_currency=rub&expected_price=29547",
+        "origin_airport": "ODO",
+        "destination_airport": "SGC",
+        "departure_at": "2024-12-08T15:00:00+08:00",
+        "airline": "ИК",
+        "price": 29547,
+        "return_transfers": 0,
+        "duration_to": 655,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bodaybo Airport",
+        "origin_city_code": "ODO",
+        "origin_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Surgut Airport",
+        "destination_city_code": "SGC",
+        "destination_coordinates": {
+            "lat": 61.339916,
+            "lon": 73.40953
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-06T15:00:00+08:00",
+        "origin": "ODO",
+        "destination": "SGC",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:19:49Z",
+        "trip_class": 0,
+        "value": 38778,
+        "number_of_changes": 2,
+        "duration": 2415,
+        "distance": 2290,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "98",
+        "link": "/search/ODO0612SGC1?t=SU17334972001733631300002415ODOIKTLEDSGC_c6fb1fbff8b830769debb73d79bc5222_38569&search_date=21112024&expected_price_uuid=0fb57ece-2db4-4014-91f9-0ae4c6e61801&expected_price_source=share&expected_price_currency=rub&expected_price=38778",
+        "origin_airport": "ODO",
+        "destination_airport": "SGC",
+        "departure_at": "2024-12-06T15:00:00+08:00",
+        "airline": "ИК",
+        "price": 38778,
+        "return_transfers": 0,
+        "duration_to": 725,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bodaybo Airport",
+        "origin_city_code": "ODO",
+        "origin_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Surgut Airport",
+        "destination_city_code": "SGC",
+        "destination_coordinates": {
+            "lat": 61.339916,
+            "lon": 73.40953
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

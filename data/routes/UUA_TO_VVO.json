@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-12T04:30:00+03:00",
+        "origin": "UUA",
+        "destination": "VVO",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T21:33:16Z",
+        "trip_class": 0,
+        "value": 28084,
+        "number_of_changes": 1,
+        "duration": 1205,
+        "distance": 5599,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA1212VVO1?t=SU17339778001734075300001205UUAVKOSVOVVO_72841a81868b7ff93b7f6769280ed52c_28084&search_date=24112024&expected_price_uuid=c153743f-1f24-4b90-8bcf-831a9837a502&expected_price_source=share&expected_price_currency=rub&expected_price=28084",
+        "origin_airport": "UUA",
+        "destination_airport": "VVO",
+        "departure_at": "2024-12-12T04:30:00+03:00",
+        "airline": "RT",
+        "price": 28084,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Vladivostok International Airport",
+        "destination_city_code": "VVO",
+        "destination_coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

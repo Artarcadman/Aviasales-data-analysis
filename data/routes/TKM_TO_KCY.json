@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-22T14:30:00+08:00",
+        "origin": "TKM",
+        "destination": "KJA",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-25T13:27:06Z",
+        "trip_class": 0,
+        "value": 9966,
+        "number_of_changes": 0,
+        "duration": 255,
+        "distance": 1376,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "214",
+        "link": "/search/TKM2212KCY1?t=KV17348778001734889500000255TKMKCY_33599d7f217c21ebcba27737a34761e7_9966&search_date=25112024&expected_price_uuid=506643bc-1ff3-4bed-bf42-01d2ab6cef00&expected_price_source=share&expected_price_currency=rub&expected_price=9966",
+        "origin_airport": "TKM",
+        "destination_airport": "KCY",
+        "departure_at": "2024-12-22T14:30:00+08:00",
+        "airline": "KV",
+        "price": 9966,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Taksimo",
+        "origin_city_code": "TKM",
+        "origin_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

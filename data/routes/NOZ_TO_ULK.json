@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-06T11:50:00+07:00",
+        "origin": "NOZ",
+        "destination": "ULK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T08:33:52Z",
+        "trip_class": 0,
+        "value": 25121,
+        "number_of_changes": 2,
+        "duration": 1290,
+        "distance": 1818,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5364",
+        "link": "/search/NOZ0612ULK1?t=6R17334858001733570400001290NOZOVBMJZULK_34d68f9b2d6c45de8ee8f9290e4c0a90_24986&search_date=21112024&expected_price_uuid=80ac0cd8-6bbb-4094-b66c-8f0137a73703&expected_price_source=share&expected_price_currency=rub&expected_price=25121",
+        "origin_airport": "NOZ",
+        "destination_airport": "ULK",
+        "departure_at": "2024-12-06T11:50:00+07:00",
+        "airline": "S7",
+        "price": 25121,
+        "return_transfers": 0,
+        "duration_to": 270,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Novokuznetsk Airport",
+        "origin_city_code": "NOZ",
+        "origin_coordinates": {
+            "lat": 53.75,
+            "lon": 87.166664
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Lensk Airport",
+        "destination_city_code": "ULK",
+        "destination_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

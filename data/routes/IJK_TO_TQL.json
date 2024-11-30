@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-04T19:00:00+04:00",
+        "origin": "IJK",
+        "destination": "TQL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T18:35:54Z",
+        "trip_class": 0,
+        "value": 13811,
+        "number_of_changes": 2,
+        "duration": 3810,
+        "distance": 1578,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "201",
+        "link": "/search/IJK0412TQL1?t=ЮЭ17333388001733571000003810IJKSVXTJMTQL_beeebfd5f6eec9ce6fa9ea9833dde35c_13812&search_date=25112024&expected_price_uuid=50428840-f585-4cef-b467-5fffcd299f02&expected_price_source=share&expected_price_currency=rub&expected_price=13811",
+        "origin_airport": "IJK",
+        "destination_airport": "TQL",
+        "departure_at": "2024-12-04T19:00:00+04:00",
+        "airline": "I8",
+        "price": 13811,
+        "return_transfers": 0,
+        "duration_to": 320,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Izhevsk Airport",
+        "origin_city_code": "IJK",
+        "origin_coordinates": {
+            "lat": 56.833332,
+            "lon": 53.466667
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Tarko-Sale",
+        "destination_city_code": "TQL",
+        "destination_coordinates": {
+            "lat": 64.92134,
+            "lon": 77.797356
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T19:55:00+07:00",
+        "origin": "BKA",
+        "destination": "NSK",
+        "gate": "Agent.ru",
+        "return_date": "",
+        "found_at": "2024-11-25T03:40:10Z",
+        "trip_class": 0,
+        "value": 26243,
+        "number_of_changes": 1,
+        "duration": 990,
+        "distance": 944,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "154",
+        "link": "/search/BKA2911NSK1?t=Y717329101001732969500000990BKAKJANSK_b87af8eeef02ebcab74863e0663a177e_26188&search_date=25112024&expected_price_uuid=2d92855b-11db-405e-b359-bc1d3644f603&expected_price_source=share&expected_price_currency=rub&expected_price=26243",
+        "origin_airport": "BKA",
+        "destination_airport": "NSK",
+        "departure_at": "2024-11-29T19:55:00+07:00",
+        "airline": "KV",
+        "price": 26243,
+        "return_transfers": 0,
+        "duration_to": 290,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bajkit",
+        "origin_city_code": "BKA",
+        "origin_coordinates": {
+            "lat": 61.676666,
+            "lon": 96.35333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Noril'sk Airport",
+        "destination_city_code": "NSK",
+        "destination_coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

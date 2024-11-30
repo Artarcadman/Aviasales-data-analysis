@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-14T13:50:00+08:00",
+        "origin": "NZG",
+        "destination": "HTA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T11:29:21Z",
+        "trip_class": 0,
+        "value": 12503,
+        "number_of_changes": 1,
+        "duration": 470,
+        "distance": 483,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "100",
+        "link": "/search/NZG1412HTA1?t=ИК17341842001734216000000470NZGIKTHTA_ec686477151e76574dec0b9ab88370e8_12357&search_date=22112024&expected_price_uuid=14f62e6d-d4ad-4a47-a02f-6b4fa53ef00a&expected_price_source=share&expected_price_currency=rub&expected_price=12503",
+        "origin_airport": "NZG",
+        "destination_airport": "HTA",
+        "departure_at": "2024-12-14T13:50:00+08:00",
+        "airline": "ИК",
+        "price": 12503,
+        "return_transfers": 0,
+        "duration_to": 150,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nizhneangarsk",
+        "origin_city_code": "NZG",
+        "origin_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Chita Airport",
+        "destination_city_code": "HTA",
+        "destination_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "destination_time_zone": "Asia/Chita"
+    },
+    {
+        "depart_date": "2024-12-26T10:20:00+08:00",
+        "origin": "NZG",
+        "destination": "HTA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T23:01:17Z",
+        "trip_class": 0,
+        "value": 22601,
+        "number_of_changes": 1,
+        "duration": 2760,
+        "distance": 483,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "100",
+        "link": "/search/NZG2612HTA1?t=ИК17352084001735377600002760NZGIKTHTA_02da82162e290480c5916cc9b879894f_22602&search_date=21112024&expected_price_uuid=623de0d5-6ff4-488d-a6e9-43fcaa5b2603&expected_price_source=share&expected_price_currency=rub&expected_price=22601",
+        "origin_airport": "NZG",
+        "destination_airport": "HTA",
+        "departure_at": "2024-12-26T10:20:00+08:00",
+        "airline": "2G",
+        "price": 22601,
+        "return_transfers": 0,
+        "duration_to": 150,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nizhneangarsk",
+        "origin_city_code": "NZG",
+        "origin_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Chita Airport",
+        "destination_city_code": "HTA",
+        "destination_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "destination_time_zone": "Asia/Chita"
+    }
+]

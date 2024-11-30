@@ -1,0 +1,108 @@
+[
+    {
+        "depart_date": "2024-11-21T21:40:00+03:00",
+        "origin": "CSY",
+        "destination": "ULY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T04:59:50Z",
+        "trip_class": 0,
+        "value": 8504,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 216,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 8504,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Baratayevka",
+        "destination_city_code": "ULY",
+        "destination_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "destination_time_zone": "Europe/Samara"
+    },
+    {
+        "depart_date": "2024-11-24T21:20:00+03:00",
+        "origin": "CSY",
+        "destination": "ULY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T13:11:27Z",
+        "trip_class": 0,
+        "value": 11241,
+        "number_of_changes": 1,
+        "duration": 3620,
+        "distance": 216,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6816",
+        "link": "/search/CSY2411ULV1?t=DP17324832001732704000003620CSYSVOVKOULV_305f9bc9c595dde7353bf3a2c842d787_11307&search_date=24112024&expected_price_uuid=674eeb5d-2131-413d-8aa6-1e538d208c02&expected_price_source=share&expected_price_currency=rub&expected_price=11241",
+        "origin_airport": "CSY",
+        "destination_airport": "ULV",
+        "departure_at": "2024-11-24T21:20:00+03:00",
+        "airline": "DP",
+        "price": 11241,
+        "return_transfers": 0,
+        "duration_to": 195,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Baratayevka",
+        "destination_city_code": "ULY",
+        "destination_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "destination_time_zone": "Europe/Samara"
+    },
+    {
+        "depart_date": "2024-11-20T18:00:00+03:00",
+        "origin": "CSY",
+        "destination": "ULY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T06:48:12Z",
+        "trip_class": 0,
+        "value": 12446,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 216,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 12446,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Baratayevka",
+        "destination_city_code": "ULY",
+        "destination_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "destination_time_zone": "Europe/Samara"
+    }
+]

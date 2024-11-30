@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-30T12:05:00+03:00",
+        "origin": "PEZ",
+        "destination": "NER",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T07:20:44Z",
+        "trip_class": 0,
+        "value": 26284,
+        "number_of_changes": 1,
+        "duration": 3835,
+        "distance": 4813,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1545",
+        "link": "/search/PEZ3011NER1?t=S717329683001733220000003835PEZSVODMENER_c3241888c43594cbe6a7ded8b84f1d50_26074&search_date=19112024&expected_price_uuid=ff58bbf5-4846-42d0-be3b-14d8acf6dc02&expected_price_source=share&expected_price_currency=rub&expected_price=26284",
+        "origin_airport": "PEZ",
+        "destination_airport": "NER",
+        "departure_at": "2024-11-30T12:05:00+03:00",
+        "airline": "SU",
+        "price": 26284,
+        "return_transfers": 0,
+        "duration_to": 495,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Penza Airport",
+        "origin_city_code": "PEZ",
+        "origin_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Neryungri Airport",
+        "destination_city_code": "NER",
+        "destination_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-25T21:05:00+03:00",
+        "origin": "PEZ",
+        "destination": "NER",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T12:32:39Z",
+        "trip_class": 0,
+        "value": 28106,
+        "number_of_changes": 2,
+        "duration": 3095,
+        "distance": 4813,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1196",
+        "link": "/search/PEZ2511NER1?t=S717325687001732776000003095PEZDMEIKTNER_9be7158c58b0f1de4b3233f031b719c4_28024&search_date=21112024&expected_price_uuid=93c2a64a-5101-4859-92cf-fc0b304cd103&expected_price_source=share&expected_price_currency=rub&expected_price=28106",
+        "origin_airport": "PEZ",
+        "destination_airport": "NER",
+        "departure_at": "2024-11-25T21:05:00+03:00",
+        "airline": "S7",
+        "price": 28106,
+        "return_transfers": 0,
+        "duration_to": 575,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Penza Airport",
+        "origin_city_code": "PEZ",
+        "origin_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Neryungri Airport",
+        "destination_city_code": "NER",
+        "destination_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

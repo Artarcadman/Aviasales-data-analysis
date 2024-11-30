@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-23T12:00:00+05:00",
+        "origin": "RMZ",
+        "destination": "MQF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T16:41:26Z",
+        "trip_class": 0,
+        "value": 15943,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 771,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 15943,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Magnitogorsk Airport",
+        "destination_city_code": "MQF",
+        "destination_coordinates": {
+            "lat": 53.45,
+            "lon": 59.066666
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-29T14:50:00+05:00",
+        "origin": "RMZ",
+        "destination": "MQF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T06:23:09Z",
+        "trip_class": 0,
+        "value": 38848,
+        "number_of_changes": 2,
+        "duration": 2200,
+        "distance": 771,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "615",
+        "link": "/search/RMZ2912MQF1?t=N417354838001735615800002200RMZKZNLEDMQF_1a1071f4f1f8bcc5c659912b07e1308c_38747&search_date=25112024&expected_price_uuid=e4d563ee-a019-48c1-bc30-eb231933b402&expected_price_source=share&expected_price_currency=rub&expected_price=38848",
+        "origin_airport": "RMZ",
+        "destination_airport": "MQF",
+        "departure_at": "2024-12-29T14:50:00+05:00",
+        "airline": "RT",
+        "price": 38848,
+        "return_transfers": 0,
+        "duration_to": 480,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Magnitogorsk Airport",
+        "destination_city_code": "MQF",
+        "destination_coordinates": {
+            "lat": 53.45,
+            "lon": 59.066666
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

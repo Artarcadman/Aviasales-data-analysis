@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T13:55:00+08:00",
+        "origin": "BTK",
+        "destination": "KCK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T06:55:39Z",
+        "trip_class": 0,
+        "value": 26559,
+        "number_of_changes": 3,
+        "duration": 4065,
+        "distance": 408,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5218",
+        "link": "/search/BTK0912KCK1?t=S717337525001733996400004065BTKOVBNOZIKTKCK_5b8ef64a6de8f52425a81205e5ac44a1_26523&search_date=25112024&expected_price_uuid=039881fd-0d51-4621-90ab-114abf673500&expected_price_source=share&expected_price_currency=rub&expected_price=26559",
+        "origin_airport": "BTK",
+        "destination_airport": "KCK",
+        "departure_at": "2024-12-09T13:55:00+08:00",
+        "airline": "S7",
+        "price": 26559,
+        "return_transfers": 0,
+        "duration_to": 400,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Kirensk Airport",
+        "destination_city_code": "KCK",
+        "destination_coordinates": {
+            "lat": 57.772778,
+            "lon": 108.06084
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

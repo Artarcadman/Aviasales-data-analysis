@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-23T18:40:00+03:00",
+        "origin": "STW",
+        "destination": "ESL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-18T20:31:53Z",
+        "trip_class": 0,
+        "value": 16587,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 213,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 16587,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Stavropol Airport",
+        "origin_city_code": "STW",
+        "origin_coordinates": {
+            "lat": 45.333332,
+            "lon": 42.00833
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-24T12:15:00+03:00",
+        "origin": "STW",
+        "destination": "ESL",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-23T11:04:21Z",
+        "trip_class": 0,
+        "value": 21033,
+        "number_of_changes": 1,
+        "duration": 1595,
+        "distance": 213,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6920",
+        "link": "/search/STW2411ESL1?t=SU17324505001732546200001595STWSVOESL_42ff43571c083a67ada4557cc71e5806_21033&search_date=23112024&expected_price_uuid=61d1b382-4075-4760-ba89-d554ab8c0e02&expected_price_source=share&expected_price_currency=rub&expected_price=21033",
+        "origin_airport": "STW",
+        "destination_airport": "ESL",
+        "departure_at": "2024-11-24T12:15:00+03:00",
+        "airline": "DP",
+        "price": 21033,
+        "return_transfers": 0,
+        "duration_to": 420,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Stavropol Airport",
+        "origin_city_code": "STW",
+        "origin_coordinates": {
+            "lat": 45.333332,
+            "lon": 42.00833
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

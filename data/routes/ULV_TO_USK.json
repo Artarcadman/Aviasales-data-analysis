@@ -1,0 +1,35 @@
+[
+    {
+        "depart_date": "2025-01-16T14:30:00+04:00",
+        "origin": "ULY",
+        "destination": "USK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T07:07:28Z",
+        "trip_class": 0,
+        "value": 21252,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 1391,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 21252,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Baratayevka",
+        "origin_city_code": "ULY",
+        "origin_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

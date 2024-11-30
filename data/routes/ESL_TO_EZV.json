@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-26T15:50:00+03:00",
+        "origin": "ESL",
+        "destination": "EZV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T03:44:52Z",
+        "trip_class": 0,
+        "value": 31581,
+        "number_of_changes": 3,
+        "duration": 3880,
+        "distance": 2330,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1573",
+        "link": "/search/ESL2612EZV1?t=SU17352282001735468200003880ESLSVOVKOSGCHMAEZV_2a22180eb4cef2461def2e0720c9922e_31581&search_date=23112024&expected_price_uuid=fbed2c68-7342-4f04-9ca7-0c776dc34d01&expected_price_source=share&expected_price_currency=rub&expected_price=31581",
+        "origin_airport": "ESL",
+        "destination_airport": "EZV",
+        "departure_at": "2024-12-26T15:50:00+03:00",
+        "airline": "SU",
+        "price": 31581,
+        "return_transfers": 0,
+        "duration_to": 550,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Elista Airport",
+        "origin_city_code": "ESL",
+        "origin_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Berezovo",
+        "destination_city_code": "EZV",
+        "destination_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

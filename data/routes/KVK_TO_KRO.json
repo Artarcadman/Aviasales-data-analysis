@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-15T17:55:00+03:00",
+        "origin": "KVK",
+        "destination": "KRO",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T07:39:31Z",
+        "trip_class": 0,
+        "value": 20365,
+        "number_of_changes": 2,
+        "duration": 2035,
+        "distance": 2117,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6854",
+        "link": "/search/KVK1512KRO1?t=Y717342853001734414600002035KVKLEDSVODMEKRO_c40ff1478492af2a3a4546149c6199dd_20193&search_date=20112024&expected_price_uuid=8b65aa0b-f19f-4b89-a26b-6f6bd7c31402&expected_price_source=share&expected_price_currency=rub&expected_price=20365",
+        "origin_airport": "KVK",
+        "destination_airport": "KRO",
+        "departure_at": "2024-12-15T17:55:00+03:00",
+        "airline": "FV",
+        "price": 20365,
+        "return_transfers": 0,
+        "duration_to": 370,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kirovsk Airport",
+        "origin_city_code": "KVK",
+        "origin_coordinates": {
+            "lat": 67.583336,
+            "lon": 33.583332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kurgan Airport",
+        "destination_city_code": "KRO",
+        "destination_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-30T15:20:00+03:00",
+        "origin": "KVK",
+        "destination": "KRO",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T09:07:34Z",
+        "trip_class": 0,
+        "value": 27963,
+        "number_of_changes": 1,
+        "duration": 3630,
+        "distance": 2117,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1347",
+        "link": "/search/KVK3012KRO1?t=Y717355720001735797000003630KVKSVODMEKRO_c7b5e42d15db8f4e4a391e5cc1536a90_27963&search_date=23112024&expected_price_uuid=d85e3f0b-a698-4b77-b9a2-9688071bf202&expected_price_source=share&expected_price_currency=rub&expected_price=27963",
+        "origin_airport": "KVK",
+        "destination_airport": "KRO",
+        "departure_at": "2024-12-30T15:20:00+03:00",
+        "airline": "SU",
+        "price": 27963,
+        "return_transfers": 0,
+        "duration_to": 300,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kirovsk Airport",
+        "origin_city_code": "KVK",
+        "origin_coordinates": {
+            "lat": 67.583336,
+            "lon": 33.583332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kurgan Airport",
+        "destination_city_code": "KRO",
+        "destination_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-01T17:40:00+05:00",
+        "origin": "NOJ",
+        "destination": "KVK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T10:22:08Z",
+        "trip_class": 0,
+        "value": 20362,
+        "number_of_changes": 1,
+        "duration": 2715,
+        "distance": 1952,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "850",
+        "link": "/search/NOJ0112KVK1?t=YC17330748001733230500002715NOJLEDKVK_dccb274e9f9600340ef0bc21bd9c35bf_20481&search_date=24112024&expected_price_uuid=cd613b24-921a-4c4b-b558-5aa41df5e001&expected_price_source=share&expected_price_currency=rub&expected_price=20362",
+        "origin_airport": "NOJ",
+        "destination_airport": "KVK",
+        "departure_at": "2024-12-01T17:40:00+05:00",
+        "airline": "YC",
+        "price": 20362,
+        "return_transfers": 0,
+        "duration_to": 315,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nojabrxsk Airport",
+        "origin_city_code": "NOJ",
+        "origin_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kirovsk Airport",
+        "destination_city_code": "KVK",
+        "destination_coordinates": {
+            "lat": 67.583336,
+            "lon": 33.583332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

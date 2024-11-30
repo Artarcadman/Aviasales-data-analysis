@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-23T13:50:00+07:00",
+        "origin": "RGK",
+        "destination": "NYM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T08:43:09Z",
+        "trip_class": 0,
+        "value": 13643,
+        "number_of_changes": 1,
+        "duration": 1615,
+        "distance": 1674,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1054",
+        "link": "/search/RGK2312NYM1?t=WZ17349618001735051500001615RGKSVXNYM_88affe6ba9346d0beda67b94f9558caf_13250&search_date=22112024&expected_price_uuid=a2e47e43-deb0-4d1f-805f-5a3f0a75c694&expected_price_source=share&expected_price_currency=rub&expected_price=13643",
+        "origin_airport": "RGK",
+        "destination_airport": "NYM",
+        "departure_at": "2024-12-23T13:50:00+07:00",
+        "airline": "WZ",
+        "price": 13643,
+        "return_transfers": 0,
+        "duration_to": 285,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Gorno-Altaysk Airport",
+        "origin_city_code": "RGK",
+        "origin_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2025-01-22T11:45:00+07:00",
+        "origin": "RGK",
+        "destination": "NYM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T11:37:23Z",
+        "trip_class": 0,
+        "value": 30671,
+        "number_of_changes": 1,
+        "duration": 1395,
+        "distance": 1674,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1525",
+        "link": "/search/RGK2201NYM1?t=SU17375463001737622800001395RGKSVODMENYM_ca7c66c38e604fb0e6409e7b3c157ede_30671&search_date=23112024&expected_price_uuid=50b026c7-fb1d-41ff-8296-835081d4cd08&expected_price_source=share&expected_price_currency=rub&expected_price=30671",
+        "origin_airport": "RGK",
+        "destination_airport": "NYM",
+        "departure_at": "2025-01-22T11:45:00+07:00",
+        "airline": "SU",
+        "price": 30671,
+        "return_transfers": 0,
+        "duration_to": 485,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Gorno-Altaysk Airport",
+        "origin_city_code": "RGK",
+        "origin_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

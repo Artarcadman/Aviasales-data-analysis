@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-30T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "NZG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T05:01:02Z",
+        "trip_class": 0,
+        "value": 23953,
+        "number_of_changes": 2,
+        "duration": 1295,
+        "distance": 486,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK3011NZG1?t=KV17329821001733059800001295BTKIKTKJANZG_7aab19ef0e29cac80b66b7f2dfef74b2_23922&search_date=25112024&expected_price_uuid=5e4870f9-0ce3-4045-8f3e-c26efb5f5e03&expected_price_source=share&expected_price_currency=rub&expected_price=23953",
+        "origin_airport": "BTK",
+        "destination_airport": "NZG",
+        "departure_at": "2024-11-30T15:55:00+08:00",
+        "airline": "S7",
+        "price": 23953,
+        "return_transfers": 0,
+        "duration_to": 345,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-28T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "NZG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T13:04:06Z",
+        "trip_class": 0,
+        "value": 27845,
+        "number_of_changes": 2,
+        "duration": 1295,
+        "distance": 486,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK2812NZG1?t=KV17354013001735479000001295BTKIKTKJANZG_2df0cb72ba3c943a3ebfeefa5cb9cf0c_27852&search_date=19112024&expected_price_uuid=e56f8711-bf91-458e-968c-3d4709270203&expected_price_source=share&expected_price_currency=rub&expected_price=27845",
+        "origin_airport": "BTK",
+        "destination_airport": "NZG",
+        "departure_at": "2024-12-28T15:55:00+08:00",
+        "airline": "S7",
+        "price": 27845,
+        "return_transfers": 0,
+        "duration_to": 345,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

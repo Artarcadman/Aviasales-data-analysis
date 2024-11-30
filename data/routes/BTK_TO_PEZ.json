@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-22T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "PEZ",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-20T04:09:59Z",
+        "trip_class": 0,
+        "value": 26078,
+        "number_of_changes": 2,
+        "duration": 2890,
+        "distance": 3558,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK2212PEZ1?t=SU17348829001735038300002890BTKIKTSVOPEZ_313896e64dd3cc123f6bf20f9121156c_26072&search_date=20112024&expected_price_uuid=b47fd275-8191-493e-bff9-7680d9562503&expected_price_source=share&expected_price_currency=rub&expected_price=26078",
+        "origin_airport": "BTK",
+        "destination_airport": "PEZ",
+        "departure_at": "2024-12-22T15:55:00+08:00",
+        "airline": "S7",
+        "price": 26078,
+        "return_transfers": 0,
+        "duration_to": 555,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Penza Airport",
+        "destination_city_code": "PEZ",
+        "destination_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

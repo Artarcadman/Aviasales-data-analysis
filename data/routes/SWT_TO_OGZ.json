@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "OGZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T09:13:14Z",
+        "trip_class": 0,
+        "value": 26888,
+        "number_of_changes": 3,
+        "duration": 3260,
+        "distance": 2889,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT2911OGZ1?t=DP17328762001733057400003260SWTTOFKZNLEDOGZ_e090ddbff282e4e6ea0e8c1e5c7055e5_27045&search_date=24112024&expected_price_uuid=7d80c239-5536-4712-b163-4cb2e020c202&expected_price_source=share&expected_price_currency=rub&expected_price=26888",
+        "origin_airport": "SWT",
+        "destination_airport": "OGZ",
+        "departure_at": "2024-11-29T10:30:00+07:00",
+        "airline": "KV",
+        "price": 26888,
+        "return_transfers": 0,
+        "duration_to": 725,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Vladikavkaz Airport",
+        "destination_city_code": "OGZ",
+        "destination_coordinates": {
+            "lat": 43.2,
+            "lon": 44.6
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

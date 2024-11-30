@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T10:00:00+08:00",
+        "origin": "UUD",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:26:10Z",
+        "trip_class": 0,
+        "value": 24653,
+        "number_of_changes": 2,
+        "duration": 1775,
+        "distance": 4633,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "784",
+        "link": "/search/UUD3011IGT1?t=N417329608001733049300001775UUDKZNSVOIGT_ecc260f5b37ded496c11fa05f101b097_24520&search_date=21112024&expected_price_uuid=8c45525f-22e3-4148-b24b-117d3e49a000&expected_price_source=share&expected_price_currency=rub&expected_price=24653",
+        "origin_airport": "UUD",
+        "destination_airport": "IGT",
+        "departure_at": "2024-11-30T10:00:00+08:00",
+        "airline": "N4",
+        "price": 24653,
+        "return_transfers": 0,
+        "duration_to": 640,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ulan-Ude Airport",
+        "origin_city_code": "UUD",
+        "origin_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

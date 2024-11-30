@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T12:25:00+07:00",
+        "origin": "TOF",
+        "destination": "VKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T16:40:24Z",
+        "trip_class": 0,
+        "value": 21842,
+        "number_of_changes": 3,
+        "duration": 3365,
+        "distance": 1624,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5322",
+        "link": "/search/TOF2711VKT1?t=SU17327103001732897800003365TOFOVBSVOSCWVKT_88e2f1d316797e62872abd860cb7c511_21567&search_date=22112024&expected_price_uuid=27f54833-62ab-4a03-bc9c-dc9500d88401&expected_price_source=share&expected_price_currency=rub&expected_price=21842",
+        "origin_airport": "TOF",
+        "destination_airport": "VKT",
+        "departure_at": "2024-11-27T12:25:00+07:00",
+        "airline": "S7",
+        "price": 21842,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Tomsk Airport",
+        "origin_city_code": "TOF",
+        "origin_coordinates": {
+            "lat": 56.5,
+            "lon": 84.96667
+        },
+        "origin_time_zone": "Asia/Tomsk",
+        "destination_airport_name": "Vorkuta Airport",
+        "destination_city_code": "VKT",
+        "destination_coordinates": {
+            "lat": 67.48333,
+            "lon": 63.983334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

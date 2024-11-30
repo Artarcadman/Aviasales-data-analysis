@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T19:05:00+05:00",
+        "origin": "RMZ",
+        "destination": "IAR",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-25T10:34:26Z",
+        "trip_class": 0,
+        "value": 11050,
+        "number_of_changes": 1,
+        "duration": 1165,
+        "distance": 1671,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "652",
+        "link": "/search/RMZ2811IAR1?t=RT17328207001732883400001165RMZKZNIAR_0f353c2384686b697c75f81d5887eca2_11061&search_date=25112024&expected_price_uuid=a454d53a-74dd-41ad-83a3-514551bb3b00&expected_price_source=share&expected_price_currency=rub&expected_price=11050",
+        "origin_airport": "RMZ",
+        "destination_airport": "IAR",
+        "departure_at": "2024-11-28T19:05:00+05:00",
+        "airline": "RT",
+        "price": 11050,
+        "return_transfers": 0,
+        "duration_to": 215,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Tunoshna Airport",
+        "destination_city_code": "IAR",
+        "destination_coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-30T12:50:00+05:00",
+        "origin": "RMZ",
+        "destination": "IAR",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T11:16:15Z",
+        "trip_class": 0,
+        "value": 18079,
+        "number_of_changes": 1,
+        "duration": 515,
+        "distance": 1671,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "283",
+        "link": "/search/RMZ3012IAR1?t=RT17355630001735586700000515RMZLEDIAR_e8184ec0e8cd604f3a7ea4ca7e7f55a6_18096&search_date=25112024&expected_price_uuid=4eaf730d-01d4-430d-bc23-da656309c422&expected_price_source=share&expected_price_currency=rub&expected_price=18079",
+        "origin_airport": "RMZ",
+        "destination_airport": "IAR",
+        "departure_at": "2024-12-30T12:50:00+05:00",
+        "airline": "RT",
+        "price": 18079,
+        "return_transfers": 0,
+        "duration_to": 275,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Tunoshna Airport",
+        "destination_city_code": "IAR",
+        "destination_coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

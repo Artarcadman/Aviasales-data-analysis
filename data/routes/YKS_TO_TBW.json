@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-03T03:25:00+09:00",
+        "origin": "YKS",
+        "destination": "TBW",
+        "gate": "Aviakassa",
+        "return_date": "",
+        "found_at": "2024-11-24T01:57:50Z",
+        "trip_class": 0,
+        "value": 29434,
+        "number_of_changes": 2,
+        "duration": 2130,
+        "distance": 4964,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "493",
+        "link": "/search/YKS0312TBW1?t=U617331963001733302500002130YKSIKTDMEVKOTBW_ddb6b334c6bc86805373974f7e5e40e3_29606&search_date=24112024&expected_price_uuid=c316ff16-9030-42cc-8a76-34957e867402&expected_price_source=share&expected_price_currency=rub&expected_price=29434",
+        "origin_airport": "YKS",
+        "destination_airport": "TBW",
+        "departure_at": "2024-12-03T03:25:00+09:00",
+        "airline": "R3",
+        "price": 29434,
+        "return_transfers": 0,
+        "duration_to": 630,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

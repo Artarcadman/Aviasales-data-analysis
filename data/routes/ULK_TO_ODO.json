@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-07T17:55:00+09:00",
+        "origin": "ULK",
+        "destination": "ODO",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T22:19:13Z",
+        "trip_class": 0,
+        "value": 49894,
+        "number_of_changes": 1,
+        "duration": 1175,
+        "distance": 319,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "181",
+        "link": "/search/ULK0712ODO1?t=IO17335941001733661000001175ULKIKTODO_243ac3a8bd1e8d7100f4cc06e111200a_49894&search_date=23112024&expected_price_uuid=21a578b6-bf2e-4a08-bcc5-9bcf86f43355&expected_price_source=share&expected_price_currency=rub&expected_price=49894",
+        "origin_airport": "ULK",
+        "destination_airport": "ODO",
+        "departure_at": "2024-12-07T17:55:00+09:00",
+        "airline": "IO",
+        "price": 49894,
+        "return_transfers": 0,
+        "duration_to": 330,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Lensk Airport",
+        "origin_city_code": "ULK",
+        "origin_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Bodaybo Airport",
+        "destination_city_code": "ODO",
+        "destination_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

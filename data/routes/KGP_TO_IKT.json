@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-11T08:05:00+05:00",
+        "origin": "KGP",
+        "destination": "IKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T09:23:54Z",
+        "trip_class": 0,
+        "value": 18437,
+        "number_of_changes": 1,
+        "duration": 1205,
+        "distance": 2078,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "446",
+        "link": "/search/KGP1112IKT1?t=DP17339043001733987400001205KGPVKOSVOIKT_d0d8b199878d5e71b6c4051b15dcf55d_18401&search_date=20112024&expected_price_uuid=51938544-2140-4429-95e8-7626c8f1e301&expected_price_source=share&expected_price_currency=rub&expected_price=18437",
+        "origin_airport": "KGP",
+        "destination_airport": "IKT",
+        "departure_at": "2024-12-11T08:05:00+05:00",
+        "airline": "UT",
+        "price": 18437,
+        "return_transfers": 0,
+        "duration_to": 575,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kogalym International Airport",
+        "origin_city_code": "KGP",
+        "origin_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Irkutsk International Airport",
+        "destination_city_code": "IKT",
+        "destination_coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2025-03-21T08:05:00+05:00",
+        "origin": "KGP",
+        "destination": "IKT",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T07:56:35Z",
+        "trip_class": 0,
+        "value": 25411,
+        "number_of_changes": 1,
+        "duration": 1150,
+        "distance": 2078,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "446",
+        "link": "/search/KGP2103IKT1?t=U617425443001742624100001150KGPVKODMEIKT_08c601dfe574b2c0573f8974bbda9d33_25559&search_date=24112024&expected_price_uuid=ac4970cd-5359-4d58-9353-d99a85135757&expected_price_source=share&expected_price_currency=rub&expected_price=25411",
+        "origin_airport": "KGP",
+        "destination_airport": "IKT",
+        "departure_at": "2025-03-21T08:05:00+05:00",
+        "airline": "UT",
+        "price": 25411,
+        "return_transfers": 0,
+        "duration_to": 570,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kogalym International Airport",
+        "origin_city_code": "KGP",
+        "origin_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Irkutsk International Airport",
+        "destination_city_code": "IKT",
+        "destination_coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

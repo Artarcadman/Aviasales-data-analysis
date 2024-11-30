@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-25T19:50:00+04:00",
+        "origin": "ASF",
+        "destination": "KYZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T01:31:38Z",
+        "trip_class": 0,
+        "value": 22689,
+        "number_of_changes": 2,
+        "duration": 3495,
+        "distance": 3383,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1175",
+        "link": "/search/ASF2511KYZ1?t=SU17325642001732784700003495ASFSVOKJAKYZ_25cc3aa2114f4fdd244dbd43c3fd9e44_22512&search_date=21112024&expected_price_uuid=abc3bc36-1b46-4f6c-8ba0-22e85211dc00&expected_price_source=share&expected_price_currency=rub&expected_price=22689",
+        "origin_airport": "ASF",
+        "destination_airport": "KYZ",
+        "departure_at": "2024-11-25T19:50:00+04:00",
+        "airline": "SU",
+        "price": 22689,
+        "return_transfers": 0,
+        "duration_to": 555,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Kyzyl Airport",
+        "destination_city_code": "KYZ",
+        "destination_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-11-24T19:10:00+04:00",
+        "origin": "ASF",
+        "destination": "KYZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T01:31:20Z",
+        "trip_class": 0,
+        "value": 26902,
+        "number_of_changes": 2,
+        "duration": 3470,
+        "distance": 3383,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1010",
+        "link": "/search/ASF2411KYZ1?t=WZ17324754001732694400003470ASFSVXOVBKYZ_686bd26a30ef306a00da30b13099265e_26692&search_date=21112024&expected_price_uuid=660c0b6e-767a-45ba-99c1-4549ef591700&expected_price_source=share&expected_price_currency=rub&expected_price=26902",
+        "origin_airport": "ASF",
+        "destination_airport": "KYZ",
+        "departure_at": "2024-11-24T19:10:00+04:00",
+        "airline": "WZ",
+        "price": 26902,
+        "return_transfers": 0,
+        "duration_to": 405,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Kyzyl Airport",
+        "destination_city_code": "KYZ",
+        "destination_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

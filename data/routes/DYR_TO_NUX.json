@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "NUX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:26:10Z",
+        "trip_class": 0,
+        "value": 40577,
+        "number_of_changes": 2,
+        "duration": 3110,
+        "distance": 4174,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR2911NUX1?t=SU17328942001733055600003110DYRSVOKZNNUX_96a455b5b895ba504934ea30bbe5c721_39407&search_date=22112024&expected_price_uuid=afe32643-167d-4c7a-a421-b07188358d00&expected_price_source=share&expected_price_currency=rub&expected_price=40577",
+        "origin_airport": "DYR",
+        "destination_airport": "NUX",
+        "departure_at": "2024-11-29T15:30:00+12:00",
+        "airline": "FV",
+        "price": 40577,
+        "return_transfers": 0,
+        "duration_to": 785,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Novy Urengoy Airport",
+        "destination_city_code": "NUX",
+        "destination_coordinates": {
+            "lat": 66.07335,
+            "lon": 76.522835
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

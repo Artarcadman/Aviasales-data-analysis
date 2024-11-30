@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-06T09:55:00+07:00",
+        "origin": "ABA",
+        "destination": "KLF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T05:58:19Z",
+        "trip_class": 0,
+        "value": 22986,
+        "number_of_changes": 2,
+        "duration": 705,
+        "distance": 3499,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1479",
+        "link": "/search/ABA0612KLF1?t=SU17334789001733506800000705ABASVOLEDKLF_3fd8249e15a55a584de36c14891182c8_23120&search_date=24112024&expected_price_uuid=c1bfea3a-a467-4948-bbdf-65cbe7fcc900&expected_price_source=share&expected_price_currency=rub&expected_price=22986",
+        "origin_airport": "ABA",
+        "destination_airport": "KLF",
+        "departure_at": "2024-12-06T09:55:00+07:00",
+        "airline": "SU",
+        "price": 22986,
+        "return_transfers": 0,
+        "duration_to": 490,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Grabtsevo Airport",
+        "destination_city_code": "KLF",
+        "destination_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-22T22:55:00+07:00",
+        "origin": "ABA",
+        "destination": "KLF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T04:42:08Z",
+        "trip_class": 0,
+        "value": 30618,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 3499,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 30618,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Grabtsevo Airport",
+        "destination_city_code": "KLF",
+        "destination_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

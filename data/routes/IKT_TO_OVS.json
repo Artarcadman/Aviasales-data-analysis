@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T00:30:00+08:00",
+        "origin": "IKT",
+        "destination": "OVS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T12:27:05Z",
+        "trip_class": 0,
+        "value": 26556,
+        "number_of_changes": 2,
+        "duration": 1030,
+        "distance": 2624,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6367",
+        "link": "/search/IKT2811OVS1?t=U617327538001732804800001030IKTHTASVXOVS_f71cc90205c13974b347241cbb8b2edd_26612&search_date=25112024&expected_price_uuid=3b7c2e9b-58d4-45e1-a359-76ca86ba2f03&expected_price_source=share&expected_price_currency=rub&expected_price=26556",
+        "origin_airport": "IKT",
+        "destination_airport": "OVS",
+        "departure_at": "2024-11-28T00:30:00+08:00",
+        "airline": "S7",
+        "price": 26556,
+        "return_transfers": 0,
+        "duration_to": 490,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Irkutsk International Airport",
+        "origin_city_code": "IKT",
+        "origin_coordinates": {
+            "lat": 52.273308,
+            "lon": 104.35607
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Sovetsky Airport",
+        "destination_city_code": "OVS",
+        "destination_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

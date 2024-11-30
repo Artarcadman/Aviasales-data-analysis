@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T07:40:00+09:00",
+        "origin": "YKS",
+        "destination": "DEE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T07:47:45Z",
+        "trip_class": 0,
+        "value": 37674,
+        "number_of_changes": 2,
+        "duration": 1685,
+        "distance": 2265,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "491",
+        "link": "/search/YKS3011DEE1?t=R317329524001733060700001685YKSVVOUUSDEE_474bcf5998ba54ab2d2f8436b5fd0750_37378&search_date=21112024&expected_price_uuid=69ca7e37-d29c-4aec-8bc7-be2d53cffe01&expected_price_source=share&expected_price_currency=rub&expected_price=37674",
+        "origin_airport": "YKS",
+        "destination_airport": "DEE",
+        "departure_at": "2024-11-30T07:40:00+09:00",
+        "airline": "R3",
+        "price": 37674,
+        "return_transfers": 0,
+        "duration_to": 365,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Mendeleyevo Airport",
+        "destination_city_code": "DEE",
+        "destination_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

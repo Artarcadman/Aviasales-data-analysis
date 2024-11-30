@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-22T10:20:00+03:00",
+        "origin": "AER",
+        "destination": "TQL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T13:25:23Z",
+        "trip_class": 0,
+        "value": 15867,
+        "number_of_changes": 1,
+        "duration": 2830,
+        "distance": 3338,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "514",
+        "link": "/search/AER2212TQL1?t=UT17348628001735039800002830AERTJMTQL_a48d2299eb9ed028454dd8a9e538fbeb_15871&search_date=19112024&expected_price_uuid=35d6bd02-e195-4c54-b70a-6a251a162503&expected_price_source=share&expected_price_currency=rub&expected_price=15867",
+        "origin_airport": "AER",
+        "destination_airport": "TQL",
+        "departure_at": "2024-12-22T10:20:00+03:00",
+        "airline": "UT",
+        "price": 15867,
+        "return_transfers": 0,
+        "duration_to": 410,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sochi International Airport",
+        "origin_city_code": "AER",
+        "origin_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tarko-Sale",
+        "destination_city_code": "TQL",
+        "destination_coordinates": {
+            "lat": 64.92134,
+            "lon": 77.797356
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-13T11:10:00+03:00",
+        "origin": "AER",
+        "destination": "TQL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T05:51:23Z",
+        "trip_class": 0,
+        "value": 19498,
+        "number_of_changes": 2,
+        "duration": 1340,
+        "distance": 3338,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "306",
+        "link": "/search/AER1312TQL1?t=F717340882001734175800001340AERVKOSVOTJMTQL_ab93a12075c238466af8da42b1ba4e4b_19498&search_date=23112024&expected_price_uuid=9f8437e1-87fe-47ef-a522-bff9c5bfc400&expected_price_source=share&expected_price_currency=rub&expected_price=19498",
+        "origin_airport": "AER",
+        "destination_airport": "TQL",
+        "departure_at": "2024-12-13T11:10:00+03:00",
+        "airline": "F7",
+        "price": 19498,
+        "return_transfers": 0,
+        "duration_to": 560,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sochi International Airport",
+        "origin_city_code": "AER",
+        "origin_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tarko-Sale",
+        "destination_city_code": "TQL",
+        "destination_coordinates": {
+            "lat": 64.92134,
+            "lon": 77.797356
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

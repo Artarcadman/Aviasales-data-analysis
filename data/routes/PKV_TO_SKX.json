@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-03T21:20:00+03:00",
+        "origin": "PKV",
+        "destination": "SKX",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-20T20:36:39Z",
+        "trip_class": 0,
+        "value": 9434,
+        "number_of_changes": 2,
+        "duration": 2770,
+        "distance": 1121,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "7036",
+        "link": "/search/PKV0312SKX1?t=A417332608001733427000002770PKVVKOLEDSKX_3af8b070d2ea56af14b1f5091339ffe0_9434&search_date=20112024&expected_price_uuid=3705cd2d-1847-462c-add3-97fe74d44702&expected_price_source=share&expected_price_currency=rub&expected_price=9434",
+        "origin_airport": "PKV",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-03T21:20:00+03:00",
+        "airline": "A4",
+        "price": 9434,
+        "return_transfers": 0,
+        "duration_to": 315,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

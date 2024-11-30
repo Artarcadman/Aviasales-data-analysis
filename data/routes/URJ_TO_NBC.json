@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T13:10:00+05:00",
+        "origin": "URJ",
+        "destination": "NBC",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T10:13:22Z",
+        "trip_class": 0,
+        "value": 11501,
+        "number_of_changes": 2,
+        "duration": 3170,
+        "distance": 905,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "226",
+        "link": "/search/URJ3011NBC1?t=DP17329722001733155200003170URJTJMSVONBC_47235a47831055d36ca047d3113937a7_11419&search_date=22112024&expected_price_uuid=e236288b-6ecb-451b-9f92-223d77aa4003&expected_price_source=share&expected_price_currency=rub&expected_price=11501",
+        "origin_airport": "URJ",
+        "destination_airport": "NBC",
+        "departure_at": "2024-11-30T13:10:00+05:00",
+        "airline": "UT",
+        "price": 11501,
+        "return_transfers": 0,
+        "duration_to": 365,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Uraj Airport",
+        "origin_city_code": "URJ",
+        "origin_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Begishevo Airport",
+        "destination_city_code": "NBC",
+        "destination_coordinates": {
+            "lat": 55.564125,
+            "lon": 52.10341
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

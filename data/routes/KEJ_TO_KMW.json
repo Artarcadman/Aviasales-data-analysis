@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T06:15:00+07:00",
+        "origin": "KEJ",
+        "destination": "KMW",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T17:15:30Z",
+        "trip_class": 0,
+        "value": 27215,
+        "number_of_changes": 1,
+        "duration": 890,
+        "distance": 2733,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "318",
+        "link": "/search/KEJ2711KMW1?t=N417326881001732727100000890KEJLEDKMW_0bb2642aebc6dfa4a637a35569ec4e2d_27212&search_date=25112024&expected_price_uuid=a2fba315-570f-44f8-befb-51f5a079d63e&expected_price_source=share&expected_price_currency=rub&expected_price=27215",
+        "origin_airport": "KEJ",
+        "destination_airport": "KMW",
+        "departure_at": "2024-11-27T06:15:00+07:00",
+        "airline": "N4",
+        "price": 27215,
+        "return_transfers": 0,
+        "duration_to": 425,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kemerovo Airport",
+        "origin_city_code": "KEJ",
+        "origin_coordinates": {
+            "lat": 55.280567,
+            "lon": 86.11623
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Sokerkino",
+        "destination_city_code": "KMW",
+        "destination_coordinates": {
+            "lat": 57.75,
+            "lon": 40.933334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

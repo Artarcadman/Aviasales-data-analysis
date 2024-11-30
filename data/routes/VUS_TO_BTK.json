@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T15:40:00+03:00",
+        "origin": "VUS",
+        "destination": "BTK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T02:17:27Z",
+        "trip_class": 0,
+        "value": 27918,
+        "number_of_changes": 3,
+        "duration": 2625,
+        "distance": 3156,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "562",
+        "link": "/search/VUS2611BTK1?t=DP17326356001732811100002625VUSVGDVKOSVOIKTBTK_f75ce17abdd0063178a0a2233c93524a_27695&search_date=19112024&expected_price_uuid=cd381ece-1a68-4407-9048-de9a028e8a02&expected_price_source=share&expected_price_currency=rub&expected_price=27918",
+        "origin_airport": "VUS",
+        "destination_airport": "BTK",
+        "departure_at": "2024-11-26T15:40:00+03:00",
+        "airline": "ВГ",
+        "price": 27918,
+        "return_transfers": 0,
+        "duration_to": 570,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Velikij Ustyug Airport",
+        "origin_city_code": "VUS",
+        "origin_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bratsk Airport",
+        "destination_city_code": "BTK",
+        "destination_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

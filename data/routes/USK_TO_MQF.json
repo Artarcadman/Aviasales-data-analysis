@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-31T13:00:00+03:00",
+        "origin": "USK",
+        "destination": "MQF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T16:26:24Z",
+        "trip_class": 0,
+        "value": 49339,
+        "number_of_changes": 2,
+        "duration": 2370,
+        "distance": 1392,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "235",
+        "link": "/search/USK3112MQF1?t=N417356500001735799400002370USKUFAAERMQF_0301326e88dfd4a296a1ba8f7fba9871_49627&search_date=24112024&expected_price_uuid=41d85a02-ceb9-4caf-bddf-31b386a00201&expected_price_source=share&expected_price_currency=rub&expected_price=49339",
+        "origin_airport": "USK",
+        "destination_airport": "MQF",
+        "departure_at": "2024-12-31T13:00:00+03:00",
+        "airline": "RT",
+        "price": 49339,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Usinsk Airport",
+        "origin_city_code": "USK",
+        "origin_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magnitogorsk Airport",
+        "destination_city_code": "MQF",
+        "destination_coordinates": {
+            "lat": 53.45,
+            "lon": 59.066666
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

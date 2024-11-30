@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-21T13:05:00+03:00",
+        "origin": "AER",
+        "destination": "OLZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T13:15:54Z",
+        "trip_class": 0,
+        "value": 41600,
+        "number_of_changes": 1,
+        "duration": 2745,
+        "distance": 5440,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "474",
+        "link": "/search/AER2112OLZ1?t=R317347863001734972600002745AERYKSOLZ_4062f1dbc0a44342744ef95988816124_41085&search_date=22112024&expected_price_uuid=b893a2bd-fd04-4724-b475-55dcd7899280&expected_price_source=share&expected_price_currency=rub&expected_price=41600",
+        "origin_airport": "AER",
+        "destination_airport": "OLZ",
+        "departure_at": "2024-12-21T13:05:00+03:00",
+        "airline": "R3",
+        "price": 41600,
+        "return_transfers": 0,
+        "duration_to": 785,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sochi International Airport",
+        "origin_city_code": "AER",
+        "origin_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Olokminsk Airport",
+        "destination_city_code": "OLZ",
+        "destination_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-12-15T10:50:00+03:00",
+        "origin": "AER",
+        "destination": "OLZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T11:20:24Z",
+        "trip_class": 0,
+        "value": 44326,
+        "number_of_changes": 2,
+        "duration": 4020,
+        "distance": 5440,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "337",
+        "link": "/search/AER1512OLZ1?t=N417342598001734522600004020AERKZNIKTOLZ_01b467ed13aac492386df19bd5093349_44280&search_date=19112024&expected_price_uuid=8d132a0b-704d-4c04-ac68-91581566af03&expected_price_source=share&expected_price_currency=rub&expected_price=44326",
+        "origin_airport": "AER",
+        "destination_airport": "OLZ",
+        "departure_at": "2024-12-15T10:50:00+03:00",
+        "airline": "DP",
+        "price": 44326,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sochi International Airport",
+        "origin_city_code": "AER",
+        "origin_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Olokminsk Airport",
+        "destination_city_code": "OLZ",
+        "destination_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

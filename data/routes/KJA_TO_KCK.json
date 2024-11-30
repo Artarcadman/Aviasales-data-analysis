@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-11T11:35:00+07:00",
+        "origin": "KJA",
+        "destination": "KCK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T02:05:40Z",
+        "trip_class": 0,
+        "value": 10132,
+        "number_of_changes": 1,
+        "duration": 1265,
+        "distance": 958,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "137",
+        "link": "/search/KJA1112KCK1?t=UT17339169001733996400001265KJAIKTKCK_df832b9ec6efffac62efc21cceb7b4d9_10100&search_date=25112024&expected_price_uuid=2b778dc2-326b-47b4-9c39-b715b6848d92&expected_price_source=share&expected_price_currency=rub&expected_price=10132",
+        "origin_airport": "KJA",
+        "destination_airport": "KCK",
+        "departure_at": "2024-12-11T11:35:00+07:00",
+        "airline": "UT",
+        "price": 10132,
+        "return_transfers": 0,
+        "duration_to": 240,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Krasnoyarsk International Airport",
+        "origin_city_code": "KJA",
+        "origin_coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Kirensk Airport",
+        "destination_city_code": "KCK",
+        "destination_coordinates": {
+            "lat": 57.772778,
+            "lon": 108.06084
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-27T11:35:00+07:00",
+        "origin": "KJA",
+        "destination": "KCK",
+        "gate": "Agent.ru",
+        "return_date": "",
+        "found_at": "2024-11-25T14:08:38Z",
+        "trip_class": 0,
+        "value": 11096,
+        "number_of_changes": 1,
+        "duration": 1455,
+        "distance": 958,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "137",
+        "link": "/search/KJA2711KCK1?t=UT17327073001732798200001455KJAIKTKCK_3cdba65bf458f617fdfc8ae94f181bfb_11081&search_date=25112024&expected_price_uuid=d04deec1-8eac-4c74-bfe7-0a1b18992e02&expected_price_source=share&expected_price_currency=rub&expected_price=11096",
+        "origin_airport": "KJA",
+        "destination_airport": "KCK",
+        "departure_at": "2024-11-27T11:35:00+07:00",
+        "airline": "UT",
+        "price": 11096,
+        "return_transfers": 0,
+        "duration_to": 250,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Krasnoyarsk International Airport",
+        "origin_city_code": "KJA",
+        "origin_coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Kirensk Airport",
+        "destination_city_code": "KCK",
+        "destination_coordinates": {
+            "lat": 57.772778,
+            "lon": 108.06084
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

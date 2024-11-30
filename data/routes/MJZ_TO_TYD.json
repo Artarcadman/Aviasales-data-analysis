@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-10T14:30:00+09:00",
+        "origin": "MJZ",
+        "destination": "TYD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:15:29Z",
+        "trip_class": 0,
+        "value": 19129,
+        "number_of_changes": 2,
+        "duration": 4100,
+        "distance": 1010,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6838",
+        "link": "/search/MJZ1012TYD1?t=SU17338410001734087000004100MJZKJABQSTYD_bed572627feb8cc71c8d51c4a2bb946c_19056&search_date=25112024&expected_price_uuid=838ffbc4-32d9-4b34-b986-5bebc79bed02&expected_price_source=share&expected_price_currency=rub&expected_price=19129",
+        "origin_airport": "MJZ",
+        "destination_airport": "TYD",
+        "departure_at": "2024-12-10T14:30:00+09:00",
+        "airline": "FV",
+        "price": 19129,
+        "return_transfers": 0,
+        "duration_to": 475,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Mirnyj Airport",
+        "origin_city_code": "MJZ",
+        "origin_coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tynda Airport",
+        "destination_city_code": "TYD",
+        "destination_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-12T16:30:00+05:00",
+        "origin": "NYA",
+        "destination": "TBW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T07:35:57Z",
+        "trip_class": 0,
+        "value": 15609,
+        "number_of_changes": 2,
+        "duration": 1445,
+        "distance": 1767,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "220",
+        "link": "/search/NYA1212TBW1?t=UT17340210001734100500001445NYATJMVKOTBW_708b9a9fc99f07638e9522e7968ed446_15159&search_date=22112024&expected_price_uuid=f4470bb4-fd76-430d-a98f-524e70335602&expected_price_source=share&expected_price_currency=rub&expected_price=15609",
+        "origin_airport": "NYA",
+        "destination_airport": "TBW",
+        "departure_at": "2024-12-12T16:30:00+05:00",
+        "airline": "UT",
+        "price": 15609,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Nyagan Airport",
+        "origin_city_code": "NYA",
+        "origin_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-11T13:30:00+05:00",
+        "origin": "NYA",
+        "destination": "TBW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T07:36:40Z",
+        "trip_class": 0,
+        "value": 16129,
+        "number_of_changes": 3,
+        "duration": 3065,
+        "distance": 1767,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "243",
+        "link": "/search/NYA1112TBW1?t=UT17339238001734100500003065NYAEYKHMAVKOTBW_c3d39b58c42fb0fe441982fd80ec3a11_15664&search_date=22112024&expected_price_uuid=768b3354-faae-4783-a97f-d39e1ba3ac03&expected_price_source=share&expected_price_currency=rub&expected_price=16129",
+        "origin_airport": "NYA",
+        "destination_airport": "TBW",
+        "departure_at": "2024-12-11T13:30:00+05:00",
+        "airline": "UT",
+        "price": 16129,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Nyagan Airport",
+        "origin_city_code": "NYA",
+        "origin_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

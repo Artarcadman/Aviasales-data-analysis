@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-19T22:55:00+07:00",
+        "origin": "ABA",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T06:54:29Z",
+        "trip_class": 0,
+        "value": 18573,
+        "number_of_changes": 2,
+        "duration": 3565,
+        "distance": 964,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "102",
+        "link": "/search/ABA1912UKX1?t=UT17346489001734866400003565ABAKJAIKTUKX_eab8c137892b585f33db1b6d7357946a_18548&search_date=25112024&expected_price_uuid=ef2f728e-6915-414e-902d-69aa40029a00&expected_price_source=share&expected_price_currency=rub&expected_price=18573",
+        "origin_airport": "ABA",
+        "destination_airport": "UKX",
+        "departure_at": "2024-12-19T22:55:00+07:00",
+        "airline": "KV",
+        "price": 18573,
+        "return_transfers": 0,
+        "duration_to": 290,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-21T22:55:00+07:00",
+        "origin": "ABA",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T12:18:56Z",
+        "trip_class": 0,
+        "value": 26967,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 964,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 26967,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

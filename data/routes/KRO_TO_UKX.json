@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T15:45:00+05:00",
+        "origin": "KRO",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T07:33:52Z",
+        "trip_class": 0,
+        "value": 22950,
+        "number_of_changes": 2,
+        "duration": 3875,
+        "distance": 2473,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1094",
+        "link": "/search/KRO2511UKX1?t=DP17325495001732792800003875KRODMESVOIKTUKX_e9f3cf60b95f069df08c1cab3b428743_22879&search_date=25112024&expected_price_uuid=9268f030-4cbb-49ad-8b21-5a91eb5d2402&expected_price_source=share&expected_price_currency=rub&expected_price=22950",
+        "origin_airport": "KRO",
+        "destination_airport": "UKX",
+        "departure_at": "2024-11-25T15:45:00+05:00",
+        "airline": "Y7",
+        "price": 22950,
+        "return_transfers": 0,
+        "duration_to": 600,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

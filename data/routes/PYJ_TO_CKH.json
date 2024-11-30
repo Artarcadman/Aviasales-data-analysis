@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-01-27T17:00:00+09:00",
+        "origin": "PYJ",
+        "destination": "CKH",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T08:22:48Z",
+        "trip_class": 0,
+        "value": 51798,
+        "number_of_changes": 1,
+        "duration": 2335,
+        "distance": 1506,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "440",
+        "link": "/search/PYJ2701CKH1?t=R317379972001738144500002335PYJYKSCKH_04c0a0f8b704bae4768827134d3394d4_52100&search_date=24112024&expected_price_uuid=f0dbf73e-bfeb-404a-9f38-bc2d75e4a9bf&expected_price_source=share&expected_price_currency=rub&expected_price=51798",
+        "origin_airport": "PYJ",
+        "destination_airport": "CKH",
+        "departure_at": "2025-01-27T17:00:00+09:00",
+        "airline": "R3",
+        "price": 51798,
+        "return_transfers": 0,
+        "duration_to": 320,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Polyarnyj Airport",
+        "origin_city_code": "PYJ",
+        "origin_coordinates": {
+            "lat": 66.416664,
+            "lon": 112.05
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Chokurdah Airport",
+        "destination_city_code": "CKH",
+        "destination_coordinates": {
+            "lat": 70.63333,
+            "lon": 147.88333
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2025-03-10T17:00:00+09:00",
+        "origin": "PYJ",
+        "destination": "CKH",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T11:56:54Z",
+        "trip_class": 0,
+        "value": 51798,
+        "number_of_changes": 1,
+        "duration": 2335,
+        "distance": 1506,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "440",
+        "link": "/search/PYJ1003CKH1?t=R317416260001741773300002335PYJYKSCKH_c45db0a888e6995b2f31d0c53e7567c2_52100&search_date=24112024&expected_price_uuid=03afebb2-c560-48ff-a454-d1cd5db74122&expected_price_source=share&expected_price_currency=rub&expected_price=51798",
+        "origin_airport": "PYJ",
+        "destination_airport": "CKH",
+        "departure_at": "2025-03-10T17:00:00+09:00",
+        "airline": "R3",
+        "price": 51798,
+        "return_transfers": 0,
+        "duration_to": 320,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Polyarnyj Airport",
+        "origin_city_code": "PYJ",
+        "origin_coordinates": {
+            "lat": 66.416664,
+            "lon": 112.05
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Chokurdah Airport",
+        "destination_city_code": "CKH",
+        "destination_coordinates": {
+            "lat": 70.63333,
+            "lon": 147.88333
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

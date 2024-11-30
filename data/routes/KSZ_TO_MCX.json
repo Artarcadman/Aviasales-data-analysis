@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T15:25:00+03:00",
+        "origin": "KSZ",
+        "destination": "MCX",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T07:47:34Z",
+        "trip_class": 0,
+        "value": 12928,
+        "number_of_changes": 1,
+        "duration": 1455,
+        "distance": 2048,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "288",
+        "link": "/search/KSZ2811MCX1?t=SU17328075001732894800001455KSZLEDMCX_0717383b70c9d6097dc8b28702c1fde5_12888&search_date=25112024&expected_price_uuid=1d5d630c-c60a-4876-8106-1bf9e3c0de24&expected_price_source=share&expected_price_currency=rub&expected_price=12928",
+        "origin_airport": "KSZ",
+        "destination_airport": "MCX",
+        "departure_at": "2024-11-28T15:25:00+03:00",
+        "airline": "7R",
+        "price": 12928,
+        "return_transfers": 0,
+        "duration_to": 320,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kotlas Airport",
+        "origin_city_code": "KSZ",
+        "origin_coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Makhachkala Airport",
+        "destination_city_code": "MCX",
+        "destination_coordinates": {
+            "lat": 42.82095,
+            "lon": 47.65611
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "depart_date": "2025-01-08T19:20:00+09:00",
+        "origin": "OLZ",
+        "destination": "ULK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T07:28:54Z",
+        "trip_class": 0,
+        "value": 40326,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 309,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 40326,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Lensk Airport",
+        "destination_city_code": "ULK",
+        "destination_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-28T16:15:00+09:00",
+        "origin": "OLZ",
+        "destination": "ULK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T10:21:43Z",
+        "trip_class": 0,
+        "value": 47430,
+        "number_of_changes": 1,
+        "duration": 2920,
+        "distance": 309,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "426",
+        "link": "/search/OLZ2811ULK1?t=IO17328105001732985700002920OLZYKSULK_721844c8af148d68f353d7d3cdda196d_47402&search_date=19112024&expected_price_uuid=e968513b-d3f3-4b9e-b2c9-1969d2089600&expected_price_source=share&expected_price_currency=rub&expected_price=47430",
+        "origin_airport": "OLZ",
+        "destination_airport": "ULK",
+        "departure_at": "2024-11-28T16:15:00+09:00",
+        "airline": "R3",
+        "price": 47430,
+        "return_transfers": 0,
+        "duration_to": 245,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Lensk Airport",
+        "destination_city_code": "ULK",
+        "destination_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-21T16:15:00+09:00",
+        "origin": "OLZ",
+        "destination": "ULK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T02:12:31Z",
+        "trip_class": 0,
+        "value": 102112,
+        "number_of_changes": 4,
+        "duration": null,
+        "distance": 309,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 102112,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Lensk Airport",
+        "destination_city_code": "ULK",
+        "destination_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

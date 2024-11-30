@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-21T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "KJA",
+        "gate": "MEGO.travel",
+        "return_date": "",
+        "found_at": "2024-11-24T21:59:51Z",
+        "trip_class": 0,
+        "value": 39834,
+        "number_of_changes": 2,
+        "duration": 1610,
+        "distance": 572,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK2112KCY1?t=KV17347965001734889500001610BTKIKTTKMKCY_6cb588c3049ddec49f03463eb4aab995_39834&search_date=24112024&expected_price_uuid=f0137af3-6e09-46d1-8b10-27aafe0c0902&expected_price_source=share&expected_price_currency=rub&expected_price=39834",
+        "origin_airport": "BTK",
+        "destination_airport": "KCY",
+        "departure_at": "2024-12-21T15:55:00+08:00",
+        "airline": "S7",
+        "price": 39834,
+        "return_transfers": 0,
+        "duration_to": 465,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

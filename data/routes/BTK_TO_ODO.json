@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-15T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "ODO",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T06:02:59Z",
+        "trip_class": 0,
+        "value": 28637,
+        "number_of_changes": 1,
+        "duration": 1325,
+        "distance": 767,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK1512ODO1?t=IO17342781001734357600001325BTKIKTODO_9ac183136a97a40c22d4840148a19ffe_27811&search_date=22112024&expected_price_uuid=89ee63ae-13d8-45ce-b4a4-b411d72ebe01&expected_price_source=share&expected_price_currency=rub&expected_price=28637",
+        "origin_airport": "BTK",
+        "destination_airport": "ODO",
+        "departure_at": "2024-12-15T15:55:00+08:00",
+        "airline": "S7",
+        "price": 28637,
+        "return_transfers": 0,
+        "duration_to": 215,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Bodaybo Airport",
+        "destination_city_code": "ODO",
+        "destination_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-19T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "ODO",
+        "gate": "Aviakassa",
+        "return_date": "",
+        "found_at": "2024-11-19T05:07:03Z",
+        "trip_class": 0,
+        "value": 31620,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 767,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 31620,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Bodaybo Airport",
+        "destination_city_code": "ODO",
+        "destination_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-28T19:00:00+11:00",
+        "origin": "ITU",
+        "destination": "KZN",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T21:31:20Z",
+        "trip_class": 0,
+        "value": 40164,
+        "number_of_changes": 3,
+        "duration": 3540,
+        "distance": 6476,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4618",
+        "link": "/search/ITU2811KZN1?t=SU17328204001733004000003540ITUUUSSVOLEDKZN_8c1252d8d2491c65343b7e94fe9de331_40181&search_date=22112024&expected_price_uuid=a0958f0e-fced-4fe4-8930-9b26cfb65f00&expected_price_source=share&expected_price_currency=rub&expected_price=40164",
+        "origin_airport": "ITU",
+        "destination_airport": "KZN",
+        "departure_at": "2024-11-28T19:00:00+11:00",
+        "airline": "HZ",
+        "price": 40164,
+        "return_transfers": 0,
+        "duration_to": 850,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Iturup",
+        "origin_city_code": "ITU",
+        "origin_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "origin_time_zone": "Asia/Srednekolymsk",
+        "destination_airport_name": "Kazan International Airport",
+        "destination_city_code": "KZN",
+        "destination_coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-21T19:00:00+11:00",
+        "origin": "ITU",
+        "destination": "KZN",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T19:46:14Z",
+        "trip_class": 0,
+        "value": 43160,
+        "number_of_changes": 3,
+        "duration": null,
+        "distance": 6476,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 43160,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Iturup",
+        "origin_city_code": "ITU",
+        "origin_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "origin_time_zone": "Asia/Srednekolymsk",
+        "destination_airport_name": "Kazan International Airport",
+        "destination_city_code": "KZN",
+        "destination_coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

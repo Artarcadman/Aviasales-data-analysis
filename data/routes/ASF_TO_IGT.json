@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T22:05:00+04:00",
+        "origin": "ASF",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T17:28:55Z",
+        "trip_class": 0,
+        "value": 9485,
+        "number_of_changes": 1,
+        "duration": 810,
+        "distance": 406,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "164",
+        "link": "/search/ASF2711IGT1?t=DP17327451001732790100000810ASFVKOSVOIGT_ed2606ce8b41d935042b56dd5cbe8dfc_9540&search_date=24112024&expected_price_uuid=e506b5d9-eca0-4f5f-820f-d84100405800&expected_price_source=share&expected_price_currency=rub&expected_price=9485",
+        "origin_airport": "ASF",
+        "destination_airport": "IGT",
+        "departure_at": "2024-11-27T22:05:00+04:00",
+        "airline": "DP",
+        "price": 9485,
+        "return_transfers": 0,
+        "duration_to": 360,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-05T22:05:00+04:00",
+        "origin": "ASF",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T14:53:15Z",
+        "trip_class": 0,
+        "value": 10253,
+        "number_of_changes": 1,
+        "duration": 810,
+        "distance": 406,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "164",
+        "link": "/search/ASF0512IGT1?t=DP17334363001733481300000810ASFVKOSVOIGT_81b1a93fe506539b614368b35dba97cc_10313&search_date=24112024&expected_price_uuid=03affc14-2e2d-4d2c-aad1-a5416d014803&expected_price_source=share&expected_price_currency=rub&expected_price=10253",
+        "origin_airport": "ASF",
+        "destination_airport": "IGT",
+        "departure_at": "2024-12-05T22:05:00+04:00",
+        "airline": "DP",
+        "price": 10253,
+        "return_transfers": 0,
+        "duration_to": 360,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-30T19:40:00+05:00",
+        "origin": "RMZ",
+        "destination": "EYK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T07:14:28Z",
+        "trip_class": 0,
+        "value": 7234,
+        "number_of_changes": 1,
+        "duration": 850,
+        "distance": 633,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "226",
+        "link": "/search/RMZ3012EYK1?t=UT17355876001735638600000850RMZSGCEYK_8c73f4caad0115ab01e3b9fb9a989275_7276&search_date=24112024&expected_price_uuid=8d774665-5d3e-45d1-9b28-fabe501bfebb&expected_price_source=share&expected_price_currency=rub&expected_price=7234",
+        "origin_airport": "RMZ",
+        "destination_airport": "EYK",
+        "departure_at": "2024-12-30T19:40:00+05:00",
+        "airline": "RT",
+        "price": 7234,
+        "return_transfers": 0,
+        "duration_to": 140,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Beloyarsky Airport",
+        "destination_city_code": "EYK",
+        "destination_coordinates": {
+            "lat": 63.696682,
+            "lon": 66.70121
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

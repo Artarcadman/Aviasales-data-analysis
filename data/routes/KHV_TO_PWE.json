@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-02T20:20:00+10:00",
+        "origin": "KHV",
+        "destination": "PWE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T12:11:48Z",
+        "trip_class": 0,
+        "value": 45896,
+        "number_of_changes": 1,
+        "duration": 3760,
+        "distance": 3022,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "2101",
+        "link": "/search/KHV0212PWE1?t=R317331708001733403600003760KHVYKSPWE_c9641aa0ced1ef864d82d21ccc76596c_46164&search_date=24112024&expected_price_uuid=95c9dd94-22f4-4298-8f3b-2a289a4ebc00&expected_price_source=share&expected_price_currency=rub&expected_price=45896",
+        "origin_airport": "KHV",
+        "destination_airport": "PWE",
+        "departure_at": "2024-12-02T20:20:00+10:00",
+        "airline": "HZ",
+        "price": 45896,
+        "return_transfers": 0,
+        "duration_to": 330,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Khabarovsk Airport",
+        "origin_city_code": "KHV",
+        "origin_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Pevek Airport",
+        "destination_city_code": "PWE",
+        "destination_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "destination_time_zone": "Asia/Anadyr"
+    },
+    {
+        "depart_date": "2024-12-15T11:25:00+10:00",
+        "origin": "KHV",
+        "destination": "PWE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T23:25:55Z",
+        "trip_class": 0,
+        "value": 84974,
+        "number_of_changes": 2,
+        "duration": 1535,
+        "distance": 3022,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6288",
+        "link": "/search/KHV1512PWE1?t=SU17342619001734361200001535KHVSVOVKOOVBPWE_7b35cc261c76f72380828ce490ad137c_84979&search_date=21112024&expected_price_uuid=36503223-8dc4-453a-b17c-d7ab69463501&expected_price_source=share&expected_price_currency=rub&expected_price=84974",
+        "origin_airport": "KHV",
+        "destination_airport": "PWE",
+        "departure_at": "2024-12-15T11:25:00+10:00",
+        "airline": "FV",
+        "price": 84974,
+        "return_transfers": 0,
+        "duration_to": 1100,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Khabarovsk Airport",
+        "origin_city_code": "KHV",
+        "origin_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Pevek Airport",
+        "destination_city_code": "PWE",
+        "destination_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "destination_time_zone": "Asia/Anadyr"
+    }
+]

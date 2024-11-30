@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-13T06:30:00+07:00",
+        "origin": "KEJ",
+        "destination": "VAQ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T21:16:32Z",
+        "trip_class": 0,
+        "value": 17268,
+        "number_of_changes": 1,
+        "duration": 690,
+        "distance": 1108,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "110",
+        "link": "/search/KEJ1312VAQ1?t=KV17340714001734112800000690KEJKJAVAQ_d2620c7606b7fcf3a93f880c53a569d3_17275&search_date=22112024&expected_price_uuid=fd994caf-03e9-432b-882c-366242f4a3a8&expected_price_source=share&expected_price_currency=rub&expected_price=17268",
+        "origin_airport": "KEJ",
+        "destination_airport": "VAQ",
+        "departure_at": "2024-12-13T06:30:00+07:00",
+        "airline": "KV",
+        "price": 17268,
+        "return_transfers": 0,
+        "duration_to": 210,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kemerovo Airport",
+        "origin_city_code": "KEJ",
+        "origin_coordinates": {
+            "lat": 55.280567,
+            "lon": 86.11623
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Vanavara",
+        "destination_city_code": "VAQ",
+        "destination_coordinates": {
+            "lat": 60.356667,
+            "lon": 102.31
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-27T06:30:00+07:00",
+        "origin": "KEJ",
+        "destination": "VAQ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T21:16:32Z",
+        "trip_class": 0,
+        "value": 17268,
+        "number_of_changes": 1,
+        "duration": 705,
+        "distance": 1108,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "110",
+        "link": "/search/KEJ2712VAQ1?t=KV17352810001735323300000705KEJKJAVAQ_66259e785970313adb33c261070aaf62_17275&search_date=22112024&expected_price_uuid=cd267efd-9c80-4c8f-a7d4-78eafb682325&expected_price_source=share&expected_price_currency=rub&expected_price=17268",
+        "origin_airport": "KEJ",
+        "destination_airport": "VAQ",
+        "departure_at": "2024-12-27T06:30:00+07:00",
+        "airline": "KV",
+        "price": 17268,
+        "return_transfers": 0,
+        "duration_to": 220,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kemerovo Airport",
+        "origin_city_code": "KEJ",
+        "origin_coordinates": {
+            "lat": 55.280567,
+            "lon": 86.11623
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Vanavara",
+        "destination_city_code": "VAQ",
+        "destination_coordinates": {
+            "lat": 60.356667,
+            "lon": 102.31
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

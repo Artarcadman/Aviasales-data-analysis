@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-25T13:45:00+05:00",
+        "origin": "NYA",
+        "destination": "PEZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T16:18:00Z",
+        "trip_class": 0,
+        "value": 14575,
+        "number_of_changes": 1,
+        "duration": 1400,
+        "distance": 1569,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1152",
+        "link": "/search/NYA2511PEZ1?t=WZ17325423001732619100001400NYAZIASVOPEZ_5296a38ffe3e89ebad63b2e895b50b10_14660&search_date=24112024&expected_price_uuid=9f1cac2c-7e09-4e60-90e2-468317f58e01&expected_price_source=share&expected_price_currency=rub&expected_price=14575",
+        "origin_airport": "NYA",
+        "destination_airport": "PEZ",
+        "departure_at": "2024-11-25T13:45:00+05:00",
+        "airline": "WZ",
+        "price": 14575,
+        "return_transfers": 0,
+        "duration_to": 275,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nyagan Airport",
+        "origin_city_code": "NYA",
+        "origin_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Penza Airport",
+        "destination_city_code": "PEZ",
+        "destination_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-21T10:50:00+05:00",
+        "origin": "NYA",
+        "destination": "PEZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T11:49:50Z",
+        "trip_class": 0,
+        "value": 18165,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 1569,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 18165,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Nyagan Airport",
+        "origin_city_code": "NYA",
+        "origin_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Penza Airport",
+        "destination_city_code": "PEZ",
+        "destination_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

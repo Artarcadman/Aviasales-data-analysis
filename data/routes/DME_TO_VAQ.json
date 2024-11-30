@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-05T19:00:00+03:00",
+        "origin": "MOW",
+        "destination": "VAQ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T16:34:44Z",
+        "trip_class": 0,
+        "value": 27090,
+        "number_of_changes": 2,
+        "duration": 725,
+        "distance": 3691,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1053",
+        "link": "/search/DME0512VAQ1?t=Y717334252001733483100000725DMEKZNKJAVAQ_e51658bbb9b283972855d07823edd020_27248&search_date=24112024&expected_price_uuid=71d37d3d-598e-4f96-a95e-0ede18030400&expected_price_source=share&expected_price_currency=rub&expected_price=27090",
+        "origin_airport": "DME",
+        "destination_airport": "VAQ",
+        "departure_at": "2024-12-05T19:00:00+03:00",
+        "airline": "S7",
+        "price": 27090,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Moscow Domodedovo Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.414566,
+            "lon": 37.899494
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Vanavara",
+        "destination_city_code": "VAQ",
+        "destination_coordinates": {
+            "lat": 60.356667,
+            "lon": 102.31
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

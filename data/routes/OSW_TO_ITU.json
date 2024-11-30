@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-07T16:20:00+05:00",
+        "origin": "OSW",
+        "destination": "ITU",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T06:05:09Z",
+        "trip_class": 0,
+        "value": 31135,
+        "number_of_changes": 2,
+        "duration": 2645,
+        "distance": 6233,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1061",
+        "link": "/search/OSW0712ITU1?t=SU17335884001733768700002645OSWSVOUUSITU_928178a072e4c52893004852b69e0a46_31317&search_date=24112024&expected_price_uuid=edbc87bb-8088-4421-a8ff-a00d1bb29e02&expected_price_source=share&expected_price_currency=rub&expected_price=31135",
+        "origin_airport": "OSW",
+        "destination_airport": "ITU",
+        "departure_at": "2024-12-07T16:20:00+05:00",
+        "airline": "SU",
+        "price": 31135,
+        "return_transfers": 0,
+        "duration_to": 735,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Orsk Airport",
+        "origin_city_code": "OSW",
+        "origin_coordinates": {
+            "lat": 51.2,
+            "lon": 58.566666
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-11-23T16:20:00+05:00",
+        "origin": "OSW",
+        "destination": "ITU",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:54:28Z",
+        "trip_class": 0,
+        "value": 37697,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 6233,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 37697,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Orsk Airport",
+        "origin_city_code": "OSW",
+        "origin_coordinates": {
+            "lat": 51.2,
+            "lon": 58.566666
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

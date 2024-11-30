@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-11T15:10:00+03:00",
+        "origin": "PES",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T15:50:39Z",
+        "trip_class": 0,
+        "value": 14278,
+        "number_of_changes": 2,
+        "duration": 3190,
+        "distance": 1049,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "264",
+        "link": "/search/PES1112SKX1?t=DP17339298001734121200003190PESSVOKZNSKX_87e6ce4cc9e09f6a6ba74f469aa4dc2b_14361&search_date=24112024&expected_price_uuid=731d8ccd-9dfa-4112-9f3c-5cd12996f003&expected_price_source=share&expected_price_currency=rub&expected_price=14278",
+        "origin_airport": "PES",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-11T15:10:00+03:00",
+        "airline": "D2",
+        "price": 14278,
+        "return_transfers": 0,
+        "duration_to": 240,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Petrozavodsk Airport",
+        "origin_city_code": "PES",
+        "origin_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-27T15:10:00+03:00",
+        "origin": "PES",
+        "destination": "SKX",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T08:47:29Z",
+        "trip_class": 0,
+        "value": 18403,
+        "number_of_changes": 1,
+        "duration": 365,
+        "distance": 1049,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "264",
+        "link": "/search/PES2711SKX1?t=SU17327202001732742100000365PESSVOSKX_911238254283f80b82d86659a801a5b6_18334&search_date=25112024&expected_price_uuid=35b200e8-8777-4523-8507-caa4530ad8f5&expected_price_source=share&expected_price_currency=rub&expected_price=18403",
+        "origin_airport": "PES",
+        "destination_airport": "SKX",
+        "departure_at": "2024-11-27T15:10:00+03:00",
+        "airline": "D2",
+        "price": 18403,
+        "return_transfers": 0,
+        "duration_to": 195,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Petrozavodsk Airport",
+        "origin_city_code": "PES",
+        "origin_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

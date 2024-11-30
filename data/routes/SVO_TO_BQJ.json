@@ -1,0 +1,35 @@
+[
+    {
+        "depart_date": "2024-11-23T08:05:00+03:00",
+        "origin": "MOW",
+        "destination": "BQJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T21:27:45Z",
+        "trip_class": 0,
+        "value": 54661,
+        "number_of_changes": 3,
+        "duration": null,
+        "distance": 4702,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 54661,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Sheremetyevo International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Batagay",
+        "destination_city_code": "BQJ",
+        "destination_coordinates": {
+            "lat": 67.655,
+            "lon": 134.64166
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

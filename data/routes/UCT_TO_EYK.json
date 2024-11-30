@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-29T19:00:00+03:00",
+        "origin": "UCT",
+        "destination": "EYK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T21:39:45Z",
+        "trip_class": 0,
+        "value": 19856,
+        "number_of_changes": 3,
+        "duration": 3815,
+        "distance": 636,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "180",
+        "link": "/search/UCT2911EYK1?t=UT17329068001733142900003815UCTVKOHMANYAEYK_b68d9f0297443e1ee9b58973cfc88b93_19856&search_date=20112024&expected_price_uuid=1c519e75-9dd3-4e36-866d-770772764c01&expected_price_source=share&expected_price_currency=rub&expected_price=19856",
+        "origin_airport": "UCT",
+        "destination_airport": "EYK",
+        "departure_at": "2024-11-29T19:00:00+03:00",
+        "airline": "UT",
+        "price": 19856,
+        "return_transfers": 0,
+        "duration_to": 440,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Beloyarsky Airport",
+        "destination_city_code": "EYK",
+        "destination_coordinates": {
+            "lat": 63.696682,
+            "lon": 66.70121
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-27T19:00:00+03:00",
+        "origin": "UCT",
+        "destination": "EYK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T18:48:59Z",
+        "trip_class": 0,
+        "value": 28961,
+        "number_of_changes": 2,
+        "duration": 770,
+        "distance": 636,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "180",
+        "link": "/search/UCT2712EYK1?t=UT17353260001735379400000770UCTVKOSGCEYK_c15c590c3ccbfa314c1aac320e1d8896_29130&search_date=24112024&expected_price_uuid=f19e1b26-b079-4ac2-a414-6af617d57c01&expected_price_source=share&expected_price_currency=rub&expected_price=28961",
+        "origin_airport": "UCT",
+        "destination_airport": "EYK",
+        "departure_at": "2024-12-27T19:00:00+03:00",
+        "airline": "UT",
+        "price": 28961,
+        "return_transfers": 0,
+        "duration_to": 445,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Beloyarsky Airport",
+        "destination_city_code": "EYK",
+        "destination_coordinates": {
+            "lat": 63.696682,
+            "lon": 66.70121
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-09T07:00:00+05:00",
+        "origin": "KRO",
+        "destination": "UUD",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-22T03:09:12Z",
+        "trip_class": 0,
+        "value": 18862,
+        "number_of_changes": 1,
+        "duration": 1380,
+        "distance": 2766,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1092",
+        "link": "/search/KRO0912UUD1?t=5N17337276001733821200001380KRODMESVOUUD_a8c9fbbc389e668ec1747857497fd087_18316&search_date=22112024&expected_price_uuid=fe4b2f8c-25b7-4a6a-b31a-1c5809974403&expected_price_source=share&expected_price_currency=rub&expected_price=18862",
+        "origin_airport": "KRO",
+        "destination_airport": "UUD",
+        "departure_at": "2024-12-09T07:00:00+05:00",
+        "airline": "Y7",
+        "price": 18862,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-22T07:00:00+05:00",
+        "origin": "KRO",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T12:54:10Z",
+        "trip_class": 0,
+        "value": 41490,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 2766,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 41490,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

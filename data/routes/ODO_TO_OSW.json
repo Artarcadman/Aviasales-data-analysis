@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T15:00:00+08:00",
+        "origin": "ODO",
+        "destination": "OSW",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-21T01:16:21Z",
+        "trip_class": 0,
+        "value": 39239,
+        "number_of_changes": 2,
+        "duration": 1640,
+        "distance": 3560,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "98",
+        "link": "/search/ODO0912OSW1?t=SU17337564001733844000001640ODOIKTSVOOSW_810400aa3b22ead826f379739bde03db_38971&search_date=21112024&expected_price_uuid=c0eb3ee3-c0f2-4d80-bcab-a8a2fa986502&expected_price_source=share&expected_price_currency=rub&expected_price=39239",
+        "origin_airport": "ODO",
+        "destination_airport": "OSW",
+        "departure_at": "2024-12-09T15:00:00+08:00",
+        "airline": "ИК",
+        "price": 39239,
+        "return_transfers": 0,
+        "duration_to": 690,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bodaybo Airport",
+        "origin_city_code": "ODO",
+        "origin_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Orsk Airport",
+        "destination_city_code": "OSW",
+        "destination_coordinates": {
+            "lat": 51.2,
+            "lon": 58.566666
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-07T12:20:00+08:00",
+        "origin": "UKX",
+        "destination": "NER",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T01:29:18Z",
+        "trip_class": 0,
+        "value": 23277,
+        "number_of_changes": 2,
+        "duration": 2805,
+        "distance": 1146,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "283",
+        "link": "/search/UKX0712NER1?t=SU17335740001733745900002805UKXIKTKJANER_2abd953d69ac74087b950b1025c7c1b4_22606&search_date=22112024&expected_price_uuid=3095bea0-e416-4e91-a3ed-22a212422703&expected_price_source=share&expected_price_currency=rub&expected_price=23277",
+        "origin_airport": "UKX",
+        "destination_airport": "NER",
+        "departure_at": "2024-12-07T12:20:00+08:00",
+        "airline": "UT",
+        "price": 23277,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ust-Kut Airport",
+        "origin_city_code": "UKX",
+        "origin_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Neryungri Airport",
+        "destination_city_code": "NER",
+        "destination_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

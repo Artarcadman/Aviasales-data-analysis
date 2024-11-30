@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-16T22:30:00+03:00",
+        "origin": "MOW",
+        "destination": "BGN",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T16:21:30Z",
+        "trip_class": 0,
+        "value": 55712,
+        "number_of_changes": 2,
+        "duration": 3090,
+        "distance": 5019,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6547",
+        "link": "/search/SVO1612BGN1?t=DP17343882001734602400003090SVOKJAYKSBGN_be720953078bc712afca2cbec8917663_55030&search_date=22112024&expected_price_uuid=1b115bde-2f33-4be5-ab94-f983493c9403&expected_price_source=share&expected_price_currency=rub&expected_price=55712",
+        "origin_airport": "SVO",
+        "destination_airport": "BGN",
+        "departure_at": "2024-12-16T22:30:00+03:00",
+        "airline": "DP",
+        "price": 55712,
+        "return_transfers": 0,
+        "duration_to": 655,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sheremetyevo International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Belaya Gora Airport",
+        "destination_city_code": "BGN",
+        "destination_coordinates": {
+            "lat": 68.538055,
+            "lon": 146.18584
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

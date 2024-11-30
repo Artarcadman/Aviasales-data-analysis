@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-24T14:55:00+03:00",
+        "origin": "PKV",
+        "destination": "VUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T12:24:32Z",
+        "trip_class": 0,
+        "value": 14563,
+        "number_of_changes": 3,
+        "duration": 2885,
+        "distance": 1070,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6005",
+        "link": "/search/PKV2411VUS1?t=A417324601001732633200002885PKVKGDLEDVGDVUS_efa8fca3c2d1514f66405799db7e323f_14521&search_date=21112024&expected_price_uuid=0874b0d6-a6ea-4c77-8b3f-3ed966dda002&expected_price_source=share&expected_price_currency=rub&expected_price=14563",
+        "origin_airport": "PKV",
+        "destination_airport": "VUS",
+        "departure_at": "2024-11-24T14:55:00+03:00",
+        "airline": "A4",
+        "price": 14563,
+        "return_transfers": 0,
+        "duration_to": 375,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Velikij Ustyug Airport",
+        "destination_city_code": "VUS",
+        "destination_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

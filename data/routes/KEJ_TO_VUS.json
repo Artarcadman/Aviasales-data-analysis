@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T12:55:00+07:00",
+        "origin": "KEJ",
+        "destination": "VUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T01:29:15Z",
+        "trip_class": 0,
+        "value": 29200,
+        "number_of_changes": 4,
+        "duration": 3355,
+        "distance": 2380,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5318",
+        "link": "/search/KEJ2511VUS1?t=DP17325393001732726200003355KEJOVBSVXVKODMECEEVUS_8fd4cff938df85f988dabd3822b1bff4_29118&search_date=25112024&expected_price_uuid=1ebaf74b-55fc-4781-8d17-bb0227b99801&expected_price_source=share&expected_price_currency=rub&expected_price=29200",
+        "origin_airport": "KEJ",
+        "destination_airport": "VUS",
+        "departure_at": "2024-11-25T12:55:00+07:00",
+        "airline": "S7",
+        "price": 29200,
+        "return_transfers": 0,
+        "duration_to": 465,
+        "duration_back": 0,
+        "transfers": 4,
+        "origin_airport_name": "Kemerovo Airport",
+        "origin_city_code": "KEJ",
+        "origin_coordinates": {
+            "lat": 55.280567,
+            "lon": 86.11623
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Velikij Ustyug Airport",
+        "destination_city_code": "VUS",
+        "destination_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

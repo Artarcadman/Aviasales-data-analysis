@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T11:30:00+03:00",
+        "origin": "UTS",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-18T15:45:22Z",
+        "trip_class": 0,
+        "value": 12669,
+        "number_of_changes": 2,
+        "duration": 2055,
+        "distance": 1317,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "112",
+        "link": "/search/UTS2511SVO1?t=5N17325342001732657500002055UTSSCWLEDSVO_61f46a85295665962396085f988c4001_12732&search_date=18112024&expected_price_uuid=5ff6955a-45e5-4517-8e60-7a39d0cff500&expected_price_source=share&expected_price_currency=rub&expected_price=12669",
+        "origin_airport": "UTS",
+        "destination_airport": "SVO",
+        "departure_at": "2024-11-25T11:30:00+03:00",
+        "airline": "ИГ",
+        "price": 12669,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ust-Tsilma",
+        "origin_city_code": "UTS",
+        "origin_coordinates": {
+            "lat": 65.433334,
+            "lon": 52.2
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Sheremetyevo International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

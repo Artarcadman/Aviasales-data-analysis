@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-01-05T15:30:00+03:00",
+        "origin": "UCT",
+        "destination": "IWA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T16:15:39Z",
+        "trip_class": 0,
+        "value": 24893,
+        "number_of_changes": 1,
+        "duration": 1125,
+        "distance": 1018,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "324",
+        "link": "/search/UCT0501IWA1?t=D217360910001736158500001125UCTLEDIWA_97519e179ffb7c32cedae1d2fcda9a74_25038&search_date=24112024&expected_price_uuid=1546431b-49fe-4dc7-9742-88d51ed98928&expected_price_source=share&expected_price_currency=rub&expected_price=24893",
+        "origin_airport": "UCT",
+        "destination_airport": "IWA",
+        "departure_at": "2025-01-05T15:30:00+03:00",
+        "airline": "D2",
+        "price": 24893,
+        "return_transfers": 0,
+        "duration_to": 205,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ivanovo Yuzhny Airport",
+        "destination_city_code": "IWA",
+        "destination_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2025-01-04T15:30:00+03:00",
+        "origin": "UCT",
+        "destination": "IWA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T16:13:14Z",
+        "trip_class": 0,
+        "value": 25986,
+        "number_of_changes": 1,
+        "duration": 1230,
+        "distance": 1018,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "324",
+        "link": "/search/UCT0401IWA1?t=D217360046001736078400001230UCTLEDIWA_ace59265f5bc90e2ffac14298a7dc1c9_26138&search_date=24112024&expected_price_uuid=476ab21f-e82b-4a67-847a-9182161951b9&expected_price_source=share&expected_price_currency=rub&expected_price=25986",
+        "origin_airport": "UCT",
+        "destination_airport": "IWA",
+        "departure_at": "2025-01-04T15:30:00+03:00",
+        "airline": "D2",
+        "price": 25986,
+        "return_transfers": 0,
+        "duration_to": 210,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ivanovo Yuzhny Airport",
+        "destination_city_code": "IWA",
+        "destination_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

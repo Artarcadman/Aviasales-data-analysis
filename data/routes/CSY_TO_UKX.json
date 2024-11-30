@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-23T21:40:00+03:00",
+        "origin": "CSY",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T05:41:22Z",
+        "trip_class": 0,
+        "value": 22073,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 3478,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 22073,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-24T09:55:00+03:00",
+        "origin": "CSY",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T05:40:58Z",
+        "trip_class": 0,
+        "value": 27421,
+        "number_of_changes": 2,
+        "duration": 2665,
+        "distance": 3478,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6808",
+        "link": "/search/CSY2411UKX1?t=DP17324421001732620000002665CSYSVOIKTUKX_286ae6e6cec46dc5e5f603acba7a64ca_27183&search_date=20112024&expected_price_uuid=c776c70d-fd81-435f-ad36-b81208464f02&expected_price_source=share&expected_price_currency=rub&expected_price=27421",
+        "origin_airport": "CSY",
+        "destination_airport": "UKX",
+        "departure_at": "2024-11-24T09:55:00+03:00",
+        "airline": "DP",
+        "price": 27421,
+        "return_transfers": 0,
+        "duration_to": 530,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

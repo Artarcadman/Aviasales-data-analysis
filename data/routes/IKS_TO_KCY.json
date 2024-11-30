@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T09:25:00+09:00",
+        "origin": "IKS",
+        "destination": "KJA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T23:20:54Z",
+        "trip_class": 0,
+        "value": 71206,
+        "number_of_changes": 3,
+        "duration": 3595,
+        "distance": 2406,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "432",
+        "link": "/search/IKS2811KCY1?t=KV17327859001732994400003595IKSYKSMJZULKKCY_eb6a1a5db01c3910ba0ac2d5b640c487_71209&search_date=25112024&expected_price_uuid=f6287ff5-3336-4599-8721-f1f1dc4ac700&expected_price_source=share&expected_price_currency=rub&expected_price=71206",
+        "origin_airport": "IKS",
+        "destination_airport": "KCY",
+        "departure_at": "2024-11-28T09:25:00+09:00",
+        "airline": "R3",
+        "price": 71206,
+        "return_transfers": 0,
+        "duration_to": 625,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Tiksi Airport",
+        "origin_city_code": "IKS",
+        "origin_coordinates": {
+            "lat": 71.7,
+            "lon": 128.9
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

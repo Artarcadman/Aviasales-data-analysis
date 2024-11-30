@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T15:30:00+12:00",
+        "origin": "KPW",
+        "destination": "GDX",
+        "gate": "ИрАэро",
+        "return_date": "",
+        "found_at": "2024-11-25T12:35:07Z",
+        "trip_class": 0,
+        "value": 36996,
+        "number_of_changes": 0,
+        "duration": 180,
+        "distance": 1154,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "134",
+        "link": "/search/KPW2611GDX1?t=IO17326350001732642200000180KPWGDX_cc09b554929dbf9162fcd9bc83246181_37000&search_date=25112024&expected_price_uuid=3cf1e2d9-f69e-4329-95bc-22128807d700&expected_price_source=share&expected_price_currency=rub&expected_price=36996",
+        "origin_airport": "KPW",
+        "destination_airport": "GDX",
+        "departure_at": "2024-11-26T15:30:00+12:00",
+        "airline": "IO",
+        "price": 36996,
+        "return_transfers": 0,
+        "duration_to": 180,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Keperveyem Airport",
+        "origin_city_code": "KPW",
+        "origin_coordinates": {
+            "lat": 67.84611,
+            "lon": 166.13722
+        },
+        "origin_time_zone": "Asia/Kamchatka",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    }
+]

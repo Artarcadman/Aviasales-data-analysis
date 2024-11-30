@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T15:40:00+03:00",
+        "origin": "VUS",
+        "destination": "KJA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T13:33:41Z",
+        "trip_class": 0,
+        "value": 22594,
+        "number_of_changes": 2,
+        "duration": 2065,
+        "distance": 2673,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "562",
+        "link": "/search/VUS2811KJA1?t=UT17328084001732946700002065VUSVGDVKOKJA_e08b6b1143433ac195397c2ed45bf1f0_22506&search_date=21112024&expected_price_uuid=34c20967-c4dc-40d1-93f3-9905ff3af202&expected_price_source=share&expected_price_currency=rub&expected_price=22594",
+        "origin_airport": "VUS",
+        "destination_airport": "KJA",
+        "departure_at": "2024-11-28T15:40:00+03:00",
+        "airline": "ВГ",
+        "price": 22594,
+        "return_transfers": 0,
+        "duration_to": 425,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Velikij Ustyug Airport",
+        "origin_city_code": "VUS",
+        "origin_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Krasnoyarsk International Airport",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-10T05:45:00+03:00",
+        "origin": "GRV",
+        "destination": "BTK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T19:09:33Z",
+        "trip_class": 0,
+        "value": 24343,
+        "number_of_changes": 2,
+        "duration": 1710,
+        "distance": 4139,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "356",
+        "link": "/search/GRV1012BTK1?t=DP17338095001733930100001710GRVVKOSVOIKTBTK_053287f8445f6c1adfcf12d9d5fa8ca8_24345&search_date=25112024&expected_price_uuid=d123b3e1-5ed8-4ad0-8b63-df3ff5129802&expected_price_source=share&expected_price_currency=rub&expected_price=24343",
+        "origin_airport": "GRV",
+        "destination_airport": "BTK",
+        "departure_at": "2024-12-10T05:45:00+03:00",
+        "airline": "UT",
+        "price": 24343,
+        "return_transfers": 0,
+        "duration_to": 605,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Groznyy Airport",
+        "origin_city_code": "GRV",
+        "origin_coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bratsk Airport",
+        "destination_city_code": "BTK",
+        "destination_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-24T05:45:00+03:00",
+        "origin": "GRV",
+        "destination": "BTK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T19:09:14Z",
+        "trip_class": 0,
+        "value": 33878,
+        "number_of_changes": 2,
+        "duration": 1710,
+        "distance": 4139,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "356",
+        "link": "/search/GRV2412BTK1?t=DP17350191001735139700001710GRVVKOSVOIKTBTK_a15eea6028b043a30cc6ec87209650c6_33881&search_date=25112024&expected_price_uuid=73d3c949-04aa-43e4-b08e-68b0b8147600&expected_price_source=share&expected_price_currency=rub&expected_price=33878",
+        "origin_airport": "GRV",
+        "destination_airport": "BTK",
+        "departure_at": "2024-12-24T05:45:00+03:00",
+        "airline": "UT",
+        "price": 33878,
+        "return_transfers": 0,
+        "duration_to": 605,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Groznyy Airport",
+        "origin_city_code": "GRV",
+        "origin_coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bratsk Airport",
+        "destination_city_code": "BTK",
+        "destination_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-08T10:40:00+07:00",
+        "origin": "MJY",
+        "destination": "AER",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-24T14:33:09Z",
+        "trip_class": 0,
+        "value": 19456,
+        "number_of_changes": 1,
+        "duration": 830,
+        "distance": 4046,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "184",
+        "link": "/search/MJY0812AER1?t=SU17336544001733689800000830MJYKCYKJAAER_cb60a3aeeae66fdf8317806699c16718_19570&search_date=24112024&expected_price_uuid=06b0abf8-1e26-4d57-9d6d-3d0e1c02a300&expected_price_source=share&expected_price_currency=rub&expected_price=19456",
+        "origin_airport": "MJY",
+        "destination_airport": "AER",
+        "departure_at": "2024-12-08T10:40:00+07:00",
+        "airline": "KV",
+        "price": 19456,
+        "return_transfers": 0,
+        "duration_to": 450,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Motygino",
+        "origin_city_code": "MJY",
+        "origin_coordinates": {
+            "lat": 58.180832,
+            "lon": 94.74472
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Sochi International Airport",
+        "destination_city_code": "AER",
+        "destination_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

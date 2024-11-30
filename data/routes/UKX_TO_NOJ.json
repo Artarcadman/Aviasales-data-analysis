@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T12:20:00+08:00",
+        "origin": "UKX",
+        "destination": "NOJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T15:09:15Z",
+        "trip_class": 0,
+        "value": 27638,
+        "number_of_changes": 2,
+        "duration": 2820,
+        "distance": 1810,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "283",
+        "link": "/search/UKX2811NOJ1?t=UT17327964001732954800002820UKXIKTOVBNOJ_7fbfeaa76541a7c2586440110f0a87d3_27299&search_date=22112024&expected_price_uuid=7898bb14-f528-483d-9658-79267f264402&expected_price_source=share&expected_price_currency=rub&expected_price=27638",
+        "origin_airport": "UKX",
+        "destination_airport": "NOJ",
+        "departure_at": "2024-11-28T12:20:00+08:00",
+        "airline": "UT",
+        "price": 27638,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ust-Kut Airport",
+        "origin_city_code": "UKX",
+        "origin_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Nojabrxsk Airport",
+        "destination_city_code": "NOJ",
+        "destination_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-29T09:05:00+08:00",
+        "origin": "UKX",
+        "destination": "NOJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T15:10:24Z",
+        "trip_class": 0,
+        "value": 28933,
+        "number_of_changes": 2,
+        "duration": 1575,
+        "distance": 1810,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "233",
+        "link": "/search/UKX2911NOJ1?t=UT17328711001732954800001575UKXIKTOVBNOJ_1073d22bf0135364832856973c7e257d_28578&search_date=22112024&expected_price_uuid=f1da03e0-aace-4c91-841c-b2a533880300&expected_price_source=share&expected_price_currency=rub&expected_price=28933",
+        "origin_airport": "UKX",
+        "destination_airport": "NOJ",
+        "departure_at": "2024-11-29T09:05:00+08:00",
+        "airline": "UT",
+        "price": 28933,
+        "return_transfers": 0,
+        "duration_to": 520,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ust-Kut Airport",
+        "origin_city_code": "UKX",
+        "origin_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Nojabrxsk Airport",
+        "destination_city_code": "NOJ",
+        "destination_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

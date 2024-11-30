@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T23:15:00+05:00",
+        "origin": "REN",
+        "destination": "DEE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T16:28:30Z",
+        "trip_class": 0,
+        "value": 45839,
+        "number_of_changes": 3,
+        "duration": 3295,
+        "distance": 6345,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1243",
+        "link": "/search/REN2911DEE1?t=S717329221001733141400003295RENSVOOVBUUSDEE_e6bb3e755489861bc278884f9af1959c_45278&search_date=22112024&expected_price_uuid=ef056a86-3bc2-47b9-815a-76c4be2a3d02&expected_price_source=share&expected_price_currency=rub&expected_price=45839",
+        "origin_airport": "REN",
+        "destination_airport": "DEE",
+        "departure_at": "2024-11-29T23:15:00+05:00",
+        "airline": "SU",
+        "price": 45839,
+        "return_transfers": 0,
+        "duration_to": 815,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Orenburg Airport",
+        "origin_city_code": "REN",
+        "origin_coordinates": {
+            "lat": 51.79105,
+            "lon": 55.4567
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Mendeleyevo Airport",
+        "destination_city_code": "DEE",
+        "destination_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

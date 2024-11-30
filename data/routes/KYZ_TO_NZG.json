@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-28T17:00:00+07:00",
+        "origin": "KYZ",
+        "destination": "NZG",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T02:19:04Z",
+        "trip_class": 0,
+        "value": 15085,
+        "number_of_changes": 1,
+        "duration": 1170,
+        "distance": 1091,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "112",
+        "link": "/search/KYZ2812NZG1?t=KV17354052001735479000001170KYZKJANZG_aaf00ce92612422d9ea19f48d402ff16_14650&search_date=22112024&expected_price_uuid=7a46a08f-4865-4c98-95ae-8216f1b20bfc&expected_price_source=share&expected_price_currency=rub&expected_price=15085",
+        "origin_airport": "KYZ",
+        "destination_airport": "NZG",
+        "departure_at": "2024-12-28T17:00:00+07:00",
+        "airline": "KV",
+        "price": 15085,
+        "return_transfers": 0,
+        "duration_to": 265,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kyzyl Airport",
+        "origin_city_code": "KYZ",
+        "origin_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

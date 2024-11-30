@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-25T15:25:00+03:00",
+        "origin": "KSZ",
+        "destination": "PEE",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-21T14:42:56Z",
+        "trip_class": 0,
+        "value": 10815,
+        "number_of_changes": 1,
+        "duration": 2105,
+        "distance": 640,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "288",
+        "link": "/search/KSZ2511PEE1?t=DP17325483001732681800002105KSZLEDPEE_78152ef8dde0882533cfcfa4d07a151c_10784&search_date=21112024&expected_price_uuid=605460da-5e25-4d89-8651-a7d18427f402&expected_price_source=share&expected_price_currency=rub&expected_price=10815",
+        "origin_airport": "KSZ",
+        "destination_airport": "PEE",
+        "departure_at": "2024-11-25T15:25:00+03:00",
+        "airline": "7R",
+        "price": 10815,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kotlas Airport",
+        "origin_city_code": "KSZ",
+        "origin_coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Perm International Airport",
+        "destination_city_code": "PEE",
+        "destination_coordinates": {
+            "lat": 57.920025,
+            "lon": 56.01918
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-28T15:25:00+03:00",
+        "origin": "KSZ",
+        "destination": "PEE",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-21T14:43:21Z",
+        "trip_class": 0,
+        "value": 11623,
+        "number_of_changes": 1,
+        "duration": 665,
+        "distance": 640,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "288",
+        "link": "/search/KSZ2811PEE1?t=DP17328075001732854600000665KSZLEDPEE_37005451404be71d0a811c8b0ad45942_11590&search_date=21112024&expected_price_uuid=160abd9b-a630-4c75-941e-7d7a42847c00&expected_price_source=share&expected_price_currency=rub&expected_price=11623",
+        "origin_airport": "KSZ",
+        "destination_airport": "PEE",
+        "departure_at": "2024-11-28T15:25:00+03:00",
+        "airline": "7R",
+        "price": 11623,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kotlas Airport",
+        "origin_city_code": "KSZ",
+        "origin_coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Perm International Airport",
+        "destination_city_code": "PEE",
+        "destination_coordinates": {
+            "lat": 57.920025,
+            "lon": 56.01918
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

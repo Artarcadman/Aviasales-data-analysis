@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-29T19:25:00+07:00",
+        "origin": "TGP",
+        "destination": "TJM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T08:27:05Z",
+        "trip_class": 0,
+        "value": 20063,
+        "number_of_changes": 1,
+        "duration": 935,
+        "distance": 1467,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "172",
+        "link": "/search/TGP2912TJM1?t=SU17355003001735549200000935TGPKJATJM_e1f777df5d0cb27a7151721d619d4a6b_20063&search_date=23112024&expected_price_uuid=c403dbb3-1f64-4b84-8be6-c011f80f6aca&expected_price_source=share&expected_price_currency=rub&expected_price=20063",
+        "origin_airport": "TGP",
+        "destination_airport": "TJM",
+        "departure_at": "2024-12-29T19:25:00+07:00",
+        "airline": "KV",
+        "price": 20063,
+        "return_transfers": 0,
+        "duration_to": 285,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Podkamennaya Tunguska Airport",
+        "origin_city_code": "TGP",
+        "origin_coordinates": {
+            "lat": 61.59,
+            "lon": 89.97945
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

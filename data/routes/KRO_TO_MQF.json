@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T07:00:00+05:00",
+        "origin": "KRO",
+        "destination": "MQF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T14:50:03Z",
+        "trip_class": 0,
+        "value": 19528,
+        "number_of_changes": 2,
+        "duration": 4290,
+        "distance": 459,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1092",
+        "link": "/search/KRO2611MQF1?t=N417326044001732861800004290KRODMEVKOLEDMQF_a3e1d4d9e976135e0aab19b6981dde6a_19472&search_date=21112024&expected_price_uuid=7f91e3a9-8aa6-492f-87ee-02cbcabc5a00&expected_price_source=share&expected_price_currency=rub&expected_price=19528",
+        "origin_airport": "KRO",
+        "destination_airport": "MQF",
+        "departure_at": "2024-11-26T07:00:00+05:00",
+        "airline": "Y7",
+        "price": 19528,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Magnitogorsk Airport",
+        "destination_city_code": "MQF",
+        "destination_coordinates": {
+            "lat": 53.45,
+            "lon": 59.066666
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

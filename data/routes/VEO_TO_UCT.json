@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-06T18:30:00+07:00",
+        "origin": "VEO",
+        "destination": "UCT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T09:23:19Z",
+        "trip_class": 0,
+        "value": 28073,
+        "number_of_changes": 2,
+        "duration": 3090,
+        "distance": 2045,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9290",
+        "link": "/search/VEO0612UCT1?t=UT17335098001733680800003090VEOKJAVKOUCT_7486250c47227c47a40c7e2d007b93a8_28073&search_date=23112024&expected_price_uuid=dcacf057-aaaa-4c8d-bdd8-22e273850403&expected_price_source=share&expected_price_currency=rub&expected_price=28073",
+        "origin_airport": "VEO",
+        "destination_airport": "UCT",
+        "departure_at": "2024-12-06T18:30:00+07:00",
+        "airline": "KV",
+        "price": 28073,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ukhta Airport",
+        "destination_city_code": "UCT",
+        "destination_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-28T18:40:00+03:00",
+        "origin": "STW",
+        "destination": "OVS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T11:37:54Z",
+        "trip_class": 0,
+        "value": 33205,
+        "number_of_changes": 3,
+        "duration": 3890,
+        "distance": 2262,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6920",
+        "link": "/search/STW2812OVS1?t=UT17354112001735651800003890STWSVOVKOSGCEYKOVS_19074dba1280b20be7d52602709c23d2_32721&search_date=22112024&expected_price_uuid=8b6491d3-e4cb-4d12-9970-2121aa3d7c02&expected_price_source=share&expected_price_currency=rub&expected_price=33205",
+        "origin_airport": "STW",
+        "destination_airport": "OVS",
+        "departure_at": "2024-12-28T18:40:00+03:00",
+        "airline": "DP",
+        "price": 33205,
+        "return_transfers": 0,
+        "duration_to": 560,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Stavropol Airport",
+        "origin_city_code": "STW",
+        "origin_coordinates": {
+            "lat": 45.333332,
+            "lon": 42.00833
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Sovetsky Airport",
+        "destination_city_code": "OVS",
+        "destination_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T16:15:00+09:00",
+        "origin": "OLZ",
+        "destination": "KJA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T05:44:38Z",
+        "trip_class": 0,
+        "value": 58746,
+        "number_of_changes": 3,
+        "duration": 3185,
+        "distance": 1683,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "426",
+        "link": "/search/OLZ2811KCY1?t=KV17328105001732994400003185OLZYKSMJZULKKCY_3173662a5009595a50a587dc3797f9cc_58597&search_date=25112024&expected_price_uuid=7bdc56e1-51e8-4bc5-b655-1ab923a23903&expected_price_source=share&expected_price_currency=rub&expected_price=58746",
+        "origin_airport": "OLZ",
+        "destination_airport": "KCY",
+        "departure_at": "2024-11-28T16:15:00+09:00",
+        "airline": "R3",
+        "price": 58746,
+        "return_transfers": 0,
+        "duration_to": 545,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-06T18:00:00+09:00",
+        "origin": "OLZ",
+        "destination": "KJA",
+        "gate": "SuperKassa",
+        "return_date": "",
+        "found_at": "2024-11-25T04:34:54Z",
+        "trip_class": 0,
+        "value": 62412,
+        "number_of_changes": 2,
+        "duration": 1640,
+        "distance": 1683,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "186",
+        "link": "/search/OLZ0612KCY1?t=KV17335080001733599200001640OLZIKTULKKCY_e02892f969b7a4fe634af6bf030dc986_62247&search_date=25112024&expected_price_uuid=a2af97ab-6a58-4ed9-b12b-e5ce87a17400&expected_price_source=share&expected_price_currency=rub&expected_price=62412",
+        "origin_airport": "OLZ",
+        "destination_airport": "KCY",
+        "departure_at": "2024-12-06T18:00:00+09:00",
+        "airline": "IO",
+        "price": 62412,
+        "return_transfers": 0,
+        "duration_to": 660,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

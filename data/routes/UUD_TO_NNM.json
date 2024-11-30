@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-01T23:25:00+08:00",
+        "origin": "UUD",
+        "destination": "NNM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T05:57:07Z",
+        "trip_class": 0,
+        "value": 20026,
+        "number_of_changes": 2,
+        "duration": 2390,
+        "distance": 3359,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "2452",
+        "link": "/search/UUD0112NNM1?t=Y717330955001733220900002390UUDKJAKZNNNM_95bcd719e27cca956571ffbbc85cb7f8_19852&search_date=20112024&expected_price_uuid=0f0c1a46-3eb0-4840-9002-65e545f17100&expected_price_source=share&expected_price_currency=rub&expected_price=20026",
+        "origin_airport": "UUD",
+        "destination_airport": "NNM",
+        "departure_at": "2024-12-01T23:25:00+08:00",
+        "airline": "FV",
+        "price": 20026,
+        "return_transfers": 0,
+        "duration_to": 505,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ulan-Ude Airport",
+        "origin_city_code": "UUD",
+        "origin_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Naryan-Mar Airport",
+        "destination_city_code": "NNM",
+        "destination_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-12T13:20:00+08:00",
+        "origin": "UUD",
+        "destination": "NNM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T04:56:11Z",
+        "trip_class": 0,
+        "value": 21858,
+        "number_of_changes": 3,
+        "duration": 1940,
+        "distance": 3359,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "3605",
+        "link": "/search/UUD1212NNM1?t=U617340096001734108000001940UUDKJASVXUFANNM_334601aaf37bd4c846db4c0b8e552cb2_21687&search_date=21112024&expected_price_uuid=d233f326-ffc3-40ef-89db-fbccbe376a03&expected_price_source=share&expected_price_currency=rub&expected_price=21858",
+        "origin_airport": "UUD",
+        "destination_airport": "NNM",
+        "departure_at": "2024-12-12T13:20:00+08:00",
+        "airline": "FV",
+        "price": 21858,
+        "return_transfers": 0,
+        "duration_to": 550,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Ulan-Ude Airport",
+        "origin_city_code": "UUD",
+        "origin_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Naryan-Mar Airport",
+        "destination_city_code": "NNM",
+        "destination_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T12:50:00+09:00",
+        "origin": "OLZ",
+        "destination": "BTK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T12:14:53Z",
+        "trip_class": 0,
+        "value": 59632,
+        "number_of_changes": 3,
+        "duration": 3085,
+        "distance": 1170,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "185",
+        "link": "/search/OLZ2511BTK1?t=S717325390001732720500003085OLZYKSNERIKTBTK_2f87328d023a0f49165f1ab95a40c757_59980&search_date=24112024&expected_price_uuid=0e7b1bea-aee2-48b2-873e-0171056f8c01&expected_price_source=share&expected_price_currency=rub&expected_price=59632",
+        "origin_airport": "OLZ",
+        "destination_airport": "BTK",
+        "departure_at": "2024-11-25T12:50:00+09:00",
+        "airline": "IO",
+        "price": 59632,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Bratsk Airport",
+        "destination_city_code": "BTK",
+        "destination_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

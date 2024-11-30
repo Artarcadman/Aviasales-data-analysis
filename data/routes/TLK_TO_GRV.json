@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-16T15:20:00+09:00",
+        "origin": "TLK",
+        "destination": "GRV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T05:54:15Z",
+        "trip_class": 0,
+        "value": 35244,
+        "number_of_changes": 2,
+        "duration": 1785,
+        "distance": 4641,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "418",
+        "link": "/search/TLK1612GRV1?t=U617343624001734447900001785TLKIKTDMEGRV_68c40708e375b3e625732f47163c0986_35244&search_date=23112024&expected_price_uuid=0039a23b-6aa5-4674-8aa2-7df96e35d100&expected_price_source=share&expected_price_currency=rub&expected_price=35244",
+        "origin_airport": "TLK",
+        "destination_airport": "GRV",
+        "departure_at": "2024-12-16T15:20:00+09:00",
+        "airline": "IO",
+        "price": 35244,
+        "return_transfers": 0,
+        "duration_to": 665,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Talakan",
+        "origin_city_code": "TLK",
+        "origin_coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Groznyy Airport",
+        "destination_city_code": "GRV",
+        "destination_coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

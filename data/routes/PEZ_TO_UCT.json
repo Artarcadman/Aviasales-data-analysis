@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T18:50:00+03:00",
+        "origin": "PEZ",
+        "destination": "UCT",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T11:25:57Z",
+        "trip_class": 0,
+        "value": 14085,
+        "number_of_changes": 1,
+        "duration": 850,
+        "distance": 1266,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6816",
+        "link": "/search/PEZ2711UCT1?t=SU17327334001732784400000850PEZLEDUCT_34a20b94fca151a28c24d55dce2ad1e3_14100&search_date=25112024&expected_price_uuid=deb3d99f-3188-4d91-9d57-4abb5d6f28a6&expected_price_source=share&expected_price_currency=rub&expected_price=14085",
+        "origin_airport": "PEZ",
+        "destination_airport": "UCT",
+        "departure_at": "2024-11-27T18:50:00+03:00",
+        "airline": "SU",
+        "price": 14085,
+        "return_transfers": 0,
+        "duration_to": 250,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Penza Airport",
+        "origin_city_code": "PEZ",
+        "origin_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ukhta Airport",
+        "destination_city_code": "UCT",
+        "destination_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-09T12:05:00+03:00",
+        "origin": "PEZ",
+        "destination": "UCT",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T09:26:18Z",
+        "trip_class": 0,
+        "value": 14830,
+        "number_of_changes": 1,
+        "duration": 1595,
+        "distance": 1266,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1545",
+        "link": "/search/PEZ0912UCT1?t=D217337459001733841600001595PEZSVOUCT_1330eb840ce7dc6b0ed4b51252f9aa52_14402&search_date=22112024&expected_price_uuid=ac2b0af3-58e5-45ae-a4c7-8a83cb7d93d5&expected_price_source=share&expected_price_currency=rub&expected_price=14830",
+        "origin_airport": "PEZ",
+        "destination_airport": "UCT",
+        "departure_at": "2024-12-09T12:05:00+03:00",
+        "airline": "SU",
+        "price": 14830,
+        "return_transfers": 0,
+        "duration_to": 210,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Penza Airport",
+        "origin_city_code": "PEZ",
+        "origin_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ukhta Airport",
+        "destination_city_code": "UCT",
+        "destination_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

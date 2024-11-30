@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-11T10:20:00+03:00",
+        "origin": "PKV",
+        "destination": "UUS",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-18T16:55:41Z",
+        "trip_class": 0,
+        "value": 23314,
+        "number_of_changes": 1,
+        "duration": 895,
+        "distance": 6902,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "7038",
+        "link": "/search/PKV1112UUS1?t=SU17339124001733994900000895PKVVKOSVOUUS_c83ebcc2216aa5d035dea095dfc2a2dd_23431&search_date=18112024&expected_price_uuid=22b5a0e1-5fc3-46d9-8c90-d8f61e457e02&expected_price_source=share&expected_price_currency=rub&expected_price=23314",
+        "origin_airport": "PKV",
+        "destination_airport": "UUS",
+        "departure_at": "2024-12-11T10:20:00+03:00",
+        "airline": "A4",
+        "price": 23314,
+        "return_transfers": 0,
+        "duration_to": 580,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yuzhno-Sakhalinsk Airport",
+        "destination_city_code": "UUS",
+        "destination_coordinates": {
+            "lat": 46.966667,
+            "lon": 142.75
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-12-30T21:20:00+03:00",
+        "origin": "PKV",
+        "destination": "UUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T10:39:43Z",
+        "trip_class": 0,
+        "value": 34566,
+        "number_of_changes": 2,
+        "duration": 3075,
+        "distance": 6902,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "7138",
+        "link": "/search/PKV3012UUS1?t=S717355936001735806900003075PKVVKODMEOVBUUS_ae42b65615c7f2932b2047360cf827bf_34572&search_date=25112024&expected_price_uuid=cd7b3084-6dd0-471d-ba6f-f7f1fda30e00&expected_price_source=share&expected_price_currency=rub&expected_price=34566",
+        "origin_airport": "PKV",
+        "destination_airport": "UUS",
+        "departure_at": "2024-12-30T21:20:00+03:00",
+        "airline": "A4",
+        "price": 34566,
+        "return_transfers": 0,
+        "duration_to": 660,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yuzhno-Sakhalinsk Airport",
+        "destination_city_code": "UUS",
+        "destination_coordinates": {
+            "lat": 46.966667,
+            "lon": 142.75
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-06T11:50:00+03:00",
+        "origin": "KMW",
+        "destination": "SVX",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-25T14:20:04Z",
+        "trip_class": 0,
+        "value": 12364,
+        "number_of_changes": 1,
+        "duration": 895,
+        "distance": 1196,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "17",
+        "link": "/search/KMW0612SVX1?t=DP17334858001733546700000895KMWLEDSVX_3e69fd45cb10acedeb9a46569f29993d_12328&search_date=25112024&expected_price_uuid=92b09902-4ec3-49bd-b4df-c22034703800&expected_price_source=share&expected_price_currency=rub&expected_price=12364",
+        "origin_airport": "KMW",
+        "destination_airport": "SVX",
+        "departure_at": "2024-12-06T11:50:00+03:00",
+        "airline": "КБ",
+        "price": 12364,
+        "return_transfers": 0,
+        "duration_to": 320,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sokerkino",
+        "origin_city_code": "KMW",
+        "origin_coordinates": {
+            "lat": 57.75,
+            "lon": 40.933334
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Koltsovo International Airport",
+        "destination_city_code": "SVX",
+        "destination_coordinates": {
+            "lat": 56.750336,
+            "lon": 60.804314
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

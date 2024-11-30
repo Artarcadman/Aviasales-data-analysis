@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-13T23:00:00+04:00",
+        "origin": "RTW",
+        "destination": "URJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:09:34Z",
+        "trip_class": 0,
+        "value": 9683,
+        "number_of_changes": 2,
+        "duration": 935,
+        "distance": 1482,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6055",
+        "link": "/search/RTW1312URJ1?t=A417341308001734190500000935GSVUFASVXURJ_3b87bd0c497ce139b6303acb934de1f1_9646&search_date=25112024&expected_price_uuid=de4fc78a-b777-48dc-bea4-bbe20c538303&expected_price_source=share&expected_price_currency=rub&expected_price=9683",
+        "origin_airport": "GSV",
+        "destination_airport": "URJ",
+        "departure_at": "2024-12-13T23:00:00+04:00",
+        "airline": "A4",
+        "price": 9683,
+        "return_transfers": 0,
+        "duration_to": 280,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Saratov Tsentralny Airport",
+        "origin_city_code": "RTW",
+        "origin_coordinates": {
+            "lat": 51.566666,
+            "lon": 46.066666
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Uraj Airport",
+        "destination_city_code": "URJ",
+        "destination_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-12T21:20:00+04:00",
+        "origin": "RTW",
+        "destination": "URJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T14:25:41Z",
+        "trip_class": 0,
+        "value": 14569,
+        "number_of_changes": 2,
+        "duration": 2270,
+        "distance": 1482,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "476",
+        "link": "/search/RTW1212URJ1?t=DP17340384001734178200002270GSVVKOTJMURJ_77c5060892069a6d6aa6f48042990513_14512&search_date=21112024&expected_price_uuid=d1933356-7e90-426a-978b-a3c1b056c003&expected_price_source=share&expected_price_currency=rub&expected_price=14569",
+        "origin_airport": "GSV",
+        "destination_airport": "URJ",
+        "departure_at": "2024-12-12T21:20:00+04:00",
+        "airline": "DP",
+        "price": 14569,
+        "return_transfers": 0,
+        "duration_to": 355,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Saratov Tsentralny Airport",
+        "origin_city_code": "RTW",
+        "origin_coordinates": {
+            "lat": 51.566666,
+            "lon": 46.066666
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Uraj Airport",
+        "destination_city_code": "URJ",
+        "destination_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

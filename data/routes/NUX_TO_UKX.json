@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T11:55:00+05:00",
+        "origin": "NUX",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:48:12Z",
+        "trip_class": 0,
+        "value": 22221,
+        "number_of_changes": 2,
+        "duration": 2665,
+        "distance": 1833,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5336",
+        "link": "/search/NUX2611UKX1?t=S717326221001732792800002665NUXOVBIKTUKX_5de4d7a773ede6a433dedf049479f027_22243&search_date=25112024&expected_price_uuid=60e85c70-297b-4f6c-95fc-6fa66af9a902&expected_price_source=share&expected_price_currency=rub&expected_price=22221",
+        "origin_airport": "NUX",
+        "destination_airport": "UKX",
+        "departure_at": "2024-11-26T11:55:00+05:00",
+        "airline": "S7",
+        "price": 22221,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Novy Urengoy Airport",
+        "origin_city_code": "NUX",
+        "origin_coordinates": {
+            "lat": 66.07335,
+            "lon": 76.522835
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-27T11:55:00+05:00",
+        "origin": "NUX",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:48:30Z",
+        "trip_class": 0,
+        "value": 22221,
+        "number_of_changes": 2,
+        "duration": 1225,
+        "distance": 1833,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5336",
+        "link": "/search/NUX2711UKX1?t=S717327085001732792800001225NUXOVBIKTUKX_fd934ac68ee622532e93eecbfd9f13d6_22243&search_date=25112024&expected_price_uuid=60855e96-0b5b-47c5-a7ab-76654efaca01&expected_price_source=share&expected_price_currency=rub&expected_price=22221",
+        "origin_airport": "NUX",
+        "destination_airport": "UKX",
+        "departure_at": "2024-11-27T11:55:00+05:00",
+        "airline": "S7",
+        "price": 22221,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Novy Urengoy Airport",
+        "origin_city_code": "NUX",
+        "origin_coordinates": {
+            "lat": 66.07335,
+            "lon": 76.522835
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

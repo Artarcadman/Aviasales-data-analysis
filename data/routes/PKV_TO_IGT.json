@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-21T21:20:00+03:00",
+        "origin": "PKV",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T17:27:27Z",
+        "trip_class": 0,
+        "value": 14321,
+        "number_of_changes": 1,
+        "duration": 2235,
+        "distance": 1985,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "7138",
+        "link": "/search/PKV2112IGT1?t=DP17348160001734950100002235PKVVKOSVOIGT_0b450a5412ff9e8d24d795646d037780_14405&search_date=24112024&expected_price_uuid=37e67e09-a90a-48e3-911b-b2640cbce100&expected_price_source=share&expected_price_currency=rub&expected_price=14321",
+        "origin_airport": "PKV",
+        "destination_airport": "IGT",
+        "departure_at": "2024-12-21T21:20:00+03:00",
+        "airline": "A4",
+        "price": 14321,
+        "return_transfers": 0,
+        "duration_to": 285,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-24T22:40:00+03:00",
+        "origin": "PKV",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T17:27:06Z",
+        "trip_class": 0,
+        "value": 29585,
+        "number_of_changes": 3,
+        "duration": 3595,
+        "distance": 1985,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6006",
+        "link": "/search/PKV2411IGT1?t=A417324880001732703700003595PKVMRVSVXSVOIGT_8c1078c9afb58785a3b72f9556812bb8_29758&search_date=24112024&expected_price_uuid=8258e901-6b51-4e96-aec4-1c3202764403&expected_price_source=share&expected_price_currency=rub&expected_price=29585",
+        "origin_airport": "PKV",
+        "destination_airport": "IGT",
+        "departure_at": "2024-11-24T22:40:00+03:00",
+        "airline": "A4",
+        "price": 29585,
+        "return_transfers": 0,
+        "duration_to": 780,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

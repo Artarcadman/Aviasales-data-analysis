@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-03T14:20:00+03:00",
+        "origin": "NAL",
+        "destination": "PES",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-23T09:33:46Z",
+        "trip_class": 0,
+        "value": 14588,
+        "number_of_changes": 1,
+        "duration": 1450,
+        "distance": 2109,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6902",
+        "link": "/search/NAL0312PES1?t=DP17332356001733322600001450NALSVOPES_b8c7084a3e8756163d40099e5e765752_14588&search_date=23112024&expected_price_uuid=a9f47aef-9e9b-4375-a78f-2f43a40f5e02&expected_price_source=share&expected_price_currency=rub&expected_price=14588",
+        "origin_airport": "NAL",
+        "destination_airport": "PES",
+        "departure_at": "2024-12-03T14:20:00+03:00",
+        "airline": "DP",
+        "price": 14588,
+        "return_transfers": 0,
+        "duration_to": 280,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nalchik Airport",
+        "origin_city_code": "NAL",
+        "origin_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Petrozavodsk Airport",
+        "destination_city_code": "PES",
+        "destination_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-13T14:20:00+03:00",
+        "origin": "NAL",
+        "destination": "PES",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T21:10:03Z",
+        "trip_class": 0,
+        "value": 16490,
+        "number_of_changes": 1,
+        "duration": 1230,
+        "distance": 2109,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6902",
+        "link": "/search/NAL1312PES1?t=DP17340996001734173400001230NALSVODMEPES_391d3e0324a26357ea8e83e2a3d84e07_16492&search_date=19112024&expected_price_uuid=d18139aa-2a13-4732-8635-6e625e057c00&expected_price_source=share&expected_price_currency=rub&expected_price=16490",
+        "origin_airport": "NAL",
+        "destination_airport": "PES",
+        "departure_at": "2024-12-13T14:20:00+03:00",
+        "airline": "DP",
+        "price": 16490,
+        "return_transfers": 0,
+        "duration_to": 280,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nalchik Airport",
+        "origin_city_code": "NAL",
+        "origin_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Petrozavodsk Airport",
+        "destination_city_code": "PES",
+        "destination_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

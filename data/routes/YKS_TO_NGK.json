@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T04:50:00+09:00",
+        "origin": "YKS",
+        "destination": "NGK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T05:31:32Z",
+        "trip_class": 0,
+        "value": 15170,
+        "number_of_changes": 1,
+        "duration": 2110,
+        "distance": 1397,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "2102",
+        "link": "/search/YKS0912NGK1?t=HZ17337198001733853600002110YKSKHVNGK_21fc4987efc8812572a934aea48345b9_15170&search_date=23112024&expected_price_uuid=372ae639-b2b1-463b-9683-30240554ec5e&expected_price_source=share&expected_price_currency=rub&expected_price=15170",
+        "origin_airport": "YKS",
+        "destination_airport": "NGK",
+        "departure_at": "2024-12-09T04:50:00+09:00",
+        "airline": "HZ",
+        "price": 15170,
+        "return_transfers": 0,
+        "duration_to": 270,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Nogliki Airport",
+        "destination_city_code": "NGK",
+        "destination_coordinates": {
+            "lat": 51.8,
+            "lon": 143.16667
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

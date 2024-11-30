@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-30T23:40:00+09:00",
+        "origin": "HTA",
+        "destination": "TBW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T18:22:16Z",
+        "trip_class": 0,
+        "value": 20811,
+        "number_of_changes": 2,
+        "duration": 3780,
+        "distance": 4668,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "168",
+        "link": "/search/HTA3011TBW1?t=DP17330100001733215200003780HTAIKTSVOVKOTBW_aa8ff92fee439e74709101b969e4e3d3_20811&search_date=23112024&expected_price_uuid=453a2bf8-2ed4-4057-a2dc-53da95790100&expected_price_source=share&expected_price_currency=rub&expected_price=20811",
+        "origin_airport": "HTA",
+        "destination_airport": "TBW",
+        "departure_at": "2024-11-30T23:40:00+09:00",
+        "airline": "IO",
+        "price": 20811,
+        "return_transfers": 0,
+        "duration_to": 535,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-21T08:00:00+09:00",
+        "origin": "HTA",
+        "destination": "TBW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T18:42:25Z",
+        "trip_class": 0,
+        "value": 53936,
+        "number_of_changes": 3,
+        "duration": null,
+        "distance": 4668,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 53936,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

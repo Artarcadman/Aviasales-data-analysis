@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T13:45:00+05:00",
+        "origin": "NYA",
+        "destination": "KGP",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T05:12:09Z",
+        "trip_class": 0,
+        "value": 13603,
+        "number_of_changes": 1,
+        "duration": 2485,
+        "distance": 463,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1152",
+        "link": "/search/NYA0212KGP1?t=UT17331471001733296200002485NYAZIAVKOKGP_cd99af2b9b1a656704733fb87d19c53f_13494&search_date=19112024&expected_price_uuid=81785a51-7b7f-4e9e-83ae-621d7c1ee200&expected_price_source=share&expected_price_currency=rub&expected_price=13603",
+        "origin_airport": "NYA",
+        "destination_airport": "KGP",
+        "departure_at": "2024-12-02T13:45:00+05:00",
+        "airline": "WZ",
+        "price": 13603,
+        "return_transfers": 0,
+        "duration_to": 380,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nyagan Airport",
+        "origin_city_code": "NYA",
+        "origin_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kogalym International Airport",
+        "destination_city_code": "KGP",
+        "destination_coordinates": {
+            "lat": 62.19583,
+            "lon": 74.53361
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

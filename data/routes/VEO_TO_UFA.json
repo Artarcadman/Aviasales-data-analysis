@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-03T14:45:00+07:00",
+        "origin": "VEO",
+        "destination": "UFA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T05:20:49Z",
+        "trip_class": 0,
+        "value": 18645,
+        "number_of_changes": 1,
+        "duration": 1550,
+        "distance": 2277,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "162",
+        "link": "/search/VEO0312UFA1?t=A417332371001733322900001550VEOKJAUFA_819b225da14e5bf2d482d0e1ea4fff6b_18645&search_date=23112024&expected_price_uuid=625c52be-5074-49b6-97d1-3b9ebed34ff4&expected_price_source=share&expected_price_currency=rub&expected_price=18645",
+        "origin_airport": "VEO",
+        "destination_airport": "UFA",
+        "departure_at": "2024-12-03T14:45:00+07:00",
+        "airline": "KV",
+        "price": 18645,
+        "return_transfers": 0,
+        "duration_to": 300,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ufa International Airport",
+        "destination_city_code": "UFA",
+        "destination_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

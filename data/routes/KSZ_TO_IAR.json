@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T15:25:00+03:00",
+        "origin": "KSZ",
+        "destination": "IAR",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T10:49:57Z",
+        "trip_class": 0,
+        "value": 14640,
+        "number_of_changes": 1,
+        "duration": 230,
+        "distance": 556,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "288",
+        "link": "/search/KSZ2811IAR1?t=7R17328075001732821300000230KSZLEDIAR_ef58c7c8042e0916726e136b50bf1a53_14640&search_date=23112024&expected_price_uuid=80bbed03-a2e4-40da-a613-b69af82d3303&expected_price_source=share&expected_price_currency=rub&expected_price=14640",
+        "origin_airport": "KSZ",
+        "destination_airport": "IAR",
+        "departure_at": "2024-11-28T15:25:00+03:00",
+        "airline": "7R",
+        "price": 14640,
+        "return_transfers": 0,
+        "duration_to": 180,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kotlas Airport",
+        "origin_city_code": "KSZ",
+        "origin_coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tunoshna Airport",
+        "destination_city_code": "IAR",
+        "destination_coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

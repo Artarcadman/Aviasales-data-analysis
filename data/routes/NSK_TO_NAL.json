@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-21T09:15:00+07:00",
+        "origin": "NSK",
+        "destination": "NAL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T17:30:02Z",
+        "trip_class": 0,
+        "value": 23343,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 3773,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 23343,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Noril'sk Airport",
+        "origin_city_code": "NSK",
+        "origin_coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Nalchik Airport",
+        "destination_city_code": "NAL",
+        "destination_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-21T08:10:00+07:00",
+        "origin": "NSK",
+        "destination": "NAL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T12:44:11Z",
+        "trip_class": 0,
+        "value": 38749,
+        "number_of_changes": 2,
+        "duration": 3460,
+        "distance": 3773,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "228",
+        "link": "/search/NSK2112NAL1?t=DP17347686001734961800003460NSKKJASVONAL_68c40fe5efc31702c7b7a47f59d34c6c_38975&search_date=24112024&expected_price_uuid=bf81ebd8-fa2a-4f07-9655-579fbffda900&expected_price_source=share&expected_price_currency=rub&expected_price=38749",
+        "origin_airport": "NSK",
+        "destination_airport": "NAL",
+        "departure_at": "2024-12-21T08:10:00+07:00",
+        "airline": "Y7",
+        "price": 38749,
+        "return_transfers": 0,
+        "duration_to": 680,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Noril'sk Airport",
+        "origin_city_code": "NSK",
+        "origin_coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Nalchik Airport",
+        "destination_city_code": "NAL",
+        "destination_coordinates": {
+            "lat": 43.533333,
+            "lon": 43.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T19:30:00+07:00",
+        "origin": "IAA",
+        "destination": "REN",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T16:21:36Z",
+        "trip_class": 0,
+        "value": 30124,
+        "number_of_changes": 2,
+        "duration": 2155,
+        "distance": 2420,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "178",
+        "link": "/search/IAA2711REN1?t=SU17327358001732857900002155IAAKJALEDREN_a67d57a3ddd2456510868ad39daf5a92_30300&search_date=24112024&expected_price_uuid=60e4455d-c778-4d36-9eb4-72f276691400&expected_price_source=share&expected_price_currency=rub&expected_price=30124",
+        "origin_airport": "IAA",
+        "destination_airport": "REN",
+        "departure_at": "2024-11-27T19:30:00+07:00",
+        "airline": "KV",
+        "price": 30124,
+        "return_transfers": 0,
+        "duration_to": 620,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Igarka Airport",
+        "origin_city_code": "IAA",
+        "origin_coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Orenburg Airport",
+        "destination_city_code": "REN",
+        "destination_coordinates": {
+            "lat": 51.79105,
+            "lon": 55.4567
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

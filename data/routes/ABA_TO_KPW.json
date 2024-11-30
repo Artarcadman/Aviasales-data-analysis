@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-02T21:55:00+07:00",
+        "origin": "ABA",
+        "destination": "KPW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T19:47:03Z",
+        "trip_class": 0,
+        "value": 56421,
+        "number_of_changes": 2,
+        "duration": 3575,
+        "distance": 4038,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "102",
+        "link": "/search/ABA0212KPW1?t=SU17331765001733409000003575ABAKJAGDXKPW_411251043283f2bea909b6ef9b415963_56503&search_date=24112024&expected_price_uuid=44b9dda3-e395-4101-93bc-50be03ee2503&expected_price_source=share&expected_price_currency=rub&expected_price=56421",
+        "origin_airport": "ABA",
+        "destination_airport": "KPW",
+        "departure_at": "2024-12-02T21:55:00+07:00",
+        "airline": "KV",
+        "price": 56421,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Keperveyem Airport",
+        "destination_city_code": "KPW",
+        "destination_coordinates": {
+            "lat": 67.84611,
+            "lon": 166.13722
+        },
+        "destination_time_zone": "Asia/Kamchatka"
+    },
+    {
+        "depart_date": "2024-12-01T20:25:00+07:00",
+        "origin": "ABA",
+        "destination": "KPW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T19:46:34Z",
+        "trip_class": 0,
+        "value": 75578,
+        "number_of_changes": 3,
+        "duration": 3665,
+        "distance": 4038,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "102",
+        "link": "/search/ABA0112KPW1?t=S717330847001733322600003665ABAKJAOVBGDXKPW_f5f600320594fde4873c6a42baef041c_75688&search_date=24112024&expected_price_uuid=5f06b78d-1ad2-48e5-8791-10446e616802&expected_price_source=share&expected_price_currency=rub&expected_price=75578",
+        "origin_airport": "ABA",
+        "destination_airport": "KPW",
+        "departure_at": "2024-12-01T20:25:00+07:00",
+        "airline": "KV",
+        "price": 75578,
+        "return_transfers": 0,
+        "duration_to": 655,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Keperveyem Airport",
+        "destination_city_code": "KPW",
+        "destination_coordinates": {
+            "lat": 67.84611,
+            "lon": 166.13722
+        },
+        "destination_time_zone": "Asia/Kamchatka"
+    }
+]

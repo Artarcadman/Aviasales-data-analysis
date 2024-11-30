@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2025-02-04T14:50:00+03:00",
+        "origin": "LED",
+        "destination": "BQJ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T09:37:02Z",
+        "trip_class": 0,
+        "value": 39867,
+        "number_of_changes": 1,
+        "duration": 2180,
+        "distance": 4584,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "488",
+        "link": "/search/LED0402BQJ1?t=R317386806001738836600002180LEDYKSBQJ_635f00be53d516e24c479f493640c081_40100&search_date=24112024&expected_price_uuid=3ee90c94-aeaf-49f3-aaf4-b5fd9242e19f&expected_price_source=share&expected_price_currency=rub&expected_price=39867",
+        "origin_airport": "LED",
+        "destination_airport": "BQJ",
+        "departure_at": "2025-02-04T14:50:00+03:00",
+        "airline": "R3",
+        "price": 39867,
+        "return_transfers": 0,
+        "duration_to": 525,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Pulkovo Airport",
+        "origin_city_code": "LED",
+        "origin_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Batagay",
+        "destination_city_code": "BQJ",
+        "destination_coordinates": {
+            "lat": 67.655,
+            "lon": 134.64166
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

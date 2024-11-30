@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T11:25:00+10:00",
+        "origin": "KHV",
+        "destination": "OVS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T02:35:24Z",
+        "trip_class": 0,
+        "value": 28363,
+        "number_of_changes": 2,
+        "duration": 1935,
+        "distance": 4528,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6288",
+        "link": "/search/KHV2711OVS1?t=SU17327067001732804800001935KHVSVODMESVXOVS_9a7d37fb13aa8ec144df635e34b9e828_27542&search_date=22112024&expected_price_uuid=877f994e-bc49-4fe3-988c-1ca299f01d03&expected_price_source=share&expected_price_currency=rub&expected_price=28363",
+        "origin_airport": "KHV",
+        "destination_airport": "OVS",
+        "departure_at": "2024-11-27T11:25:00+10:00",
+        "airline": "FV",
+        "price": 28363,
+        "return_transfers": 0,
+        "duration_to": 750,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Khabarovsk Airport",
+        "origin_city_code": "KHV",
+        "origin_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Sovetsky Airport",
+        "destination_city_code": "OVS",
+        "destination_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

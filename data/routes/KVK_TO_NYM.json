@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-23T18:50:00+03:00",
+        "origin": "KVK",
+        "destination": "NYM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T01:03:31Z",
+        "trip_class": 0,
+        "value": 20639,
+        "number_of_changes": 1,
+        "duration": 680,
+        "distance": 1718,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "356",
+        "link": "/search/KVK2312NYM1?t=YC17349798001735027800000680KVKLEDNYM_d17ba5a7e95dd0812b85082fb14f4bd6_20639&search_date=23112024&expected_price_uuid=7cec95db-e3b7-4b65-9612-6a2abea978ac&expected_price_source=share&expected_price_currency=rub&expected_price=20639",
+        "origin_airport": "KVK",
+        "destination_airport": "NYM",
+        "departure_at": "2024-12-23T18:50:00+03:00",
+        "airline": "D2",
+        "price": 20639,
+        "return_transfers": 0,
+        "duration_to": 285,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kirovsk Airport",
+        "origin_city_code": "KVK",
+        "origin_coordinates": {
+            "lat": 67.583336,
+            "lon": 33.583332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-22T15:20:00+03:00",
+        "origin": "KVK",
+        "destination": "NYM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T01:03:31Z",
+        "trip_class": 0,
+        "value": 24363,
+        "number_of_changes": 1,
+        "duration": 920,
+        "distance": 1718,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1347",
+        "link": "/search/KVK2212NYM1?t=YC17348808001734943200000920KVKSVODMENYM_ed7f257d4a4550b6b1621326a88b7e5c_24363&search_date=23112024&expected_price_uuid=4d51e777-5495-4266-9ddc-2dd2cc97f6d4&expected_price_source=share&expected_price_currency=rub&expected_price=24363",
+        "origin_airport": "KVK",
+        "destination_airport": "NYM",
+        "departure_at": "2024-12-22T15:20:00+03:00",
+        "airline": "SU",
+        "price": 24363,
+        "return_transfers": 0,
+        "duration_to": 305,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kirovsk Airport",
+        "origin_city_code": "KVK",
+        "origin_coordinates": {
+            "lat": 67.583336,
+            "lon": 33.583332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

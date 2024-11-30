@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T18:00:00+03:00",
+        "origin": "USK",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T19:44:07Z",
+        "trip_class": 0,
+        "value": 18731,
+        "number_of_changes": 2,
+        "duration": 3875,
+        "distance": 2628,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "240",
+        "link": "/search/USK2711IGT1?t=DP17327304001732962900003875USKPEEVKOSVOIGT_5573e843688b4ed6dc1b584f8b78267b_18732&search_date=25112024&expected_price_uuid=048a6457-4ab5-47dd-b8ae-e8e278c7c702&expected_price_source=share&expected_price_currency=rub&expected_price=18731",
+        "origin_airport": "USK",
+        "destination_airport": "IGT",
+        "departure_at": "2024-11-27T18:00:00+03:00",
+        "airline": "RT",
+        "price": 18731,
+        "return_transfers": 0,
+        "duration_to": 430,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Usinsk Airport",
+        "origin_city_code": "USK",
+        "origin_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

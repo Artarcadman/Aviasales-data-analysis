@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-05T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "KLF",
+        "gate": "SuperKassa",
+        "return_date": "",
+        "found_at": "2024-11-24T21:06:08Z",
+        "trip_class": 0,
+        "value": 13512,
+        "number_of_changes": 2,
+        "duration": 1840,
+        "distance": 1396,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6904",
+        "link": "/search/IGT0512KLF1?t=DP17333964001733506800001840IGTSVODMELEDKLF_533fae92fdb1762e1564a3ebbe9cf317_13532&search_date=24112024&expected_price_uuid=7bde6f29-664e-402d-919a-bfd0ac498403&expected_price_source=share&expected_price_currency=rub&expected_price=13512",
+        "origin_airport": "IGT",
+        "destination_airport": "KLF",
+        "departure_at": "2024-12-05T11:00:00+03:00",
+        "airline": "DP",
+        "price": 13512,
+        "return_transfers": 0,
+        "duration_to": 375,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Grabtsevo Airport",
+        "destination_city_code": "KLF",
+        "destination_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-23T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "KLF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T20:56:21Z",
+        "trip_class": 0,
+        "value": 15745,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 1396,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 15745,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Grabtsevo Airport",
+        "destination_city_code": "KLF",
+        "destination_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

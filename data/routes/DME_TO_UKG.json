@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-05T12:35:00+03:00",
+        "origin": "MOW",
+        "destination": "UKG",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-24T10:04:22Z",
+        "trip_class": 0,
+        "value": 64571,
+        "number_of_changes": 2,
+        "duration": 1315,
+        "distance": 4625,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "3021",
+        "link": "/search/DME0512UKG1?t=S717334021001733502600001315DMEIKTYKSUKG_9723a110eb4318d2b22b2feac55f89ca_64948&search_date=24112024&expected_price_uuid=40fc5531-0d18-4767-aead-40efb37d4303&expected_price_source=share&expected_price_currency=rub&expected_price=64571",
+        "origin_airport": "DME",
+        "destination_airport": "UKG",
+        "departure_at": "2024-12-05T12:35:00+03:00",
+        "airline": "S7",
+        "price": 64571,
+        "return_transfers": 0,
+        "duration_to": 730,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Moscow Domodedovo Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.414566,
+            "lon": 37.899494
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Kuiga",
+        "destination_city_code": "UKG",
+        "destination_coordinates": {
+            "lat": 70.00139,
+            "lon": 135.54971
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-25T19:00:00+03:00",
+        "origin": "UCT",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T06:06:37Z",
+        "trip_class": 0,
+        "value": 42145,
+        "number_of_changes": 2,
+        "duration": 2120,
+        "distance": 2876,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "180",
+        "link": "/search/UCT2512UKX1?t=DP17351532001735298400002120UCTVKOSVOIKTUKX_3fb32ac9d209a2a7fc7e57ce64f15093_41815&search_date=21112024&expected_price_uuid=48cc44b2-8e2b-4420-8bae-ed6c0ec33e01&expected_price_source=share&expected_price_currency=rub&expected_price=42145",
+        "origin_airport": "UCT",
+        "destination_airport": "UKX",
+        "departure_at": "2024-12-25T19:00:00+03:00",
+        "airline": "UT",
+        "price": 42145,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ukhta Airport",
+        "origin_city_code": "UCT",
+        "origin_coordinates": {
+            "lat": 63.566666,
+            "lon": 53.8
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

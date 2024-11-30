@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-29T05:30:00+07:00",
+        "origin": "BAX",
+        "destination": "VKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T10:19:41Z",
+        "trip_class": 0,
+        "value": 18263,
+        "number_of_changes": 2,
+        "duration": 900,
+        "distance": 1884,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6532",
+        "link": "/search/BAX2911VKT1?t=DP17328582001732897800000900BAXSVOSCWVKT_c8cdc2897586a70c88b852e1fe19855c_18254&search_date=25112024&expected_price_uuid=97451640-52aa-40b8-bffd-77be00a2ea01&expected_price_source=share&expected_price_currency=rub&expected_price=18263",
+        "origin_airport": "BAX",
+        "destination_airport": "VKT",
+        "departure_at": "2024-11-29T05:30:00+07:00",
+        "airline": "DP",
+        "price": 18263,
+        "return_transfers": 0,
+        "duration_to": 545,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Barnaul Airport",
+        "origin_city_code": "BAX",
+        "origin_coordinates": {
+            "lat": 53.361088,
+            "lon": 83.547646
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Vorkuta Airport",
+        "destination_city_code": "VKT",
+        "destination_coordinates": {
+            "lat": 67.48333,
+            "lon": 63.983334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-05T05:30:00+07:00",
+        "origin": "BAX",
+        "destination": "VKT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T22:49:25Z",
+        "trip_class": 0,
+        "value": 20914,
+        "number_of_changes": 2,
+        "duration": 2340,
+        "distance": 1884,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6532",
+        "link": "/search/BAX0512VKT1?t=DP17333766001733502600002340BAXSVOVKOSCWVKT_1714208918d194a2048190bab85c1ca2_20915&search_date=20112024&expected_price_uuid=aa1013b2-96b6-4ed5-807f-af3c12938a03&expected_price_source=share&expected_price_currency=rub&expected_price=20914",
+        "origin_airport": "BAX",
+        "destination_airport": "VKT",
+        "departure_at": "2024-12-05T05:30:00+07:00",
+        "airline": "DP",
+        "price": 20914,
+        "return_transfers": 0,
+        "duration_to": 545,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Barnaul Airport",
+        "origin_city_code": "BAX",
+        "origin_coordinates": {
+            "lat": 53.361088,
+            "lon": 83.547646
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Vorkuta Airport",
+        "destination_city_code": "VKT",
+        "destination_coordinates": {
+            "lat": 67.48333,
+            "lon": 63.983334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

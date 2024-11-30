@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T17:55:00+09:00",
+        "origin": "ULK",
+        "destination": "CEK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T08:58:46Z",
+        "trip_class": 0,
+        "value": 42841,
+        "number_of_changes": 2,
+        "duration": 2090,
+        "distance": 3106,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "181",
+        "link": "/search/ULK2811CEK1?t=N417328165001732927500002090ULKIKTKZNCEK_51271ac87a13654c845e5c0ffe467bb6_41605&search_date=22112024&expected_price_uuid=e7393afd-02a3-450b-a458-8eaa09c64400&expected_price_source=share&expected_price_currency=rub&expected_price=42841",
+        "origin_airport": "ULK",
+        "destination_airport": "CEK",
+        "departure_at": "2024-11-28T17:55:00+09:00",
+        "airline": "IO",
+        "price": 42841,
+        "return_transfers": 0,
+        "duration_to": 595,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Lensk Airport",
+        "origin_city_code": "ULK",
+        "origin_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Chelyabinsk International Airport",
+        "destination_city_code": "CEK",
+        "destination_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-20T17:30:00+09:00",
+        "origin": "ULK",
+        "destination": "CEK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T01:34:20Z",
+        "trip_class": 0,
+        "value": 47533,
+        "number_of_changes": 3,
+        "duration": 2830,
+        "distance": 3106,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "164",
+        "link": "/search/ULK2012CEK1?t=IO17347158001734871200002830ULKIKTOVBSGCCEK_62aafb18060b62b3afa6dc2c1741327f_47383&search_date=25112024&expected_price_uuid=296cd738-bc99-43a3-85e0-4a5369544901&expected_price_source=share&expected_price_currency=rub&expected_price=47533",
+        "origin_airport": "ULK",
+        "destination_airport": "CEK",
+        "departure_at": "2024-12-20T17:30:00+09:00",
+        "airline": "IO",
+        "price": 47533,
+        "return_transfers": 0,
+        "duration_to": 610,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Lensk Airport",
+        "origin_city_code": "ULK",
+        "origin_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Chelyabinsk International Airport",
+        "destination_city_code": "CEK",
+        "destination_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

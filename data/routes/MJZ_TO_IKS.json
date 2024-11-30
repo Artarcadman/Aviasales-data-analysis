@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-10T18:50:00+09:00",
+        "origin": "MJZ",
+        "destination": "IKS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T20:31:42Z",
+        "trip_class": 0,
+        "value": 48979,
+        "number_of_changes": 1,
+        "duration": 2255,
+        "distance": 1197,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "412",
+        "link": "/search/MJZ1012IKS1?t=R317338566001733991900002255MJZYKSIKS_dc3fbebd655d86c1a2916f1a849108f0_49000&search_date=22112024&expected_price_uuid=14ddf65b-92ac-48e1-8569-03e3fe093145&expected_price_source=share&expected_price_currency=rub&expected_price=48979",
+        "origin_airport": "MJZ",
+        "destination_airport": "IKS",
+        "departure_at": "2024-12-10T18:50:00+09:00",
+        "airline": "R3",
+        "price": 48979,
+        "return_transfers": 0,
+        "duration_to": 295,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Mirnyj Airport",
+        "origin_city_code": "MJZ",
+        "origin_coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tiksi Airport",
+        "destination_city_code": "IKS",
+        "destination_coordinates": {
+            "lat": 71.7,
+            "lon": 128.9
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-26T17:50:00+09:00",
+        "origin": "MJZ",
+        "destination": "IKS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T01:32:32Z",
+        "trip_class": 0,
+        "value": 53029,
+        "number_of_changes": 1,
+        "duration": 2315,
+        "distance": 1197,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "412",
+        "link": "/search/MJZ2611IKS1?t=R317326434001732782300002315MJZYKSIKS_357386837c5e2288fe0e5c1f9bfa9059_51500&search_date=22112024&expected_price_uuid=024c5d1b-57df-40f0-93dd-a16e81d1689b&expected_price_source=share&expected_price_currency=rub&expected_price=53029",
+        "origin_airport": "MJZ",
+        "destination_airport": "IKS",
+        "departure_at": "2024-11-26T17:50:00+09:00",
+        "airline": "R3",
+        "price": 53029,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Mirnyj Airport",
+        "origin_city_code": "MJZ",
+        "origin_coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tiksi Airport",
+        "destination_city_code": "IKS",
+        "destination_coordinates": {
+            "lat": 71.7,
+            "lon": 128.9
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

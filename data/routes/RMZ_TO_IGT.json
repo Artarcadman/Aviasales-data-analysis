@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T15:55:00+05:00",
+        "origin": "RMZ",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T13:20:41Z",
+        "trip_class": 0,
+        "value": 17004,
+        "number_of_changes": 2,
+        "duration": 1240,
+        "distance": 2297,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "227",
+        "link": "/search/RMZ2811IGT1?t=DP17328093001732876500001240RMZUFASVOIGT_6afa64321bf91f4d6445c5b57d26dfaf_17103&search_date=24112024&expected_price_uuid=9b8938d1-93ff-4553-b49b-913311d91301&expected_price_source=share&expected_price_currency=rub&expected_price=17004",
+        "origin_airport": "RMZ",
+        "destination_airport": "IGT",
+        "departure_at": "2024-11-28T15:55:00+05:00",
+        "airline": "RT",
+        "price": 17004,
+        "return_transfers": 0,
+        "duration_to": 450,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

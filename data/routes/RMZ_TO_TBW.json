@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-16T20:40:00+05:00",
+        "origin": "RMZ",
+        "destination": "TBW",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T19:41:19Z",
+        "trip_class": 0,
+        "value": 17263,
+        "number_of_changes": 1,
+        "duration": 840,
+        "distance": 1785,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "204",
+        "link": "/search/RMZ1612TBW1?t=RT17343816001734424800000840RMZVKOTBW_f9b20e5a78f8c257f3eb8986ac0d38e1_17270&search_date=22112024&expected_price_uuid=7a417b37-caef-4f45-866b-2dd05b966f1a&expected_price_source=share&expected_price_currency=rub&expected_price=17263",
+        "origin_airport": "RMZ",
+        "destination_airport": "TBW",
+        "departure_at": "2024-12-16T20:40:00+05:00",
+        "airline": "RT",
+        "price": 17263,
+        "return_transfers": 0,
+        "duration_to": 250,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Tambov Donskoye Airport",
+        "destination_city_code": "TBW",
+        "destination_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

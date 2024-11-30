@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-24T06:40:00+03:00",
+        "origin": "UUA",
+        "destination": "IJK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:09:20Z",
+        "trip_class": 0,
+        "value": 25834,
+        "number_of_changes": 2,
+        "duration": 3060,
+        "distance": 249,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "335",
+        "link": "/search/UUA2411IJK1?t=SU17324304001732617600003060UUANUXSVOIJK_a4aa42a466fb64c241d31d267d74202b_25695&search_date=21112024&expected_price_uuid=500d1ba6-5326-4c6b-9f0c-fd32a88df401&expected_price_source=share&expected_price_currency=rub&expected_price=25834",
+        "origin_airport": "UUA",
+        "destination_airport": "IJK",
+        "departure_at": "2024-11-24T06:40:00+03:00",
+        "airline": "RT",
+        "price": 25834,
+        "return_transfers": 0,
+        "duration_to": 515,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Izhevsk Airport",
+        "destination_city_code": "IJK",
+        "destination_coordinates": {
+            "lat": 56.833332,
+            "lon": 53.466667
+        },
+        "destination_time_zone": "Europe/Samara"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-03T17:45:00+03:00",
+        "origin": "MOW",
+        "destination": "KNY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T11:36:10Z",
+        "trip_class": 0,
+        "value": 16994,
+        "number_of_changes": 2,
+        "duration": 745,
+        "distance": 3596,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "267",
+        "link": "/search/DME0312KNY1?t=U617332479001733307000000745DMESVXKJAKNY_4a1395d266da118fecffd40452072fda_16994&search_date=23112024&expected_price_uuid=282ade1a-b597-44cb-941d-e8c771950201&expected_price_source=share&expected_price_currency=rub&expected_price=16994",
+        "origin_airport": "DME",
+        "destination_airport": "KNY",
+        "departure_at": "2024-12-03T17:45:00+03:00",
+        "airline": "U6",
+        "price": 16994,
+        "return_transfers": 0,
+        "duration_to": 400,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Moscow Domodedovo Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.414566,
+            "lon": 37.899494
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kodinsk",
+        "destination_city_code": "KNY",
+        "destination_coordinates": {
+            "lat": 58.48,
+            "lon": 99.095
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-24T21:50:00+03:00",
+        "origin": "MOW",
+        "destination": "KNY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:17:05Z",
+        "trip_class": 0,
+        "value": 23475,
+        "number_of_changes": 1,
+        "duration": 510,
+        "distance": 3596,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "107",
+        "link": "/search/DME2412KNY1?t=Y717350770001735122000000510DMEKJAKNY_e79abf925b236e96186b256df8af250b_23348&search_date=21112024&expected_price_uuid=7fc8c3b3-56ca-4362-8978-f1e8ec8f9801&expected_price_source=share&expected_price_currency=rub&expected_price=23475",
+        "origin_airport": "DME",
+        "destination_airport": "KNY",
+        "departure_at": "2024-12-24T21:50:00+03:00",
+        "airline": "Y7",
+        "price": 23475,
+        "return_transfers": 0,
+        "duration_to": 370,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Moscow Domodedovo Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.414566,
+            "lon": 37.899494
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kodinsk",
+        "destination_city_code": "KNY",
+        "destination_coordinates": {
+            "lat": 58.48,
+            "lon": 99.095
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T15:50:00+07:00",
+        "origin": "VEO",
+        "destination": "UUD",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-24T09:59:06Z",
+        "trip_class": 0,
+        "value": 14069,
+        "number_of_changes": 1,
+        "duration": 1170,
+        "distance": 1301,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "162",
+        "link": "/search/VEO2711UUD1?t=HZ17327226001732796400001170VEOKJAUUD_3d7ce1c30ad92940bb51adf669860414_14151&search_date=24112024&expected_price_uuid=6e442802-5d4d-4c60-91bf-51272b213f01&expected_price_source=share&expected_price_currency=rub&expected_price=14069",
+        "origin_airport": "VEO",
+        "destination_airport": "UUD",
+        "departure_at": "2024-11-27T15:50:00+07:00",
+        "airline": "KV",
+        "price": 14069,
+        "return_transfers": 0,
+        "duration_to": 195,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-26T10:10:00+07:00",
+        "origin": "VEO",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T10:00:02Z",
+        "trip_class": 0,
+        "value": 14405,
+        "number_of_changes": 1,
+        "duration": 2950,
+        "distance": 1301,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "162",
+        "link": "/search/VEO2611UUD1?t=HZ17326158001732796400002950VEOKJAUUD_65a48e1b4022fd680d715a40aaa42b06_14489&search_date=24112024&expected_price_uuid=cbfdbad6-18b7-43c2-a847-490adb561000&expected_price_source=share&expected_price_currency=rub&expected_price=14405",
+        "origin_airport": "VEO",
+        "destination_airport": "UUD",
+        "departure_at": "2024-11-26T10:10:00+07:00",
+        "airline": "KV",
+        "price": 14405,
+        "return_transfers": 0,
+        "duration_to": 190,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

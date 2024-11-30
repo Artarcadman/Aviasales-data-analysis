@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T05:10:00+03:00",
+        "origin": "UUA",
+        "destination": "UUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T11:41:51Z",
+        "trip_class": 0,
+        "value": 34919,
+        "number_of_changes": 3,
+        "duration": 4160,
+        "distance": 5936,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "331",
+        "link": "/search/UUA2711UUS1?t=SU17326842001732962600004160UUANJCOVBKHVUUS_d5fa6b69dac79ac42d0dfd88e36346fa_34917&search_date=20112024&expected_price_uuid=ad69d80b-4fc2-480c-88ae-d789216bd900&expected_price_source=share&expected_price_currency=rub&expected_price=34919",
+        "origin_airport": "UUA",
+        "destination_airport": "UUS",
+        "departure_at": "2024-11-27T05:10:00+03:00",
+        "airline": "RT",
+        "price": 34919,
+        "return_transfers": 0,
+        "duration_to": 600,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yuzhno-Sakhalinsk Airport",
+        "destination_city_code": "UUS",
+        "destination_coordinates": {
+            "lat": 46.966667,
+            "lon": 142.75
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-12-28T04:00:00+03:00",
+        "origin": "UUA",
+        "destination": "UUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T12:13:06Z",
+        "trip_class": 0,
+        "value": 75263,
+        "number_of_changes": 3,
+        "duration": 4115,
+        "distance": 5936,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA2812UUS1?t=S717353584001735634100004115UUAVKOOMSOVBUUS_88c3b057919c5b331f46d381ac8f8295_75263&search_date=23112024&expected_price_uuid=e7a430ea-4945-4502-b8b5-c74b15fcc700&expected_price_source=share&expected_price_currency=rub&expected_price=75263",
+        "origin_airport": "UUA",
+        "destination_airport": "UUS",
+        "departure_at": "2024-12-28T04:00:00+03:00",
+        "airline": "RT",
+        "price": 75263,
+        "return_transfers": 0,
+        "duration_to": 725,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yuzhno-Sakhalinsk Airport",
+        "destination_city_code": "UUS",
+        "destination_coordinates": {
+            "lat": 46.966667,
+            "lon": 142.75
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T07:45:00+07:00",
+        "origin": "KEJ",
+        "destination": "USK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T16:21:23Z",
+        "trip_class": 0,
+        "value": 18967,
+        "number_of_changes": 2,
+        "duration": 2255,
+        "distance": 1936,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "756",
+        "link": "/search/KEJ2611USK1?t=RT17326071001732728000002255KEJKZNKUFUSK_da8e5b9d29c871d0cac15a339aa303c3_18970&search_date=19112024&expected_price_uuid=97053f3e-7537-4f93-86d1-ae505271e202&expected_price_source=share&expected_price_currency=rub&expected_price=18967",
+        "origin_airport": "KEJ",
+        "destination_airport": "USK",
+        "departure_at": "2024-11-26T07:45:00+07:00",
+        "airline": "N4",
+        "price": 18967,
+        "return_transfers": 0,
+        "duration_to": 510,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kemerovo Airport",
+        "origin_city_code": "KEJ",
+        "origin_coordinates": {
+            "lat": 55.280567,
+            "lon": 86.11623
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-27T06:15:00+07:00",
+        "origin": "KEJ",
+        "destination": "USK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T16:21:06Z",
+        "trip_class": 0,
+        "value": 24774,
+        "number_of_changes": 2,
+        "duration": 1945,
+        "distance": 1936,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "318",
+        "link": "/search/KEJ2711USK1?t=N417326881001732790400001945KEJLEDSCWUSK_341248788ede0cfb7e88e68a06ce49b8_24778&search_date=19112024&expected_price_uuid=c03f709d-b6db-415e-aa4e-e8cb14af7603&expected_price_source=share&expected_price_currency=rub&expected_price=24774",
+        "origin_airport": "KEJ",
+        "destination_airport": "USK",
+        "departure_at": "2024-11-27T06:15:00+07:00",
+        "airline": "N4",
+        "price": 24774,
+        "return_transfers": 0,
+        "duration_to": 520,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kemerovo Airport",
+        "origin_city_code": "KEJ",
+        "origin_coordinates": {
+            "lat": 55.280567,
+            "lon": 86.11623
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

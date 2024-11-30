@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-30T05:35:00+05:00",
+        "origin": "UFA",
+        "destination": "ITU",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T19:57:14Z",
+        "trip_class": 0,
+        "value": 27989,
+        "number_of_changes": 3,
+        "duration": 3370,
+        "distance": 6189,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6502",
+        "link": "/search/UFA3011ITU1?t=S717329449001733168700003370UFASVODMEOVBUUSITU_5de67a7b9ac3c83056088fe62af111a9_27992&search_date=25112024&expected_price_uuid=778e5630-2055-4358-912b-56e9dcc64302&expected_price_source=share&expected_price_currency=rub&expected_price=27989",
+        "origin_airport": "UFA",
+        "destination_airport": "ITU",
+        "departure_at": "2024-11-30T05:35:00+05:00",
+        "airline": "DP",
+        "price": 27989,
+        "return_transfers": 0,
+        "duration_to": 800,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Ufa International Airport",
+        "origin_city_code": "UFA",
+        "origin_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-12-01T14:30:00+05:00",
+        "origin": "UFA",
+        "destination": "ITU",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-25T05:07:19Z",
+        "trip_class": 0,
+        "value": 48218,
+        "number_of_changes": 2,
+        "duration": 1395,
+        "distance": 6189,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1231",
+        "link": "/search/UFA0112ITU1?t=SU17330634001733168700001395UFASVOUUSITU_623ca4522450f38ff841933f934ada4b_48091&search_date=25112024&expected_price_uuid=d16baf8a-6008-4851-a33d-564ba26a5c00&expected_price_source=share&expected_price_currency=rub&expected_price=48218",
+        "origin_airport": "UFA",
+        "destination_airport": "ITU",
+        "departure_at": "2024-12-01T14:30:00+05:00",
+        "airline": "SU",
+        "price": 48218,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ufa International Airport",
+        "origin_city_code": "UFA",
+        "origin_coordinates": {
+            "lat": 54.565403,
+            "lon": 55.884544
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

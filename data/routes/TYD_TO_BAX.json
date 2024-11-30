@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-27T12:00:00+09:00",
+        "origin": "TYD",
+        "destination": "BAX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T10:28:29Z",
+        "trip_class": 0,
+        "value": 49728,
+        "number_of_changes": 3,
+        "duration": 3010,
+        "distance": 2640,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4612",
+        "link": "/search/TYD2712BAX1?t=S717353008001735474200003010TYDBQSVVOOVBBAX_5952924fb5d9172c3b9fea2b7e1989b2_49698&search_date=19112024&expected_price_uuid=f1d3cd17-8dbf-4a33-8843-3c85a62eca03&expected_price_source=share&expected_price_currency=rub&expected_price=49728",
+        "origin_airport": "TYD",
+        "destination_airport": "BAX",
+        "departure_at": "2024-12-27T12:00:00+09:00",
+        "airline": "HZ",
+        "price": 49728,
+        "return_transfers": 0,
+        "duration_to": 650,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Tynda Airport",
+        "origin_city_code": "TYD",
+        "origin_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Barnaul Airport",
+        "destination_city_code": "BAX",
+        "destination_coordinates": {
+            "lat": 53.361088,
+            "lon": 83.547646
+        },
+        "destination_time_zone": "Asia/Novokuznetsk"
+    }
+]

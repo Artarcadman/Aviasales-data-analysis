@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-27T13:00:00+03:00",
+        "origin": "USK",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T05:17:25Z",
+        "trip_class": 0,
+        "value": 31796,
+        "number_of_changes": 2,
+        "duration": 2990,
+        "distance": 1469,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "235",
+        "link": "/search/USK2712SKX1?t=RT17353044001735483800002990USKUFAKZNSKX_0c64c75175913c4b7349947d23fc07ce_30879&search_date=22112024&expected_price_uuid=8a9a63e3-a1c2-4f6f-b089-e4a97e979003&expected_price_source=share&expected_price_currency=rub&expected_price=31796",
+        "origin_airport": "USK",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-27T13:00:00+03:00",
+        "airline": "RT",
+        "price": 31796,
+        "return_transfers": 0,
+        "duration_to": 240,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Usinsk Airport",
+        "origin_city_code": "USK",
+        "origin_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

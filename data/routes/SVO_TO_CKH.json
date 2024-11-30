@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T18:45:00+03:00",
+        "origin": "MOW",
+        "destination": "CKH",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T00:51:36Z",
+        "trip_class": 0,
+        "value": 60763,
+        "number_of_changes": 1,
+        "duration": 1200,
+        "distance": 4914,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1750",
+        "link": "/search/SVO2611CKH1?t=SU17326467001732747500001200SVOYKSCKH_0126e502d67ac35c139597c6dd1165a6_60594&search_date=25112024&expected_price_uuid=44d181f1-da6c-4d86-9405-ebba92f6cfef&expected_price_source=share&expected_price_currency=rub&expected_price=60763",
+        "origin_airport": "SVO",
+        "destination_airport": "CKH",
+        "departure_at": "2024-11-26T18:45:00+03:00",
+        "airline": "SU",
+        "price": 60763,
+        "return_transfers": 0,
+        "duration_to": 590,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sheremetyevo International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Chokurdah Airport",
+        "destination_city_code": "CKH",
+        "destination_coordinates": {
+            "lat": 70.63333,
+            "lon": 147.88333
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-12-27T18:50:00+03:00",
+        "origin": "MOW",
+        "destination": "CKH",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T05:06:51Z",
+        "trip_class": 0,
+        "value": 64769,
+        "number_of_changes": 1,
+        "duration": 1160,
+        "distance": 4914,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1750",
+        "link": "/search/SVO2712CKH1?t=SU17353254001735423800001160SVOYKSCKH_3c122143173befbd25b708f43cc1f6ce_64594&search_date=25112024&expected_price_uuid=2f69d79e-37dc-449d-a0df-1670b97cefe6&expected_price_source=share&expected_price_currency=rub&expected_price=64769",
+        "origin_airport": "SVO",
+        "destination_airport": "CKH",
+        "departure_at": "2024-12-27T18:50:00+03:00",
+        "airline": "SU",
+        "price": 64769,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sheremetyevo International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Chokurdah Airport",
+        "destination_city_code": "CKH",
+        "destination_coordinates": {
+            "lat": 70.63333,
+            "lon": 147.88333
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

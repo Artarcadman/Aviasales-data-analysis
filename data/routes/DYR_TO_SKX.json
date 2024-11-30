@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-25T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T12:01:15Z",
+        "trip_class": 0,
+        "value": 24982,
+        "number_of_changes": 1,
+        "duration": 885,
+        "distance": 6189,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR2511SKX1?t=SU17325486001732569300000885DYRSVOSKX_0394390d998f2e5b8e405abd5ed53599_24819&search_date=19112024&expected_price_uuid=1ba00754-f76c-4112-ba5e-8ccda9a05801&expected_price_source=share&expected_price_currency=rub&expected_price=24982",
+        "origin_airport": "DYR",
+        "destination_airport": "SKX",
+        "departure_at": "2024-11-25T15:30:00+12:00",
+        "airline": "FV",
+        "price": 24982,
+        "return_transfers": 0,
+        "duration_to": 595,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-09T15:30:00+12:00",
+        "origin": "DYR",
+        "destination": "SKX",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T18:06:33Z",
+        "trip_class": 0,
+        "value": 29329,
+        "number_of_changes": 1,
+        "duration": 885,
+        "distance": 6189,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6812",
+        "link": "/search/DYR0912SKX1?t=SU17337582001733778900000885DYRSVOSKX_b759366673de7ec725b7f9d6c8d58e73_29500&search_date=24112024&expected_price_uuid=69825486-15c7-4914-a3e7-3641ce07a71b&expected_price_source=share&expected_price_currency=rub&expected_price=29329",
+        "origin_airport": "DYR",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-09T15:30:00+12:00",
+        "airline": "SU",
+        "price": 29329,
+        "return_transfers": 0,
+        "duration_to": 595,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

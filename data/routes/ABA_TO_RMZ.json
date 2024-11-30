@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-12T15:50:00+07:00",
+        "origin": "ABA",
+        "destination": "RMZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T13:42:39Z",
+        "trip_class": 0,
+        "value": 14639,
+        "number_of_changes": 1,
+        "duration": 3220,
+        "distance": 1514,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5316",
+        "link": "/search/ABA1212RMZ1?t=RT17340186001734204600003220ABAOVBRMZ_11c3869bb1ad3fdfbfb294bfdc45d006_14724&search_date=24112024&expected_price_uuid=ac0304ec-048d-45c9-90f3-43e308fdf103&expected_price_source=share&expected_price_currency=rub&expected_price=14639",
+        "origin_airport": "ABA",
+        "destination_airport": "RMZ",
+        "departure_at": "2024-12-12T15:50:00+07:00",
+        "airline": "S7",
+        "price": 14639,
+        "return_transfers": 0,
+        "duration_to": 165,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Tobolsk (Remezov)",
+        "destination_city_code": "RMZ",
+        "destination_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-25T21:55:00+07:00",
+        "origin": "ABA",
+        "destination": "RMZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T13:44:38Z",
+        "trip_class": 0,
+        "value": 16395,
+        "number_of_changes": 2,
+        "duration": 4110,
+        "distance": 1514,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "102",
+        "link": "/search/ABA2511RMZ1?t=UT17325717001732811100004110ABAKJAOVBRMZ_2821f8c7230c349aaef4a3847c6132e3_16491&search_date=24112024&expected_price_uuid=74df1fe3-c56b-487b-907e-2be936d22500&expected_price_source=share&expected_price_currency=rub&expected_price=16395",
+        "origin_airport": "ABA",
+        "destination_airport": "RMZ",
+        "departure_at": "2024-11-25T21:55:00+07:00",
+        "airline": "KV",
+        "price": 16395,
+        "return_transfers": 0,
+        "duration_to": 260,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Tobolsk (Remezov)",
+        "destination_city_code": "RMZ",
+        "destination_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

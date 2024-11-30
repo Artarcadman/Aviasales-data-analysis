@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-29T11:45:00+03:00",
+        "origin": "KLF",
+        "destination": "UUA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T14:45:36Z",
+        "trip_class": 0,
+        "value": 26202,
+        "number_of_changes": 2,
+        "duration": 3550,
+        "distance": 1057,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "104",
+        "link": "/search/KLF2912UUA1?t=RT17354727001735685700003550KLFMSQSVOVKOUUA_9df2078bd16d5e758327230392f6fe6d_26202&search_date=23112024&expected_price_uuid=bb518177-4b7f-4216-9db8-bb9544813100&expected_price_source=share&expected_price_currency=rub&expected_price=26202",
+        "origin_airport": "KLF",
+        "destination_airport": "UUA",
+        "departure_at": "2024-12-29T11:45:00+03:00",
+        "airline": "D2",
+        "price": 26202,
+        "return_transfers": 0,
+        "duration_to": 260,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Grabtsevo Airport",
+        "origin_city_code": "KLF",
+        "origin_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bugulma Airport",
+        "destination_city_code": "UUA",
+        "destination_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-28T11:50:00+03:00",
+        "origin": "KLF",
+        "destination": "UUA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T14:45:24Z",
+        "trip_class": 0,
+        "value": 39880,
+        "number_of_changes": 2,
+        "duration": 3640,
+        "distance": 1057,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "646",
+        "link": "/search/KLF2812UUA1?t=N417353866001735605000003640KLFKZNSVOVKOUUA_5cd2a07edfb0718413a89c55b2bab280_39880&search_date=23112024&expected_price_uuid=b210ec18-28e5-441b-b01a-e0a4552ff302&expected_price_source=share&expected_price_currency=rub&expected_price=39880",
+        "origin_airport": "KLF",
+        "destination_airport": "UUA",
+        "departure_at": "2024-12-28T11:50:00+03:00",
+        "airline": "RT",
+        "price": 39880,
+        "return_transfers": 0,
+        "duration_to": 325,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Grabtsevo Airport",
+        "origin_city_code": "KLF",
+        "origin_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bugulma Airport",
+        "destination_city_code": "UUA",
+        "destination_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

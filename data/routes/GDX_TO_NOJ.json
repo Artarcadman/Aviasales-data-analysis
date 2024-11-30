@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-18T14:35:00+11:00",
+        "origin": "GDX",
+        "destination": "NOJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T07:14:37Z",
+        "trip_class": 0,
+        "value": 25130,
+        "number_of_changes": 1,
+        "duration": 1465,
+        "distance": 3779,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6290",
+        "link": "/search/GDX1812NOJ1?t=SU17345325001734598800001465GDXSVOVKONOJ_ba9ebaa7fa6e4cb6fe8274e8dd94020e_24918&search_date=20112024&expected_price_uuid=fd7db6fc-5268-4207-83f8-1afd05795300&expected_price_source=share&expected_price_currency=rub&expected_price=25130",
+        "origin_airport": "GDX",
+        "destination_airport": "NOJ",
+        "departure_at": "2024-12-18T14:35:00+11:00",
+        "airline": "FV",
+        "price": 25130,
+        "return_transfers": 0,
+        "duration_to": 650,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Magadan Airport",
+        "origin_city_code": "GDX",
+        "origin_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "origin_time_zone": "Asia/Magadan",
+        "destination_airport_name": "Nojabrxsk Airport",
+        "destination_city_code": "NOJ",
+        "destination_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-23T09:55:00+11:00",
+        "origin": "GDX",
+        "destination": "NOJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T05:40:47Z",
+        "trip_class": 0,
+        "value": 78135,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 3779,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 78135,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Magadan Airport",
+        "origin_city_code": "GDX",
+        "origin_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "origin_time_zone": "Asia/Magadan",
+        "destination_airport_name": "Nojabrxsk Airport",
+        "destination_city_code": "NOJ",
+        "destination_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-26T14:40:00+03:00",
+        "origin": "MOW",
+        "destination": "NYR",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T18:06:01Z",
+        "trip_class": 0,
+        "value": 44794,
+        "number_of_changes": 1,
+        "duration": 2290,
+        "distance": 4341,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "476",
+        "link": "/search/VKO2612NYR1?t=R317352240001735383000002290VKOYKSNYR_5d56cbeda9536b25bf89035138004a8e_45055&search_date=24112024&expected_price_uuid=f8692825-7220-441f-8d10-986f8778ef07&expected_price_source=share&expected_price_currency=rub&expected_price=44794",
+        "origin_airport": "VKO",
+        "destination_airport": "NYR",
+        "departure_at": "2024-12-26T14:40:00+03:00",
+        "airline": "R3",
+        "price": 44794,
+        "return_transfers": 0,
+        "duration_to": 490,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Vnukovo Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.60315,
+            "lon": 37.2921
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nyurba Airport",
+        "destination_city_code": "NYR",
+        "destination_coordinates": {
+            "lat": 63.297222,
+            "lon": 118.34695
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-12-27T14:40:00+03:00",
+        "origin": "MOW",
+        "destination": "NYR",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T11:07:37Z",
+        "trip_class": 0,
+        "value": 45055,
+        "number_of_changes": 1,
+        "duration": 850,
+        "distance": 4341,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "476",
+        "link": "/search/VKO2712NYR1?t=R317353104001735383000000850VKOYKSNYR_a30af9c9421bb0376ed82341d6b091a5_45055&search_date=23112024&expected_price_uuid=20d4ea98-372c-4e7d-bc03-8762fc1f0453&expected_price_source=share&expected_price_currency=rub&expected_price=45055",
+        "origin_airport": "VKO",
+        "destination_airport": "NYR",
+        "departure_at": "2024-12-27T14:40:00+03:00",
+        "airline": "R3",
+        "price": 45055,
+        "return_transfers": 0,
+        "duration_to": 500,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Vnukovo Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.60315,
+            "lon": 37.2921
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nyurba Airport",
+        "destination_city_code": "NYR",
+        "destination_coordinates": {
+            "lat": 63.297222,
+            "lon": 118.34695
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-24T06:30:00+04:00",
+        "origin": "KUF",
+        "destination": "CZR",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T14:29:37Z",
+        "trip_class": 0,
+        "value": 31287,
+        "number_of_changes": 2,
+        "duration": 4270,
+        "distance": 4157,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1032",
+        "link": "/search/KUF2411CZR1?t=U617324298001732704000004270KUFSVXHTACZR_d1c0863869d98709743dcf1d22d4e539_31165&search_date=21112024&expected_price_uuid=327c37d8-fe23-4713-813b-514521d38502&expected_price_source=share&expected_price_currency=rub&expected_price=31287",
+        "origin_airport": "KUF",
+        "destination_airport": "CZR",
+        "departure_at": "2024-11-24T06:30:00+04:00",
+        "airline": "WZ",
+        "price": 31287,
+        "return_transfers": 0,
+        "duration_to": 470,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kurumoch International Airport",
+        "origin_city_code": "KUF",
+        "origin_coordinates": {
+            "lat": 53.50782,
+            "lon": 50.14742
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Chara",
+        "destination_city_code": "CZR",
+        "destination_coordinates": {
+            "lat": 56.914722,
+            "lon": 118.270836
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

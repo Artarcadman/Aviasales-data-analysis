@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-17T11:15:00+03:00",
+        "origin": "NNM",
+        "destination": "CSY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T11:33:49Z",
+        "trip_class": 0,
+        "value": 13641,
+        "number_of_changes": 2,
+        "duration": 1335,
+        "distance": 1312,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "258",
+        "link": "/search/NNM1712CSY1?t=DP17344341001734514200001335NNMUFASVOCSY_84c2e6167f4f3244ba603152bece53bb_13602&search_date=21112024&expected_price_uuid=72b58de3-7162-494f-ba44-74d40d296200&expected_price_source=share&expected_price_currency=rub&expected_price=13641",
+        "origin_airport": "NNM",
+        "destination_airport": "CSY",
+        "departure_at": "2024-12-17T11:15:00+03:00",
+        "airline": "7R",
+        "price": 13641,
+        "return_transfers": 0,
+        "duration_to": 375,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Naryan-Mar Airport",
+        "origin_city_code": "NNM",
+        "origin_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Cheboksary Airport",
+        "destination_city_code": "CSY",
+        "destination_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-22T11:50:00+03:00",
+        "origin": "NNM",
+        "destination": "CSY",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:59:02Z",
+        "trip_class": 0,
+        "value": 14330,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 1312,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 14330,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Naryan-Mar Airport",
+        "origin_city_code": "NNM",
+        "origin_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Cheboksary Airport",
+        "destination_city_code": "CSY",
+        "destination_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-01-16T13:25:00+05:00",
+        "origin": "RMZ",
+        "destination": "USK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T14:37:08Z",
+        "trip_class": 0,
+        "value": 15519,
+        "number_of_changes": 1,
+        "duration": 1555,
+        "distance": 1044,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "652",
+        "link": "/search/RMZ1601USK1?t=RT17370339001737120000001555RMZKZNUSK_0bb0b351cbe686b7bb9036f8d5688d60_15531&search_date=25112024&expected_price_uuid=52a9659b-8e4d-4770-92a0-559ddd8e887e&expected_price_source=share&expected_price_currency=rub&expected_price=15519",
+        "origin_airport": "RMZ",
+        "destination_airport": "USK",
+        "departure_at": "2025-01-16T13:25:00+05:00",
+        "airline": "RT",
+        "price": 15519,
+        "return_transfers": 0,
+        "duration_to": 340,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2025-01-09T13:25:00+05:00",
+        "origin": "RMZ",
+        "destination": "USK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T05:12:50Z",
+        "trip_class": 0,
+        "value": 15531,
+        "number_of_changes": 1,
+        "duration": 1555,
+        "distance": 1044,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "652",
+        "link": "/search/RMZ0901USK1?t=RT17364291001736515200001555RMZKZNUSK_4a9c055ecdfa5ced09286ef90d48ab20_15531&search_date=23112024&expected_price_uuid=b55fb01d-578e-4a18-b2ed-4447b79e1ae0&expected_price_source=share&expected_price_currency=rub&expected_price=15531",
+        "origin_airport": "RMZ",
+        "destination_airport": "USK",
+        "departure_at": "2025-01-09T13:25:00+05:00",
+        "airline": "RT",
+        "price": 15531,
+        "return_transfers": 0,
+        "duration_to": 340,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tobolsk (Remezov)",
+        "origin_city_code": "RMZ",
+        "origin_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

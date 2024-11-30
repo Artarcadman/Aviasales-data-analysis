@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-05T13:05:00+11:00",
+        "origin": "EKS",
+        "destination": "OVB",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T12:30:45Z",
+        "trip_class": 0,
+        "value": 47037,
+        "number_of_changes": 1,
+        "duration": 760,
+        "distance": 3983,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4608",
+        "link": "/search/EKS0512OVB1?t=SU17334039001733435100000760EKSKHVOVB_ba3e205bf0c7303a39fdaa7435639b7e_47000&search_date=25112024&expected_price_uuid=81a796d7-b5d3-4b97-9764-7ed355588088&expected_price_source=share&expected_price_currency=rub&expected_price=47037",
+        "origin_airport": "EKS",
+        "destination_airport": "OVB",
+        "departure_at": "2024-12-05T13:05:00+11:00",
+        "airline": "HZ",
+        "price": 47037,
+        "return_transfers": 0,
+        "duration_to": 390,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Shakhtyorsk Airport",
+        "origin_city_code": "EKS",
+        "origin_coordinates": {
+            "lat": 49.190735,
+            "lon": 142.0777
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Novosibirsk Tolmachevo Airport",
+        "destination_city_code": "OVB",
+        "destination_coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "destination_time_zone": "Asia/Novosibirsk"
+    }
+]

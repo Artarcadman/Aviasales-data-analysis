@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-24T15:30:00+05:00",
+        "origin": "OVS",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T06:50:58Z",
+        "trip_class": 0,
+        "value": 18185,
+        "number_of_changes": 2,
+        "duration": 3770,
+        "distance": 2822,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "336",
+        "link": "/search/OVS2411UUD1?t=N417324622001732699200003770OVSSVXKZNUUD_a31343ea44b76fb79c3b1dd96683f386_18032&search_date=20112024&expected_price_uuid=2b788339-3212-41aa-9ef0-7271ce47d302&expected_price_source=share&expected_price_currency=rub&expected_price=18185",
+        "origin_airport": "OVS",
+        "destination_airport": "UUD",
+        "departure_at": "2024-11-24T15:30:00+05:00",
+        "airline": "UT",
+        "price": 18185,
+        "return_transfers": 0,
+        "duration_to": 515,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-26T14:20:00+05:00",
+        "origin": "OVS",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T07:07:19Z",
+        "trip_class": 0,
+        "value": 21070,
+        "number_of_changes": 2,
+        "duration": 3705,
+        "distance": 2822,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "255",
+        "link": "/search/OVS2611UUD1?t=5N17326308001732863900003705OVSEYKZIASVOUUD_ff8d032841768619a0c26030fbe92f65_21041&search_date=25112024&expected_price_uuid=df1d0002-f075-48bb-bfea-a497d3c20a03&expected_price_source=share&expected_price_currency=rub&expected_price=21069",
+        "origin_airport": "OVS",
+        "destination_airport": "UUD",
+        "departure_at": "2024-11-26T14:20:00+05:00",
+        "airline": "UT",
+        "price": 21070,
+        "return_transfers": 0,
+        "duration_to": 615,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

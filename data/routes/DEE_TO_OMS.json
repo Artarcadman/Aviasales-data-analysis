@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-15T14:35:00+11:00",
+        "origin": "DEE",
+        "destination": "OMS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:01:14Z",
+        "trip_class": 0,
+        "value": 33769,
+        "number_of_changes": 2,
+        "duration": 2670,
+        "distance": 5124,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4622",
+        "link": "/search/DEE1512OMS1?t=SU17342733001734415500002670DEEUUSSVOOMS_c941b47bc55727e500199c65af02c566_33587&search_date=21112024&expected_price_uuid=8cab58e4-c1db-4a81-b482-bf41816f9103&expected_price_source=share&expected_price_currency=rub&expected_price=33769",
+        "origin_airport": "DEE",
+        "destination_airport": "OMS",
+        "departure_at": "2024-12-15T14:35:00+11:00",
+        "airline": "HZ",
+        "price": 33769,
+        "return_transfers": 0,
+        "duration_to": 825,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Mendeleyevo Airport",
+        "origin_city_code": "DEE",
+        "origin_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Omsk Airport",
+        "destination_city_code": "OMS",
+        "destination_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "destination_time_zone": "Asia/Omsk"
+    }
+]

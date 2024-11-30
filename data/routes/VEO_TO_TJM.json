@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T10:10:00+07:00",
+        "origin": "VEO",
+        "destination": "TJM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T06:43:52Z",
+        "trip_class": 0,
+        "value": 16831,
+        "number_of_changes": 1,
+        "duration": 1490,
+        "distance": 1620,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "162",
+        "link": "/search/VEO2611TJM1?t=SU17326158001732698000001490VEOKJATJM_b86fde24d406607f3bb15f502fde95db_16785&search_date=25112024&expected_price_uuid=12aa3f05-1630-4ce4-a70a-4e616b5e2a5d&expected_price_source=share&expected_price_currency=rub&expected_price=16831",
+        "origin_airport": "VEO",
+        "destination_airport": "TJM",
+        "departure_at": "2024-11-26T10:10:00+07:00",
+        "airline": "KV",
+        "price": 16831,
+        "return_transfers": 0,
+        "duration_to": 260,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-29T16:05:00+07:00",
+        "origin": "VEO",
+        "destination": "TJM",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-19T17:01:45Z",
+        "trip_class": 0,
+        "value": 18171,
+        "number_of_changes": 1,
+        "duration": 1135,
+        "distance": 1620,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "162",
+        "link": "/search/VEO2912TJM1?t=SU17354883001735549200001135VEOKCYKJATJM_317ed317cd88a29f09cadedbf854d1bf_18175&search_date=19112024&expected_price_uuid=05a9140b-e6b5-4563-ae11-6037628fd401&expected_price_source=share&expected_price_currency=rub&expected_price=18171",
+        "origin_airport": "VEO",
+        "destination_airport": "TJM",
+        "departure_at": "2024-12-29T16:05:00+07:00",
+        "airline": "KV",
+        "price": 18171,
+        "return_transfers": 0,
+        "duration_to": 280,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Severo-Eniseyskij",
+        "origin_city_code": "VEO",
+        "origin_coordinates": {
+            "lat": 60.373333,
+            "lon": 93.01667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

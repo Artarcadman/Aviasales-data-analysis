@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T08:10:00+03:00",
+        "origin": "MOW",
+        "destination": "IRM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T07:36:18Z",
+        "trip_class": 0,
+        "value": 22986,
+        "number_of_changes": 3,
+        "duration": 1440,
+        "distance": 1696,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "417",
+        "link": "/search/ZIA2711IRM1?t=UT17326950001732788600001440ZIAKUFSVXHMAIRM_edd6150e1f7a70dfa768c242f5cf85d4_22986&search_date=23112024&expected_price_uuid=77dc0005-87bd-4cbc-85ba-3bbcf6701400&expected_price_source=share&expected_price_currency=rub&expected_price=22986",
+        "origin_airport": "ZIA",
+        "destination_airport": "IRM",
+        "departure_at": "2024-11-27T08:10:00+03:00",
+        "airline": "WZ",
+        "price": 22986,
+        "return_transfers": 0,
+        "duration_to": 425,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Zhukovsky International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Igrim",
+        "destination_city_code": "IRM",
+        "destination_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

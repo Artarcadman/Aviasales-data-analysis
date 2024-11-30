@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-01-14T13:05:00+11:00",
+        "origin": "EKS",
+        "destination": "MOW",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T01:48:49Z",
+        "trip_class": 0,
+        "value": 26659,
+        "number_of_changes": 1,
+        "duration": 3340,
+        "distance": 6413,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4608",
+        "link": "/search/EKS1401SVO1?t=SU17368599001737031500003340EKSKHVSVO_0df1184ef37fbef02aff5d9e8a1e62dd_26535&search_date=25112024&expected_price_uuid=2c34f93b-4376-434c-bc52-503179bda2e1&expected_price_source=share&expected_price_currency=rub&expected_price=26659",
+        "origin_airport": "EKS",
+        "destination_airport": "SVO",
+        "departure_at": "2025-01-14T13:05:00+11:00",
+        "airline": "HZ",
+        "price": 26659,
+        "return_transfers": 0,
+        "duration_to": 570,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Shakhtyorsk Airport",
+        "origin_city_code": "EKS",
+        "origin_coordinates": {
+            "lat": 49.190735,
+            "lon": 142.0777
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Sheremetyevo International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-03T13:05:00+11:00",
+        "origin": "EKS",
+        "destination": "MOW",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T09:03:05Z",
+        "trip_class": 0,
+        "value": 26675,
+        "number_of_changes": 1,
+        "duration": 3340,
+        "distance": 6413,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4608",
+        "link": "/search/EKS0312SVO1?t=SU17332311001733402700003340EKSKHVSVO_3a108eb857cf967c67280a9849d7b335_26535&search_date=25112024&expected_price_uuid=e8afc5f2-abd8-4f4f-a208-26445c25ca81&expected_price_source=share&expected_price_currency=rub&expected_price=26675",
+        "origin_airport": "EKS",
+        "destination_airport": "SVO",
+        "departure_at": "2024-12-03T13:05:00+11:00",
+        "airline": "HZ",
+        "price": 26675,
+        "return_transfers": 0,
+        "duration_to": 570,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Shakhtyorsk Airport",
+        "origin_city_code": "EKS",
+        "origin_coordinates": {
+            "lat": 49.190735,
+            "lon": 142.0777
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Sheremetyevo International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

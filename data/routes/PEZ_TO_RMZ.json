@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-24T15:20:00+03:00",
+        "origin": "PEZ",
+        "destination": "RMZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T20:53:48Z",
+        "trip_class": 0,
+        "value": 21667,
+        "number_of_changes": 1,
+        "duration": 1600,
+        "distance": 1554,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6768",
+        "link": "/search/PEZ2411RMZ1?t=RT17324616001732564800001600PEZLEDRMZ_7c56ae86e35d50a5980627f97ce0e41a_21667&search_date=20112024&expected_price_uuid=3d6317ef-b654-4eb3-8b7a-375b8a24ac02&expected_price_source=share&expected_price_currency=rub&expected_price=21667",
+        "origin_airport": "PEZ",
+        "destination_airport": "RMZ",
+        "departure_at": "2024-11-24T15:20:00+03:00",
+        "airline": "FV",
+        "price": 21667,
+        "return_transfers": 0,
+        "duration_to": 300,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Penza Airport",
+        "origin_city_code": "PEZ",
+        "origin_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tobolsk (Remezov)",
+        "destination_city_code": "RMZ",
+        "destination_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-23T12:05:00+03:00",
+        "origin": "PEZ",
+        "destination": "RMZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T07:38:17Z",
+        "trip_class": 0,
+        "value": 22283,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 1554,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 22283,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Penza Airport",
+        "origin_city_code": "PEZ",
+        "origin_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Tobolsk (Remezov)",
+        "destination_city_code": "RMZ",
+        "destination_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

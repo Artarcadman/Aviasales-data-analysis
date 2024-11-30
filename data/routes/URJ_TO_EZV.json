@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-25T12:10:00+05:00",
+        "origin": "URJ",
+        "destination": "EZV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T17:17:43Z",
+        "trip_class": 0,
+        "value": 14038,
+        "number_of_changes": 2,
+        "duration": 2780,
+        "distance": 423,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "226",
+        "link": "/search/URJ2512EZV1?t=UT17351286001735295400002780URJTJMHMAEZV_73fc60fc70bf287f5e90a3580e2d34ae_13861&search_date=22112024&expected_price_uuid=3fbcfb21-c80b-4629-8ee8-95c3f012a300&expected_price_source=share&expected_price_currency=rub&expected_price=14038",
+        "origin_airport": "URJ",
+        "destination_airport": "EZV",
+        "departure_at": "2024-12-25T12:10:00+05:00",
+        "airline": "UT",
+        "price": 14038,
+        "return_transfers": 0,
+        "duration_to": 245,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Uraj Airport",
+        "origin_city_code": "URJ",
+        "origin_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Berezovo",
+        "destination_city_code": "EZV",
+        "destination_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

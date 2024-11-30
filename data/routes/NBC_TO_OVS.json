@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T16:25:00+03:00",
+        "origin": "NBC",
+        "destination": "OVS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T12:16:44Z",
+        "trip_class": 0,
+        "value": 12134,
+        "number_of_changes": 2,
+        "duration": 4095,
+        "distance": 924,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6846",
+        "link": "/search/NBC0212OVS1?t=DP17331567001733409600004095NBCSVOSVXOVS_0d98eae63a298dabe919acd9812dc38b_12133&search_date=25112024&expected_price_uuid=f2c129a4-7fcf-4d34-830e-d97ffae05001&expected_price_source=share&expected_price_currency=rub&expected_price=12134",
+        "origin_airport": "NBC",
+        "destination_airport": "OVS",
+        "departure_at": "2024-12-02T16:25:00+03:00",
+        "airline": "DP",
+        "price": 12134,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Begishevo Airport",
+        "origin_city_code": "NBC",
+        "origin_coordinates": {
+            "lat": 55.564125,
+            "lon": 52.10341
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Sovetsky Airport",
+        "destination_city_code": "OVS",
+        "destination_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

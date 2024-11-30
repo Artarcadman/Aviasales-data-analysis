@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T10:00:00+03:00",
+        "origin": "CSY",
+        "destination": "TLK",
+        "gate": "SuperKassa.ru",
+        "return_date": "",
+        "found_at": "2024-11-21T04:27:25Z",
+        "trip_class": 0,
+        "value": 34833,
+        "number_of_changes": 3,
+        "duration": 2430,
+        "distance": 3633,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6808",
+        "link": "/search/CSY2911TLK1?t=DP17328744001733041800002430CSYSVOTJMOVBTLK_86ce35713398ad9fe162871e8ffa9997_34560&search_date=21112024&expected_price_uuid=a8e747a8-ea66-4847-9124-b7fc7dbf9c01&expected_price_source=share&expected_price_currency=rub&expected_price=34833",
+        "origin_airport": "CSY",
+        "destination_airport": "TLK",
+        "departure_at": "2024-11-29T10:00:00+03:00",
+        "airline": "DP",
+        "price": 34833,
+        "return_transfers": 0,
+        "duration_to": 545,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Talakan",
+        "destination_city_code": "TLK",
+        "destination_coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

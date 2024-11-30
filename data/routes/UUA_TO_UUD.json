@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-23T04:00:00+03:00",
+        "origin": "UUA",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T12:45:58Z",
+        "trip_class": 0,
+        "value": 29358,
+        "number_of_changes": 2,
+        "duration": 2865,
+        "distance": 3560,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA2312UUD1?t=N417349264001735116300002865UUAVKOSVOKZNUUD_90472d0ce130bb8170a5e96b328a76de_29359&search_date=25112024&expected_price_uuid=ecf933b3-466f-4c54-84b7-3b630220f800&expected_price_source=share&expected_price_currency=rub&expected_price=29358",
+        "origin_airport": "UUA",
+        "destination_airport": "UUD",
+        "departure_at": "2024-12-23T04:00:00+03:00",
+        "airline": "RT",
+        "price": 29358,
+        "return_transfers": 0,
+        "duration_to": 500,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-24T18:20:00+03:00",
+        "origin": "UUA",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T12:45:37Z",
+        "trip_class": 0,
+        "value": 39297,
+        "number_of_changes": 2,
+        "duration": 2170,
+        "distance": 3560,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA2412UUD1?t=DP17350644001735212600002170UUAVKOSVOIKTUUD_8306f4b15fe7e487a4893ce8d398eff3_39299&search_date=25112024&expected_price_uuid=da2c6a83-8944-4613-84a0-05872182d302&expected_price_source=share&expected_price_currency=rub&expected_price=39297",
+        "origin_airport": "UUA",
+        "destination_airport": "UUD",
+        "departure_at": "2024-12-24T18:20:00+03:00",
+        "airline": "RT",
+        "price": 39297,
+        "return_transfers": 0,
+        "duration_to": 505,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

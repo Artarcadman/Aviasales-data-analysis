@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-27T11:50:00+10:00",
+        "origin": "USR",
+        "destination": "LED",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T15:10:01Z",
+        "trip_class": 0,
+        "value": 50400,
+        "number_of_changes": 1,
+        "duration": 1495,
+        "distance": 5096,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "418",
+        "link": "/search/USR2712LED1?t=R317353002001735364700001495USRYKSLED_13a654cb5fa2fa73b40a89c159176d12_50400&search_date=23112024&expected_price_uuid=8f8b005f-70fd-40ac-9062-1f2d4d2472a6&expected_price_source=share&expected_price_currency=rub&expected_price=50400",
+        "origin_airport": "USR",
+        "destination_airport": "LED",
+        "departure_at": "2024-12-27T11:50:00+10:00",
+        "airline": "R3",
+        "price": 50400,
+        "return_transfers": 0,
+        "duration_to": 535,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Ust-Nera Airport",
+        "origin_city_code": "USR",
+        "origin_coordinates": {
+            "lat": 64.549446,
+            "lon": 143.11084
+        },
+        "origin_time_zone": "Asia/Ust-Nera",
+        "destination_airport_name": "Pulkovo Airport",
+        "destination_city_code": "LED",
+        "destination_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

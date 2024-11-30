@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-21T15:45:00+03:00",
+        "origin": "MRV",
+        "destination": "NGK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T15:33:35Z",
+        "trip_class": 0,
+        "value": 27183,
+        "number_of_changes": 2,
+        "duration": 3975,
+        "distance": 6886,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "403",
+        "link": "/search/MRV2112NGK1?t=SU17347959001735063200003975MRVDMESVOKHVNGK_d11cf891deec28751d9e8c61197c3adf_26850&search_date=22112024&expected_price_uuid=91b22437-1423-4c74-85bf-710810ef4a00&expected_price_source=share&expected_price_currency=rub&expected_price=27183",
+        "origin_airport": "MRV",
+        "destination_airport": "NGK",
+        "departure_at": "2024-12-21T15:45:00+03:00",
+        "airline": "Y7",
+        "price": 27183,
+        "return_transfers": 0,
+        "duration_to": 790,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Mineralnye Vody Airport",
+        "origin_city_code": "MRV",
+        "origin_coordinates": {
+            "lat": 44.218105,
+            "lon": 43.085815
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nogliki Airport",
+        "destination_city_code": "NGK",
+        "destination_coordinates": {
+            "lat": 51.8,
+            "lon": 143.16667
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    },
+    {
+        "depart_date": "2024-12-01T20:10:00+03:00",
+        "origin": "MRV",
+        "destination": "NGK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T15:33:46Z",
+        "trip_class": 0,
+        "value": 30071,
+        "number_of_changes": 2,
+        "duration": 2270,
+        "distance": 6886,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6916",
+        "link": "/search/MRV0112NGK1?t=SU17330838001733248800002270MRVSVOKHVNGK_4ee1f96f08bbadb1bba8946e74af3ab4_29703&search_date=22112024&expected_price_uuid=5e762d51-10ff-479a-884b-8abf16738502&expected_price_source=share&expected_price_currency=rub&expected_price=30071",
+        "origin_airport": "MRV",
+        "destination_airport": "NGK",
+        "departure_at": "2024-12-01T20:10:00+03:00",
+        "airline": "DP",
+        "price": 30071,
+        "return_transfers": 0,
+        "duration_to": 765,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Mineralnye Vody Airport",
+        "origin_city_code": "MRV",
+        "origin_coordinates": {
+            "lat": 44.218105,
+            "lon": 43.085815
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Nogliki Airport",
+        "destination_city_code": "NGK",
+        "destination_coordinates": {
+            "lat": 51.8,
+            "lon": 143.16667
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T06:30:00+05:00",
+        "origin": "CEK",
+        "destination": "OLZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T07:39:49Z",
+        "trip_class": 0,
+        "value": 39137,
+        "number_of_changes": 2,
+        "duration": 2960,
+        "distance": 3413,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "414",
+        "link": "/search/CEK2711OLZ1?t=DP17326890001732881000002960CEKVKOSVOIKTOLZ_1dd912fb3930399080625a8c4b4e2a0b_38983&search_date=25112024&expected_price_uuid=4728482b-aa3d-435a-a724-b014c25d4702&expected_price_source=share&expected_price_currency=rub&expected_price=39137",
+        "origin_airport": "CEK",
+        "destination_airport": "OLZ",
+        "departure_at": "2024-11-27T06:30:00+05:00",
+        "airline": "DP",
+        "price": 39137,
+        "return_transfers": 0,
+        "duration_to": 730,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chelyabinsk International Airport",
+        "origin_city_code": "CEK",
+        "origin_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Olokminsk Airport",
+        "destination_city_code": "OLZ",
+        "destination_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-29T22:45:00+05:00",
+        "origin": "CEK",
+        "destination": "OLZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T07:39:35Z",
+        "trip_class": 0,
+        "value": 45445,
+        "number_of_changes": 3,
+        "duration": 3725,
+        "distance": 3413,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5030",
+        "link": "/search/CEK2911OLZ1?t=HZ17329203001733158200003725CEKOVBKJAYKSOLZ_130ce6ddff75d83221fca5248810975f_45267&search_date=25112024&expected_price_uuid=b7360384-14ef-4e9a-8964-30613dce1a02&expected_price_source=share&expected_price_currency=rub&expected_price=45445",
+        "origin_airport": "CEK",
+        "destination_airport": "OLZ",
+        "departure_at": "2024-11-29T22:45:00+05:00",
+        "airline": "S7",
+        "price": 45445,
+        "return_transfers": 0,
+        "duration_to": 490,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Chelyabinsk International Airport",
+        "origin_city_code": "CEK",
+        "origin_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Olokminsk Airport",
+        "destination_city_code": "OLZ",
+        "destination_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

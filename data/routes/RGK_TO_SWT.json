@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T11:40:00+07:00",
+        "origin": "RGK",
+        "destination": "SWT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T17:54:30Z",
+        "trip_class": 0,
+        "value": 21878,
+        "number_of_changes": 2,
+        "duration": 2760,
+        "distance": 1092,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "108",
+        "link": "/search/RGK2711SWT1?t=KV17327076001732873200002760RGKKJATOFSWT_10b4cf2a27dcab4cbac12edfcfa83677_21677&search_date=22112024&expected_price_uuid=7d5b282d-e440-4e1e-b4a5-09a840233e03&expected_price_source=share&expected_price_currency=rub&expected_price=21878",
+        "origin_airport": "RGK",
+        "destination_airport": "SWT",
+        "departure_at": "2024-11-27T11:40:00+07:00",
+        "airline": "KV",
+        "price": 21878,
+        "return_transfers": 0,
+        "duration_to": 300,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Gorno-Altaysk Airport",
+        "origin_city_code": "RGK",
+        "origin_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Strezhevoy Airport",
+        "destination_city_code": "SWT",
+        "destination_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "destination_time_zone": "Asia/Novosibirsk"
+    },
+    {
+        "depart_date": "2024-11-26T11:45:00+07:00",
+        "origin": "RGK",
+        "destination": "SWT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T18:02:58Z",
+        "trip_class": 0,
+        "value": 33362,
+        "number_of_changes": 3,
+        "duration": 4195,
+        "distance": 1092,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1525",
+        "link": "/search/RGK2611SWT1?t=SU17326215001732873200004195RGKSVOKZNTOFSWT_0c72a30fd317177dc0a424b512c823f5_33055&search_date=22112024&expected_price_uuid=0b6f72e5-4a45-47a9-b26c-6b24dfd23c03&expected_price_source=share&expected_price_currency=rub&expected_price=33362",
+        "origin_airport": "RGK",
+        "destination_airport": "SWT",
+        "departure_at": "2024-11-26T11:45:00+07:00",
+        "airline": "SU",
+        "price": 33362,
+        "return_transfers": 0,
+        "duration_to": 700,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Gorno-Altaysk Airport",
+        "origin_city_code": "RGK",
+        "origin_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Strezhevoy Airport",
+        "destination_city_code": "SWT",
+        "destination_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "destination_time_zone": "Asia/Novosibirsk"
+    }
+]

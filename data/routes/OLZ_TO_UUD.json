@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-20T12:50:00+09:00",
+        "origin": "OLZ",
+        "destination": "UUD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T00:09:28Z",
+        "trip_class": 0,
+        "value": 32141,
+        "number_of_changes": 2,
+        "duration": 2910,
+        "distance": 1241,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "185",
+        "link": "/search/OLZ2012UUD1?t=HZ17346990001734870000002910OLZYKSKJAUUD_db937eb7eabb1ab49895934cee0ae766_31921&search_date=21112024&expected_price_uuid=2eb87c03-0f54-4fbf-98c6-0d3832849702&expected_price_source=share&expected_price_currency=rub&expected_price=32141",
+        "origin_airport": "OLZ",
+        "destination_airport": "UUD",
+        "departure_at": "2024-12-20T12:50:00+09:00",
+        "airline": "IO",
+        "price": 32141,
+        "return_transfers": 0,
+        "duration_to": 415,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Olokminsk Airport",
+        "origin_city_code": "OLZ",
+        "origin_coordinates": {
+            "lat": 60.399166,
+            "lon": 120.464165
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Ulan-Ude Airport",
+        "destination_city_code": "UUD",
+        "destination_coordinates": {
+            "lat": 51.833332,
+            "lon": 107.5
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

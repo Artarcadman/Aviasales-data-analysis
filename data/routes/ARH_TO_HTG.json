@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T14:50:00+03:00",
+        "origin": "ARH",
+        "destination": "HTG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:59:18Z",
+        "trip_class": 0,
+        "value": 36398,
+        "number_of_changes": 2,
+        "duration": 1215,
+        "distance": 2537,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "216",
+        "link": "/search/ARH2811HTG1?t=DP17328054001732892700001215ARHSVOKJAHTG_60b05eab50b1fe780fd87fe6d79a28e2_36149&search_date=21112024&expected_price_uuid=5ed52eec-f870-4b4b-8522-e16323af0e01&expected_price_source=share&expected_price_currency=rub&expected_price=36398",
+        "origin_airport": "ARH",
+        "destination_airport": "HTG",
+        "departure_at": "2024-11-28T14:50:00+03:00",
+        "airline": "5N",
+        "price": 36398,
+        "return_transfers": 0,
+        "duration_to": 600,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Talagi Airport",
+        "origin_city_code": "ARH",
+        "origin_coordinates": {
+            "lat": 64.594795,
+            "lon": 40.711903
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Hatanga Airport",
+        "destination_city_code": "HTG",
+        "destination_coordinates": {
+            "lat": 71.96667,
+            "lon": 102.5
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

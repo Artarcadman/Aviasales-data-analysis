@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-02-22T15:00:00+03:00",
+        "origin": "USK",
+        "destination": "RGK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T20:33:15Z",
+        "trip_class": 0,
+        "value": 35293,
+        "number_of_changes": 1,
+        "duration": 1380,
+        "distance": 2216,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "596",
+        "link": "/search/USK2202RGK1?t=SU17402364001740333600001380USKVKOSVORGK_21a945decff97382e268488aa7f4d97f_36980&search_date=24112024&expected_price_uuid=0812cc5f-903f-4dc2-a7b7-9328eb81e101&expected_price_source=share&expected_price_currency=rub&expected_price=36926",
+        "origin_airport": "USK",
+        "destination_airport": "RGK",
+        "departure_at": "2025-02-22T15:00:00+03:00",
+        "airline": "UT",
+        "price": 35293,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Usinsk Airport",
+        "origin_city_code": "USK",
+        "origin_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Gorno-Altaysk Airport",
+        "destination_city_code": "RGK",
+        "destination_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "destination_time_zone": "Asia/Novokuznetsk"
+    },
+    {
+        "depart_date": "2025-03-10T15:00:00+03:00",
+        "origin": "USK",
+        "destination": "RGK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T20:34:08Z",
+        "trip_class": 0,
+        "value": 37834,
+        "number_of_changes": 1,
+        "duration": 815,
+        "distance": 2216,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "596",
+        "link": "/search/USK1003RGK1?t=SU17416188001741682100000815USKVKOSVORGK_65c61b9cefdc66c9d7f844b71622d771_37889&search_date=24112024&expected_price_uuid=7c370c0d-9b83-4b5e-9293-faa69fa0f815&expected_price_source=share&expected_price_currency=rub&expected_price=37834",
+        "origin_airport": "USK",
+        "destination_airport": "RGK",
+        "departure_at": "2025-03-10T15:00:00+03:00",
+        "airline": "UT",
+        "price": 37834,
+        "return_transfers": 0,
+        "duration_to": 440,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Usinsk Airport",
+        "origin_city_code": "USK",
+        "origin_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Gorno-Altaysk Airport",
+        "destination_city_code": "RGK",
+        "destination_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "destination_time_zone": "Asia/Novokuznetsk"
+    }
+]

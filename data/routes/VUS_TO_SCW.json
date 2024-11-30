@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-30T13:00:00+03:00",
+        "origin": "VUS",
+        "destination": "SCW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T16:55:39Z",
+        "trip_class": 0,
+        "value": 21454,
+        "number_of_changes": 2,
+        "duration": 2750,
+        "distance": 258,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "116",
+        "link": "/search/VUS3012SCW1?t=SU17355636001735728600002750VUSCEEDMESVOSCW_294f8d3d5b7ef853a4e67d4d0a7606c7_21452&search_date=25112024&expected_price_uuid=d735eda4-a6e2-449a-aede-15ea6255e202&expected_price_source=share&expected_price_currency=rub&expected_price=21454",
+        "origin_airport": "VUS",
+        "destination_airport": "SCW",
+        "departure_at": "2024-12-30T13:00:00+03:00",
+        "airline": "D2",
+        "price": 21454,
+        "return_transfers": 0,
+        "duration_to": 225,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Velikij Ustyug Airport",
+        "origin_city_code": "VUS",
+        "origin_coordinates": {
+            "lat": 60.766666,
+            "lon": 46.316666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Syktyvkar Airport",
+        "destination_city_code": "SCW",
+        "destination_coordinates": {
+            "lat": 61.666668,
+            "lon": 50.766666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

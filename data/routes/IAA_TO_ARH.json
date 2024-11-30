@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T19:30:00+07:00",
+        "origin": "IAA",
+        "destination": "ARH",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T13:06:13Z",
+        "trip_class": 0,
+        "value": 32696,
+        "number_of_changes": 2,
+        "duration": 1360,
+        "distance": 2050,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "178",
+        "link": "/search/IAA2711ARH1?t=DP17327358001732803000001360IAAKJASVOARH_a0ee546b4947a02994b9e9d0e5be8dfa_32292&search_date=22112024&expected_price_uuid=9ffd6f03-5f11-4f62-9193-5d487478fb01&expected_price_source=share&expected_price_currency=rub&expected_price=32696",
+        "origin_airport": "IAA",
+        "destination_airport": "ARH",
+        "departure_at": "2024-11-27T19:30:00+07:00",
+        "airline": "KV",
+        "price": 32696,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Igarka Airport",
+        "origin_city_code": "IAA",
+        "origin_coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Talagi Airport",
+        "destination_city_code": "ARH",
+        "destination_coordinates": {
+            "lat": 64.594795,
+            "lon": 40.711903
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

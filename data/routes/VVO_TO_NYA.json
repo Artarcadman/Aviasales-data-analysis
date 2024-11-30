@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-23T17:00:00+10:00",
+        "origin": "VVO",
+        "destination": "NYA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T15:28:46Z",
+        "trip_class": 0,
+        "value": 25944,
+        "number_of_changes": 4,
+        "duration": 2925,
+        "distance": 4676,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6834",
+        "link": "/search/VVO2312NYA1?t=SU17349732001735130700002925VVOKJASGCHMAEYKNYA_e9704a591ea0e5d8b72226dec2a6b242_25966&search_date=25112024&expected_price_uuid=3dc8bf45-d776-416c-b1ad-1174fd91bf02&expected_price_source=share&expected_price_currency=rub&expected_price=25944",
+        "origin_airport": "VVO",
+        "destination_airport": "NYA",
+        "departure_at": "2024-12-23T17:00:00+10:00",
+        "airline": "FV",
+        "price": 25944,
+        "return_transfers": 0,
+        "duration_to": 620,
+        "duration_back": 0,
+        "transfers": 4,
+        "origin_airport_name": "Vladivostok International Airport",
+        "origin_city_code": "VVO",
+        "origin_coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Nyagan Airport",
+        "destination_city_code": "NYA",
+        "destination_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2025-01-07T07:20:00+10:00",
+        "origin": "VVO",
+        "destination": "NYA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T17:42:25Z",
+        "trip_class": 0,
+        "value": 26150,
+        "number_of_changes": 1,
+        "duration": 795,
+        "distance": 4676,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "572",
+        "link": "/search/VVO0701NYA1?t=U617362344001736264100000795VVOSVXNYA_0d91a1ec689e1ed845a6ea815ddf923f_26303&search_date=24112024&expected_price_uuid=c49a98ad-b761-41fe-9762-89fbb40c4ff0&expected_price_source=share&expected_price_currency=rub&expected_price=26150",
+        "origin_airport": "VVO",
+        "destination_airport": "NYA",
+        "departure_at": "2025-01-07T07:20:00+10:00",
+        "airline": "U6",
+        "price": 26150,
+        "return_transfers": 0,
+        "duration_to": 575,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Vladivostok International Airport",
+        "origin_city_code": "VVO",
+        "origin_coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Nyagan Airport",
+        "destination_city_code": "NYA",
+        "destination_coordinates": {
+            "lat": 62.101074,
+            "lon": 65.60563
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

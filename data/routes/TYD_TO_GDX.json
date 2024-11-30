@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-11T11:35:00+09:00",
+        "origin": "TYD",
+        "destination": "GDX",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T07:32:11Z",
+        "trip_class": 0,
+        "value": 30967,
+        "number_of_changes": 1,
+        "duration": 1490,
+        "distance": 1619,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4612",
+        "link": "/search/TYD1112GDX1?t=SU17339169001734013500001490TYDKHVGDX_7d89904952d60ac6d6c1f0091fd24b54_30845&search_date=25112024&expected_price_uuid=3f49fb5d-11c2-44e4-9289-e0899d2512de&expected_price_source=share&expected_price_currency=rub&expected_price=30967",
+        "origin_airport": "TYD",
+        "destination_airport": "GDX",
+        "departure_at": "2024-12-11T11:35:00+09:00",
+        "airline": "HZ",
+        "price": 30967,
+        "return_transfers": 0,
+        "duration_to": 380,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tynda Airport",
+        "origin_city_code": "TYD",
+        "origin_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    },
+    {
+        "depart_date": "2024-12-18T11:35:00+09:00",
+        "origin": "TYD",
+        "destination": "GDX",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T05:57:51Z",
+        "trip_class": 0,
+        "value": 34487,
+        "number_of_changes": 1,
+        "duration": 1490,
+        "distance": 1619,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4612",
+        "link": "/search/TYD1812GDX1?t=SU17345217001734618300001490TYDKHVGDX_0b69dbbef84ce9978a914cb9103fa6d3_34487&search_date=23112024&expected_price_uuid=3300fc5a-9408-42f0-925a-fc0289d95d98&expected_price_source=share&expected_price_currency=rub&expected_price=34487",
+        "origin_airport": "TYD",
+        "destination_airport": "GDX",
+        "departure_at": "2024-12-18T11:35:00+09:00",
+        "airline": "HZ",
+        "price": 34487,
+        "return_transfers": 0,
+        "duration_to": 380,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tynda Airport",
+        "origin_city_code": "TYD",
+        "origin_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T09:35:00+03:00",
+        "origin": "TBW",
+        "destination": "UUS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T09:14:01Z",
+        "trip_class": 0,
+        "value": 19791,
+        "number_of_changes": 1,
+        "duration": 940,
+        "distance": 6667,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "194",
+        "link": "/search/TBW2711UUS1?t=SU17327001001732785300000940TBWVKOSVOUUS_3a4a4e88390aef6e6da147ba35067419_19744&search_date=25112024&expected_price_uuid=0ff1dcf2-e5ea-4cd5-a0ae-af9a624c7634&expected_price_source=share&expected_price_currency=rub&expected_price=19791",
+        "origin_airport": "TBW",
+        "destination_airport": "UUS",
+        "departure_at": "2024-11-27T09:35:00+03:00",
+        "airline": "7R",
+        "price": 19791,
+        "return_transfers": 0,
+        "duration_to": 565,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tambov Donskoye Airport",
+        "origin_city_code": "TBW",
+        "origin_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yuzhno-Sakhalinsk Airport",
+        "destination_city_code": "UUS",
+        "destination_coordinates": {
+            "lat": 46.966667,
+            "lon": 142.75
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-11-28T10:05:00+03:00",
+        "origin": "TBW",
+        "destination": "UUS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T10:37:18Z",
+        "trip_class": 0,
+        "value": 19921,
+        "number_of_changes": 1,
+        "duration": 910,
+        "distance": 6667,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "194",
+        "link": "/search/TBW2811UUS1?t=SU17327883001732871700000910TBWVKOSVOUUS_e5cee63e0884b49f21a2abdb6a18caba_19968&search_date=25112024&expected_price_uuid=be95f2e8-777d-4a20-b54c-c5e454570e01&expected_price_source=share&expected_price_currency=rub&expected_price=19921",
+        "origin_airport": "TBW",
+        "destination_airport": "UUS",
+        "departure_at": "2024-11-28T10:05:00+03:00",
+        "airline": "7R",
+        "price": 19921,
+        "return_transfers": 0,
+        "duration_to": 565,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tambov Donskoye Airport",
+        "origin_city_code": "TBW",
+        "origin_coordinates": {
+            "lat": 52.716667,
+            "lon": 41.433334
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yuzhno-Sakhalinsk Airport",
+        "destination_city_code": "UUS",
+        "destination_coordinates": {
+            "lat": 46.966667,
+            "lon": 142.75
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

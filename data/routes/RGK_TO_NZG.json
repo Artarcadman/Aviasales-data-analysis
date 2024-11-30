@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-14T14:50:00+07:00",
+        "origin": "RGK",
+        "destination": "NZG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T10:31:06Z",
+        "trip_class": 0,
+        "value": 17958,
+        "number_of_changes": 2,
+        "duration": 1300,
+        "distance": 1605,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5372",
+        "link": "/search/RGK1412NZG1?t=KV17341878001734269400001300RGKOVBKJANZG_b221e9f3ef9363e1e6122217409dc759_17977&search_date=25112024&expected_price_uuid=810f9f66-0a8d-4341-9294-99cb0aa9a701&expected_price_source=share&expected_price_currency=rub&expected_price=17958",
+        "origin_airport": "RGK",
+        "destination_airport": "NZG",
+        "departure_at": "2024-12-14T14:50:00+07:00",
+        "airline": "S7",
+        "price": 17958,
+        "return_transfers": 0,
+        "duration_to": 335,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Gorno-Altaysk Airport",
+        "origin_city_code": "RGK",
+        "origin_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-13T14:50:00+07:00",
+        "origin": "RGK",
+        "destination": "NZG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:56:38Z",
+        "trip_class": 0,
+        "value": 18097,
+        "number_of_changes": 2,
+        "duration": 2740,
+        "distance": 1605,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5372",
+        "link": "/search/RGK1312NZG1?t=KV17341014001734269400002740RGKOVBKJANZG_c56d7e465c06a8e9021abbc214361876_18090&search_date=25112024&expected_price_uuid=f455e86b-1841-4871-bfd7-372171636c02&expected_price_source=share&expected_price_currency=rub&expected_price=18097",
+        "origin_airport": "RGK",
+        "destination_airport": "NZG",
+        "departure_at": "2024-12-13T14:50:00+07:00",
+        "airline": "S7",
+        "price": 18097,
+        "return_transfers": 0,
+        "duration_to": 335,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Gorno-Altaysk Airport",
+        "origin_city_code": "RGK",
+        "origin_coordinates": {
+            "lat": 51.969166,
+            "lon": 85.83639
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

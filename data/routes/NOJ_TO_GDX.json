@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-14T16:40:00+05:00",
+        "origin": "NOJ",
+        "destination": "GDX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:27:15Z",
+        "trip_class": 0,
+        "value": 26125,
+        "number_of_changes": 1,
+        "duration": 2200,
+        "distance": 3779,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "456",
+        "link": "/search/NOJ1412GDX1?t=SU17341944001734348000002200NOJVKOSVOGDX_ea7fa5a3c62b621f2f699fc15d39dd51_25984&search_date=21112024&expected_price_uuid=befedf98-4c99-41fd-a386-4401ce815b01&expected_price_source=share&expected_price_currency=rub&expected_price=26125",
+        "origin_airport": "NOJ",
+        "destination_airport": "GDX",
+        "departure_at": "2024-12-14T16:40:00+05:00",
+        "airline": "UT",
+        "price": 26125,
+        "return_transfers": 0,
+        "duration_to": 665,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nojabrxsk Airport",
+        "origin_city_code": "NOJ",
+        "origin_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    },
+    {
+        "depart_date": "2024-12-13T09:40:00+05:00",
+        "origin": "NOJ",
+        "destination": "GDX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:33:39Z",
+        "trip_class": 0,
+        "value": 31156,
+        "number_of_changes": 2,
+        "duration": 4060,
+        "distance": 3779,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "250",
+        "link": "/search/NOJ1312GDX1?t=SU17340828001734348000004060NOJSVXSVOGDX_a24a929160a9002aa820dc9bc42b21de_30943&search_date=21112024&expected_price_uuid=b8a9bd16-58de-4451-8947-26b5c00f4500&expected_price_source=share&expected_price_currency=rub&expected_price=31156",
+        "origin_airport": "NOJ",
+        "destination_airport": "GDX",
+        "departure_at": "2024-12-13T09:40:00+05:00",
+        "airline": "YC",
+        "price": 31156,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Nojabrxsk Airport",
+        "origin_city_code": "NOJ",
+        "origin_coordinates": {
+            "lat": 63.17673,
+            "lon": 75.29459
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    }
+]

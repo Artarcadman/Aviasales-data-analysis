@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-06T19:10:00+07:00",
+        "origin": "GOY",
+        "destination": "TOF",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T08:24:21Z",
+        "trip_class": 0,
+        "value": 18730,
+        "number_of_changes": 1,
+        "duration": 705,
+        "distance": 1210,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "156",
+        "link": "/search/GOY0612TOF1?t=KV17335122001733554500000705GOYKJATOF_8a759f41450521f17b5a692474e9eaec_18190&search_date=22112024&expected_price_uuid=89f42ad2-bb5e-488b-9ba0-10cce1e05804&expected_price_source=share&expected_price_currency=rub&expected_price=18730",
+        "origin_airport": "GOY",
+        "destination_airport": "TOF",
+        "departure_at": "2024-12-06T19:10:00+07:00",
+        "airline": "KV",
+        "price": 18730,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Gornyj",
+        "origin_city_code": "GOY",
+        "origin_coordinates": {
+            "lat": 64.333336,
+            "lon": 100.433334
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Tomsk Airport",
+        "destination_city_code": "TOF",
+        "destination_coordinates": {
+            "lat": 56.5,
+            "lon": 84.96667
+        },
+        "destination_time_zone": "Asia/Tomsk"
+    }
+]

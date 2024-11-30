@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-30T14:40:00+03:00",
+        "origin": "KLF",
+        "destination": "GDX",
+        "gate": "SuperKassa",
+        "return_date": "",
+        "found_at": "2024-11-24T15:23:55Z",
+        "trip_class": 0,
+        "value": 22519,
+        "number_of_changes": 2,
+        "duration": 2200,
+        "distance": 6026,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6003",
+        "link": "/search/KLF3011GDX1?t=SU17329776001733138400002200KLFLEDVKOSVOGDX_85a47f5ad2e8909bcdf4b1c29022d05e_22650&search_date=24112024&expected_price_uuid=1e348775-fba3-487c-a5b3-b30155033600&expected_price_source=share&expected_price_currency=rub&expected_price=22519",
+        "origin_airport": "KLF",
+        "destination_airport": "GDX",
+        "departure_at": "2024-11-30T14:40:00+03:00",
+        "airline": "A4",
+        "price": 22519,
+        "return_transfers": 0,
+        "duration_to": 625,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Grabtsevo Airport",
+        "origin_city_code": "KLF",
+        "origin_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    },
+    {
+        "depart_date": "2024-11-27T22:15:00+03:00",
+        "origin": "KLF",
+        "destination": "GDX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T13:35:16Z",
+        "trip_class": 0,
+        "value": 25830,
+        "number_of_changes": 2,
+        "duration": 3530,
+        "distance": 6026,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "646",
+        "link": "/search/KLF2711GDX1?t=SU17327457001732986300003530KLFKZNKJAGDX_0c827b4ca24f043744695a4ba3194d79_25981&search_date=24112024&expected_price_uuid=a34c672f-dc0f-4a14-b35f-9b7ca6853401&expected_price_source=share&expected_price_currency=rub&expected_price=25830",
+        "origin_airport": "KLF",
+        "destination_airport": "GDX",
+        "departure_at": "2024-11-27T22:15:00+03:00",
+        "airline": "RT",
+        "price": 25830,
+        "return_transfers": 0,
+        "duration_to": 590,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Grabtsevo Airport",
+        "origin_city_code": "KLF",
+        "origin_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magadan Airport",
+        "destination_city_code": "GDX",
+        "destination_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "destination_time_zone": "Asia/Magadan"
+    }
+]

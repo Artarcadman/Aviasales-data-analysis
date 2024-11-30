@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-28T10:40:00+03:00",
+        "origin": "NNM",
+        "destination": "EYK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T14:49:41Z",
+        "trip_class": 0,
+        "value": 30099,
+        "number_of_changes": 2,
+        "duration": 4150,
+        "distance": 756,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "188",
+        "link": "/search/NNM2812EYK1?t=UT17353824001735638600004150NNMZIAVKOSGCEYK_c8749b612af7f79a7273d45131058d08_30013&search_date=21112024&expected_price_uuid=739f4627-9c0a-4ac5-923d-b310d8367503&expected_price_source=share&expected_price_currency=rub&expected_price=30099",
+        "origin_airport": "NNM",
+        "destination_airport": "EYK",
+        "departure_at": "2024-12-28T10:40:00+03:00",
+        "airline": "7R",
+        "price": 30099,
+        "return_transfers": 0,
+        "duration_to": 450,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Naryan-Mar Airport",
+        "origin_city_code": "NNM",
+        "origin_coordinates": {
+            "lat": 67.61667,
+            "lon": 53.15
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Beloyarsky Airport",
+        "destination_city_code": "EYK",
+        "destination_coordinates": {
+            "lat": 63.696682,
+            "lon": 66.70121
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

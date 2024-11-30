@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T16:50:00+12:00",
+        "origin": "DYR",
+        "destination": "PWE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T11:30:28Z",
+        "trip_class": 0,
+        "value": 54109,
+        "number_of_changes": 2,
+        "duration": 4090,
+        "distance": 639,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "2106",
+        "link": "/search/DYR0212PWE1?t=HZ17331582001733403600004090DYRKHVYKSPWE_49cc58991b1b7274beb801f7550daa62_54150&search_date=25112024&expected_price_uuid=44440472-a899-4aec-8f56-5b4ab4a71900&expected_price_source=share&expected_price_currency=rub&expected_price=54109",
+        "origin_airport": "DYR",
+        "destination_airport": "PWE",
+        "departure_at": "2024-12-02T16:50:00+12:00",
+        "airline": "HZ",
+        "price": 54109,
+        "return_transfers": 0,
+        "duration_to": 600,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Anadyr Airport",
+        "origin_city_code": "DYR",
+        "origin_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Pevek Airport",
+        "destination_city_code": "PWE",
+        "destination_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "destination_time_zone": "Asia/Anadyr"
+    }
+]

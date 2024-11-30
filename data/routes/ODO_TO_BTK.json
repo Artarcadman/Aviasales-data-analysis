@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-27T16:00:00+08:00",
+        "origin": "ODO",
+        "destination": "BTK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T13:41:40Z",
+        "trip_class": 0,
+        "value": 32324,
+        "number_of_changes": 1,
+        "duration": 1465,
+        "distance": 767,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "142",
+        "link": "/search/ODO2711BTK1?t=IO17327232001732811100001465ODOIKTBTK_8d74fc7234aeba4d6a913fb6ca195aab_32291&search_date=19112024&expected_price_uuid=938f58ed-e1a0-4453-9dff-3332e37c0d00&expected_price_source=share&expected_price_currency=rub&expected_price=32324",
+        "origin_airport": "ODO",
+        "destination_airport": "BTK",
+        "departure_at": "2024-11-27T16:00:00+08:00",
+        "airline": "IO",
+        "price": 32324,
+        "return_transfers": 0,
+        "duration_to": 220,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bodaybo Airport",
+        "origin_city_code": "ODO",
+        "origin_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Bratsk Airport",
+        "destination_city_code": "BTK",
+        "destination_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-25T07:40:00+09:00",
+        "origin": "YKS",
+        "destination": "TYD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T10:28:51Z",
+        "trip_class": 0,
+        "value": 40257,
+        "number_of_changes": 2,
+        "duration": 3070,
+        "distance": 809,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "491",
+        "link": "/search/YKS2512TYD1?t=SU17351124001735296600003070YKSVVOKHVTYD_9f499f0a7b9663ed587d2c1e424cf609_40241&search_date=25112024&expected_price_uuid=56ef9bb4-3165-4a73-8256-1fbbcbcb7700&expected_price_source=share&expected_price_currency=rub&expected_price=40257",
+        "origin_airport": "YKS",
+        "destination_airport": "TYD",
+        "departure_at": "2024-12-25T07:40:00+09:00",
+        "airline": "R3",
+        "price": 40257,
+        "return_transfers": 0,
+        "duration_to": 560,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tynda Airport",
+        "destination_city_code": "TYD",
+        "destination_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

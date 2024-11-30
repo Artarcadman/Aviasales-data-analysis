@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-01T23:10:00+03:00",
+        "origin": "KZN",
+        "destination": "IAA",
+        "gate": "Agent.ru",
+        "return_date": "",
+        "found_at": "2024-11-24T07:41:48Z",
+        "trip_class": 0,
+        "value": 27900,
+        "number_of_changes": 1,
+        "duration": 880,
+        "distance": 2321,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "739",
+        "link": "/search/KZN0112IAA1?t=N417330946001733161800000880KZNKJAIAA_52651f6fde21635700f79fa0ed1aee57_28063&search_date=24112024&expected_price_uuid=b642e59e-4689-484e-a41e-67748adba002&expected_price_source=share&expected_price_currency=rub&expected_price=27900",
+        "origin_airport": "KZN",
+        "destination_airport": "IAA",
+        "departure_at": "2024-12-01T23:10:00+03:00",
+        "airline": "N4",
+        "price": 27900,
+        "return_transfers": 0,
+        "duration_to": 380,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kazan International Airport",
+        "origin_city_code": "KZN",
+        "origin_coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Igarka Airport",
+        "destination_city_code": "IAA",
+        "destination_coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

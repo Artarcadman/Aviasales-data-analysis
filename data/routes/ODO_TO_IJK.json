@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2025-01-08T16:00:00+08:00",
+        "origin": "ODO",
+        "destination": "IJK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T12:32:29Z",
+        "trip_class": 0,
+        "value": 27547,
+        "number_of_changes": 1,
+        "duration": 2500,
+        "distance": 3523,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "142",
+        "link": "/search/ODO0801IJK1?t=I817363520001736487600002500ODOIKTIJK_4d34f9bb8c3441269a75645bb78b3275_28651&search_date=23112024&expected_price_uuid=1ffcd6dd-ee44-4dd5-89bd-8af86ec1e402&expected_price_source=share&expected_price_currency=rub&expected_price=28651",
+        "origin_airport": "ODO",
+        "destination_airport": "IJK",
+        "departure_at": "2025-01-08T16:00:00+08:00",
+        "airline": "IO",
+        "price": 27547,
+        "return_transfers": 0,
+        "duration_to": 415,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bodaybo Airport",
+        "origin_city_code": "ODO",
+        "origin_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Izhevsk Airport",
+        "destination_city_code": "IJK",
+        "destination_coordinates": {
+            "lat": 56.833332,
+            "lon": 53.466667
+        },
+        "destination_time_zone": "Europe/Samara"
+    },
+    {
+        "depart_date": "2025-01-09T16:00:00+08:00",
+        "origin": "ODO",
+        "destination": "IJK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T12:31:49Z",
+        "trip_class": 0,
+        "value": 27547,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 3523,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 27547,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Bodaybo Airport",
+        "origin_city_code": "ODO",
+        "origin_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Izhevsk Airport",
+        "destination_city_code": "IJK",
+        "destination_coordinates": {
+            "lat": 56.833332,
+            "lon": 53.466667
+        },
+        "destination_time_zone": "Europe/Samara"
+    }
+]

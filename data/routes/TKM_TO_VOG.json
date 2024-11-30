@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-22T14:30:00+08:00",
+        "origin": "TKM",
+        "destination": "VOG",
+        "gate": "SuperKassa.ru",
+        "return_date": "",
+        "found_at": "2024-11-25T02:29:41Z",
+        "trip_class": 0,
+        "value": 29100,
+        "number_of_changes": 3,
+        "duration": 1970,
+        "distance": 4626,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "214",
+        "link": "/search/TKM2212VOG1?t=KV17348778001734978000001970TKMKCYKJAKEJSVXVOG_5f93bb0cceb4c9fac7c8db17b1a7c814_29006&search_date=25112024&expected_price_uuid=c4dad0e9-0a0b-4211-9f91-ec9d83ed1a00&expected_price_source=share&expected_price_currency=rub&expected_price=29100",
+        "origin_airport": "TKM",
+        "destination_airport": "VOG",
+        "departure_at": "2024-12-22T14:30:00+08:00",
+        "airline": "KV",
+        "price": 29100,
+        "return_transfers": 0,
+        "duration_to": 675,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Taksimo",
+        "origin_city_code": "TKM",
+        "origin_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Volgograd International Airport",
+        "destination_city_code": "VOG",
+        "destination_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-27T13:30:00+08:00",
+        "origin": "TKM",
+        "destination": "VOG",
+        "gate": "SuperKassa.ru",
+        "return_date": "",
+        "found_at": "2024-11-23T07:13:17Z",
+        "trip_class": 0,
+        "value": 58361,
+        "number_of_changes": 2,
+        "duration": 2160,
+        "distance": 4626,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "74",
+        "link": "/search/TKM2712VOG1?t=U617353062001735417800002160TKMIKTDMESVOVOG_dc486da3123869aae49d0f82883913b6_58361&search_date=23112024&expected_price_uuid=02c900ac-8355-4f0f-a7b0-19ddec853f01&expected_price_source=share&expected_price_currency=rub&expected_price=58361",
+        "origin_airport": "TKM",
+        "destination_airport": "VOG",
+        "departure_at": "2024-12-27T13:30:00+08:00",
+        "airline": "ИК",
+        "price": 58361,
+        "return_transfers": 0,
+        "duration_to": 620,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Taksimo",
+        "origin_city_code": "TKM",
+        "origin_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Volgograd International Airport",
+        "destination_city_code": "VOG",
+        "destination_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

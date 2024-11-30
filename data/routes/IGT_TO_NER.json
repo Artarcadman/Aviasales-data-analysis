@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-11T11:00:00+03:00",
+        "origin": "IGT",
+        "destination": "NER",
+        "gate": "Мой Агент",
+        "return_date": "",
+        "found_at": "2024-11-25T12:14:56Z",
+        "trip_class": 0,
+        "value": 24768,
+        "number_of_changes": 1,
+        "duration": 1020,
+        "distance": 5538,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6904",
+        "link": "/search/IGT1112NER1?t=S717339148001733997600001020IGTSVODMENER_e96c6fb760a364491493e46363588b56_24766&search_date=25112024&expected_price_uuid=c8ac96cb-06e5-4173-b67f-54b01947c103&expected_price_source=share&expected_price_currency=rub&expected_price=24768",
+        "origin_airport": "IGT",
+        "destination_airport": "NER",
+        "departure_at": "2024-12-11T11:00:00+03:00",
+        "airline": "DP",
+        "price": 24768,
+        "return_transfers": 0,
+        "duration_to": 590,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Magas Airport",
+        "origin_city_code": "IGT",
+        "origin_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Neryungri Airport",
+        "destination_city_code": "NER",
+        "destination_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

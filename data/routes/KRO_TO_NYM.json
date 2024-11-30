@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T07:00:00+05:00",
+        "origin": "KRO",
+        "destination": "NYM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T02:24:10Z",
+        "trip_class": 0,
+        "value": 23868,
+        "number_of_changes": 1,
+        "duration": 1505,
+        "distance": 1187,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1092",
+        "link": "/search/KRO2811NYM1?t=YC17327772001732867500001505KRODMENYM_25aaf7bb23abc5e0ac8a4b0ed3da492b_23868&search_date=23112024&expected_price_uuid=6cf7916c-3a85-455a-8f94-e37ced8ea45e&expected_price_source=share&expected_price_currency=rub&expected_price=23868",
+        "origin_airport": "KRO",
+        "destination_airport": "NYM",
+        "departure_at": "2024-11-28T07:00:00+05:00",
+        "airline": "Y7",
+        "price": 23868,
+        "return_transfers": 0,
+        "duration_to": 355,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-29T07:00:00+05:00",
+        "origin": "KRO",
+        "destination": "NYM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T04:20:02Z",
+        "trip_class": 0,
+        "value": 24509,
+        "number_of_changes": 1,
+        "duration": 1520,
+        "distance": 1187,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1092",
+        "link": "/search/KRO2911NYM1?t=Y717328636001732954800001520KRODMENYM_ba09e10bc942b51183fec141600e8799_24503&search_date=20112024&expected_price_uuid=4b9d322a-8ded-46e4-9d63-bdc40ec8a100&expected_price_source=share&expected_price_currency=rub&expected_price=24509",
+        "origin_airport": "KRO",
+        "destination_airport": "NYM",
+        "departure_at": "2024-11-29T07:00:00+05:00",
+        "airline": "Y7",
+        "price": 24509,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nadym Airport",
+        "destination_city_code": "NYM",
+        "destination_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

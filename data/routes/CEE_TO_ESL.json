@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-09T07:50:00+03:00",
+        "origin": "CEE",
+        "destination": "ESL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T15:03:11Z",
+        "trip_class": 0,
+        "value": 15195,
+        "number_of_changes": 1,
+        "duration": 420,
+        "distance": 1495,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "151",
+        "link": "/search/CEE0912ESL1?t=SU17337306001733755800000420CEESVOESL_7b75e0a9526140f5d5dc8ed469efe7ed_15210&search_date=20112024&expected_price_uuid=9cf633ea-10cb-44ec-9e45-20e4ae77ed00&expected_price_source=share&expected_price_currency=rub&expected_price=15195",
+        "origin_airport": "CEE",
+        "destination_airport": "ESL",
+        "departure_at": "2024-12-09T07:50:00+03:00",
+        "airline": "D2",
+        "price": 15195,
+        "return_transfers": 0,
+        "duration_to": 270,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Cherepovets Airport",
+        "origin_city_code": "CEE",
+        "origin_coordinates": {
+            "lat": 59.283333,
+            "lon": 38.066666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-20T19:50:00+03:00",
+        "origin": "CEE",
+        "destination": "ESL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T15:02:58Z",
+        "trip_class": 0,
+        "value": 20596,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 1495,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 20596,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Cherepovets Airport",
+        "origin_city_code": "CEE",
+        "origin_coordinates": {
+            "lat": 59.283333,
+            "lon": 38.066666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

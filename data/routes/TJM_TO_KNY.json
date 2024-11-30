@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2025-01-02T10:10:00+05:00",
+        "origin": "TJM",
+        "destination": "KNY",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T19:40:59Z",
+        "trip_class": 0,
+        "value": 13927,
+        "number_of_changes": 1,
+        "duration": 1330,
+        "distance": 1981,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6906",
+        "link": "/search/TJM0201KNY1?t=SU17358126001735899600001330TJMKJAKNY_0ca2f1476fde8d66593b19d84bcc1705_13933&search_date=22112024&expected_price_uuid=3b56a17a-f871-44b2-9220-e1c41b27f67d&expected_price_source=share&expected_price_currency=rub&expected_price=13927",
+        "origin_airport": "TJM",
+        "destination_airport": "KNY",
+        "departure_at": "2025-01-02T10:10:00+05:00",
+        "airline": "SU",
+        "price": 13927,
+        "return_transfers": 0,
+        "duration_to": 250,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Roshchino International Airport",
+        "origin_city_code": "TJM",
+        "origin_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kodinsk",
+        "destination_city_code": "KNY",
+        "destination_coordinates": {
+            "lat": 58.48,
+            "lon": 99.095
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

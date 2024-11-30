@@ -1,0 +1,35 @@
+[
+    {
+        "depart_date": "2024-11-24T15:50:00+03:00",
+        "origin": "ESL",
+        "destination": "MCX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T05:55:11Z",
+        "trip_class": 0,
+        "value": 12492,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 473,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 12492,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Elista Airport",
+        "origin_city_code": "ESL",
+        "origin_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Makhachkala Airport",
+        "destination_city_code": "MCX",
+        "destination_coordinates": {
+            "lat": 42.82095,
+            "lon": 47.65611
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

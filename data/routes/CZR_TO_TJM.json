@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-30T12:10:00+09:00",
+        "origin": "CZR",
+        "destination": "TJM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T08:48:00Z",
+        "trip_class": 0,
+        "value": 48341,
+        "number_of_changes": 2,
+        "duration": 3880,
+        "distance": 3119,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "192",
+        "link": "/search/CZR3012TJM1?t=N417355606001735779000003880CZRIKTKZNTJM_fc6610f420b3c426aa0611f3802ccc44_48160&search_date=25112024&expected_price_uuid=b6f247f7-f7b4-46b0-bd56-102f40567a02&expected_price_source=share&expected_price_currency=rub&expected_price=48341",
+        "origin_airport": "CZR",
+        "destination_airport": "TJM",
+        "departure_at": "2024-12-30T12:10:00+09:00",
+        "airline": "ИК",
+        "price": 48341,
+        "return_transfers": 0,
+        "duration_to": 665,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chara",
+        "origin_city_code": "CZR",
+        "origin_coordinates": {
+            "lat": 56.914722,
+            "lon": 118.270836
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-18T11:15:00+09:00",
+        "origin": "CZR",
+        "destination": "TJM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T00:17:10Z",
+        "trip_class": 0,
+        "value": 51230,
+        "number_of_changes": 2,
+        "duration": 2985,
+        "distance": 3119,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "184",
+        "link": "/search/CZR1812TJM1?t=IO17345205001734685200002985CZRIKTKJATJM_758d11c5cc4896a00b7b67ae46e68efb_51088&search_date=25112024&expected_price_uuid=c1c9042b-f383-4993-935f-428cf0290500&expected_price_source=share&expected_price_currency=rub&expected_price=51230",
+        "origin_airport": "CZR",
+        "destination_airport": "TJM",
+        "departure_at": "2024-12-18T11:15:00+09:00",
+        "airline": "IO",
+        "price": 51230,
+        "return_transfers": 0,
+        "duration_to": 485,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Chara",
+        "origin_city_code": "CZR",
+        "origin_coordinates": {
+            "lat": 56.914722,
+            "lon": 118.270836
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

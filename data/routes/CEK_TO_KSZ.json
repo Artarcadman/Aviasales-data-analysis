@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T08:00:00+05:00",
+        "origin": "CEK",
+        "destination": "KSZ",
+        "gate": "Agent.ru",
+        "return_date": "",
+        "found_at": "2024-11-20T17:45:49Z",
+        "trip_class": 0,
+        "value": 13035,
+        "number_of_changes": 1,
+        "duration": 520,
+        "distance": 1084,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "528",
+        "link": "/search/CEK2511KSZ1?t=5N17325216001732545600000520CEKLEDKSZ_f1df2261b174c872164d89abf02576bd_13035&search_date=20112024&expected_price_uuid=a1eaac22-94bd-4be9-a498-0f4cfbe4d500&expected_price_source=share&expected_price_currency=rub&expected_price=13035",
+        "origin_airport": "CEK",
+        "destination_airport": "KSZ",
+        "departure_at": "2024-11-25T08:00:00+05:00",
+        "airline": "5N",
+        "price": 13035,
+        "return_transfers": 0,
+        "duration_to": 285,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Chelyabinsk International Airport",
+        "origin_city_code": "CEK",
+        "origin_coordinates": {
+            "lat": 55.297504,
+            "lon": 61.51235
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kotlas Airport",
+        "destination_city_code": "KSZ",
+        "destination_coordinates": {
+            "lat": 61.233334,
+            "lon": 46.7
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

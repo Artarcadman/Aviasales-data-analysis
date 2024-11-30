@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-20T17:00:00+05:00",
+        "origin": "EZV",
+        "destination": "OMS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T16:14:51Z",
+        "trip_class": 0,
+        "value": 8625,
+        "number_of_changes": 1,
+        "duration": 1110,
+        "distance": 1099,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "238",
+        "link": "/search/EZV2012OMS1?t=UT17347140001734784200001110EZVHMAOMS_c636430efa29781ff8a9343b5fe6122d_8625&search_date=23112024&expected_price_uuid=48b7b7ea-9d4e-4053-9468-760cf1e188f0&expected_price_source=share&expected_price_currency=rub&expected_price=8625",
+        "origin_airport": "EZV",
+        "destination_airport": "OMS",
+        "departure_at": "2024-12-20T17:00:00+05:00",
+        "airline": "UT",
+        "price": 8625,
+        "return_transfers": 0,
+        "duration_to": 190,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Berezovo",
+        "origin_city_code": "EZV",
+        "origin_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Omsk Airport",
+        "destination_city_code": "OMS",
+        "destination_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "destination_time_zone": "Asia/Omsk"
+    },
+    {
+        "depart_date": "2024-12-06T17:00:00+05:00",
+        "origin": "EZV",
+        "destination": "OMS",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T11:01:14Z",
+        "trip_class": 0,
+        "value": 8729,
+        "number_of_changes": 1,
+        "duration": 1110,
+        "distance": 1099,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "238",
+        "link": "/search/EZV0612OMS1?t=UT17335044001733574600001110EZVHMAOMS_078d209c40388762c3c56fff8415edc8_8725&search_date=25112024&expected_price_uuid=9eb63561-9c14-44ad-a504-b88b59a6ae70&expected_price_source=share&expected_price_currency=rub&expected_price=8729",
+        "origin_airport": "EZV",
+        "destination_airport": "OMS",
+        "departure_at": "2024-12-06T17:00:00+05:00",
+        "airline": "UT",
+        "price": 8729,
+        "return_transfers": 0,
+        "duration_to": 190,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Berezovo",
+        "origin_city_code": "EZV",
+        "origin_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Omsk Airport",
+        "destination_city_code": "OMS",
+        "destination_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "destination_time_zone": "Asia/Omsk"
+    }
+]

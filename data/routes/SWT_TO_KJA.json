@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-13T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "KJA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T21:53:52Z",
+        "trip_class": 0,
+        "value": 12220,
+        "number_of_changes": 1,
+        "duration": 265,
+        "distance": 1019,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT1312KJA1?t=KV17340858001734101700000265SWTTOFKJA_9d9fc478d4e6933b36f0a89dfa241d21_12225&search_date=22112024&expected_price_uuid=f0357072-e3c0-4f39-b5f8-c6df6d72c63c&expected_price_source=share&expected_price_currency=rub&expected_price=12220",
+        "origin_airport": "SWT",
+        "destination_airport": "KJA",
+        "departure_at": "2024-12-13T10:30:00+07:00",
+        "airline": "KV",
+        "price": 12220,
+        "return_transfers": 0,
+        "duration_to": 205,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Krasnoyarsk International Airport",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-20T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "KJA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T02:02:24Z",
+        "trip_class": 0,
+        "value": 13346,
+        "number_of_changes": 1,
+        "duration": 265,
+        "distance": 1019,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT2012KJA1?t=KV17346906001734706500000265SWTTOFKJA_0f826dcf4892755a71674c415ae5e695_12961&search_date=22112024&expected_price_uuid=2baeea62-cfdf-4018-8602-15cd409c3300&expected_price_source=share&expected_price_currency=rub&expected_price=13346",
+        "origin_airport": "SWT",
+        "destination_airport": "KJA",
+        "departure_at": "2024-12-20T10:30:00+07:00",
+        "airline": "KV",
+        "price": 13346,
+        "return_transfers": 0,
+        "duration_to": 205,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Krasnoyarsk International Airport",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.18113,
+            "lon": 92.48286
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

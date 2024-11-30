@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-03T18:50:00+11:00",
+        "origin": "NGK",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T23:49:50Z",
+        "trip_class": 0,
+        "value": 50779,
+        "number_of_changes": 4,
+        "duration": 1535,
+        "distance": 6239,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4600",
+        "link": "/search/NGK0312ZIA1?t=U617332518001733315100001535NGKKHVIKTSVXKUFZIA_96f99da0b1e7984cccfbb6e6875d8444_50779&search_date=23112024&expected_price_uuid=3dd1504c-fe1f-4e75-b687-910798396e02&expected_price_source=share&expected_price_currency=rub&expected_price=50779",
+        "origin_airport": "NGK",
+        "destination_airport": "ZIA",
+        "departure_at": "2024-12-03T18:50:00+11:00",
+        "airline": "HZ",
+        "price": 50779,
+        "return_transfers": 0,
+        "duration_to": 815,
+        "duration_back": 0,
+        "transfers": 4,
+        "origin_airport_name": "Nogliki Airport",
+        "origin_city_code": "NGK",
+        "origin_coordinates": {
+            "lat": 51.8,
+            "lon": 143.16667
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Zhukovsky International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

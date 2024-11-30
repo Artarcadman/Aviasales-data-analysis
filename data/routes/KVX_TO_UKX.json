@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T22:00:00+03:00",
+        "origin": "KVX",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T08:31:34Z",
+        "trip_class": 0,
+        "value": 24848,
+        "number_of_changes": 2,
+        "duration": 3380,
+        "distance": 3258,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6820",
+        "link": "/search/KVX2511UKX1?t=DP17325720001732792800003380KVXSVOIKTUKX_4234f908d9a697cc835fd61ea4e3de50_24753&search_date=25112024&expected_price_uuid=ac57ed3a-baab-436a-ae4d-9f46760d9d02&expected_price_source=share&expected_price_currency=rub&expected_price=24847",
+        "origin_airport": "KVX",
+        "destination_airport": "UKX",
+        "departure_at": "2024-11-25T22:00:00+03:00",
+        "airline": "DP",
+        "price": 24848,
+        "return_transfers": 0,
+        "duration_to": 545,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kirov Airport",
+        "origin_city_code": "KVX",
+        "origin_coordinates": {
+            "lat": 58.5,
+            "lon": 49.35
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

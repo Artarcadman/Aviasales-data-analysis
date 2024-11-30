@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T12:05:00+03:00",
+        "origin": "PEZ",
+        "destination": "HTG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T10:01:37Z",
+        "trip_class": 0,
+        "value": 42233,
+        "number_of_changes": 2,
+        "duration": 1380,
+        "distance": 3405,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1545",
+        "link": "/search/PEZ2811HTG1?t=DP17327955001732892700001380PEZSVOKJAHTG_2d620bd15e2b3eec4d41ea0bb804391c_41944&search_date=21112024&expected_price_uuid=fbf5b78b-a228-4bfe-ae18-978210938b01&expected_price_source=share&expected_price_currency=rub&expected_price=42233",
+        "origin_airport": "PEZ",
+        "destination_airport": "HTG",
+        "departure_at": "2024-11-28T12:05:00+03:00",
+        "airline": "SU",
+        "price": 42233,
+        "return_transfers": 0,
+        "duration_to": 575,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Penza Airport",
+        "origin_city_code": "PEZ",
+        "origin_coordinates": {
+            "lat": 53.11852,
+            "lon": 45.02305
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Hatanga Airport",
+        "destination_city_code": "HTG",
+        "destination_coordinates": {
+            "lat": 71.96667,
+            "lon": 102.5
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

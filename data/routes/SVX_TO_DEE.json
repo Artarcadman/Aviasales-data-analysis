@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-24T19:00:00+05:00",
+        "origin": "SVX",
+        "destination": "DEE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T10:36:43Z",
+        "trip_class": 0,
+        "value": 33899,
+        "number_of_changes": 2,
+        "duration": 3550,
+        "distance": 5781,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "266",
+        "link": "/search/SVX2411DEE1?t=SU17324748001732709400003550SVXDMESVOUUSDEE_caa36602640edcaf52b6503589713246_34097&search_date=24112024&expected_price_uuid=3bd9db21-11ca-406c-be68-c427cded4002&expected_price_source=share&expected_price_currency=rub&expected_price=33899",
+        "origin_airport": "SVX",
+        "destination_airport": "DEE",
+        "departure_at": "2024-11-24T19:00:00+05:00",
+        "airline": "U6",
+        "price": 33899,
+        "return_transfers": 0,
+        "duration_to": 720,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Koltsovo International Airport",
+        "origin_city_code": "SVX",
+        "origin_coordinates": {
+            "lat": 56.750336,
+            "lon": 60.804314
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Mendeleyevo Airport",
+        "destination_city_code": "DEE",
+        "destination_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    },
+    {
+        "depart_date": "2024-12-01T18:25:00+05:00",
+        "origin": "SVX",
+        "destination": "DEE",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-19T18:13:45Z",
+        "trip_class": 0,
+        "value": 51265,
+        "number_of_changes": 2,
+        "duration": 2215,
+        "distance": 5781,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1403",
+        "link": "/search/SVX0112DEE1?t=SU17330775001733232000002215SVXSVOUUSDEE_0dfc38974a8e50a5661c1b110249f247_51274&search_date=19112024&expected_price_uuid=a9999713-cfff-4d2b-b53a-53534bacf603&expected_price_source=share&expected_price_currency=rub&expected_price=51265",
+        "origin_airport": "SVX",
+        "destination_airport": "DEE",
+        "departure_at": "2024-12-01T18:25:00+05:00",
+        "airline": "SU",
+        "price": 51265,
+        "return_transfers": 0,
+        "duration_to": 720,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Koltsovo International Airport",
+        "origin_city_code": "SVX",
+        "origin_coordinates": {
+            "lat": 56.750336,
+            "lon": 60.804314
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Mendeleyevo Airport",
+        "destination_city_code": "DEE",
+        "destination_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

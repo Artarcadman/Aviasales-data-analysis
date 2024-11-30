@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-25T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "KLF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:59:38Z",
+        "trip_class": 0,
+        "value": 33854,
+        "number_of_changes": 3,
+        "duration": 3285,
+        "distance": 3973,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK2512KLF1?t=N417351421001735321200003285BTKIKTKJALEDKLF_978034161ac8bcc04891690bc214c780_33887&search_date=25112024&expected_price_uuid=414e32e5-8c6c-4159-991f-6b37b47f5801&expected_price_source=share&expected_price_currency=rub&expected_price=33854",
+        "origin_airport": "BTK",
+        "destination_airport": "KLF",
+        "departure_at": "2024-12-25T15:55:00+08:00",
+        "airline": "S7",
+        "price": 33854,
+        "return_transfers": 0,
+        "duration_to": 575,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Grabtsevo Airport",
+        "destination_city_code": "KLF",
+        "destination_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

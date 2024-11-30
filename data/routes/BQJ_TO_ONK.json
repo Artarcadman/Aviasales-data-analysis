@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-16T11:10:00+10:00",
+        "origin": "BQJ",
+        "destination": "ONK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T20:33:29Z",
+        "trip_class": 0,
+        "value": 49479,
+        "number_of_changes": 1,
+        "duration": 780,
+        "distance": 919,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "424",
+        "link": "/search/BQJ1612ONK1?t=R317343474001734390600000780BQJYKSONK_5ea4d7e775c8de721eeb7a444f88bddb_49500&search_date=22112024&expected_price_uuid=5b5ff417-d844-418b-8304-7a755ffafcfa&expected_price_source=share&expected_price_currency=rub&expected_price=49479",
+        "origin_airport": "BQJ",
+        "destination_airport": "ONK",
+        "departure_at": "2024-12-16T11:10:00+10:00",
+        "airline": "R3",
+        "price": 49479,
+        "return_transfers": 0,
+        "duration_to": 270,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Batagay",
+        "origin_city_code": "BQJ",
+        "origin_coordinates": {
+            "lat": 67.655,
+            "lon": 134.64166
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Olenyok Airport",
+        "destination_city_code": "ONK",
+        "destination_coordinates": {
+            "lat": 68.51556,
+            "lon": 112.479164
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-12-26T11:10:00+10:00",
+        "origin": "BQJ",
+        "destination": "ONK",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T15:10:54Z",
+        "trip_class": 0,
+        "value": 51127,
+        "number_of_changes": 1,
+        "duration": 780,
+        "distance": 919,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "424",
+        "link": "/search/BQJ2612ONK1?t=R317352114001735254600000780BQJYKSONK_c7909ddd9a6ae832b6aa7012d05ae193_50500&search_date=22112024&expected_price_uuid=1ca58c8f-afa3-4a62-a7e8-e5d64151f912&expected_price_source=share&expected_price_currency=rub&expected_price=51127",
+        "origin_airport": "BQJ",
+        "destination_airport": "ONK",
+        "departure_at": "2024-12-26T11:10:00+10:00",
+        "airline": "R3",
+        "price": 51127,
+        "return_transfers": 0,
+        "duration_to": 270,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Batagay",
+        "origin_city_code": "BQJ",
+        "origin_coordinates": {
+            "lat": 67.655,
+            "lon": 134.64166
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Olenyok Airport",
+        "destination_city_code": "ONK",
+        "destination_coordinates": {
+            "lat": 68.51556,
+            "lon": 112.479164
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

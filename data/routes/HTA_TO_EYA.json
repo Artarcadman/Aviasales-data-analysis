@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T18:50:00+09:00",
+        "origin": "HTA",
+        "destination": "ЗЕЯ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T10:38:01Z",
+        "trip_class": 0,
+        "value": 23155,
+        "number_of_changes": 3,
+        "duration": 3935,
+        "distance": 942,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "106",
+        "link": "/search/HTA0912EYA1?t=SU17337702001734006300003935HTAIKTKJABQSEYA_430acbef02a4e2a380175d3083e995f7_23177&search_date=25112024&expected_price_uuid=abc084eb-0683-4e3e-bef5-81370c530900&expected_price_source=share&expected_price_currency=rub&expected_price=23155",
+        "origin_airport": "HTA",
+        "destination_airport": "EYA",
+        "departure_at": "2024-12-09T18:50:00+09:00",
+        "airline": "IO",
+        "price": 23155,
+        "return_transfers": 0,
+        "duration_to": 470,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Chita Airport",
+        "origin_city_code": "HTA",
+        "origin_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "origin_time_zone": "Asia/Chita",
+        "destination_airport_name": "Zeya",
+        "destination_city_code": "ЗЕЯ",
+        "destination_coordinates": {
+            "lat": 53.689724,
+            "lon": 127.09222
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

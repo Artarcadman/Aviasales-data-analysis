@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-27T18:00:00+03:00",
+        "origin": "ARH",
+        "destination": "ITU",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T17:53:03Z",
+        "trip_class": 0,
+        "value": 28750,
+        "number_of_changes": 2,
+        "duration": 2505,
+        "distance": 6281,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "218",
+        "link": "/search/ARH2711ITU1?t=SU17327304001732909500002505ARHSVOUUSITU_7a3b331af2cccab69adfc030b12b8158_28755&search_date=19112024&expected_price_uuid=5aa12220-b0cc-4ee2-aa97-ef27b18d0301&expected_price_source=share&expected_price_currency=rub&expected_price=28750",
+        "origin_airport": "ARH",
+        "destination_airport": "ITU",
+        "departure_at": "2024-11-27T18:00:00+03:00",
+        "airline": "5N",
+        "price": 28750,
+        "return_transfers": 0,
+        "duration_to": 685,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Talagi Airport",
+        "origin_city_code": "ARH",
+        "origin_coordinates": {
+            "lat": 64.594795,
+            "lon": 40.711903
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    },
+    {
+        "depart_date": "2024-11-26T15:30:00+03:00",
+        "origin": "ARH",
+        "destination": "ITU",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T20:21:12Z",
+        "trip_class": 0,
+        "value": 28755,
+        "number_of_changes": 2,
+        "duration": 2550,
+        "distance": 6281,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "216",
+        "link": "/search/ARH2611ITU1?t=SU17326350001732816800002550ARHSVOUUSITU_6755f3ac2727aefd477ef83eaaa2ac46_28755&search_date=23112024&expected_price_uuid=ac13be69-d9e4-4d26-bbf4-9ca97927b302&expected_price_source=share&expected_price_currency=rub&expected_price=28755",
+        "origin_airport": "ARH",
+        "destination_airport": "ITU",
+        "departure_at": "2024-11-26T15:30:00+03:00",
+        "airline": "5N",
+        "price": 28755,
+        "return_transfers": 0,
+        "duration_to": 685,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Talagi Airport",
+        "origin_city_code": "ARH",
+        "origin_coordinates": {
+            "lat": 64.594795,
+            "lon": 40.711903
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Iturup",
+        "destination_city_code": "ITU",
+        "destination_coordinates": {
+            "lat": 45.25611,
+            "lon": 147.95583
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-29T14:40:00+06:00",
+        "origin": "OMS",
+        "destination": "IRM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T12:27:02Z",
+        "trip_class": 0,
+        "value": 16325,
+        "number_of_changes": 2,
+        "duration": 1580,
+        "distance": 1045,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "187",
+        "link": "/search/OMS2911IRM1?t=UT17328912001732982400001580OMSNJCTJMIRM_dc2f9bc6ad54b0fbc217b91b4b70738b_16219&search_date=19112024&expected_price_uuid=2e42bd6a-3db9-43b1-8faa-9e60aadaad00&expected_price_source=share&expected_price_currency=rub&expected_price=16325",
+        "origin_airport": "OMS",
+        "destination_airport": "IRM",
+        "departure_at": "2024-11-29T14:40:00+06:00",
+        "airline": "UT",
+        "price": 16325,
+        "return_transfers": 0,
+        "duration_to": 375,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Omsk Airport",
+        "origin_city_code": "OMS",
+        "origin_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "origin_time_zone": "Asia/Omsk",
+        "destination_airport_name": "Igrim",
+        "destination_city_code": "IRM",
+        "destination_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

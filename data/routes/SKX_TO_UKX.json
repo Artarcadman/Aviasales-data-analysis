@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-24T15:40:00+03:00",
+        "origin": "SKX",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:34:55Z",
+        "trip_class": 0,
+        "value": 20812,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 3699,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 20812,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Saransk Airport",
+        "origin_city_code": "SKX",
+        "origin_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-25T22:05:00+03:00",
+        "origin": "SKX",
+        "destination": "UKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T09:34:06Z",
+        "trip_class": 0,
+        "value": 23381,
+        "number_of_changes": 2,
+        "duration": 3375,
+        "distance": 3699,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6828",
+        "link": "/search/SKX2511UKX1?t=DP17325723001732792800003375SKXSVOIKTUKX_6bf86b6d2fac4cfc8395e3182220c245_23221&search_date=21112024&expected_price_uuid=70ac4626-5cb1-4d1f-bbac-85e884225e00&expected_price_source=share&expected_price_currency=rub&expected_price=23381",
+        "origin_airport": "SKX",
+        "destination_airport": "UKX",
+        "departure_at": "2024-11-25T22:05:00+03:00",
+        "airline": "FV",
+        "price": 23381,
+        "return_transfers": 0,
+        "duration_to": 520,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Saransk Airport",
+        "origin_city_code": "SKX",
+        "origin_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Kut Airport",
+        "destination_city_code": "UKX",
+        "destination_coordinates": {
+            "lat": 56.85,
+            "lon": 105.73333
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-12T23:10:00+03:00",
+        "origin": "KZN",
+        "destination": "UIK",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-24T20:20:15Z",
+        "trip_class": 0,
+        "value": 18188,
+        "number_of_changes": 1,
+        "duration": 1810,
+        "distance": 3163,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "743",
+        "link": "/search/KZN1212UIK1?t=N417340450001734171600001810KZNIKTUIK_70bfb1e82c67faae8a5a78b8ed0a8eab_18215&search_date=24112024&expected_price_uuid=1e638545-8b8f-40cf-a03e-e58b31ad4100&expected_price_source=share&expected_price_currency=rub&expected_price=18188",
+        "origin_airport": "KZN",
+        "destination_airport": "UIK",
+        "departure_at": "2024-12-12T23:10:00+03:00",
+        "airline": "N4",
+        "price": 18188,
+        "return_transfers": 0,
+        "duration_to": 425,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kazan International Airport",
+        "origin_city_code": "KZN",
+        "origin_coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Ilimsk",
+        "destination_city_code": "UIK",
+        "destination_coordinates": {
+            "lat": 58.13333,
+            "lon": 102.55
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-02T14:05:00+03:00",
+        "origin": "KZN",
+        "destination": "UIK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T20:31:52Z",
+        "trip_class": 0,
+        "value": 27247,
+        "number_of_changes": 2,
+        "duration": 915,
+        "distance": 3163,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5036",
+        "link": "/search/KZN0212UIK1?t=S717331483001733221200000915KZNOVBIKTUIK_41cb38360ca4ebfdb5287e8a0dc608bb_27247&search_date=23112024&expected_price_uuid=cd9d4588-f51b-46cd-bd96-10fb5ff1a300&expected_price_source=share&expected_price_currency=rub&expected_price=27247",
+        "origin_airport": "KZN",
+        "destination_airport": "UIK",
+        "departure_at": "2024-12-02T14:05:00+03:00",
+        "airline": "S7",
+        "price": 27247,
+        "return_transfers": 0,
+        "duration_to": 460,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kazan International Airport",
+        "origin_city_code": "KZN",
+        "origin_coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Ust-Ilimsk",
+        "destination_city_code": "UIK",
+        "destination_coordinates": {
+            "lat": 58.13333,
+            "lon": 102.55
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

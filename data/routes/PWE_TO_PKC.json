@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-05T14:50:00+12:00",
+        "origin": "PWE",
+        "destination": "PKC",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T00:07:33Z",
+        "trip_class": 0,
+        "value": 59582,
+        "number_of_changes": 3,
+        "duration": 4310,
+        "distance": 1961,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9736",
+        "link": "/search/PWE0512PKC1?t=HZ17334102001733668800004310PWEYKSKJAUUSPKC_5bf2ed2f5f4e029c9ec0868e60c4edfe_59174&search_date=21112024&expected_price_uuid=02ec27fb-84dd-4d66-8665-d524e889e103&expected_price_source=share&expected_price_currency=rub&expected_price=59582",
+        "origin_airport": "PWE",
+        "destination_airport": "PKC",
+        "departure_at": "2024-12-05T14:50:00+12:00",
+        "airline": "R3",
+        "price": 59582,
+        "return_transfers": 0,
+        "duration_to": 825,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Pevek Airport",
+        "origin_city_code": "PWE",
+        "origin_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Petropavlovsk-Kamchatsky Airport",
+        "destination_city_code": "PKC",
+        "destination_coordinates": {
+            "lat": 53.016666,
+            "lon": 158.65
+        },
+        "destination_time_zone": "Asia/Kamchatka"
+    },
+    {
+        "depart_date": "2024-11-26T15:30:00+12:00",
+        "origin": "PWE",
+        "destination": "PKC",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T00:08:47Z",
+        "trip_class": 0,
+        "value": 91216,
+        "number_of_changes": 2,
+        "duration": 4035,
+        "distance": 1961,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9736",
+        "link": "/search/PWE2611PKC1?t=SU17326350001732877100004035PWEYKSDMESVOPKC_3d4dd97e61b7db628978c8e7948d7218_90592&search_date=21112024&expected_price_uuid=0da04b0a-8662-4fd2-be48-a51f57105503&expected_price_source=share&expected_price_currency=rub&expected_price=91216",
+        "origin_airport": "PWE",
+        "destination_airport": "PKC",
+        "departure_at": "2024-11-26T15:30:00+12:00",
+        "airline": "R3",
+        "price": 91216,
+        "return_transfers": 0,
+        "duration_to": 1150,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pevek Airport",
+        "origin_city_code": "PWE",
+        "origin_coordinates": {
+            "lat": 69.78333,
+            "lon": 170.6
+        },
+        "origin_time_zone": "Asia/Anadyr",
+        "destination_airport_name": "Petropavlovsk-Kamchatsky Airport",
+        "destination_city_code": "PKC",
+        "destination_coordinates": {
+            "lat": 53.016666,
+            "lon": 158.65
+        },
+        "destination_time_zone": "Asia/Kamchatka"
+    }
+]

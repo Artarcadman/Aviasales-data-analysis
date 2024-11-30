@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T00:30:00+03:00",
+        "origin": "SKX",
+        "destination": "HTA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T16:58:50Z",
+        "trip_class": 0,
+        "value": 21178,
+        "number_of_changes": 3,
+        "duration": 3240,
+        "distance": 4375,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6010",
+        "link": "/search/SKX2611HTA1?t=DP17325810001732797000003240SKXMRVSVOIKTHTA_8ab85d896d7ea4dc73225f21a4d771d1_21177&search_date=25112024&expected_price_uuid=bc6a9fe1-39d2-4d0a-a58c-59f0b8080100&expected_price_source=share&expected_price_currency=rub&expected_price=21178",
+        "origin_airport": "SKX",
+        "destination_airport": "HTA",
+        "departure_at": "2024-11-26T00:30:00+03:00",
+        "airline": "A4",
+        "price": 21178,
+        "return_transfers": 0,
+        "duration_to": 770,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Saransk Airport",
+        "origin_city_code": "SKX",
+        "origin_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Chita Airport",
+        "destination_city_code": "HTA",
+        "destination_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "destination_time_zone": "Asia/Chita"
+    },
+    {
+        "depart_date": "2024-12-23T21:10:00+03:00",
+        "origin": "SKX",
+        "destination": "HTA",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-19T07:22:01Z",
+        "trip_class": 0,
+        "value": 31057,
+        "number_of_changes": 1,
+        "duration": 1655,
+        "distance": 4375,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6009",
+        "link": "/search/SKX2312HTA1?t=U617349882001735109100001655SKXLEDHTA_5a5da641f1d9db336520ff96f3990e84_30809&search_date=19112024&expected_price_uuid=77f94b4d-f4aa-4992-b899-9e3cfe23d900&expected_price_source=share&expected_price_currency=rub&expected_price=31057",
+        "origin_airport": "SKX",
+        "destination_airport": "HTA",
+        "departure_at": "2024-12-23T21:10:00+03:00",
+        "airline": "A4",
+        "price": 31057,
+        "return_transfers": 0,
+        "duration_to": 650,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Saransk Airport",
+        "origin_city_code": "SKX",
+        "origin_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Chita Airport",
+        "destination_city_code": "HTA",
+        "destination_coordinates": {
+            "lat": 52.033333,
+            "lon": 113.3
+        },
+        "destination_time_zone": "Asia/Chita"
+    }
+]

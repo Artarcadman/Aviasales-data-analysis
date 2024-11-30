@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-26T09:05:00+09:00",
+        "origin": "MJZ",
+        "destination": "RMZ",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-25T01:51:57Z",
+        "trip_class": 0,
+        "value": 24331,
+        "number_of_changes": 1,
+        "duration": 680,
+        "distance": 2511,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "589",
+        "link": "/search/MJZ2612RMZ1?t=6R17352039001735230300000680MJZOVBRMZ_71086ae45ed1939000d50e270f52ebdc_24253&search_date=25112024&expected_price_uuid=1194e413-57dd-474a-a303-73e9fac24f03&expected_price_source=share&expected_price_currency=rub&expected_price=24331",
+        "origin_airport": "MJZ",
+        "destination_airport": "RMZ",
+        "departure_at": "2024-12-26T09:05:00+09:00",
+        "airline": "6R",
+        "price": 24331,
+        "return_transfers": 0,
+        "duration_to": 270,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Mirnyj Airport",
+        "origin_city_code": "MJZ",
+        "origin_coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Tobolsk (Remezov)",
+        "destination_city_code": "RMZ",
+        "destination_coordinates": {
+            "lat": 58.050858,
+            "lon": 68.32763
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

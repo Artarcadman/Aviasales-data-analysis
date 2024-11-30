@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-24T22:55:00+07:00",
+        "origin": "ABA",
+        "destination": "UIK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T08:34:31Z",
+        "trip_class": 0,
+        "value": 21602,
+        "number_of_changes": 2,
+        "duration": 3505,
+        "distance": 843,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "102",
+        "link": "/search/ABA2412UIK1?t=UT17350809001735294800003505ABAKJAIKTUIK_c6f0c9eae9112b821ab1fc354eff0adb_20979&search_date=22112024&expected_price_uuid=68740c01-351e-4b04-9b9b-b32ddf402302&expected_price_source=share&expected_price_currency=rub&expected_price=21602",
+        "origin_airport": "ABA",
+        "destination_airport": "UIK",
+        "departure_at": "2024-12-24T22:55:00+07:00",
+        "airline": "KV",
+        "price": 21602,
+        "return_transfers": 0,
+        "duration_to": 345,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ust-Ilimsk",
+        "destination_city_code": "UIK",
+        "destination_coordinates": {
+            "lat": 58.13333,
+            "lon": 102.55
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-25T19:55:00+07:00",
+        "origin": "ABA",
+        "destination": "UIK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T08:34:54Z",
+        "trip_class": 0,
+        "value": 24590,
+        "number_of_changes": 2,
+        "duration": 2245,
+        "distance": 843,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "302",
+        "link": "/search/ABA2512UIK1?t=СЛ17351565001735294800002245ABAKJAIKTUIK_90523552c5f963d0630f2d3bae9c4baa_23881&search_date=22112024&expected_price_uuid=0315b7df-677d-4151-a273-bf2424322303&expected_price_source=share&expected_price_currency=rub&expected_price=24590",
+        "origin_airport": "ABA",
+        "destination_airport": "UIK",
+        "departure_at": "2024-12-25T19:55:00+07:00",
+        "airline": "KV",
+        "price": 24590,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Abakan Airport",
+        "origin_city_code": "ABA",
+        "origin_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Ust-Ilimsk",
+        "destination_city_code": "UIK",
+        "destination_coordinates": {
+            "lat": 58.13333,
+            "lon": 102.55
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

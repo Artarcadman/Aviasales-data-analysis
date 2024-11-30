@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-01T15:30:00+05:00",
+        "origin": "OVS",
+        "destination": "GOJ",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-19T15:42:41Z",
+        "trip_class": 0,
+        "value": 10372,
+        "number_of_changes": 1,
+        "duration": 1190,
+        "distance": 1268,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "336",
+        "link": "/search/OVS0112GOJ1?t=WZ17330670001733131200001190OVSSVXGOJ_7215eaf98a1e397aceb3338f319e5e53_10374&search_date=19112024&expected_price_uuid=d0a8a6a0-5d4e-4f05-b07b-ebf582971c00&expected_price_source=share&expected_price_currency=rub&expected_price=10372",
+        "origin_airport": "OVS",
+        "destination_airport": "GOJ",
+        "departure_at": "2024-12-01T15:30:00+05:00",
+        "airline": "UT",
+        "price": 10372,
+        "return_transfers": 0,
+        "duration_to": 235,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nizhny Novgorod International Airport",
+        "destination_city_code": "GOJ",
+        "destination_coordinates": {
+            "lat": 56.218613,
+            "lon": 43.789764
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-12T15:30:00+05:00",
+        "origin": "OVS",
+        "destination": "GOJ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T08:01:14Z",
+        "trip_class": 0,
+        "value": 10608,
+        "number_of_changes": 1,
+        "duration": 1190,
+        "distance": 1268,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "336",
+        "link": "/search/OVS1212GOJ1?t=WZ17340174001734081600001190OVSSVXGOJ_7cb7110e2d678b3d4f9a69c2ee2482da_10590&search_date=25112024&expected_price_uuid=45c60f05-e6fc-4fce-ac2f-ea70d8b10440&expected_price_source=share&expected_price_currency=rub&expected_price=10608",
+        "origin_airport": "OVS",
+        "destination_airport": "GOJ",
+        "departure_at": "2024-12-12T15:30:00+05:00",
+        "airline": "UT",
+        "price": 10608,
+        "return_transfers": 0,
+        "duration_to": 235,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sovetsky Airport",
+        "origin_city_code": "OVS",
+        "origin_coordinates": {
+            "lat": 61.33209,
+            "lon": 63.601887
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Nizhny Novgorod International Airport",
+        "destination_city_code": "GOJ",
+        "destination_coordinates": {
+            "lat": 56.218613,
+            "lon": 43.789764
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

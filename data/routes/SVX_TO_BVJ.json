@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-02T11:25:00+05:00",
+        "origin": "SVX",
+        "destination": "BVJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T09:59:30Z",
+        "trip_class": 0,
+        "value": 54997,
+        "number_of_changes": 2,
+        "duration": 4255,
+        "distance": 1550,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "105",
+        "link": "/search/SVX0212BVJ1?t=YC17331387001733394000004255SVXUFANYMBVJ_55a9d1f513e5cd92df070b96037ec4b1_54977&search_date=25112024&expected_price_uuid=3beb6e51-1b58-4509-9c02-a1727f3e3203&expected_price_source=share&expected_price_currency=rub&expected_price=54997",
+        "origin_airport": "SVX",
+        "destination_airport": "BVJ",
+        "departure_at": "2024-12-02T11:25:00+05:00",
+        "airline": "UT",
+        "price": 54997,
+        "return_transfers": 0,
+        "duration_to": 320,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Koltsovo International Airport",
+        "origin_city_code": "SVX",
+        "origin_coordinates": {
+            "lat": 56.750336,
+            "lon": 60.804314
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Bovanenkovo",
+        "destination_city_code": "BVJ",
+        "destination_coordinates": {
+            "lat": 70.31528,
+            "lon": 68.33361
+        },
+        "destination_time_zone": "Asia/Dushanbe"
+    }
+]

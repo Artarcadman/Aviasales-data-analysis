@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-07T12:40:00+05:00",
+        "origin": "TQL",
+        "destination": "SVX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T17:07:51Z",
+        "trip_class": 0,
+        "value": 11991,
+        "number_of_changes": 1,
+        "duration": 1955,
+        "distance": 1285,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "436",
+        "link": "/search/TQL0712SVX1?t=ЮЭ17335752001733692500001955TQLTJMSVX_258d6e1ad90fec1c1975233b505af3d3_11991&search_date=23112024&expected_price_uuid=248cb8c4-e89d-423e-a2b4-cf663a4dda02&expected_price_source=share&expected_price_currency=rub&expected_price=11991",
+        "origin_airport": "TQL",
+        "destination_airport": "SVX",
+        "departure_at": "2024-12-07T12:40:00+05:00",
+        "airline": "ЮЭ",
+        "price": 11991,
+        "return_transfers": 0,
+        "duration_to": 250,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tarko-Sale",
+        "origin_city_code": "TQL",
+        "origin_coordinates": {
+            "lat": 64.92134,
+            "lon": 77.797356
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Koltsovo International Airport",
+        "destination_city_code": "SVX",
+        "destination_coordinates": {
+            "lat": 56.750336,
+            "lon": 60.804314
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-12-24T12:40:00+05:00",
+        "origin": "TQL",
+        "destination": "SVX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T11:12:38Z",
+        "trip_class": 0,
+        "value": 11991,
+        "number_of_changes": 1,
+        "duration": 1955,
+        "distance": 1285,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "436",
+        "link": "/search/TQL2412SVX1?t=ЮЭ17350440001735161300001955TQLTJMSVX_b81a98f62a36abce584d1b869ff59f80_11991&search_date=23112024&expected_price_uuid=db44d145-49b6-4264-b368-8d8f1334bd02&expected_price_source=share&expected_price_currency=rub&expected_price=11991",
+        "origin_airport": "TQL",
+        "destination_airport": "SVX",
+        "departure_at": "2024-12-24T12:40:00+05:00",
+        "airline": "ЮЭ",
+        "price": 11991,
+        "return_transfers": 0,
+        "duration_to": 250,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tarko-Sale",
+        "origin_city_code": "TQL",
+        "origin_coordinates": {
+            "lat": 64.92134,
+            "lon": 77.797356
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Koltsovo International Airport",
+        "destination_city_code": "SVX",
+        "destination_coordinates": {
+            "lat": 56.750336,
+            "lon": 60.804314
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

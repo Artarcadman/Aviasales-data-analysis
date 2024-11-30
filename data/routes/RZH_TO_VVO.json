@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-25T10:50:00+10:00",
+        "origin": "RZH",
+        "destination": "VVO",
+        "gate": "Аврора",
+        "return_date": "",
+        "found_at": "2024-11-23T04:38:46Z",
+        "trip_class": 0,
+        "value": 2001,
+        "number_of_changes": 0,
+        "duration": 60,
+        "distance": 151,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "514",
+        "link": "/search/RZH2511VVO1?t=HZ17325318001732535400000060RZHVVO_8f8c20357bd2914071d9031a45bfea71_2001&search_date=23112024&expected_price_uuid=e68f5895-bd97-4386-8ae4-78356bd36f03&expected_price_source=share&expected_price_currency=rub&expected_price=2001",
+        "origin_airport": "RZH",
+        "destination_airport": "VVO",
+        "departure_at": "2024-11-25T10:50:00+10:00",
+        "airline": "HZ",
+        "price": 2001,
+        "return_transfers": 0,
+        "duration_to": 60,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Preobrazheniye",
+        "origin_city_code": "RZH",
+        "origin_coordinates": {
+            "lat": 42.921112,
+            "lon": 133.90334
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Vladivostok International Airport",
+        "destination_city_code": "VVO",
+        "destination_coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    },
+    {
+        "depart_date": "2024-11-22T11:15:00+10:00",
+        "origin": "RZH",
+        "destination": "VVO",
+        "gate": "Аврора",
+        "return_date": "",
+        "found_at": "2024-11-20T18:08:14Z",
+        "trip_class": 0,
+        "value": 2001,
+        "number_of_changes": 0,
+        "duration": null,
+        "distance": 151,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 2001,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Preobrazheniye",
+        "origin_city_code": "RZH",
+        "origin_coordinates": {
+            "lat": 42.921112,
+            "lon": 133.90334
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Vladivostok International Airport",
+        "destination_city_code": "VVO",
+        "destination_coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

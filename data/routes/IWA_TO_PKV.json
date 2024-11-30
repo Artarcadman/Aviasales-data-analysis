@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-01T11:15:00+03:00",
+        "origin": "IWA",
+        "destination": "PKV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T10:05:46Z",
+        "trip_class": 0,
+        "value": 11115,
+        "number_of_changes": 2,
+        "duration": 1985,
+        "distance": 762,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6016",
+        "link": "/search/IWA0112PKV1?t=A417330517001733170800001985IWAMRVVKOPKV_3e20cbfbfbb8407fe4e8f36785d00f4c_11036&search_date=22112024&expected_price_uuid=e2abd23f-2b2a-4d69-91b8-c4e7846da700&expected_price_source=share&expected_price_currency=rub&expected_price=11115",
+        "origin_airport": "IWA",
+        "destination_airport": "PKV",
+        "departure_at": "2024-12-01T11:15:00+03:00",
+        "airline": "A4",
+        "price": 11115,
+        "return_transfers": 0,
+        "duration_to": 460,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ivanovo Yuzhny Airport",
+        "origin_city_code": "IWA",
+        "origin_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Pskov Airport",
+        "destination_city_code": "PKV",
+        "destination_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-22T14:30:00+03:00",
+        "origin": "IWA",
+        "destination": "PKV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T13:11:54Z",
+        "trip_class": 0,
+        "value": 12751,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 762,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 12751,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Ivanovo Yuzhny Airport",
+        "origin_city_code": "IWA",
+        "origin_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Pskov Airport",
+        "destination_city_code": "PKV",
+        "destination_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-24T22:05:00+04:00",
+        "origin": "ASF",
+        "destination": "EZV",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-18T19:51:59Z",
+        "trip_class": 0,
+        "value": 22865,
+        "number_of_changes": 3,
+        "duration": 3565,
+        "distance": 2224,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "164",
+        "link": "/search/ASF2412EZV1?t=SU17350779001735295400003565ASFVKOSVOSGCHMAEZV_800e7eaf504754c122d98d0dcb883a97_22865&search_date=18112024&expected_price_uuid=6c9b301a-bac1-435a-9736-cd279ceb4000&expected_price_source=share&expected_price_currency=rub&expected_price=22865",
+        "origin_airport": "ASF",
+        "destination_airport": "EZV",
+        "departure_at": "2024-12-24T22:05:00+04:00",
+        "airline": "DP",
+        "price": 22865,
+        "return_transfers": 0,
+        "duration_to": 500,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Berezovo",
+        "destination_city_code": "EZV",
+        "destination_coordinates": {
+            "lat": 63.924583,
+            "lon": 65.04485
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

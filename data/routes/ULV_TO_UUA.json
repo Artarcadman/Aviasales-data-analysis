@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-07T22:45:00+04:00",
+        "origin": "ULY",
+        "destination": "UUA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T12:07:06Z",
+        "trip_class": 0,
+        "value": 11843,
+        "number_of_changes": 1,
+        "duration": 3045,
+        "distance": 299,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "486",
+        "link": "/search/ULV0712UUA1?t=RT17336115001733790600003045ULVVKOUUA_bfcf3bc4a463600a95a1e90c5e3ec460_11842&search_date=20112024&expected_price_uuid=a8659b9a-63df-4104-9684-da15b0373c03&expected_price_source=share&expected_price_currency=rub&expected_price=11843",
+        "origin_airport": "ULV",
+        "destination_airport": "UUA",
+        "departure_at": "2024-12-07T22:45:00+04:00",
+        "airline": "DP",
+        "price": 11843,
+        "return_transfers": 0,
+        "duration_to": 210,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Baratayevka",
+        "origin_city_code": "ULY",
+        "origin_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Bugulma Airport",
+        "destination_city_code": "UUA",
+        "destination_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-26T22:45:00+04:00",
+        "origin": "ULY",
+        "destination": "UUA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T17:16:48Z",
+        "trip_class": 0,
+        "value": 14455,
+        "number_of_changes": 1,
+        "duration": 3040,
+        "distance": 299,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "486",
+        "link": "/search/ULV2611UUA1?t=RT17326611001732839900003040ULVVKOUUA_5a49b4b1e621cd7e771356944dec8f82_14456&search_date=21112024&expected_price_uuid=c6706b6f-87e1-47e6-a8bc-85ad3cc76b01&expected_price_source=share&expected_price_currency=rub&expected_price=14455",
+        "origin_airport": "ULV",
+        "destination_airport": "UUA",
+        "departure_at": "2024-11-26T22:45:00+04:00",
+        "airline": "DP",
+        "price": 14455,
+        "return_transfers": 0,
+        "duration_to": 210,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Baratayevka",
+        "origin_city_code": "ULY",
+        "origin_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Bugulma Airport",
+        "destination_city_code": "UUA",
+        "destination_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

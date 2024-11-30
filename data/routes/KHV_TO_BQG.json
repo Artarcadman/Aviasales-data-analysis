@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-16T13:00:00+10:00",
+        "origin": "KHV",
+        "destination": "BQG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T13:44:29Z",
+        "trip_class": 0,
+        "value": 6800,
+        "number_of_changes": 0,
+        "duration": 100,
+        "distance": 568,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "469",
+        "link": "/search/KHV1612BQG1?t=НИ17343540001734360000000100KHVBQG_1b045e2b1e28f7d95075aa601d6a00d4_6785&search_date=25112024&expected_price_uuid=dd94efd1-f1c4-4e72-9654-2075dab35703&expected_price_source=share&expected_price_currency=rub&expected_price=6800",
+        "origin_airport": "KHV",
+        "destination_airport": "BQG",
+        "departure_at": "2024-12-16T13:00:00+10:00",
+        "airline": "НИ",
+        "price": 6800,
+        "return_transfers": 0,
+        "duration_to": 100,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Khabarovsk Airport",
+        "origin_city_code": "KHV",
+        "origin_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Bogorodskoye",
+        "destination_city_code": "BQG",
+        "destination_coordinates": {
+            "lat": 52.378334,
+            "lon": 140.44833
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    },
+    {
+        "depart_date": "2024-12-20T13:00:00+10:00",
+        "origin": "KHV",
+        "destination": "BQG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T08:25:53Z",
+        "trip_class": 0,
+        "value": 6812,
+        "number_of_changes": 0,
+        "duration": 100,
+        "distance": 568,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "469",
+        "link": "/search/KHV2012BQG1?t=НИ17346996001734705600000100KHVBQG_4c54c003b7077fb52d4ab8f7f2b9eaa7_6785&search_date=25112024&expected_price_uuid=7f2f1945-8017-4710-bceb-8c9c89ce2603&expected_price_source=share&expected_price_currency=rub&expected_price=6812",
+        "origin_airport": "KHV",
+        "destination_airport": "BQG",
+        "departure_at": "2024-12-20T13:00:00+10:00",
+        "airline": "НИ",
+        "price": 6812,
+        "return_transfers": 0,
+        "duration_to": 100,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Khabarovsk Airport",
+        "origin_city_code": "KHV",
+        "origin_coordinates": {
+            "lat": 48.524563,
+            "lon": 135.16861
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Bogorodskoye",
+        "destination_city_code": "BQG",
+        "destination_coordinates": {
+            "lat": 52.378334,
+            "lon": 140.44833
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

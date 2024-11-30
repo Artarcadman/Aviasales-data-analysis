@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-01T09:30:00+07:00",
+        "origin": "NSK",
+        "destination": "PES",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T13:41:18Z",
+        "trip_class": 0,
+        "value": 31659,
+        "number_of_changes": 2,
+        "duration": 3270,
+        "distance": 2492,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "406",
+        "link": "/search/NSK0112PES1?t=Y717330454001733227200003270NSKLEDCEEPES_25174298a644f4ee280ea8459e7f95bc_31626&search_date=19112024&expected_price_uuid=b79174f2-dc4d-4d42-998c-92578c159e01&expected_price_source=share&expected_price_currency=rub&expected_price=31659",
+        "origin_airport": "NSK",
+        "destination_airport": "PES",
+        "departure_at": "2024-12-01T09:30:00+07:00",
+        "airline": "Y7",
+        "price": 31659,
+        "return_transfers": 0,
+        "duration_to": 370,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Noril'sk Airport",
+        "origin_city_code": "NSK",
+        "origin_coordinates": {
+            "lat": 69.32312,
+            "lon": 87.339806
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Petrozavodsk Airport",
+        "destination_city_code": "PES",
+        "destination_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

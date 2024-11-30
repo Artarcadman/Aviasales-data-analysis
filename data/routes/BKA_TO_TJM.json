@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-27T19:55:00+07:00",
+        "origin": "BKA",
+        "destination": "TJM",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T06:26:40Z",
+        "trip_class": 0,
+        "value": 21478,
+        "number_of_changes": 1,
+        "duration": 905,
+        "distance": 1803,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "154",
+        "link": "/search/BKA2712TJM1?t=SU17353293001735376400000905BKAKJATJM_a987603a266390154af12fb632975128_21478&search_date=23112024&expected_price_uuid=355f0ff0-d92b-4d4e-8b4d-ff8e50e28e0f&expected_price_source=share&expected_price_currency=rub&expected_price=21478",
+        "origin_airport": "BKA",
+        "destination_airport": "TJM",
+        "departure_at": "2024-12-27T19:55:00+07:00",
+        "airline": "KV",
+        "price": 21478,
+        "return_transfers": 0,
+        "duration_to": 300,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bajkit",
+        "origin_city_code": "BKA",
+        "origin_coordinates": {
+            "lat": 61.676666,
+            "lon": 96.35333
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Roshchino International Airport",
+        "destination_city_code": "TJM",
+        "destination_coordinates": {
+            "lat": 57.181828,
+            "lon": 65.35024
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

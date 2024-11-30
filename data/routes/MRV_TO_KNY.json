@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-01-12T11:40:00+03:00",
+        "origin": "MRV",
+        "destination": "KNY",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T17:57:23Z",
+        "trip_class": 0,
+        "value": 34353,
+        "number_of_changes": 1,
+        "duration": 1120,
+        "distance": 4057,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6986",
+        "link": "/search/MRV1201KNY1?t=SU17366820001736763600001120MRVKJAKNY_6b003f700eeec9f72091ecd38bca60f7_34353&search_date=23112024&expected_price_uuid=d50b18b8-c180-492a-b16e-888ea08d3908&expected_price_source=share&expected_price_currency=rub&expected_price=34353",
+        "origin_airport": "MRV",
+        "destination_airport": "KNY",
+        "departure_at": "2025-01-12T11:40:00+03:00",
+        "airline": "SU",
+        "price": 34353,
+        "return_transfers": 0,
+        "duration_to": 395,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Mineralnye Vody Airport",
+        "origin_city_code": "MRV",
+        "origin_coordinates": {
+            "lat": 44.218105,
+            "lon": 43.085815
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kodinsk",
+        "destination_city_code": "KNY",
+        "destination_coordinates": {
+            "lat": 58.48,
+            "lon": 99.095
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2025-01-05T11:40:00+03:00",
+        "origin": "MRV",
+        "destination": "KNY",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T00:39:45Z",
+        "trip_class": 0,
+        "value": 41153,
+        "number_of_changes": 1,
+        "duration": 1120,
+        "distance": 4057,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6986",
+        "link": "/search/MRV0501KNY1?t=SU17360772001736158800001120MRVKJAKNY_de4c9eb1313d8eb23095bfb91b54c6c1_41153&search_date=23112024&expected_price_uuid=2d03b6f5-054f-4d95-b97a-9a95f44128b1&expected_price_source=share&expected_price_currency=rub&expected_price=41153",
+        "origin_airport": "MRV",
+        "destination_airport": "KNY",
+        "departure_at": "2025-01-05T11:40:00+03:00",
+        "airline": "SU",
+        "price": 41153,
+        "return_transfers": 0,
+        "duration_to": 395,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Mineralnye Vody Airport",
+        "origin_city_code": "MRV",
+        "origin_coordinates": {
+            "lat": 44.218105,
+            "lon": 43.085815
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Kodinsk",
+        "destination_city_code": "KNY",
+        "destination_coordinates": {
+            "lat": 58.48,
+            "lon": 99.095
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

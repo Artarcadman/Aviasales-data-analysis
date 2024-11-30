@@ -1,0 +1,108 @@
+[
+    {
+        "depart_date": "2024-11-25T22:05:00+04:00",
+        "origin": "ASF",
+        "destination": "ESL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T10:28:36Z",
+        "trip_class": 0,
+        "value": 14496,
+        "number_of_changes": 1,
+        "duration": 3945,
+        "distance": 281,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "164",
+        "link": "/search/ASF2511ESL1?t=SU17325723001732805400003945ASFVKOSVOESL_a342719a113b8fcf7d896c9426e9d411_14489&search_date=25112024&expected_price_uuid=5587704b-8865-4618-a180-47aab1952400&expected_price_source=share&expected_price_currency=rub&expected_price=14496",
+        "origin_airport": "ASF",
+        "destination_airport": "ESL",
+        "departure_at": "2024-11-25T22:05:00+04:00",
+        "airline": "DP",
+        "price": 14496,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-19T20:20:00+04:00",
+        "origin": "ASF",
+        "destination": "ESL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T10:44:40Z",
+        "trip_class": 0,
+        "value": 27513,
+        "number_of_changes": 3,
+        "duration": null,
+        "distance": 281,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 27513,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-20T22:05:00+04:00",
+        "origin": "ASF",
+        "destination": "ESL",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T06:37:18Z",
+        "trip_class": 0,
+        "value": 30200,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 281,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 30200,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Astrakhan Airport",
+        "origin_city_code": "ASF",
+        "origin_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

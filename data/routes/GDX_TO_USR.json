@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-12T15:50:00+11:00",
+        "origin": "GDX",
+        "destination": "USR",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T08:07:51Z",
+        "trip_class": 0,
+        "value": 63029,
+        "number_of_changes": 2,
+        "duration": 1200,
+        "distance": 647,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5613",
+        "link": "/search/GDX1212USR1?t=SU17340186001734087000001200GDXKHVYKSUSR_a8ee013f56a73db01be54c89e4dc728d_62534&search_date=21112024&expected_price_uuid=8f900fec-3800-4a0b-8073-042b070e5c00&expected_price_source=share&expected_price_currency=rub&expected_price=63029",
+        "origin_airport": "GDX",
+        "destination_airport": "USR",
+        "departure_at": "2024-12-12T15:50:00+11:00",
+        "airline": "HZ",
+        "price": 63029,
+        "return_transfers": 0,
+        "duration_to": 420,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Magadan Airport",
+        "origin_city_code": "GDX",
+        "origin_coordinates": {
+            "lat": 59.916668,
+            "lon": 150.71666
+        },
+        "origin_time_zone": "Asia/Magadan",
+        "destination_airport_name": "Ust-Nera Airport",
+        "destination_city_code": "USR",
+        "destination_coordinates": {
+            "lat": 64.549446,
+            "lon": 143.11084
+        },
+        "destination_time_zone": "Asia/Ust-Nera"
+    }
+]

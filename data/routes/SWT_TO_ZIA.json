@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-17T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T16:04:28Z",
+        "trip_class": 0,
+        "value": 27264,
+        "number_of_changes": 2,
+        "duration": 2910,
+        "distance": 2315,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT1712ZIA1?t=7R17344314001734591600002910SWTTOFSVXZIA_9cddce8ed445bf52102c74e689c0c99f_26930&search_date=22112024&expected_price_uuid=d44f14b1-02be-47b7-bf7e-95d0a8fcbe03&expected_price_source=share&expected_price_currency=rub&expected_price=27264",
+        "origin_airport": "SWT",
+        "destination_airport": "ZIA",
+        "departure_at": "2024-12-17T10:30:00+07:00",
+        "airline": "KV",
+        "price": 27264,
+        "return_transfers": 0,
+        "duration_to": 505,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Zhukovsky International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-22T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T15:25:57Z",
+        "trip_class": 0,
+        "value": 30815,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 2315,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 30815,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Zhukovsky International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

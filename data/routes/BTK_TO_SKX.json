@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-28T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T14:39:08Z",
+        "trip_class": 0,
+        "value": 39458,
+        "number_of_changes": 2,
+        "duration": 3500,
+        "distance": 3494,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK2812SKX1?t=DP17354013001735593300003500BTKIKTVKOSVOSKX_0eaba79e2e13bf286493d99ed3e40b03_39345&search_date=21112024&expected_price_uuid=58d99e80-812a-4061-9b40-7729e98b5503&expected_price_source=share&expected_price_currency=rub&expected_price=39458",
+        "origin_airport": "BTK",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-28T15:55:00+08:00",
+        "airline": "S7",
+        "price": 39458,
+        "return_transfers": 0,
+        "duration_to": 550,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-29T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T14:39:37Z",
+        "trip_class": 0,
+        "value": 42836,
+        "number_of_changes": 2,
+        "duration": 2060,
+        "distance": 3494,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6378",
+        "link": "/search/BTK2912SKX1?t=DP17354877001735593300002060BTKIKTSVOSKX_9f0646bf10996edf50a945254ba58551_42714&search_date=21112024&expected_price_uuid=0ebd1bea-daa3-4042-afb1-5dd370418c03&expected_price_source=share&expected_price_currency=rub&expected_price=42836",
+        "origin_airport": "BTK",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-29T15:55:00+08:00",
+        "airline": "S7",
+        "price": 42836,
+        "return_transfers": 0,
+        "duration_to": 560,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

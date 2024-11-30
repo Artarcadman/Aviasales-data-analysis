@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-14T21:30:00+09:00",
+        "origin": "NER",
+        "destination": "USK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T22:46:11Z",
+        "trip_class": 0,
+        "value": 41627,
+        "number_of_changes": 3,
+        "duration": 4180,
+        "distance": 3538,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "408",
+        "link": "/search/NER1412USK1?t=SU17342118001734441000004180NERIKTSVOUFAUSK_c838e098920083e7658129eb9f7f8403_41627&search_date=23112024&expected_price_uuid=28be7980-7132-42e8-b156-7c5ddc077602&expected_price_source=share&expected_price_currency=rub&expected_price=41627",
+        "origin_airport": "NER",
+        "destination_airport": "USK",
+        "departure_at": "2024-12-14T21:30:00+09:00",
+        "airline": "IO",
+        "price": 41627,
+        "return_transfers": 0,
+        "duration_to": 785,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Neryungri Airport",
+        "origin_city_code": "NER",
+        "origin_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-15T09:30:00+09:00",
+        "origin": "NER",
+        "destination": "USK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T07:45:28Z",
+        "trip_class": 0,
+        "value": 63869,
+        "number_of_changes": 3,
+        "duration": 3460,
+        "distance": 3538,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5246",
+        "link": "/search/NER1512USK1?t=5N17342550001734441000003460NEROVBSVOVKOUFAUSK_7be170973294641be90fd9ebe9591fd2_63869&search_date=23112024&expected_price_uuid=1fa195c6-d400-4451-839c-48cf13731c03&expected_price_source=share&expected_price_currency=rub&expected_price=63869",
+        "origin_airport": "NER",
+        "destination_airport": "USK",
+        "departure_at": "2024-12-15T09:30:00+09:00",
+        "airline": "S7",
+        "price": 63869,
+        "return_transfers": 0,
+        "duration_to": 760,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Neryungri Airport",
+        "origin_city_code": "NER",
+        "origin_coordinates": {
+            "lat": 56.65,
+            "lon": 124.6
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Usinsk Airport",
+        "destination_city_code": "USK",
+        "destination_coordinates": {
+            "lat": 65.95,
+            "lon": 57.4
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

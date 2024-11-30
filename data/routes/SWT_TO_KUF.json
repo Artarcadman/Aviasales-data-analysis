@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-22T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "KUF",
+        "gate": "OneTwoTrip",
+        "return_date": "",
+        "found_at": "2024-11-22T18:01:40Z",
+        "trip_class": 0,
+        "value": 21080,
+        "number_of_changes": 1,
+        "duration": 1550,
+        "distance": 1785,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT2212KUF1?t=RT17348634001734945600001550SWTTOFKUF_9e75ff51400e1a879189a6ce7406aa6c_20886&search_date=22112024&expected_price_uuid=ad9d4ce9-5547-4488-a2fe-9a8d9020ba02&expected_price_source=share&expected_price_currency=rub&expected_price=21080",
+        "origin_airport": "SWT",
+        "destination_airport": "KUF",
+        "departure_at": "2024-12-22T10:30:00+07:00",
+        "airline": "KV",
+        "price": 21080,
+        "return_transfers": 0,
+        "duration_to": 325,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Kurumoch International Airport",
+        "destination_city_code": "KUF",
+        "destination_coordinates": {
+            "lat": 53.50782,
+            "lon": 50.14742
+        },
+        "destination_time_zone": "Europe/Samara"
+    },
+    {
+        "depart_date": "2024-12-08T10:30:00+07:00",
+        "origin": "SWT",
+        "destination": "KUF",
+        "gate": "City.Travel",
+        "return_date": "",
+        "found_at": "2024-11-24T06:22:25Z",
+        "trip_class": 0,
+        "value": 24982,
+        "number_of_changes": 1,
+        "duration": 1550,
+        "distance": 1785,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "248",
+        "link": "/search/SWT0812KUF1?t=RT17336538001733736000001550SWTTOFKUF_ef9103cd1730f831f3e0dddd6ef55577_25128&search_date=24112024&expected_price_uuid=53325c83-0a54-439e-a7a7-7bfb8cca5b02&expected_price_source=share&expected_price_currency=rub&expected_price=24982",
+        "origin_airport": "SWT",
+        "destination_airport": "KUF",
+        "departure_at": "2024-12-08T10:30:00+07:00",
+        "airline": "KV",
+        "price": 24982,
+        "return_transfers": 0,
+        "duration_to": 325,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Strezhevoy Airport",
+        "origin_city_code": "SWT",
+        "origin_coordinates": {
+            "lat": 60.5,
+            "lon": 77
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Kurumoch International Airport",
+        "destination_city_code": "KUF",
+        "destination_coordinates": {
+            "lat": 53.50782,
+            "lon": 50.14742
+        },
+        "destination_time_zone": "Europe/Samara"
+    }
+]

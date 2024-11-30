@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-05T21:20:00+03:00",
+        "origin": "PKV",
+        "destination": "YKS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T12:46:08Z",
+        "trip_class": 0,
+        "value": 23798,
+        "number_of_changes": 2,
+        "duration": 2160,
+        "distance": 5081,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "7138",
+        "link": "/search/PKV0512YKS1?t=UT17334336001733584800002160PKVVKOKJAYKS_f40284917a70ac7c49eb527b8f86be39_23738&search_date=20112024&expected_price_uuid=4bdd2076-6944-4ca0-a98f-7792de36ae02&expected_price_source=share&expected_price_currency=rub&expected_price=23798",
+        "origin_airport": "PKV",
+        "destination_airport": "YKS",
+        "departure_at": "2024-12-05T21:20:00+03:00",
+        "airline": "A4",
+        "price": 23798,
+        "return_transfers": 0,
+        "duration_to": 555,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yakutsk Airport",
+        "destination_city_code": "YKS",
+        "destination_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-19T21:20:00+03:00",
+        "origin": "PKV",
+        "destination": "YKS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T16:09:17Z",
+        "trip_class": 0,
+        "value": 28237,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 5081,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 28237,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Pskov Airport",
+        "origin_city_code": "PKV",
+        "origin_coordinates": {
+            "lat": 57.816666,
+            "lon": 28.3
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Yakutsk Airport",
+        "destination_city_code": "YKS",
+        "destination_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

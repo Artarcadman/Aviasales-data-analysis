@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-12-05T09:30:00+07:00",
+        "origin": "KJA",
+        "destination": "TLK",
+        "gate": "SuperKassa.ru",
+        "return_date": "",
+        "found_at": "2024-11-21T12:47:28Z",
+        "trip_class": 0,
+        "value": 23672,
+        "number_of_changes": 1,
+        "duration": 1630,
+        "distance": 1159,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "205",
+        "link": "/search/KCY0512TLK1?t=KV17333910001733496000001630KCYULKTLK_5ebe4661625ecf2806631737ac6293d3_23603&search_date=21112024&expected_price_uuid=48751fb9-8cfb-4721-a415-b275dc197b03&expected_price_source=share&expected_price_currency=rub&expected_price=23672",
+        "origin_airport": "KCY",
+        "destination_airport": "TLK",
+        "departure_at": "2024-12-05T09:30:00+07:00",
+        "airline": "KV",
+        "price": 23672,
+        "return_transfers": 0,
+        "duration_to": 310,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Cheremshanka",
+        "origin_city_code": "KJA",
+        "origin_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Talakan",
+        "destination_city_code": "TLK",
+        "destination_coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-21T09:30:00+07:00",
+        "origin": "KJA",
+        "destination": "TLK",
+        "gate": "SuperKassa.ru",
+        "return_date": "",
+        "found_at": "2024-11-20T10:11:24Z",
+        "trip_class": 0,
+        "value": 23724,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 1159,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 23724,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Cheremshanka",
+        "origin_city_code": "KJA",
+        "origin_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Talakan",
+        "destination_city_code": "TLK",
+        "destination_coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

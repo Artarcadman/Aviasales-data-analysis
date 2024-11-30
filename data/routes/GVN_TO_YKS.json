@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T11:00:00+10:00",
+        "origin": "GVN",
+        "destination": "YKS",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T21:44:40Z",
+        "trip_class": 0,
+        "value": 16009,
+        "number_of_changes": 1,
+        "duration": 3405,
+        "distance": 1594,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "468",
+        "link": "/search/GVN0912YKS1?t=R317337420001733942700003405GVNKHVYKS_5430860e65349793417b071b4d5d5830_16012&search_date=19112024&expected_price_uuid=b80ae3f0-4d2c-428c-9641-9657adbdb103&expected_price_source=share&expected_price_currency=rub&expected_price=16009",
+        "origin_airport": "GVN",
+        "destination_airport": "YKS",
+        "departure_at": "2024-12-09T11:00:00+10:00",
+        "airline": "НИ",
+        "price": 16009,
+        "return_transfers": 0,
+        "duration_to": 240,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "May-Gatka",
+        "origin_city_code": "GVN",
+        "origin_coordinates": {
+            "lat": 48.928535,
+            "lon": 140.01697
+        },
+        "origin_time_zone": "Asia/Vladivostok",
+        "destination_airport_name": "Yakutsk Airport",
+        "destination_city_code": "YKS",
+        "destination_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

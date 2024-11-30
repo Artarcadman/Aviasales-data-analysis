@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-27T15:10:00+03:00",
+        "origin": "PES",
+        "destination": "ABA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T14:59:26Z",
+        "trip_class": 0,
+        "value": 23834,
+        "number_of_changes": 2,
+        "duration": 1615,
+        "distance": 3388,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "264",
+        "link": "/search/PES2711ABA1?t=DP17327202001732831500001615PESSVOKJAABA_07565a3f1c5329b1f4e70aa3be1d99a3_23973&search_date=24112024&expected_price_uuid=1907f6ad-2acf-476d-be7b-51465cbea402&expected_price_source=share&expected_price_currency=rub&expected_price=23834",
+        "origin_airport": "PES",
+        "destination_airport": "ABA",
+        "departure_at": "2024-11-27T15:10:00+03:00",
+        "airline": "D2",
+        "price": 23834,
+        "return_transfers": 0,
+        "duration_to": 430,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Petrozavodsk Airport",
+        "origin_city_code": "PES",
+        "origin_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Abakan Airport",
+        "destination_city_code": "ABA",
+        "destination_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-11-22T20:30:00+03:00",
+        "origin": "PES",
+        "destination": "ABA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T18:21:40Z",
+        "trip_class": 0,
+        "value": 24013,
+        "number_of_changes": 1,
+        "duration": null,
+        "distance": 3388,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 24013,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Petrozavodsk Airport",
+        "origin_city_code": "PES",
+        "origin_coordinates": {
+            "lat": 61.683334,
+            "lon": 34.333332
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Abakan Airport",
+        "destination_city_code": "ABA",
+        "destination_coordinates": {
+            "lat": 53.716667,
+            "lon": 91.5
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

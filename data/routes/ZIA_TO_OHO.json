@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-20T21:45:00+03:00",
+        "origin": "MOW",
+        "destination": "OHO",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T20:19:08Z",
+        "trip_class": 0,
+        "value": 42863,
+        "number_of_changes": 3,
+        "duration": 1985,
+        "distance": 5615,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "421",
+        "link": "/search/ZIA2012OHO1?t=S717347311001734875400001985ZIASVXOVBKHVOHO_bcaa2711a6398782b11547e3d2a75a20_42926&search_date=24112024&expected_price_uuid=4986dd86-808f-43ab-b33e-dfb4e871fa02&expected_price_source=share&expected_price_currency=rub&expected_price=42863",
+        "origin_airport": "ZIA",
+        "destination_airport": "OHO",
+        "departure_at": "2024-12-20T21:45:00+03:00",
+        "airline": "WZ",
+        "price": 42863,
+        "return_transfers": 0,
+        "duration_to": 830,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Zhukovsky International Airport",
+        "origin_city_code": "MOW",
+        "origin_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Okhotsk",
+        "destination_city_code": "OHO",
+        "destination_coordinates": {
+            "lat": 59.416668,
+            "lon": 143.05
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

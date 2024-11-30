@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T19:20:00+04:00",
+        "origin": "KUF",
+        "destination": "IAA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T04:18:58Z",
+        "trip_class": 0,
+        "value": 30419,
+        "number_of_changes": 2,
+        "duration": 1170,
+        "distance": 2468,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1034",
+        "link": "/search/KUF2611IAA1?t=U617326488001732729800001170KUFSVXKJAIAA_0a4e97a9c40c5e439942ee9ed34b374e_30419&search_date=23112024&expected_price_uuid=a24a16a0-9692-44da-97e8-f8db3c7e7b03&expected_price_source=share&expected_price_currency=rub&expected_price=30419",
+        "origin_airport": "KUF",
+        "destination_airport": "IAA",
+        "departure_at": "2024-11-26T19:20:00+04:00",
+        "airline": "WZ",
+        "price": 30419,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kurumoch International Airport",
+        "origin_city_code": "KUF",
+        "origin_coordinates": {
+            "lat": 53.50782,
+            "lon": 50.14742
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Igarka Airport",
+        "destination_city_code": "IAA",
+        "destination_coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-17T19:20:00+04:00",
+        "origin": "KUF",
+        "destination": "IAA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T20:33:35Z",
+        "trip_class": 0,
+        "value": 31800,
+        "number_of_changes": 2,
+        "duration": 1170,
+        "distance": 2468,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1034",
+        "link": "/search/KUF1712IAA1?t=U617344632001734544200001170KUFSVXKJAIAA_14164da6d93f68daf07784cb53330ae0_31799&search_date=20112024&expected_price_uuid=0b0de9a3-e386-43af-b536-fb5619cf4400&expected_price_source=share&expected_price_currency=rub&expected_price=31800",
+        "origin_airport": "KUF",
+        "destination_airport": "IAA",
+        "departure_at": "2024-12-17T19:20:00+04:00",
+        "airline": "WZ",
+        "price": 31800,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kurumoch International Airport",
+        "origin_city_code": "KUF",
+        "origin_coordinates": {
+            "lat": 53.50782,
+            "lon": 50.14742
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Igarka Airport",
+        "destination_city_code": "IAA",
+        "destination_coordinates": {
+            "lat": 67.433334,
+            "lon": 86.63333
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

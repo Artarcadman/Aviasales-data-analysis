@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-23T15:55:00+08:00",
+        "origin": "BTK",
+        "destination": "CEE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-18T15:03:40Z",
+        "trip_class": 0,
+        "value": 29904,
+        "number_of_changes": 2,
+        "duration": null,
+        "distance": 3642,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 29904,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Cherepovets Airport",
+        "destination_city_code": "CEE",
+        "destination_coordinates": {
+            "lat": 59.283333,
+            "lon": 38.066666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-24T09:50:00+08:00",
+        "origin": "BTK",
+        "destination": "CEE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-18T15:01:09Z",
+        "trip_class": 0,
+        "value": 33260,
+        "number_of_changes": 1,
+        "duration": 3220,
+        "distance": 3642,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "3042",
+        "link": "/search/BTK2411CEE1?t=S717324418001732617000003220BTKDMESVOCEE_e447ec9028746722e9f2c5746587fd74_33409&search_date=18112024&expected_price_uuid=97de9549-f10e-44e9-9435-be511b097a02&expected_price_source=share&expected_price_currency=rub&expected_price=33260",
+        "origin_airport": "BTK",
+        "destination_airport": "CEE",
+        "departure_at": "2024-11-24T09:50:00+08:00",
+        "airline": "S7",
+        "price": 33260,
+        "return_transfers": 0,
+        "duration_to": 410,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bratsk Airport",
+        "origin_city_code": "BTK",
+        "origin_coordinates": {
+            "lat": 56.36667,
+            "lon": 101.816666
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Cherepovets Airport",
+        "destination_city_code": "CEE",
+        "destination_coordinates": {
+            "lat": 59.283333,
+            "lon": 38.066666
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-30T09:50:00+05:00",
+        "origin": "NYM",
+        "destination": "ESL",
+        "gate": "SuperKassa",
+        "return_date": "",
+        "found_at": "2024-11-21T19:43:31Z",
+        "trip_class": 0,
+        "value": 23098,
+        "number_of_changes": 1,
+        "duration": 1860,
+        "distance": 2716,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "174",
+        "link": "/search/NYM3011ESL1?t=SU17329602001733064600001860NYMDMESVOESL_9ce2dbac2d69e6e262fd4868f5d54274_23096&search_date=21112024&expected_price_uuid=d6071c63-1950-4f45-beca-af9365d81503&expected_price_source=share&expected_price_currency=rub&expected_price=23098",
+        "origin_airport": "NYM",
+        "destination_airport": "ESL",
+        "departure_at": "2024-11-30T09:50:00+05:00",
+        "airline": "YC",
+        "price": 23098,
+        "return_transfers": 0,
+        "duration_to": 435,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Nadym Airport",
+        "origin_city_code": "NYM",
+        "origin_coordinates": {
+            "lat": 65.48333,
+            "lon": 72.71667
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Elista Airport",
+        "destination_city_code": "ESL",
+        "destination_coordinates": {
+            "lat": 46.36667,
+            "lon": 44.333332
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-04T16:50:00+05:00",
+        "origin": "BVJ",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T00:42:04Z",
+        "trip_class": 0,
+        "value": 51279,
+        "number_of_changes": 2,
+        "duration": 3825,
+        "distance": 2180,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9664",
+        "link": "/search/BVJ0412SVO1?t=DP17333310001733553300003825BVJNYMTJMSVO_d7f71f0419d70036a3cf912585f58ae2_51140&search_date=25112024&expected_price_uuid=3dc0de80-39f6-4c51-9aea-f1916af30703&expected_price_source=share&expected_price_currency=rub&expected_price=51279",
+        "origin_airport": "BVJ",
+        "destination_airport": "SVO",
+        "departure_at": "2024-12-04T16:50:00+05:00",
+        "airline": "4G",
+        "price": 51279,
+        "return_transfers": 0,
+        "duration_to": 350,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bovanenkovo",
+        "origin_city_code": "BVJ",
+        "origin_coordinates": {
+            "lat": 70.31528,
+            "lon": 68.33361
+        },
+        "origin_time_zone": "Asia/Dushanbe",
+        "destination_airport_name": "Sheremetyevo International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-05T14:40:00+05:00",
+        "origin": "BVJ",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T14:46:37Z",
+        "trip_class": 0,
+        "value": 52184,
+        "number_of_changes": 2,
+        "duration": 3995,
+        "distance": 2180,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "9666",
+        "link": "/search/BVJ0512SVO1?t=SU17334096001733642100003995BVJNYMTJMSVO_dfe8bc2d126c790c936c0314e03523d6_52227&search_date=25112024&expected_price_uuid=c95a0ff0-59b2-4500-8c5a-35116d8b3500&expected_price_source=share&expected_price_currency=rub&expected_price=52184",
+        "origin_airport": "BVJ",
+        "destination_airport": "SVO",
+        "departure_at": "2024-12-05T14:40:00+05:00",
+        "airline": "4G",
+        "price": 52184,
+        "return_transfers": 0,
+        "duration_to": 360,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bovanenkovo",
+        "origin_city_code": "BVJ",
+        "origin_coordinates": {
+            "lat": 70.31528,
+            "lon": 68.33361
+        },
+        "origin_time_zone": "Asia/Dushanbe",
+        "destination_airport_name": "Sheremetyevo International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.966324,
+            "lon": 37.416573
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

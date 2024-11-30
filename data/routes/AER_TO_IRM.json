@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-26T11:50:00+03:00",
+        "origin": "AER",
+        "destination": "IRM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T07:34:15Z",
+        "trip_class": 0,
+        "value": 16180,
+        "number_of_changes": 1,
+        "duration": 3000,
+        "distance": 2697,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "509",
+        "link": "/search/AER2611IRM1?t=N417326218001732809000003000AERTJMIRM_10f6f949ad84d1ef86e0a21452df3789_16180&search_date=23112024&expected_price_uuid=8982f574-b00e-412b-8a6a-659970e8ad02&expected_price_source=share&expected_price_currency=rub&expected_price=16180",
+        "origin_airport": "AER",
+        "destination_airport": "IRM",
+        "departure_at": "2024-11-26T11:50:00+03:00",
+        "airline": "N4",
+        "price": 16180,
+        "return_transfers": 0,
+        "duration_to": 355,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sochi International Airport",
+        "origin_city_code": "AER",
+        "origin_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Igrim",
+        "destination_city_code": "IRM",
+        "destination_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-25T13:10:00+03:00",
+        "origin": "AER",
+        "destination": "IRM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T07:34:38Z",
+        "trip_class": 0,
+        "value": 17047,
+        "number_of_changes": 2,
+        "duration": 4020,
+        "distance": 2697,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "512",
+        "link": "/search/AER2511IRM1?t=UT17325402001732788600004020AERSGCHMAIRM_1d8571d516483d3fa3b8020f5168fced_17047&search_date=23112024&expected_price_uuid=55431419-f53e-4c93-b831-da0487200d03&expected_price_source=share&expected_price_currency=rub&expected_price=17047",
+        "origin_airport": "AER",
+        "destination_airport": "IRM",
+        "departure_at": "2024-11-25T13:10:00+03:00",
+        "airline": "UT",
+        "price": 17047,
+        "return_transfers": 0,
+        "duration_to": 405,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Sochi International Airport",
+        "origin_city_code": "AER",
+        "origin_coordinates": {
+            "lat": 43.44884,
+            "lon": 39.941105
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Igrim",
+        "destination_city_code": "IRM",
+        "destination_coordinates": {
+            "lat": 63.200756,
+            "lon": 64.433945
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

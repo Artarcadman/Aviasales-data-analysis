@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T14:30:00+03:00",
+        "origin": "IWA",
+        "destination": "DYR",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T18:58:08Z",
+        "trip_class": 0,
+        "value": 31284,
+        "number_of_changes": 2,
+        "duration": 3660,
+        "distance": 6000,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "394",
+        "link": "/search/IWA2611DYR1?t=SU17326314001732883400003660IWALEDSVODYR_b0ad8249556efc1b99c5dd2a41c0e4df_30997&search_date=22112024&expected_price_uuid=b73b956c-60e7-4356-bd51-84e602fb7c01&expected_price_source=share&expected_price_currency=rub&expected_price=31284",
+        "origin_airport": "IWA",
+        "destination_airport": "DYR",
+        "departure_at": "2024-11-26T14:30:00+03:00",
+        "airline": "N4",
+        "price": 31284,
+        "return_transfers": 0,
+        "duration_to": 695,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ivanovo Yuzhny Airport",
+        "origin_city_code": "IWA",
+        "origin_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Anadyr Airport",
+        "destination_city_code": "DYR",
+        "destination_coordinates": {
+            "lat": 64.73333,
+            "lon": 177.75
+        },
+        "destination_time_zone": "Asia/Anadyr"
+    }
+]

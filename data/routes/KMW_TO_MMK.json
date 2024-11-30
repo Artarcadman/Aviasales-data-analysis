@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-22T11:50:00+03:00",
+        "origin": "KMW",
+        "destination": "MMK",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-21T22:54:50Z",
+        "trip_class": 0,
+        "value": 11285,
+        "number_of_changes": 1,
+        "duration": 620,
+        "distance": 1290,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "17",
+        "link": "/search/KMW2212MMK1?t=КБ17348682001734905400000620KMWLEDMMK_bdb0233e1a1402687ae6e69072654f64_11286&search_date=21112024&expected_price_uuid=36d0ab0d-26ed-45c3-a01a-2b6136d14e03&expected_price_source=share&expected_price_currency=rub&expected_price=11285",
+        "origin_airport": "KMW",
+        "destination_airport": "MMK",
+        "departure_at": "2024-12-22T11:50:00+03:00",
+        "airline": "КБ",
+        "price": 11285,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Sokerkino",
+        "origin_city_code": "KMW",
+        "origin_coordinates": {
+            "lat": 57.75,
+            "lon": 40.933334
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Murmansk Airport",
+        "destination_city_code": "MMK",
+        "destination_coordinates": {
+            "lat": 68.785095,
+            "lon": 32.759155
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

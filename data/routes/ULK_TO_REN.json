@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-17T17:55:00+09:00",
+        "origin": "ULK",
+        "destination": "REN",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T03:48:36Z",
+        "trip_class": 0,
+        "value": 37714,
+        "number_of_changes": 2,
+        "duration": 1315,
+        "distance": 3659,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "181",
+        "link": "/search/ULK1712REN1?t=U617344581001734522600001315ULKIKTSVXREN_495a1492509062f3cf1c5ef2abef2dad_37412&search_date=19112024&expected_price_uuid=091dea58-1f48-4177-9689-58e1eb255302&expected_price_source=share&expected_price_currency=rub&expected_price=37714",
+        "origin_airport": "ULK",
+        "destination_airport": "REN",
+        "departure_at": "2024-12-17T17:55:00+09:00",
+        "airline": "IO",
+        "price": 37714,
+        "return_transfers": 0,
+        "duration_to": 555,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Lensk Airport",
+        "origin_city_code": "ULK",
+        "origin_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Orenburg Airport",
+        "destination_city_code": "REN",
+        "destination_coordinates": {
+            "lat": 51.79105,
+            "lon": 55.4567
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-26T17:55:00+09:00",
+        "origin": "ULK",
+        "destination": "REN",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T09:55:14Z",
+        "trip_class": 0,
+        "value": 46090,
+        "number_of_changes": 2,
+        "duration": 2350,
+        "distance": 3659,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "181",
+        "link": "/search/ULK2611REN1?t=SU17326437001732770300002350ULKIKTSVOREN_1d408642d94d3cbda6028a6450fc6333_46063&search_date=19112024&expected_price_uuid=0eef33ef-4dc5-4b84-9fe5-21b4863d4301&expected_price_source=share&expected_price_currency=rub&expected_price=46090",
+        "origin_airport": "ULK",
+        "destination_airport": "REN",
+        "departure_at": "2024-11-26T17:55:00+09:00",
+        "airline": "IO",
+        "price": 46090,
+        "return_transfers": 0,
+        "duration_to": 720,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Lensk Airport",
+        "origin_city_code": "ULK",
+        "origin_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Orenburg Airport",
+        "destination_city_code": "REN",
+        "destination_coordinates": {
+            "lat": 51.79105,
+            "lon": 55.4567
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

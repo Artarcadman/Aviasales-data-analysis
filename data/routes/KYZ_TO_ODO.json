@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-11T07:55:00+07:00",
+        "origin": "KYZ",
+        "destination": "ODO",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T22:09:08Z",
+        "trip_class": 0,
+        "value": 25809,
+        "number_of_changes": 1,
+        "duration": 305,
+        "distance": 1434,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "475",
+        "link": "/search/KYZ1112ODO1?t=IO17339037001733925600000305KYZIKTODO_4074daf1621ff9cfc23a6f3ab2954b6e_25820&search_date=22112024&expected_price_uuid=d2abfd2a-5275-4e7d-8e05-815eaea90f23&expected_price_source=share&expected_price_currency=rub&expected_price=25809",
+        "origin_airport": "KYZ",
+        "destination_airport": "ODO",
+        "departure_at": "2024-12-11T07:55:00+07:00",
+        "airline": "IO",
+        "price": 25809,
+        "return_transfers": 0,
+        "duration_to": 245,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kyzyl Airport",
+        "origin_city_code": "KYZ",
+        "origin_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Bodaybo Airport",
+        "destination_city_code": "ODO",
+        "destination_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-04T07:55:00+07:00",
+        "origin": "KYZ",
+        "destination": "ODO",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T04:09:28Z",
+        "trip_class": 0,
+        "value": 32765,
+        "number_of_changes": 1,
+        "duration": 305,
+        "distance": 1434,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "475",
+        "link": "/search/KYZ0412ODO1?t=IO17332989001733320800000305KYZIKTODO_1eacec97577c60782686e8718cd04b78_31820&search_date=22112024&expected_price_uuid=4e685c94-914c-4996-8918-5b4253be406e&expected_price_source=share&expected_price_currency=rub&expected_price=32765",
+        "origin_airport": "KYZ",
+        "destination_airport": "ODO",
+        "departure_at": "2024-12-04T07:55:00+07:00",
+        "airline": "IO",
+        "price": 32765,
+        "return_transfers": 0,
+        "duration_to": 245,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kyzyl Airport",
+        "origin_city_code": "KYZ",
+        "origin_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Bodaybo Airport",
+        "destination_city_code": "ODO",
+        "destination_coordinates": {
+            "lat": 57.86639,
+            "lon": 114.2425
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

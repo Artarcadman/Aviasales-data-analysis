@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-09T11:10:00+04:00",
+        "origin": "ULY",
+        "destination": "CYX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T13:21:10Z",
+        "trip_class": 0,
+        "value": 71352,
+        "number_of_changes": 2,
+        "duration": 2510,
+        "distance": 5300,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "466",
+        "link": "/search/ULV0912CYX1?t=R317337426001733918400002510ULVVKOYKSCYX_be9bece24f353534abf1b84281872d58_71173&search_date=20112024&expected_price_uuid=bf01de6d-1a45-4acf-9ccd-83ede3e87503&expected_price_source=share&expected_price_currency=rub&expected_price=71352",
+        "origin_airport": "ULV",
+        "destination_airport": "CYX",
+        "departure_at": "2024-12-09T11:10:00+04:00",
+        "airline": "DP",
+        "price": 71352,
+        "return_transfers": 0,
+        "duration_to": 810,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Baratayevka",
+        "origin_city_code": "ULY",
+        "origin_coordinates": {
+            "lat": 54.268333,
+            "lon": 48.226665
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Cherskiy Airport",
+        "destination_city_code": "CYX",
+        "destination_coordinates": {
+            "lat": 68.75,
+            "lon": 161.35
+        },
+        "destination_time_zone": "Asia/Srednekolymsk"
+    }
+]

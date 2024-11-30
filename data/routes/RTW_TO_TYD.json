@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-10T16:45:00+04:00",
+        "origin": "RTW",
+        "destination": "TYD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T12:19:07Z",
+        "trip_class": 0,
+        "value": 28653,
+        "number_of_changes": 3,
+        "duration": 3665,
+        "distance": 4930,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6862",
+        "link": "/search/RTW1012TYD1?t=DP17338491001734087000003665GSVSVOKJABQSTYD_4ed18622ce82f3042597be9779501919_28571&search_date=21112024&expected_price_uuid=92000520-e08c-44f1-9aa1-86ae13145201&expected_price_source=share&expected_price_currency=rub&expected_price=28653",
+        "origin_airport": "GSV",
+        "destination_airport": "TYD",
+        "departure_at": "2024-12-10T16:45:00+04:00",
+        "airline": "DP",
+        "price": 28653,
+        "return_transfers": 0,
+        "duration_to": 710,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Saratov Tsentralny Airport",
+        "origin_city_code": "RTW",
+        "origin_coordinates": {
+            "lat": 51.566666,
+            "lon": 46.066666
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Tynda Airport",
+        "destination_city_code": "TYD",
+        "destination_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-12-02T16:45:00+04:00",
+        "origin": "RTW",
+        "destination": "TYD",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T12:18:28Z",
+        "trip_class": 0,
+        "value": 29884,
+        "number_of_changes": 3,
+        "duration": 2210,
+        "distance": 4930,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6862",
+        "link": "/search/RTW0212TYD1?t=SU17331579001733308500002210GSVSVOKJABQSTYD_ec42c8036d6dbab82ea9981b41960bfd_29798&search_date=21112024&expected_price_uuid=6d193443-0f4c-43c4-9b29-83c5b9f8d101&expected_price_source=share&expected_price_currency=rub&expected_price=29884",
+        "origin_airport": "GSV",
+        "destination_airport": "TYD",
+        "departure_at": "2024-12-02T16:45:00+04:00",
+        "airline": "DP",
+        "price": 29884,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Saratov Tsentralny Airport",
+        "origin_city_code": "RTW",
+        "origin_coordinates": {
+            "lat": 51.566666,
+            "lon": 46.066666
+        },
+        "origin_time_zone": "Europe/Samara",
+        "destination_airport_name": "Tynda Airport",
+        "destination_city_code": "TYD",
+        "destination_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-16T09:40:00+09:00",
+        "origin": "TLK",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T08:13:56Z",
+        "trip_class": 0,
+        "value": 79197,
+        "number_of_changes": 2,
+        "duration": 3295,
+        "distance": 4684,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5358",
+        "link": "/search/TLK1612IGT1?t=DP17343420001734518100003295TLKOVBVKOSVOIGT_66a44ccb826c63820af4cd8def2ab3f2_78576&search_date=21112024&expected_price_uuid=da669730-02d2-4fa4-a71f-6d313213bb00&expected_price_source=share&expected_price_currency=rub&expected_price=79197",
+        "origin_airport": "TLK",
+        "destination_airport": "IGT",
+        "departure_at": "2024-12-16T09:40:00+09:00",
+        "airline": "S7",
+        "price": 79197,
+        "return_transfers": 0,
+        "duration_to": 640,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Talakan",
+        "origin_city_code": "TLK",
+        "origin_coordinates": {
+            "lat": 59.8692,
+            "lon": 111.04371
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-28T22:00:00+03:00",
+        "origin": "KVX",
+        "destination": "ULK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T09:19:46Z",
+        "trip_class": 0,
+        "value": 36408,
+        "number_of_changes": 2,
+        "duration": 1880,
+        "distance": 3537,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6820",
+        "link": "/search/KVX2811ULK1?t=6R17328312001732965600001880KVXSVOVKOMJZULK_7e880c306315debcb3ba0dc4556a4ad6_36207&search_date=19112024&expected_price_uuid=1e37f48f-333d-401a-adc1-b3b687241c01&expected_price_source=share&expected_price_currency=rub&expected_price=36408",
+        "origin_airport": "KVX",
+        "destination_airport": "ULK",
+        "departure_at": "2024-11-28T22:00:00+03:00",
+        "airline": "DP",
+        "price": 36408,
+        "return_transfers": 0,
+        "duration_to": 505,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kirov Airport",
+        "origin_city_code": "KVX",
+        "origin_coordinates": {
+            "lat": 58.5,
+            "lon": 49.35
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Lensk Airport",
+        "destination_city_code": "ULK",
+        "destination_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

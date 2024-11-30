@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-13T05:10:00+07:00",
+        "origin": "OVB",
+        "destination": "VAQ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T00:48:24Z",
+        "trip_class": 0,
+        "value": 17021,
+        "number_of_changes": 1,
+        "duration": 770,
+        "distance": 1303,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6862",
+        "link": "/search/OVB1312VAQ1?t=KV17340666001734112800000770OVBKJAVAQ_2052f2abf407faf3891e62da36618b50_16975&search_date=25112024&expected_price_uuid=5996e0ef-c759-49bd-a5b1-f81b03416e0b&expected_price_source=share&expected_price_currency=rub&expected_price=17021",
+        "origin_airport": "OVB",
+        "destination_airport": "VAQ",
+        "departure_at": "2024-12-13T05:10:00+07:00",
+        "airline": "SU",
+        "price": 17021,
+        "return_transfers": 0,
+        "duration_to": 215,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Novosibirsk Tolmachevo Airport",
+        "origin_city_code": "OVB",
+        "origin_coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Vanavara",
+        "destination_city_code": "VAQ",
+        "destination_coordinates": {
+            "lat": 60.356667,
+            "lon": 102.31
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-27T05:10:00+07:00",
+        "origin": "OVB",
+        "destination": "VAQ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T06:41:09Z",
+        "trip_class": 0,
+        "value": 19375,
+        "number_of_changes": 1,
+        "duration": 785,
+        "distance": 1303,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6862",
+        "link": "/search/OVB2712VAQ1?t=KV17352762001735323300000785OVBKJAVAQ_675c875c7e0c9b408a165ed1058f8473_19375&search_date=23112024&expected_price_uuid=3ce54730-ac4b-4c55-9aa4-95e9d51c20e7&expected_price_source=share&expected_price_currency=rub&expected_price=19375",
+        "origin_airport": "OVB",
+        "destination_airport": "VAQ",
+        "departure_at": "2024-12-27T05:10:00+07:00",
+        "airline": "SU",
+        "price": 19375,
+        "return_transfers": 0,
+        "duration_to": 225,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Novosibirsk Tolmachevo Airport",
+        "origin_city_code": "OVB",
+        "origin_coordinates": {
+            "lat": 55.00901,
+            "lon": 82.667
+        },
+        "origin_time_zone": "Asia/Novosibirsk",
+        "destination_airport_name": "Vanavara",
+        "destination_city_code": "VAQ",
+        "destination_coordinates": {
+            "lat": 60.356667,
+            "lon": 102.31
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

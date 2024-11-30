@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-16T04:00:00+03:00",
+        "origin": "UUA",
+        "destination": "ARH",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T19:04:12Z",
+        "trip_class": 0,
+        "value": 14593,
+        "number_of_changes": 1,
+        "duration": 2080,
+        "distance": 1296,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "301",
+        "link": "/search/UUA1612ARH1?t=5N17343216001734446400002080UUAVKOSVOARH_a7e555b98e7e72d70a2ddaee8b567ea2_14595&search_date=21112024&expected_price_uuid=f7144ef3-801c-4897-9999-59ee3cf57503&expected_price_source=share&expected_price_currency=rub&expected_price=14593",
+        "origin_airport": "UUA",
+        "destination_airport": "ARH",
+        "departure_at": "2024-12-16T04:00:00+03:00",
+        "airline": "RT",
+        "price": 14593,
+        "return_transfers": 0,
+        "duration_to": 215,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Talagi Airport",
+        "destination_city_code": "ARH",
+        "destination_coordinates": {
+            "lat": 64.594795,
+            "lon": 40.711903
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-06T21:30:00+03:00",
+        "origin": "UUA",
+        "destination": "ARH",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T19:04:26Z",
+        "trip_class": 0,
+        "value": 23510,
+        "number_of_changes": 2,
+        "duration": 770,
+        "distance": 1296,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "331",
+        "link": "/search/UUA0612ARH1?t=SU17335206001733566800000770UUANJCLEDARH_492d73829f5c6c5d8811389521472bb7_23514&search_date=21112024&expected_price_uuid=455b98b8-f5db-4ffe-abbe-e16a92817c03&expected_price_source=share&expected_price_currency=rub&expected_price=23510",
+        "origin_airport": "UUA",
+        "destination_airport": "ARH",
+        "departure_at": "2024-12-06T21:30:00+03:00",
+        "airline": "RT",
+        "price": 23510,
+        "return_transfers": 0,
+        "duration_to": 465,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Talagi Airport",
+        "destination_city_code": "ARH",
+        "destination_coordinates": {
+            "lat": 64.594795,
+            "lon": 40.711903
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

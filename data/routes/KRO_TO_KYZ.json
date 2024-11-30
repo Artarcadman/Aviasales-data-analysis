@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-04T15:10:00+05:00",
+        "origin": "KRO",
+        "destination": "KYZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T13:54:28Z",
+        "trip_class": 0,
+        "value": 28405,
+        "number_of_changes": 2,
+        "duration": 3835,
+        "distance": 1954,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "348",
+        "link": "/search/KRO0412KYZ1?t=Y717333250001733562300003835KROLEDKJAKYZ_93ca614441b568aaffed14a7ea9bba20_28294&search_date=21112024&expected_price_uuid=53259057-df84-408e-bb23-c468859f3000&expected_price_source=share&expected_price_currency=rub&expected_price=28405",
+        "origin_airport": "KRO",
+        "destination_airport": "KYZ",
+        "departure_at": "2024-12-04T15:10:00+05:00",
+        "airline": "EO",
+        "price": 28405,
+        "return_transfers": 0,
+        "duration_to": 625,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kyzyl Airport",
+        "destination_city_code": "KYZ",
+        "destination_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-11-26T07:00:00+05:00",
+        "origin": "KRO",
+        "destination": "KYZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T03:44:10Z",
+        "trip_class": 0,
+        "value": 30294,
+        "number_of_changes": 1,
+        "duration": 1315,
+        "distance": 1954,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1092",
+        "link": "/search/KRO2611KYZ1?t=IO17326044001732690500001315KRODMEKYZ_7e2ed4f537e8007a0324537f255c2575_30190&search_date=25112024&expected_price_uuid=2a91ade9-a88f-4f7c-ad80-f6d95fb59e6b&expected_price_source=share&expected_price_currency=rub&expected_price=30294",
+        "origin_airport": "KRO",
+        "destination_airport": "KYZ",
+        "departure_at": "2024-11-26T07:00:00+05:00",
+        "airline": "Y7",
+        "price": 30294,
+        "return_transfers": 0,
+        "duration_to": 475,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kurgan Airport",
+        "origin_city_code": "KRO",
+        "origin_coordinates": {
+            "lat": 55.433334,
+            "lon": 65.3
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kyzyl Airport",
+        "destination_city_code": "KYZ",
+        "destination_coordinates": {
+            "lat": 51.7,
+            "lon": 94.46667
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

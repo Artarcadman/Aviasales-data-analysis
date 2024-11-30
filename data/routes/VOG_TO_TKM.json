@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-05T17:45:00+03:00",
+        "origin": "VOG",
+        "destination": "TKM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:17:27Z",
+        "trip_class": 0,
+        "value": 30087,
+        "number_of_changes": 2,
+        "duration": 3585,
+        "distance": 4626,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6966",
+        "link": "/search/VOG0512TKM1?t=DP17334207001733653800003585VOGSVOIKTTKM_a53ed628d4ab773dea573a73707b4a6f_29219&search_date=22112024&expected_price_uuid=9f2fe1fe-570b-4b27-9263-6bce1be0c200&expected_price_source=share&expected_price_currency=rub&expected_price=30087",
+        "origin_airport": "VOG",
+        "destination_airport": "TKM",
+        "departure_at": "2024-12-05T17:45:00+03:00",
+        "airline": "DP",
+        "price": 30087,
+        "return_transfers": 0,
+        "duration_to": 625,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Volgograd International Airport",
+        "origin_city_code": "VOG",
+        "origin_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Taksimo",
+        "destination_city_code": "TKM",
+        "destination_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-12-06T17:00:00+03:00",
+        "origin": "VOG",
+        "destination": "TKM",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:17:13Z",
+        "trip_class": 0,
+        "value": 30655,
+        "number_of_changes": 2,
+        "duration": 2190,
+        "distance": 4626,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6968",
+        "link": "/search/VOG0612TKM1?t=DP17335044001733653800002190VOGSVOIKTTKM_5b9acfd66749ffa392bb50de04554b61_29771&search_date=22112024&expected_price_uuid=c7ba74ad-e8eb-4e78-8b3a-3940b0007002&expected_price_source=share&expected_price_currency=rub&expected_price=30655",
+        "origin_airport": "VOG",
+        "destination_airport": "TKM",
+        "departure_at": "2024-12-06T17:00:00+03:00",
+        "airline": "DP",
+        "price": 30655,
+        "return_transfers": 0,
+        "duration_to": 625,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Volgograd International Airport",
+        "origin_city_code": "VOG",
+        "origin_coordinates": {
+            "lat": 48.792,
+            "lon": 44.354805
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Taksimo",
+        "destination_city_code": "TKM",
+        "destination_coordinates": {
+            "lat": 56.361668,
+            "lon": 114.92722
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-05T06:00:00+05:00",
+        "origin": "PEE",
+        "destination": "KCK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T07:11:56Z",
+        "trip_class": 0,
+        "value": 29539,
+        "number_of_changes": 2,
+        "duration": 1495,
+        "distance": 3002,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6512",
+        "link": "/search/PEE0512KCK1?t=S717333784001733478900001495PEESVODMEIKTKCK_22b3544f3853750f1a14b4dd5a952983_29457&search_date=25112024&expected_price_uuid=ccca313a-ddc8-412f-9db8-4af6a3f4a303&expected_price_source=share&expected_price_currency=rub&expected_price=29539",
+        "origin_airport": "PEE",
+        "destination_airport": "KCK",
+        "departure_at": "2024-12-05T06:00:00+05:00",
+        "airline": "DP",
+        "price": 29539,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Perm International Airport",
+        "origin_city_code": "PEE",
+        "origin_coordinates": {
+            "lat": 57.920025,
+            "lon": 56.01918
+        },
+        "origin_time_zone": "Asia/Yekaterinburg",
+        "destination_airport_name": "Kirensk Airport",
+        "destination_city_code": "KCK",
+        "destination_coordinates": {
+            "lat": 57.772778,
+            "lon": 108.06084
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

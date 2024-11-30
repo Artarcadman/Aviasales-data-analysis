@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-04T13:00:00+11:00",
+        "origin": "DEE",
+        "destination": "LED",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-23T22:49:41Z",
+        "trip_class": 0,
+        "value": 28199,
+        "number_of_changes": 2,
+        "duration": 3115,
+        "distance": 7070,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4626",
+        "link": "/search/DEE0412LED1?t=SU17333172001733475300003115DEEUUSSVODMELED_d3a93b42b434c9063bfce1237c4c881a_28199&search_date=23112024&expected_price_uuid=62023545-d622-4154-8a22-e6d199248400&expected_price_source=share&expected_price_currency=rub&expected_price=28199",
+        "origin_airport": "DEE",
+        "destination_airport": "LED",
+        "departure_at": "2024-12-04T13:00:00+11:00",
+        "airline": "HZ",
+        "price": 28199,
+        "return_transfers": 0,
+        "duration_to": 720,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Mendeleyevo Airport",
+        "origin_city_code": "DEE",
+        "origin_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Pulkovo Airport",
+        "destination_city_code": "LED",
+        "destination_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-27T13:00:00+11:00",
+        "origin": "DEE",
+        "destination": "LED",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T20:46:11Z",
+        "trip_class": 0,
+        "value": 28200,
+        "number_of_changes": 2,
+        "duration": 3115,
+        "distance": 7070,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4626",
+        "link": "/search/DEE2711LED1?t=SU17327124001732870500003115DEEUUSSVODMELED_45a6a6f8958f2a2d47129c8ef4255f47_28199&search_date=20112024&expected_price_uuid=16019e29-87e8-4cd7-8f06-1beb25b7a203&expected_price_source=share&expected_price_currency=rub&expected_price=28200",
+        "origin_airport": "DEE",
+        "destination_airport": "LED",
+        "departure_at": "2024-11-27T13:00:00+11:00",
+        "airline": "HZ",
+        "price": 28200,
+        "return_transfers": 0,
+        "duration_to": 720,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Mendeleyevo Airport",
+        "origin_city_code": "DEE",
+        "origin_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "origin_time_zone": "Asia/Sakhalin",
+        "destination_airport_name": "Pulkovo Airport",
+        "destination_city_code": "LED",
+        "destination_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

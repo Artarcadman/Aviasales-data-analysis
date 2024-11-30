@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-01-05T19:10:00+07:00",
+        "origin": "THX",
+        "destination": "NOZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T02:40:58Z",
+        "trip_class": 0,
+        "value": 26165,
+        "number_of_changes": 1,
+        "duration": 1270,
+        "distance": 1340,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "174",
+        "link": "/search/THX0501NOZ1?t=KV17361042001736180400001270THXKJANOZ_a0d9f98028c5a9c44876416fff0034bf_26165&search_date=23112024&expected_price_uuid=1fb043cf-4a1c-4625-9e0f-7fb4ed5f9bed&expected_price_source=share&expected_price_currency=rub&expected_price=26165",
+        "origin_airport": "THX",
+        "destination_airport": "NOZ",
+        "departure_at": "2025-01-05T19:10:00+07:00",
+        "airline": "KV",
+        "price": 26165,
+        "return_transfers": 0,
+        "duration_to": 245,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Turukhansk Airport",
+        "origin_city_code": "THX",
+        "origin_coordinates": {
+            "lat": 65.79722,
+            "lon": 87.93528
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Novokuznetsk Airport",
+        "destination_city_code": "NOZ",
+        "destination_coordinates": {
+            "lat": 53.75,
+            "lon": 87.166664
+        },
+        "destination_time_zone": "Asia/Novokuznetsk"
+    },
+    {
+        "depart_date": "2024-12-29T19:05:00+07:00",
+        "origin": "THX",
+        "destination": "NOZ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T02:40:57Z",
+        "trip_class": 0,
+        "value": 33165,
+        "number_of_changes": 1,
+        "duration": 1420,
+        "distance": 1340,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "174",
+        "link": "/search/THX2912NOZ1?t=KV17354991001735584300001420THXKJANOZ_7962234b5f8053584e58ea17e8425ac9_33165&search_date=23112024&expected_price_uuid=31bece93-3e32-41d5-9c16-c25682a406c5&expected_price_source=share&expected_price_currency=rub&expected_price=33165",
+        "origin_airport": "THX",
+        "destination_airport": "NOZ",
+        "departure_at": "2024-12-29T19:05:00+07:00",
+        "airline": "KV",
+        "price": 33165,
+        "return_transfers": 0,
+        "duration_to": 260,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Turukhansk Airport",
+        "origin_city_code": "THX",
+        "origin_coordinates": {
+            "lat": 65.79722,
+            "lon": 87.93528
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Novokuznetsk Airport",
+        "destination_city_code": "NOZ",
+        "destination_coordinates": {
+            "lat": 53.75,
+            "lon": 87.166664
+        },
+        "destination_time_zone": "Asia/Novokuznetsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-25T21:20:00+03:00",
+        "origin": "CSY",
+        "destination": "MJZ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T03:01:39Z",
+        "trip_class": 0,
+        "value": 30295,
+        "number_of_changes": 2,
+        "duration": 3110,
+        "distance": 3675,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6816",
+        "link": "/search/CSY2511MJZ1?t=6R17325696001732777800003110CSYSVOVKOOVBMJZ_ad4d83998f36c5cec0357ff07d4eab7a_30219&search_date=25112024&expected_price_uuid=f8c9a745-16ac-4d93-907c-631ed3c9f300&expected_price_source=share&expected_price_currency=rub&expected_price=30295",
+        "origin_airport": "CSY",
+        "destination_airport": "MJZ",
+        "departure_at": "2024-11-25T21:20:00+03:00",
+        "airline": "DP",
+        "price": 30295,
+        "return_transfers": 0,
+        "duration_to": 500,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Cheboksary Airport",
+        "origin_city_code": "CSY",
+        "origin_coordinates": {
+            "lat": 56.13333,
+            "lon": 47.266666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Mirnyj Airport",
+        "destination_city_code": "MJZ",
+        "destination_coordinates": {
+            "lat": 62.533333,
+            "lon": 114.03333
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-04T14:30:00+08:00",
+        "origin": "NZG",
+        "destination": "IJK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T10:01:01Z",
+        "trip_class": 0,
+        "value": 17514,
+        "number_of_changes": 2,
+        "duration": 3570,
+        "distance": 3364,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "210",
+        "link": "/search/NZG0412IJK1?t=U617333226001733522400003570NZGKJASVXIJK_90d32d05181f7b91df17a95cc2efde05_17616&search_date=24112024&expected_price_uuid=91889cf2-e070-4645-b632-af46012a0200&expected_price_source=share&expected_price_currency=rub&expected_price=17514",
+        "origin_airport": "NZG",
+        "destination_airport": "IJK",
+        "departure_at": "2024-12-04T14:30:00+08:00",
+        "airline": "KV",
+        "price": 17514,
+        "return_transfers": 0,
+        "duration_to": 440,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Nizhneangarsk",
+        "origin_city_code": "NZG",
+        "origin_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "origin_time_zone": "Asia/Irkutsk",
+        "destination_airport_name": "Izhevsk Airport",
+        "destination_city_code": "IJK",
+        "destination_coordinates": {
+            "lat": 56.833332,
+            "lon": 53.466667
+        },
+        "destination_time_zone": "Europe/Samara"
+    }
+]

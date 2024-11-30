@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-15T05:45:00+03:00",
+        "origin": "GRV",
+        "destination": "ULK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T21:19:41Z",
+        "trip_class": 0,
+        "value": 45606,
+        "number_of_changes": 2,
+        "duration": 2775,
+        "distance": 4834,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "356",
+        "link": "/search/GRV1512ULK1?t=DP17342415001734429600002775GRVVKOSVOIKTULK_dc277fc87572773bbd5e7d20bf64a1f6_45610&search_date=21112024&expected_price_uuid=6bd46570-33eb-4a8b-8ab4-a5513218cc02&expected_price_source=share&expected_price_currency=rub&expected_price=45606",
+        "origin_airport": "GRV",
+        "destination_airport": "ULK",
+        "departure_at": "2024-12-15T05:45:00+03:00",
+        "airline": "UT",
+        "price": 45606,
+        "return_transfers": 0,
+        "duration_to": 715,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Groznyy Airport",
+        "origin_city_code": "GRV",
+        "origin_coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Lensk Airport",
+        "destination_city_code": "ULK",
+        "destination_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    },
+    {
+        "depart_date": "2024-11-30T16:05:00+03:00",
+        "origin": "GRV",
+        "destination": "ULK",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T21:20:04Z",
+        "trip_class": 0,
+        "value": 58748,
+        "number_of_changes": 3,
+        "duration": 4010,
+        "distance": 4834,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "428",
+        "link": "/search/GRV3011ULK1?t=DP17329827001733244900004010GRVDMESVOIKTYKSULK_4ff971dfc50748a25f21b29c3c93b286_58753&search_date=21112024&expected_price_uuid=6bfe68f8-8db8-474a-a1f8-cd97587f7301&expected_price_source=share&expected_price_currency=rub&expected_price=58748",
+        "origin_airport": "GRV",
+        "destination_airport": "ULK",
+        "departure_at": "2024-11-30T16:05:00+03:00",
+        "airline": "U6",
+        "price": 58748,
+        "return_transfers": 0,
+        "duration_to": 855,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Groznyy Airport",
+        "origin_city_code": "GRV",
+        "origin_coordinates": {
+            "lat": 43.333332,
+            "lon": 45.75
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Lensk Airport",
+        "destination_city_code": "ULK",
+        "destination_coordinates": {
+            "lat": 60.72248,
+            "lon": 114.83152
+        },
+        "destination_time_zone": "Asia/Yakutsk"
+    }
+]

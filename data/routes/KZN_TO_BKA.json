@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-03-09T23:10:00+03:00",
+        "origin": "KZN",
+        "destination": "BKA",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-22T17:20:41Z",
+        "trip_class": 0,
+        "value": 21583,
+        "number_of_changes": 1,
+        "duration": 950,
+        "distance": 2739,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "7739",
+        "link": "/search/KZN0903BKA1?t=Y717415618001741633200000950KZNKJABKA_0d5fce7df91c0063e13ed4a301c12744_22392&search_date=22112024&expected_price_uuid=104fd261-8cb5-4add-aa5c-a2282bc4b302&expected_price_source=share&expected_price_currency=rub&expected_price=22677",
+        "origin_airport": "KZN",
+        "destination_airport": "BKA",
+        "departure_at": "2025-03-09T23:10:00+03:00",
+        "airline": "N4",
+        "price": 21583,
+        "return_transfers": 0,
+        "duration_to": 340,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Kazan International Airport",
+        "origin_city_code": "KZN",
+        "origin_coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bajkit",
+        "destination_city_code": "BKA",
+        "destination_coordinates": {
+            "lat": 61.676666,
+            "lon": 96.35333
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-11-30T15:45:00+03:00",
+        "origin": "KZN",
+        "destination": "BKA",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-21T17:50:11Z",
+        "trip_class": 0,
+        "value": 28692,
+        "number_of_changes": 2,
+        "duration": 2835,
+        "distance": 2739,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "244",
+        "link": "/search/KZN3011BKA1?t=Y717329815001733166000002835KZNLEDKJABKA_ca667d4378a73d1959e6629ec13e4e2a_28694&search_date=21112024&expected_price_uuid=919af78d-b6b7-4f86-8de7-dfb71453db01&expected_price_source=share&expected_price_currency=rub&expected_price=28692",
+        "origin_airport": "KZN",
+        "destination_airport": "BKA",
+        "departure_at": "2024-11-30T15:45:00+03:00",
+        "airline": "N4",
+        "price": 28692,
+        "return_transfers": 0,
+        "duration_to": 585,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Kazan International Airport",
+        "origin_city_code": "KZN",
+        "origin_coordinates": {
+            "lat": 55.60844,
+            "lon": 49.29824
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Bajkit",
+        "destination_city_code": "BKA",
+        "destination_coordinates": {
+            "lat": 61.676666,
+            "lon": 96.35333
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

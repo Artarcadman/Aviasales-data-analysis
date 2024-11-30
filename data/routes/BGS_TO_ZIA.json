@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-03T11:25:00+07:00",
+        "origin": "BGS",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-19T07:45:41Z",
+        "trip_class": 0,
+        "value": 31884,
+        "number_of_changes": 3,
+        "duration": 1415,
+        "distance": 3491,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "188",
+        "link": "/search/BGS0312ZIA1?t=WZ17332251001733295600001415BGSKJAOVBSVXZIA_916cbbc661c04f5822c1c0c4e6f3412a_31630&search_date=19112024&expected_price_uuid=66ead419-e6c6-495d-b240-fb70a3a79102&expected_price_source=share&expected_price_currency=rub&expected_price=31884",
+        "origin_airport": "BGS",
+        "destination_airport": "ZIA",
+        "departure_at": "2024-12-03T11:25:00+07:00",
+        "airline": "KV",
+        "price": 31884,
+        "return_transfers": 0,
+        "duration_to": 470,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Boguchany",
+        "origin_city_code": "BGS",
+        "origin_coordinates": {
+            "lat": 58.380554,
+            "lon": 97.47278
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Zhukovsky International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-10T11:25:00+07:00",
+        "origin": "BGS",
+        "destination": "MOW",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T12:20:18Z",
+        "trip_class": 0,
+        "value": 34695,
+        "number_of_changes": 2,
+        "duration": 1180,
+        "distance": 3491,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "188",
+        "link": "/search/BGS1012ZIA1?t=U617338299001733886300001180BGSKJATASZIA_c8ef3674d20720f6445b291303a63b1b_34693&search_date=20112024&expected_price_uuid=21aa5ce1-6f09-415e-b07e-ca154ff20b01&expected_price_source=share&expected_price_currency=rub&expected_price=34695",
+        "origin_airport": "BGS",
+        "destination_airport": "ZIA",
+        "departure_at": "2024-12-10T11:25:00+07:00",
+        "airline": "KV",
+        "price": 34695,
+        "return_transfers": 0,
+        "duration_to": 570,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Boguchany",
+        "origin_city_code": "BGS",
+        "origin_coordinates": {
+            "lat": 58.380554,
+            "lon": 97.47278
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Zhukovsky International Airport",
+        "destination_city_code": "MOW",
+        "destination_coordinates": {
+            "lat": 55.569016,
+            "lon": 38.141964
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

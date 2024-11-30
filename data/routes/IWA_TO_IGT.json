@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-29T13:00:00+03:00",
+        "origin": "IWA",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T06:48:34Z",
+        "trip_class": 0,
+        "value": 35943,
+        "number_of_changes": 2,
+        "duration": 2735,
+        "distance": 1541,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "394",
+        "link": "/search/IWA2912IGT1?t=DP17354772001735641300002735IWALEDVKOSVOIGT_3bfeb86c4cdb211bcf65a052aab762bf_34907&search_date=22112024&expected_price_uuid=c1e7524c-8a7e-40fe-8be4-96e150439301&expected_price_source=share&expected_price_currency=rub&expected_price=35943",
+        "origin_airport": "IWA",
+        "destination_airport": "IGT",
+        "departure_at": "2024-12-29T13:00:00+03:00",
+        "airline": "EO",
+        "price": 35943,
+        "return_transfers": 0,
+        "duration_to": 395,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ivanovo Yuzhny Airport",
+        "origin_city_code": "IWA",
+        "origin_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-30T11:15:00+03:00",
+        "origin": "IWA",
+        "destination": "IGT",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-24T15:07:19Z",
+        "trip_class": 0,
+        "value": 60579,
+        "number_of_changes": 2,
+        "duration": 2840,
+        "distance": 1541,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "983",
+        "link": "/search/IWA3012IGT1?t=DP17355573001735727700002840IWAKGDSVOIGT_21862e0bc9826e9211bc06e6d0a5a822_60932&search_date=24112024&expected_price_uuid=556968b6-7873-4a5f-acd3-9cb998e8af01&expected_price_source=share&expected_price_currency=rub&expected_price=60579",
+        "origin_airport": "IWA",
+        "destination_airport": "IGT",
+        "departure_at": "2024-12-30T11:15:00+03:00",
+        "airline": "N4",
+        "price": 60579,
+        "return_transfers": 0,
+        "duration_to": 530,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Ivanovo Yuzhny Airport",
+        "origin_city_code": "IWA",
+        "origin_coordinates": {
+            "lat": 56.942955,
+            "lon": 40.944546
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Magas Airport",
+        "destination_city_code": "IGT",
+        "destination_coordinates": {
+            "lat": 43.31778,
+            "lon": 45.001667
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

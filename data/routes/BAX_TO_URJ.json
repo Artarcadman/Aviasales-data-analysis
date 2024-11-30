@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-23T06:40:00+07:00",
+        "origin": "BAX",
+        "destination": "URJ",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T01:48:37Z",
+        "trip_class": 0,
+        "value": 8869,
+        "number_of_changes": 1,
+        "duration": 2095,
+        "distance": 1358,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "1076",
+        "link": "/search/BAX2312URJ1?t=WZ17349360001735054500002095BAXSVXURJ_21bffcde2d597a433af0efde57d3e68c_8869&search_date=23112024&expected_price_uuid=d50f8eab-545f-40ce-beef-4c2c25bfcd7f&expected_price_source=share&expected_price_currency=rub&expected_price=8869",
+        "origin_airport": "BAX",
+        "destination_airport": "URJ",
+        "departure_at": "2024-12-23T06:40:00+07:00",
+        "airline": "WZ",
+        "price": 8869,
+        "return_transfers": 0,
+        "duration_to": 255,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Barnaul Airport",
+        "origin_city_code": "BAX",
+        "origin_coordinates": {
+            "lat": 53.361088,
+            "lon": 83.547646
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Uraj Airport",
+        "destination_city_code": "URJ",
+        "destination_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "depart_date": "2024-11-28T12:45:00+07:00",
+        "origin": "BAX",
+        "destination": "URJ",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-20T06:22:28Z",
+        "trip_class": 0,
+        "value": 15204,
+        "number_of_changes": 3,
+        "duration": 2900,
+        "distance": 1358,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "5326",
+        "link": "/search/BAX2811URJ1?t=S717327979001732964700002900BAXOVBSGCHMAURJ_2c8beae30aedcf09cf72e5024b682829_15072&search_date=20112024&expected_price_uuid=988a7db2-823e-4ad9-94ee-151ec2617700&expected_price_source=share&expected_price_currency=rub&expected_price=15204",
+        "origin_airport": "BAX",
+        "destination_airport": "URJ",
+        "departure_at": "2024-11-28T12:45:00+07:00",
+        "airline": "S7",
+        "price": 15204,
+        "return_transfers": 0,
+        "duration_to": 265,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Barnaul Airport",
+        "origin_city_code": "BAX",
+        "origin_coordinates": {
+            "lat": 53.361088,
+            "lon": 83.547646
+        },
+        "origin_time_zone": "Asia/Novokuznetsk",
+        "destination_airport_name": "Uraj Airport",
+        "destination_city_code": "URJ",
+        "destination_coordinates": {
+            "lat": 60.11667,
+            "lon": 64.833336
+        },
+        "destination_time_zone": "Asia/Yekaterinburg"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "depart_date": "2024-11-19T21:05:00+07:00",
+        "origin": "TGP",
+        "destination": "KJA",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-19T08:39:32Z",
+        "trip_class": 0,
+        "value": 11102,
+        "number_of_changes": 0,
+        "duration": null,
+        "distance": 619,
+        "show_to_affiliates": true,
+        "actual": true,
+        "price": 11102,
+        "flight_number": null,
+        "link": null,
+        "transfers": null,
+        "origin_airport_name": "Podkamennaya Tunguska Airport",
+        "origin_city_code": "TGP",
+        "origin_coordinates": {
+            "lat": 61.59,
+            "lon": 89.97945
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    },
+    {
+        "depart_date": "2024-12-26T19:55:00+07:00",
+        "origin": "TGP",
+        "destination": "KJA",
+        "gate": "Авиасейлс",
+        "return_date": "",
+        "found_at": "2024-11-25T12:38:27Z",
+        "trip_class": 0,
+        "value": 11117,
+        "number_of_changes": 0,
+        "duration": 120,
+        "distance": 619,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "172",
+        "link": "/search/TGP2612KCY1?t=KV17352429001735250100000120TGPKCY_4dc4fd0b39dc20b733f9bf109876fc08_11118&search_date=25112024&expected_price_uuid=2db17b63-7b81-4e62-a629-8bce95376500&expected_price_source=share&expected_price_currency=rub&expected_price=11117",
+        "origin_airport": "TGP",
+        "destination_airport": "KCY",
+        "departure_at": "2024-12-26T19:55:00+07:00",
+        "airline": "KV",
+        "price": 11117,
+        "return_transfers": 0,
+        "duration_to": 120,
+        "duration_back": 0,
+        "transfers": 0,
+        "origin_airport_name": "Podkamennaya Tunguska Airport",
+        "origin_city_code": "TGP",
+        "origin_coordinates": {
+            "lat": 61.59,
+            "lon": 89.97945
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Cheremshanka",
+        "destination_city_code": "KJA",
+        "destination_coordinates": {
+            "lat": 56.176666,
+            "lon": 92.543335
+        },
+        "destination_time_zone": "Asia/Krasnoyarsk"
+    }
+]

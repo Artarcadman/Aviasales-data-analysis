@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-12-06T21:30:00+03:00",
+        "origin": "UUA",
+        "destination": "ASF",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T14:43:59Z",
+        "trip_class": 0,
+        "value": 16076,
+        "number_of_changes": 2,
+        "duration": 3620,
+        "distance": 986,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "331",
+        "link": "/search/UUA0612ASF1?t=A417335206001733741400003620UUANJCMRVASF_1a60e28fb843b84e756256b99c22e520_15879&search_date=22112024&expected_price_uuid=5c522a65-5228-45f2-9c10-f86aadc10800&expected_price_source=share&expected_price_currency=rub&expected_price=16076",
+        "origin_airport": "UUA",
+        "destination_airport": "ASF",
+        "departure_at": "2024-12-06T21:30:00+03:00",
+        "airline": "RT",
+        "price": 16076,
+        "return_transfers": 0,
+        "duration_to": 530,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Bugulma Airport",
+        "origin_city_code": "UUA",
+        "origin_coordinates": {
+            "lat": 54.61667,
+            "lon": 52.816666
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Astrakhan Airport",
+        "destination_city_code": "ASF",
+        "destination_coordinates": {
+            "lat": 46.2877,
+            "lon": 47.999977
+        },
+        "destination_time_zone": "Europe/Samara"
+    }
+]

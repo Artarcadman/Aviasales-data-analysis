@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2025-01-24T12:00:00+07:00",
+        "origin": "BGS",
+        "destination": "VVO",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-24T08:07:37Z",
+        "trip_class": 0,
+        "value": 19526,
+        "number_of_changes": 1,
+        "duration": 1715,
+        "distance": 2898,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "188",
+        "link": "/search/BGS2401VVO1?t=SU17377200001737833700001715BGSKJAVVO_b6cae0c97300569e024ebfe270c0024d_19640&search_date=24112024&expected_price_uuid=c890e67f-6625-484b-9e8a-4fba5843938f&expected_price_source=share&expected_price_currency=rub&expected_price=19526",
+        "origin_airport": "BGS",
+        "destination_airport": "VVO",
+        "departure_at": "2025-01-24T12:00:00+07:00",
+        "airline": "KV",
+        "price": 19526,
+        "return_transfers": 0,
+        "duration_to": 385,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Boguchany",
+        "origin_city_code": "BGS",
+        "origin_coordinates": {
+            "lat": 58.380554,
+            "lon": 97.47278
+        },
+        "origin_time_zone": "Asia/Krasnoyarsk",
+        "destination_airport_name": "Vladivostok International Airport",
+        "destination_city_code": "VVO",
+        "destination_coordinates": {
+            "lat": 43.378574,
+            "lon": 132.14075
+        },
+        "destination_time_zone": "Asia/Vladivostok"
+    }
+]

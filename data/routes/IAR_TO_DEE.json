@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T10:20:00+03:00",
+        "origin": "IAR",
+        "destination": "DEE",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T14:34:57Z",
+        "trip_class": 0,
+        "value": 37824,
+        "number_of_changes": 3,
+        "duration": 2580,
+        "distance": 6808,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "706",
+        "link": "/search/IAR2611DEE1?t=SU17326164001732800000002580IARLEDSVOUUSDEE_c9fc90544717c97366517b2c77a58070_37853&search_date=25112024&expected_price_uuid=7dbf9165-0dea-4075-bada-375387dc9c03&expected_price_source=share&expected_price_currency=rub&expected_price=37824",
+        "origin_airport": "IAR",
+        "destination_airport": "DEE",
+        "departure_at": "2024-11-26T10:20:00+03:00",
+        "airline": "WZ",
+        "price": 37824,
+        "return_transfers": 0,
+        "duration_to": 765,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Tunoshna Airport",
+        "origin_city_code": "IAR",
+        "origin_coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Mendeleyevo Airport",
+        "destination_city_code": "DEE",
+        "destination_coordinates": {
+            "lat": 43.9584,
+            "lon": 145.683
+        },
+        "destination_time_zone": "Asia/Sakhalin"
+    }
+]

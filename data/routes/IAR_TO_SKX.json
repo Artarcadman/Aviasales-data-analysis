@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-12-23T20:10:00+03:00",
+        "origin": "IAR",
+        "destination": "SKX",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T05:49:07Z",
+        "trip_class": 0,
+        "value": 11927,
+        "number_of_changes": 1,
+        "duration": 385,
+        "distance": 505,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "250",
+        "link": "/search/IAR2312SKX1?t=A417349846001735007700000385IARLEDSKX_0d753a5798a1ee7f0ebe5bcdf0a29a81_11927&search_date=23112024&expected_price_uuid=3c7eb4de-5181-40ba-ab84-f31b8b7e0ba9&expected_price_source=share&expected_price_currency=rub&expected_price=11927",
+        "origin_airport": "IAR",
+        "destination_airport": "SKX",
+        "departure_at": "2024-12-23T20:10:00+03:00",
+        "airline": "7R",
+        "price": 11927,
+        "return_transfers": 0,
+        "duration_to": 210,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tunoshna Airport",
+        "origin_city_code": "IAR",
+        "origin_coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-11-28T18:50:00+03:00",
+        "origin": "IAR",
+        "destination": "SKX",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T19:42:02Z",
+        "trip_class": 0,
+        "value": 17207,
+        "number_of_changes": 2,
+        "duration": 4080,
+        "distance": 505,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6208",
+        "link": "/search/IAR2811SKX1?t=DP17328198001733064600004080IARKUFAERSKX_f599fde6d9a93a4a1e6e78b3af5c3661_17208&search_date=25112024&expected_price_uuid=f427645c-dcd5-471f-a7d7-fc0435954001&expected_price_source=share&expected_price_currency=rub&expected_price=17207",
+        "origin_airport": "IAR",
+        "destination_airport": "SKX",
+        "departure_at": "2024-11-28T18:50:00+03:00",
+        "airline": "A4",
+        "price": 17207,
+        "return_transfers": 0,
+        "duration_to": 470,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Tunoshna Airport",
+        "origin_city_code": "IAR",
+        "origin_coordinates": {
+            "lat": 57.61667,
+            "lon": 39.88333
+        },
+        "origin_time_zone": "Europe/Moscow",
+        "destination_airport_name": "Saransk Airport",
+        "destination_city_code": "SKX",
+        "destination_coordinates": {
+            "lat": 54.166668,
+            "lon": 45.166668
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

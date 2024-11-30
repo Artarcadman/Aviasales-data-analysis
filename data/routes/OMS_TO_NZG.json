@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2024-11-28T16:25:00+06:00",
+        "origin": "OMS",
+        "destination": "NZG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-25T13:58:02Z",
+        "trip_class": 0,
+        "value": 24438,
+        "number_of_changes": 3,
+        "duration": 4025,
+        "distance": 2267,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "306",
+        "link": "/search/OMS2811NZG1?t=KV17328111001733059800004025OMSHMASGCKJANZG_a5090d14028d33391405b1e06c702891_24384&search_date=25112024&expected_price_uuid=ba2e6b41-2692-4860-85d5-346ff5c33601&expected_price_source=share&expected_price_currency=rub&expected_price=24438",
+        "origin_airport": "OMS",
+        "destination_airport": "NZG",
+        "departure_at": "2024-11-28T16:25:00+06:00",
+        "airline": "UT",
+        "price": 24438,
+        "return_transfers": 0,
+        "duration_to": 480,
+        "duration_back": 0,
+        "transfers": 3,
+        "origin_airport_name": "Omsk Airport",
+        "origin_city_code": "OMS",
+        "origin_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "origin_time_zone": "Asia/Omsk",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    },
+    {
+        "depart_date": "2024-11-27T07:05:00+06:00",
+        "origin": "OMS",
+        "destination": "NZG",
+        "gate": "Kupi.com",
+        "return_date": "",
+        "found_at": "2024-11-22T09:08:42Z",
+        "trip_class": 0,
+        "value": 35956,
+        "number_of_changes": 2,
+        "duration": 1740,
+        "distance": 2267,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "6522",
+        "link": "/search/OMS2711NZG1?t=DP17326911001732802700001740OMSSVOIKTNZG_c7cf7267f4c42c850ca8ac027971b112_34919&search_date=22112024&expected_price_uuid=505d3108-6d49-4af2-90bc-809376a86501&expected_price_source=share&expected_price_currency=rub&expected_price=35956",
+        "origin_airport": "OMS",
+        "destination_airport": "NZG",
+        "departure_at": "2024-11-27T07:05:00+06:00",
+        "airline": "DP",
+        "price": 35956,
+        "return_transfers": 0,
+        "duration_to": 655,
+        "duration_back": 0,
+        "transfers": 2,
+        "origin_airport_name": "Omsk Airport",
+        "origin_city_code": "OMS",
+        "origin_coordinates": {
+            "lat": 54.957455,
+            "lon": 73.3167
+        },
+        "origin_time_zone": "Asia/Omsk",
+        "destination_airport_name": "Nizhneangarsk",
+        "destination_city_code": "NZG",
+        "destination_coordinates": {
+            "lat": 55.80111,
+            "lon": 109.59389
+        },
+        "destination_time_zone": "Asia/Irkutsk"
+    }
+]

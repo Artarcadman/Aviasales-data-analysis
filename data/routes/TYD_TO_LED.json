@@ -1,0 +1,82 @@
+[
+    {
+        "depart_date": "2025-02-12T11:35:00+09:00",
+        "origin": "TYD",
+        "destination": "LED",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T13:57:40Z",
+        "trip_class": 0,
+        "value": 33610,
+        "number_of_changes": 1,
+        "duration": 1890,
+        "distance": 5170,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4612",
+        "link": "/search/TYD1202LED1?t=U617393601001739451900001890TYDKHVLED_ef8877d3ac9687d2dbb342fb377c26a1_33536&search_date=25112024&expected_price_uuid=419c0ed5-dba6-4a59-bb53-a7a59d8011d7&expected_price_source=share&expected_price_currency=rub&expected_price=33610",
+        "origin_airport": "TYD",
+        "destination_airport": "LED",
+        "departure_at": "2025-02-12T11:35:00+09:00",
+        "airline": "HZ",
+        "price": 33610,
+        "return_transfers": 0,
+        "duration_to": 965,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tynda Airport",
+        "origin_city_code": "TYD",
+        "origin_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Pulkovo Airport",
+        "destination_city_code": "LED",
+        "destination_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "destination_time_zone": "Europe/Moscow"
+    },
+    {
+        "depart_date": "2024-12-04T11:35:00+09:00",
+        "origin": "TYD",
+        "destination": "LED",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-25T15:03:37Z",
+        "trip_class": 0,
+        "value": 41536,
+        "number_of_changes": 1,
+        "duration": 1890,
+        "distance": 5170,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "4612",
+        "link": "/search/TYD0412LED1?t=U617333121001733403900001890TYDKHVLED_399793e333b3d3f747d0a777337872ad_41536&search_date=25112024&expected_price_uuid=5a5a76ba-7bab-4f7f-a087-516ce189006a&expected_price_source=share&expected_price_currency=rub&expected_price=41536",
+        "origin_airport": "TYD",
+        "destination_airport": "LED",
+        "departure_at": "2024-12-04T11:35:00+09:00",
+        "airline": "HZ",
+        "price": 41536,
+        "return_transfers": 0,
+        "duration_to": 965,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Tynda Airport",
+        "origin_city_code": "TYD",
+        "origin_coordinates": {
+            "lat": 55.283333,
+            "lon": 124.73333
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Pulkovo Airport",
+        "destination_city_code": "LED",
+        "destination_coordinates": {
+            "lat": 59.806084,
+            "lon": 30.3083
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]

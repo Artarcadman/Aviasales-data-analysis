@@ -1,0 +1,42 @@
+[
+    {
+        "depart_date": "2024-11-26T12:40:00+09:00",
+        "origin": "YKS",
+        "destination": "KLF",
+        "gate": "",
+        "return_date": "",
+        "found_at": "2024-11-23T20:12:34Z",
+        "trip_class": 0,
+        "value": 53622,
+        "number_of_changes": 1,
+        "duration": 1545,
+        "distance": 5033,
+        "show_to_affiliates": true,
+        "actual": true,
+        "flight_number": "487",
+        "link": "/search/YKS2611KLF1?t=R317326248001732695900001545YKSLEDKLF_804340cffa1b9b4fbf2befd58396103c_53622&search_date=23112024&expected_price_uuid=47244cce-3573-4325-b502-d3d3734e7354&expected_price_source=share&expected_price_currency=rub&expected_price=53622",
+        "origin_airport": "YKS",
+        "destination_airport": "KLF",
+        "departure_at": "2024-11-26T12:40:00+09:00",
+        "airline": "R3",
+        "price": 53622,
+        "return_transfers": 0,
+        "duration_to": 510,
+        "duration_back": 0,
+        "transfers": 1,
+        "origin_airport_name": "Yakutsk Airport",
+        "origin_city_code": "YKS",
+        "origin_coordinates": {
+            "lat": 62.085606,
+            "lon": 129.75006
+        },
+        "origin_time_zone": "Asia/Yakutsk",
+        "destination_airport_name": "Grabtsevo Airport",
+        "destination_city_code": "KLF",
+        "destination_coordinates": {
+            "lat": 54.546665,
+            "lon": 36.36889
+        },
+        "destination_time_zone": "Europe/Moscow"
+    }
+]
