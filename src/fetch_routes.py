@@ -1,7 +1,6 @@
 import os
 import json
 
-# Укажите папку с JSON-файлами
 input_folder = "data/raw/russian_airports.json"
 output_file = "data\processed/all_routes_combined.json"
 log_file = "data\logs\progress_fetch.log"
@@ -19,9 +18,7 @@ total_files = len(files)
 
 print(f"Найдено файлов для обработки: {total_files}")
 
-# Открываем итоговый файл для потоковой записи
 with open(output_file, "a", encoding="utf-8") as output:
-    # Если файл пустой, начнем с открытия массива
     if os.stat(output_file).st_size == 0:
         output.write("[")
         first_record = True
@@ -41,7 +38,7 @@ with open(output_file, "a", encoding="utf-8") as output:
                 if isinstance(data, list):  # Проверяем, что файл содержит список
                     for record in data:
                         if not first_record:
-                            output.write(",")  # Добавляем запятую перед новой записью
+                            output.write(",") 
                         json.dump(record, output, ensure_ascii=False)
                         first_record = False
 
