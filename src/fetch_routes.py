@@ -1,62 +1,64 @@
 import os
 import json
+from tqdm import tqdm  # Для прогресс-бара (опционально)
 
-# Укажите папку с JSON-файлами
-input_folder = "data/raw/russian_airports.json"
-output_file = "data\processed/all_routes_combined.json"
-log_file = "data\logs\progress_fetch.log"
+# Конфигурация
+input_folder = "D:\DataScience\data/routes_archive/filtered_routes"
+output_file = "D:\DataScience\data/processed/all_routes_filtered/all_routrs_filtered.jsonl"
+log_file = "D:\DataScience\data\logs\log_file_combine_routes"
 
-# Проверка существования лог-файла
-if os.path.exists(log_file):
-    with open(log_file, "r", encoding="utf-8") as log:
-        processed_files = set(log.read().splitlines())
-else:
-    processed_files = set()
+# Создаем папки, если их нет
+os.makedirs(os.path.dirname(output_file), exist_ok=True)
+os.makedirs(os.path.dirname(log_file), exist_ok=True)
 
-# Сбор всех файлов в папке
+# Сбор списка файлов
 files = [f for f in os.listdir(input_folder) if f.endswith(".json")]
 total_files = len(files)
 
-print(f"Найдено файлов для обработки: {total_files}")
+# Логирование в файл и терминал
+def log(message, to_console=True):
+    with open(log_file, "a", encoding="utf-8") as log:
+        log.write(message + "\n")
+    if to_console:
+        print(message)
 
-# Открываем итоговый файл для потоковой записи
-with open(output_file, "a", encoding="utf-8") as output:
-    # Если файл пустой, начнем с открытия массива
-    if os.stat(output_file).st_size == 0:
-        output.write("[")
-        first_record = True
-    else:
-        first_record = False
+# Подсчет общего числа маршрутов
+total_routes = 0
+for file in files:
+    with open(os.path.join(input_folder, file), "r", encoding="utf-8") as f:
+        total_routes += sum(1 for _ in f)
 
-    # Обработка файлов
-    for index, file_name in enumerate(files, start=1):
-        if file_name in processed_files:
-            print(f"Файл {file_name} уже обработан, пропускаем.")
-            continue
+# Инициализация счетчиков
+processed_routes = 0
+remaining_routes = total_routes
 
-        file_path = os.path.join(input_folder, file_name)
+# Обработка данных
+with open(output_file, "w", encoding="utf-8") as out:
+    for file in tqdm(files, desc="Обработка файлов"):
+        file_path = os.path.join(input_folder, file)
         try:
-            with open(file_path, "r", encoding="utf-8") as file:
-                data = json.load(file)
-                if isinstance(data, list):  # Проверяем, что файл содержит список
-                    for record in data:
-                        if not first_record:
-                            output.write(",")  # Добавляем запятую перед новой записью
-                        json.dump(record, output, ensure_ascii=False)
-                        first_record = False
+            with open(file_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    # Проверка валидности JSON
+                    try:
+                        record = json.loads(line.strip())
+                    except json.JSONDecodeError:
+                        log(f"Ошибка в файле {file}: некорректный JSON", to_console=False)
+                        continue
 
-            # Логирование обработанного файла
-            with open(log_file, "a", encoding="utf-8") as log:
-                log.write(file_name + "\n")
+                    # Запись в итоговый файл
+                    out.write(line)
+                    processed_routes += 1
+                    remaining_routes -= 1
 
-            print(f"[{index}/{total_files}] Файл: {file_name} успешно обработан.")
-        except json.JSONDecodeError as e:
-            print(f"Ошибка чтения файла {file_name}: {e}")
+                    # Логирование
+                    if processed_routes % 100 == 0:
+                        log(f"Маршрут {processed_routes} занесен в общий файл")
+                        log(f"Всего обработано записей: {processed_routes}")
+                        log(f"Осталось внести в файл: {remaining_routes}")
+
         except Exception as e:
-            print(f"Неожиданная ошибка при обработке файла {file_name}: {e}")
+            log(f"Ошибка при обработке {file}: {str(e)}", to_console=False)
 
-    # Завершаем JSON-массив
-    if index == total_files:
-        output.write("]")
-
-print(f"Объединение данных завершено. Итоговый файл: {output_file}")
+# Финальный вывод
+log(f"Готово! Обработано маршрутов: {processed_routes}")

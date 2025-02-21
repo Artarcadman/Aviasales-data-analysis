@@ -8,8 +8,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 # === Настройки ===
 AIRPORTS_FILE = "data/raw/russian_airports.json"  # Файл с аэропортами
 BASE_URL = "https://www.aviasales.ru/search"
-START_DATE = "2025-01-01"  # Начальная дата
-END_DATE = "2025-12-31"    # Конечная дата
+START_DATE = "2024-12-01"  # Начальная дата
+END_DATE = "2025-11-01"    # Конечная дата
 LOG_FILE = "data/logs/cache_refresh.log"
 
 # === Логирование ===

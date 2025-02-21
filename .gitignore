@@ -13,9 +13,6 @@ data/processed/
 .venv/
 env/
 
-# Исключаем конфиденциальные данные
-API_TOKEN
-
 
 # Исключаем большой файл. Он будет в облаке
 data/all_routes_combined.json
