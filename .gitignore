@@ -2,10 +2,6 @@
 __pycache__/
 *.pyc
 
-# Исключаем папки данных
-data/raw/
-data/processed/
-
 # Исключаем лог-файлы
 *.log
 
