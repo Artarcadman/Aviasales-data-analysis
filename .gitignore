@@ -12,3 +12,4 @@ env/
 
 # Исключаем большой файл. Он будет в облаке
 data/all_routes_combined.json
+data/processed/all_routes_filtered/all_routes_filtered.json
