@@ -2,16 +2,16 @@ import os
 import json
 from tqdm import tqdm  # Для прогресс-бара (опционально)
 
-<<<<<<< HEAD
+
 # Конфигурация
 input_folder = "D:\DataScience\data/routes_archive/filtered_routes"
 output_file = "D:\DataScience\data/processed/all_routes_filtered/all_routrs_filtered.jsonl"
 log_file = "D:\DataScience\data\logs\log_file_combine_routes"
-=======
+
 input_folder = "data/raw/russian_airports.json"
 output_file = "data\processed/all_routes_combined.json"
 log_file = "data\logs\progress_fetch.log"
->>>>>>> 4b23753a6c637fa08fe82fb141181f23d1dc05fc
+
 
 # Создаем папки, если их нет
 os.makedirs(os.path.dirname(output_file), exist_ok=True)
@@ -28,20 +28,20 @@ def log(message, to_console=True):
     if to_console:
         print(message)
 
-<<<<<<< HEAD
+
 # Подсчет общего числа маршрутов
 total_routes = 0
 for file in files:
     with open(os.path.join(input_folder, file), "r", encoding="utf-8") as f:
         total_routes += sum(1 for _ in f)
-=======
+
 with open(output_file, "a", encoding="utf-8") as output:
     if os.stat(output_file).st_size == 0:
         output.write("[")
         first_record = True
     else:
         first_record = False
->>>>>>> 4b23753a6c637fa08fe82fb141181f23d1dc05fc
+
 
 # Инициализация счетчиков
 processed_routes = 0
@@ -52,7 +52,7 @@ with open(output_file, "w", encoding="utf-8") as out:
     for file in tqdm(files, desc="Обработка файлов"):
         file_path = os.path.join(input_folder, file)
         try:
-<<<<<<< HEAD
+
             with open(file_path, "r", encoding="utf-8") as f:
                 for line in f:
                     # Проверка валидности JSON
@@ -61,7 +61,7 @@ with open(output_file, "w", encoding="utf-8") as out:
                     except json.JSONDecodeError:
                         log(f"Ошибка в файле {file}: некорректный JSON", to_console=False)
                         continue
-=======
+
             with open(file_path, "r", encoding="utf-8") as file:
                 data = json.load(file)
                 if isinstance(data, list):  # Проверяем, что файл содержит список
@@ -70,7 +70,7 @@ with open(output_file, "w", encoding="utf-8") as out:
                             output.write(",") 
                         json.dump(record, output, ensure_ascii=False)
                         first_record = False
->>>>>>> 4b23753a6c637fa08fe82fb141181f23d1dc05fc
+
 
                     # Запись в итоговый файл
                     out.write(line)
